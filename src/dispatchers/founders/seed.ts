@@ -5,6 +5,8 @@
 export type Founder = {
   name: string;
   handle?: string; // X handle, no @
+  github?: string; // GitHub user, no @
+  companyRepo?: string; // org/repo to watch for activity
   company: string;
   companyUrl: string;
   yc?: string; // batch e.g. "W25"
@@ -16,6 +18,8 @@ export const founders: Founder[] = [
   {
     name: "Magnus Müller",
     handle: "mamagnus00",
+    github: "mamagnus00",
+    companyRepo: "browser-use/browser-use",
     company: "Browser Use",
     companyUrl: "https://browser-use.com",
     yc: "W25",
@@ -25,6 +29,8 @@ export const founders: Founder[] = [
   {
     name: "Gregor Žunič",
     handle: "gregpr07",
+    github: "gregpr07",
+    companyRepo: "browser-use/browser-use",
     company: "Browser Use",
     companyUrl: "https://browser-use.com",
     yc: "W25",
@@ -33,6 +39,8 @@ export const founders: Founder[] = [
   {
     name: "Soham Ganatra",
     handle: "SohamGanatra",
+    github: "sohamganatra",
+    companyRepo: "ComposioHQ/composio",
     company: "Composio",
     companyUrl: "https://composio.dev",
     product:
@@ -41,6 +49,8 @@ export const founders: Founder[] = [
   {
     name: "Karan Vaidya",
     handle: "karanvaidya6",
+    github: "karanvaidya6",
+    companyRepo: "ComposioHQ/composio",
     company: "Composio",
     companyUrl: "https://composio.dev",
     product: "Co-founder of Composio. Same product as above.",
@@ -57,6 +67,8 @@ export const founders: Founder[] = [
   {
     name: "Jason Liu",
     handle: "jxnlco",
+    github: "jxnl",
+    companyRepo: "567-labs/instructor",
     company: "instructor (OSS) + consultancy",
     companyUrl: "https://jxnl.co",
     product:
@@ -65,6 +77,8 @@ export const founders: Founder[] = [
   {
     name: "Harrison Chase",
     handle: "hwchase17",
+    github: "hwchase17",
+    companyRepo: "langchain-ai/langchain",
     company: "LangChain",
     companyUrl: "https://www.langchain.com",
     product: "LangChain / LangSmith / LangGraph. Agent + observability stack.",
@@ -72,6 +86,7 @@ export const founders: Founder[] = [
   {
     name: "Amjad Masad",
     handle: "amasad",
+    github: "amasad",
     company: "Replit",
     companyUrl: "https://replit.com",
     product: "Replit Agent + cloud dev environment.",

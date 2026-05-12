@@ -23,9 +23,11 @@ Runs entirely on free tiers.
 - `bun run founders:draft browser-use --artifact ./posts/foo.md` — drafts
   a Soham-pattern cold email per founder using the Anthropic API
   (`claude-sonnet-4-5`), falls back to a deterministic template if no key.
-- `bun run engagement` — twice-daily Telegram nudge with the latest tweets
-  from your Tier-2 founder list, fetched via Nitter RSS. Cron triggers
-  this at 7:30pm + 8:30am IST.
+- `bun run engagement` — twice-daily Telegram nudge with concrete
+  engagement targets from each founder's GitHub repo (latest issues / PRs
+  / releases in the last 24h) plus a static X profile-sweep block. Cron
+  triggers this at 7:30pm + 8:30am IST. Replying to a real PR with a
+  technical observation > replying to a tweet with "great post!".
 
 ## Quickstart
 
@@ -68,7 +70,6 @@ Tier-2 founder list — name, X handle, company, product blurb. Used by
 | `DEV_TO_API_KEY` | `bun run post` cross-post | Optional. Draft if unset. |
 | `HASHNODE_TOKEN` + `HASHNODE_PUBLICATION_ID` | `bun run post` cross-post | Optional. |
 | `TELEGRAM_BOT_TOKEN` + `TELEGRAM_CHAT_ID` | `bun run engagement`, scan-level pushes | Optional. |
-| `NITTER_BASE` (Actions `vars`) | `bun run engagement` | Pin to a live Nitter mirror — defaults to `nitter.privacydev.net`. |
 | `PORTFOLIO_OWNER` / `PORTFOLIO_REPO` / `PORTFOLIO_BLOG_DIR` / `PORTFOLIO_BRANCH` | `bun run post` | Defaults match Begarudev/portfolio. |
 
 ## Workflows
