@@ -9,17 +9,21 @@ import { loggers } from "../shared/logger.ts";
 // Detection is keyword-based: any post whose title or first-200 chars
 // contain one of the EVENT_PATTERNS is surfaced.
 
+// Live-checked 2026-05. If you add new feeds, verify with:
+//   curl -sI <url> | head -1   →   expect HTTP/2 200
+//   curl -s <url> | head -c 200 →  expect "<?xml" or "<feed"
+// Skip Anthropic — they don't publish a public RSS feed in 2026.
 const FEEDS: Array<{ source: string; url: string; company: string }> = [
-  { source: "vercel-blog", url: "https://vercel.com/blog/feed.xml", company: "Vercel" },
-  { source: "supabase-blog", url: "https://supabase.com/blog/rss.xml", company: "Supabase" },
+  { source: "vercel-blog", url: "https://vercel.com/atom", company: "Vercel" },
+  { source: "supabase-blog", url: "https://supabase.com/rss.xml", company: "Supabase" },
   { source: "huggingface-blog", url: "https://huggingface.co/blog/feed.xml", company: "Hugging Face" },
   { source: "cloudflare-blog", url: "https://blog.cloudflare.com/rss/", company: "Cloudflare" },
   { source: "github-blog", url: "https://github.blog/feed/", company: "GitHub" },
   { source: "replicate-blog", url: "https://replicate.com/blog/rss", company: "Replicate" },
-  { source: "langchain-blog", url: "https://blog.langchain.com/rss/", company: "LangChain" },
-  { source: "modal-blog", url: "https://modal.com/blog/feed.xml", company: "Modal" },
-  { source: "anthropic-blog", url: "https://www.anthropic.com/news/rss.xml", company: "Anthropic" },
+  { source: "modal-blog", url: "https://modal.com/blog/atom.xml", company: "Modal" },
   { source: "openai-blog", url: "https://openai.com/news/rss.xml", company: "OpenAI" },
+  { source: "posthog-blog", url: "https://posthog.com/rss.xml", company: "PostHog" },
+  { source: "runpod-blog", url: "https://www.runpod.io/blog/rss.xml", company: "RunPod" },
 ];
 
 const EVENT_PATTERNS: Array<{ re: RegExp; kind: BuilderEvent["kind"] }> = [
@@ -38,10 +42,15 @@ const EVENT_PATTERNS: Array<{ re: RegExp; kind: BuilderEvent["kind"] }> = [
 
 // Anti-patterns — drop recap/old/marketing posts even if a kind matched.
 const ANTI_PATTERNS: RegExp[] = [
+  // "X from Y" — recap-from / results-from etc.
   /\b(report|recap|wrap[- ]?up|follow[- ]?up|results?|winners?)\s+from\b/i,
+  // Standalone "recap" or "in review" anywhere in the title.
+  /\brecap\b/i,
+  /\bin\s+review\b/i,
   /\bfinal projects?\b/i,
   /\buses?\s+ai\s+to\b/i, // "Figma uses AI to..."
   /\b(scholars?|fellows?)\s+\d{4}\b/i, // "OpenAI Scholars 2019"
+  /\b(announcing|introducing)\s+the\s+winners?\b/i,
 ];
 
 // Skip events older than this many days.
