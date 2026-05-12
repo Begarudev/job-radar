@@ -5,6 +5,11 @@ on:
     - cron: "0 */4 * * *" # every 4 hours
   workflow_dispatch:
 
+# Serialize against other workflows that write to data/.
+concurrency:
+  group: data-write
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -33,8 +38,18 @@ jobs:
           git config user.email "job-radar-bot@users.noreply.github.com"
           if git diff --quiet data/feed.json; then
             echo "no change"
-          else
-            git add data/feed.json
-            git commit -m "feed: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+          git add data/feed.json
+          git commit -m "feed: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          # Defence in depth: rebase on top of any newer commits, retry once.
+          for attempt in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push; then
+              echo "pushed on attempt $attempt"
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+          echo "push failed after retries"
+          exit 1
