@@ -28,6 +28,13 @@ Runs entirely on free tiers.
   / releases in the last 24h) plus a static X profile-sweep block. Cron
   triggers this at 7:30pm + 8:30am IST. Replying to a real PR with a
   technical observation > replying to a tweet with "great post!".
+- `bun run events` — daily builder-event radar. Polls 10 company-blog
+  RSS feeds (Vercel, Supabase, Modal, Hugging Face, OpenAI, Anthropic,
+  Cloudflare, GitHub, Replicate, LangChain) and the Devpost ML-hackathon
+  API for hackathons / launch weeks / bug bounty programs / build
+  challenges. Filters out posts older than 90 days plus recap/results
+  noise. Pushes only *new* items to Telegram. Catches Bloomathon-class
+  posts that would otherwise leak through LinkedIn only.
 
 ## Quickstart
 
@@ -78,7 +85,8 @@ Tier-2 founder list — name, X handle, company, product blurb. Used by
 |---|---|---|
 | `scan.yml` | every 4 h | scrape → score → commit `data/feed.json` |
 | `now.yml` | daily 06:00 UTC | GitHub events → commit `data/now.json` |
-| `engagement.yml` | 03:00 + 14:00 UTC (~8:30am + 7:30pm IST) | Telegram nudge with Tier-2 tweet links |
+| `engagement.yml` | 03:00 + 14:00 UTC (~8:30am + 7:30pm IST) | Telegram nudge with founder-repo signals |
+| `events.yml` | daily 06:30 UTC | RSS feeds → commit `data/events.json` + push new to Telegram |
 
 All commit-back workflows share `concurrency: data-write` so they can't
 race on push, with a `pull-rebase` retry loop as defence in depth.

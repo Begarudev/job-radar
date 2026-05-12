@@ -11,6 +11,7 @@
     "post": "bun run src/dispatchers/publish.ts",
     "founders:draft": "bun run src/dispatchers/founders/draft.ts",
     "engagement": "bun run src/dispatchers/engagement.ts",
+    "events": "bun run src/dispatchers/events.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

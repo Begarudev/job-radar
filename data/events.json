@@ -1,0 +1,30 @@
+{
+  "updatedAt": "2026-05-12T07:53:37.100Z",
+  "count": 2,
+  "events": [
+    {
+      "id": "openai-blog:https://openai.com/index/safety-bug-bounty",
+      "source": "openai-blog",
+      "kind": "bounty",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
+      "url": "https://openai.com/index/safety-bug-bounty",
+      "publishedAt": "Wed, 25 Mar 2026 00:00:00 GMT",
+      "fetchedAt": "2026-05-12T07:53:28.409Z",
+      "company": "OpenAI",
+      "tags": []
+    },
+    {
+      "id": "openai-blog:https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "source": "openai-blog",
+      "kind": "bounty",
+      "title": "GPT-5.5 Bio Bug Bounty",
+      "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+      "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+      "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
+      "fetchedAt": "2026-05-12T07:53:28.409Z",
+      "company": "OpenAI",
+      "tags": []
+    }
+  ]
+}
