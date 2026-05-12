@@ -1,0 +1,32 @@
+name: engagement
+
+on:
+  schedule:
+    # 7:30pm IST (PT-morning peak) = 14:00 UTC
+    - cron: "0 14 * * *"
+    # 8:30am IST (PT-evening peak) = 03:00 UTC
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  engagement:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install deps
+        run: bun install --frozen-lockfile
+
+      - name: Run engagement nudge
+        run: bun run engagement
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          NITTER_BASE: ${{ vars.NITTER_BASE }}

@@ -8,6 +8,9 @@
     "scan": "bun run src/cli.ts scan",
     "now": "bun run src/cli.ts now",
     "score": "bun run src/cli.ts score",
+    "post": "bun run src/dispatchers/publish.ts",
+    "founders:draft": "bun run src/dispatchers/founders/draft.ts",
+    "engagement": "bun run src/dispatchers/engagement.ts",
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {

@@ -1,0 +1,17 @@
+# Drop MDX/Markdown posts in this folder.
+# Each file should start with a frontmatter block:
+#
+# ---
+# title: "How I built X with Y"
+# slug: "how-i-built-x"          # optional, auto-derived from title
+# date: "2026-05-12"             # optional
+# excerpt: "One sentence preview shown on listings and social cards."
+# tags: ["rag", "retrieval", "llm"]
+# subtitle: "Optional subtitle for Hashnode etc"
+# ---
+#
+# (body goes here in markdown)
+#
+# Then run:  bun run post ./posts/how-i-built-x.md           # drafts only
+#            bun run post ./posts/how-i-built-x.md --live    # live on dev.to
+#            bun run post ./posts/how-i-built-x.md --dry-run # no network
