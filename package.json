@@ -1,0 +1,23 @@
+{
+  "name": "job-radar",
+  "version": "0.1.0",
+  "private": false,
+  "type": "module",
+  "description": "Self-running radar for YC-tier AI/dev internships. Bun + TypeScript + GitHub Actions. Free.",
+  "scripts": {
+    "scan": "bun run src/cli.ts scan",
+    "now": "bun run src/cli.ts now",
+    "score": "bun run src/cli.ts score",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "zod": "^4.4.3"
+  },
+  "engines": {
+    "bun": ">=1.3"
+  }
+}

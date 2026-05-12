@@ -1,0 +1,39 @@
+name: now
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # daily 06:00 UTC (~11:30 IST)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  now:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install deps
+        run: bun install --frozen-lockfile
+
+      - name: Refresh now.json
+        run: bun run now
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit if changed
+        run: |
+          git config user.name "job-radar-bot"
+          git config user.email "job-radar-bot@users.noreply.github.com"
+          if git diff --quiet data/now.json; then
+            echo "no change"
+          else
+            git add data/now.json
+            git commit -m "now: refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
