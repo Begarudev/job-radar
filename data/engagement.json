@@ -1,0 +1,138 @@
+{
+  "updatedAt": "2026-05-12T08:02:40.722Z",
+  "count": 12,
+  "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 4820,
+      "title": "[Partnership] Scoped integration collaboration",
+      "url": "https://github.com/browser-use/browser-use/issues/4820",
+      "author": "hieuchaydi",
+      "at": "2026-05-12T01:17:59Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 4819,
+      "title": "fix: restore token count display in verbose logs with safe fallback (#4150)",
+      "url": "https://github.com/browser-use/browser-use/pull/4819",
+      "author": "paulxg12",
+      "at": "2026-05-11T08:33:37Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3409,
+      "title": "docs(changelog): fix May 8 minimum @composio/core version (0.10.0 → 0.9.1)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3409",
+      "author": "zen-agent",
+      "at": "2026-05-12T07:54:24Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3408,
+      "title": "Recurring: CLI release `@composio/cli@0.2.29` shipped with no assets — install script 404s (regression of #2625)",
+      "url": "https://github.com/ComposioHQ/composio/issues/3408",
+      "author": "opencolin",
+      "at": "2026-05-12T07:29:19Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "release",
+      "number": 0,
+      "title": "@composio/core@0.9.1 released",
+      "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/core%400.9.1",
+      "author": "abir-taheer",
+      "at": "2026-05-11T23:13:34Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2303,
+      "title": "refactor(v2): complete migration cleanup and typing coverage",
+      "url": "https://github.com/567-labs/instructor/pull/2303",
+      "author": "jxnl-oai",
+      "at": "2026-05-11T07:12:47Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2298,
+      "title": "feat: support mistralai v2",
+      "url": "https://github.com/567-labs/instructor/pull/2298",
+      "author": "Ian321",
+      "at": "2026-05-05T16:45:23Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37358,
+      "title": "add method from_huggingface_tokenizer for RecursiveCharacterTextSplitter within HTMLSemanticPreservingSplitter",
+      "url": "https://github.com/langchain-ai/langchain/issues/37358",
+      "author": "hxxxer",
+      "at": "2026-05-12T06:33:10Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 93779,
+      "title": "output export fallbacks: resolve fallback artifacts from route manifests (17/21)",
+      "url": "https://github.com/vercel/next.js/pull/93779",
+      "author": "feedthejim",
+      "at": "2026-05-12T05:55:19Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 93778,
+      "title": "Wait for async page chunks before route-loader timeout in Turbopack",
+      "url": "https://github.com/vercel/next.js/pull/93778",
+      "author": "sokra",
+      "at": "2026-05-12T05:47:51Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 45814,
+      "title": "feat(studio): move CLI login to connect interstitial",
+      "url": "https://github.com/supabase/supabase/pull/45814",
+      "author": "dnywh",
+      "at": "2026-05-12T04:52:07Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 45813,
+      "title": "refine organisation invite state helpers",
+      "url": "https://github.com/supabase/supabase/pull/45813",
+      "author": "dnywh",
+      "at": "2026-05-12T04:16:26Z"
+    }
+  ]
+}

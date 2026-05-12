@@ -77,3 +77,28 @@ export const EventsFeedSchema = z.object({
 });
 
 export type EventsFeed = z.infer<typeof EventsFeedSchema>;
+
+// Engagement signals — concrete reply-targets surfaced from founder repos.
+// Persisted so the dashboard can show them outside the Telegram window.
+
+export const EngagementSignalSchema = z.object({
+  founder: z.string(),
+  company: z.string(),
+  repo: z.string(),
+  kind: z.enum(["pr", "issue", "release"]),
+  number: z.number(),
+  title: z.string(),
+  url: z.url(),
+  author: z.string(),
+  at: z.string(),
+});
+
+export type EngagementSignal = z.infer<typeof EngagementSignalSchema>;
+
+export const EngagementFeedSchema = z.object({
+  updatedAt: z.string(),
+  count: z.number(),
+  signals: z.array(EngagementSignalSchema),
+});
+
+export type EngagementFeed = z.infer<typeof EngagementFeedSchema>;

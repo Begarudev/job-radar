@@ -1,6 +1,11 @@
+import { writeFile, mkdir } from "node:fs/promises";
+import { dirname } from "node:path";
 import { env, require_ } from "../shared/env.ts";
 import { loggers } from "../shared/logger.ts";
+import { EngagementFeedSchema, type EngagementFeed } from "../shared/schemas.ts";
 import { founders, type Founder } from "./founders/seed.ts";
+
+const PERSIST_PATH = "data/engagement.json";
 
 // Twice-daily Telegram nudge listing concrete engagement targets from
 // founder ecosystems. Pulls recent activity (issues, PRs, commits) from
@@ -178,6 +183,17 @@ async function main() {
   loggers.scan.success(
     `${all.length} unique human-authored signals (${collected.length} raw)`,
   );
+
+  // Persist so the dashboard can render outside the Telegram window.
+  const feed: EngagementFeed = {
+    updatedAt: new Date().toISOString(),
+    count: all.length,
+    signals: all,
+  };
+  EngagementFeedSchema.parse(feed);
+  await mkdir(dirname(PERSIST_PATH), { recursive: true });
+  await writeFile(PERSIST_PATH, JSON.stringify(feed, null, 2) + "\n");
+  loggers.feed.success(`wrote ${PERSIST_PATH}`);
 
   const msg = format(all);
   if (env.telegramBotToken && env.telegramChatId) {
