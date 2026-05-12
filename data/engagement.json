@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T08:02:40.722Z",
+  "updatedAt": "2026-05-12T16:16:48.776Z",
   "count": 12,
   "signals": [
     {
@@ -7,44 +7,44 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4820,
-      "title": "[Partnership] Scoped integration collaboration",
-      "url": "https://github.com/browser-use/browser-use/issues/4820",
-      "author": "hieuchaydi",
-      "at": "2026-05-12T01:17:59Z"
+      "number": 4824,
+      "title": "Feature Request: Too strict dependency version pinning (`==`) causes dependency conflicts in complex projects",
+      "url": "https://github.com/browser-use/browser-use/issues/4824",
+      "author": "houying910523",
+      "at": "2026-05-12T14:17:52Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4819,
-      "title": "fix: restore token count display in verbose logs with safe fallback (#4150)",
-      "url": "https://github.com/browser-use/browser-use/pull/4819",
-      "author": "paulxg12",
-      "at": "2026-05-11T08:33:37Z"
+      "number": 4823,
+      "title": "fix(cli): cover tab management commands",
+      "url": "https://github.com/browser-use/browser-use/pull/4823",
+      "author": "frafra077",
+      "at": "2026-05-12T09:27:00Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3409,
-      "title": "docs(changelog): fix May 8 minimum @composio/core version (0.10.0 → 0.9.1)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3409",
-      "author": "zen-agent",
-      "at": "2026-05-12T07:54:24Z"
+      "number": 3412,
+      "title": "feat(connected-accounts-py): namespace SHARED-connection surface under experimental",
+      "url": "https://github.com/ComposioHQ/composio/pull/3412",
+      "author": "venkat82",
+      "at": "2026-05-12T15:13:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3408,
-      "title": "Recurring: CLI release `@composio/cli@0.2.29` shipped with no assets — install script 404s (regression of #2625)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3408",
-      "author": "opencolin",
-      "at": "2026-05-12T07:29:19Z"
+      "kind": "pr",
+      "number": 3411,
+      "title": "fix(install): resolve latest CLI release from assets",
+      "url": "https://github.com/ComposioHQ/composio/pull/3411",
+      "author": "CryogenicPlanet",
+      "at": "2026-05-12T09:23:12Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -52,21 +52,10 @@
       "repo": "ComposioHQ/composio",
       "kind": "release",
       "number": 0,
-      "title": "@composio/core@0.9.1 released",
-      "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/core%400.9.1",
+      "title": "@composio/cli@0.2.29 released",
+      "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/cli%400.2.29",
       "author": "abir-taheer",
-      "at": "2026-05-11T23:13:34Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2303,
-      "title": "refactor(v2): complete migration cleanup and typing coverage",
-      "url": "https://github.com/567-labs/instructor/pull/2303",
-      "author": "jxnl-oai",
-      "at": "2026-05-11T07:12:47Z"
+      "at": "2026-05-12T16:07:42Z"
     },
     {
       "founder": "Jason Liu",
@@ -78,6 +67,17 @@
       "url": "https://github.com/567-labs/instructor/pull/2298",
       "author": "Ian321",
       "at": "2026-05-05T16:45:23Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 37359,
+      "title": "perplexity[patch]: Add use_responses_api flag to ChatPerplexity",
+      "url": "https://github.com/langchain-ai/langchain/pull/37359",
+      "author": "jliounis",
+      "at": "2026-05-12T10:16:04Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,44 +95,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93779,
-      "title": "output export fallbacks: resolve fallback artifacts from route manifests (17/21)",
-      "url": "https://github.com/vercel/next.js/pull/93779",
-      "author": "feedthejim",
-      "at": "2026-05-12T05:55:19Z"
+      "number": 93795,
+      "title": "Fix flaky app-prefetch/prefetching.test.ts",
+      "url": "https://github.com/vercel/next.js/pull/93795",
+      "author": "timneutkens",
+      "at": "2026-05-12T14:58:39Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93778,
-      "title": "Wait for async page chunks before route-loader timeout in Turbopack",
-      "url": "https://github.com/vercel/next.js/pull/93778",
-      "author": "sokra",
-      "at": "2026-05-12T05:47:51Z"
+      "number": 93794,
+      "title": "ci: run Linux Playwright jobs in prebuilt Microsoft container",
+      "url": "https://github.com/vercel/next.js/pull/93794",
+      "author": "timneutkens",
+      "at": "2026-05-12T13:36:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45814,
-      "title": "feat(studio): move CLI login to connect interstitial",
-      "url": "https://github.com/supabase/supabase/pull/45814",
-      "author": "dnywh",
-      "at": "2026-05-12T04:52:07Z"
+      "number": 45837,
+      "title": "feat(storage): add keyboard shortcuts for storage screens",
+      "url": "https://github.com/supabase/supabase/pull/45837",
+      "author": "awaseem",
+      "at": "2026-05-12T15:58:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45813,
-      "title": "refine organisation invite state helpers",
-      "url": "https://github.com/supabase/supabase/pull/45813",
-      "author": "dnywh",
-      "at": "2026-05-12T04:16:26Z"
+      "number": 45836,
+      "title": "fix(www): mobile partner form blank panel on submit success",
+      "url": "https://github.com/supabase/supabase/pull/45836",
+      "author": "stylessh",
+      "at": "2026-05-12T15:56:10Z"
     }
   ]
 }
