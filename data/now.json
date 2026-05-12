@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-05-12T00:00:00.000Z",
-  "events": [],
+  "updatedAt": "2026-05-12T00:33:55.068Z",
+  "events": [
+    {
+      "type": "PushEvent",
+      "repo": "Begarudev/job-radar",
+      "summary": "pushed commits",
+      "at": "2026-05-12T00:33:37Z"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "Begarudev/job-radar",
+      "summary": "created repo",
+      "at": "2026-05-12T00:31:56Z"
+    }
+  ],
   "currently": [
-    "Bootstrapping job-radar"
+    "Building a public RAG benchmark (BM25 + ColBERT + RRF)",
+    "Porting the Go limit-order-book matching engine to C++",
+    "Open to YC AI / dev-tool internships, Summer 2026"
   ]
 }
