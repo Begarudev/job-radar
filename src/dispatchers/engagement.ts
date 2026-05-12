@@ -158,14 +158,26 @@ async function main() {
   const settled = await Promise.allSettled(
     founders.flatMap((f) => [fetchRepoSignals(f), fetchLatestRelease(f)]),
   );
-  const all: Signal[] = [];
+  const collected: Signal[] = [];
   for (const r of settled) {
     if (r.status !== "fulfilled") continue;
     const v = r.value;
-    if (Array.isArray(v)) all.push(...v);
-    else if (v) all.push(v);
+    if (Array.isArray(v)) collected.push(...v);
+    else if (v) collected.push(v);
   }
-  loggers.scan.success(`${all.length} signals collected`);
+  // Dedupe by URL, then drop bot authors — you can't have a useful
+  // conversation with github-actions[bot].
+  const seen = new Set<string>();
+  const all: Signal[] = [];
+  for (const s of collected) {
+    if (seen.has(s.url)) continue;
+    if (/\[bot\]$/i.test(s.author)) continue;
+    seen.add(s.url);
+    all.push(s);
+  }
+  loggers.scan.success(
+    `${all.length} unique human-authored signals (${collected.length} raw)`,
+  );
 
   const msg = format(all);
   if (env.telegramBotToken && env.telegramChatId) {
