@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-13T06:26:52.960Z",
-  "count": 10,
+  "updatedAt": "2026-05-13T16:15:52.687Z",
+  "count": 7,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -18,99 +18,66 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4825,
-      "title": "Protect browser-use from AI slop PRs",
-      "url": "https://github.com/browser-use/browser-use/issues/4825",
-      "author": "kimjune01",
-      "at": "2026-05-13T00:45:05Z"
+      "number": 4824,
+      "title": "Feature Request: Too strict dependency version pinning (`==`) causes dependency conflicts in complex projects",
+      "url": "https://github.com/browser-use/browser-use/issues/4824",
+      "author": "houying910523",
+      "at": "2026-05-12T14:17:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3419,
-      "title": "feat(cli): add enhanced permission cache gating",
-      "url": "https://github.com/ComposioHQ/composio/pull/3419",
-      "author": "CryogenicPlanet",
-      "at": "2026-05-13T04:14:54Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3418,
-      "title": "feat(cli): scaffold native UI sidecar",
-      "url": "https://github.com/ComposioHQ/composio/pull/3418",
-      "author": "CryogenicPlanet",
-      "at": "2026-05-13T03:26:02Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37370,
-      "title": "bug(ollama): `OllamaLLM._stream`/`_astream` write `self.stop` (list[str]) into `finish_reason`",
-      "url": "https://github.com/langchain-ai/langchain/issues/37370",
-      "author": "wachawo",
-      "at": "2026-05-13T02:01:42Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37369,
-      "title": "bug(langchain): glob_search returns files in arbitrary order despite docstring promising mtime-desc sort",
-      "url": "https://github.com/langchain-ai/langchain/issues/37369",
-      "author": "wachawo",
-      "at": "2026-05-13T01:47:04Z"
+      "number": 3425,
+      "title": "Release: update version",
+      "url": "https://github.com/ComposioHQ/composio/pull/3425",
+      "author": "abir-taheer",
+      "at": "2026-05-13T13:50:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93812,
-      "title": "fix: remove extra dot in codemod next-lint-to-eslint-cli",
-      "url": "https://github.com/vercel/next.js/pull/93812",
-      "author": "MD-Mushfiqur123",
-      "at": "2026-05-13T03:03:35Z"
+      "number": 93829,
+      "title": "Fix errors.json merge driver to handle gaps in error codes",
+      "url": "https://github.com/vercel/next.js/pull/93829",
+      "author": "sokra",
+      "at": "2026-05-13T15:34:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93811,
-      "title": "docs: less aggressive AI agent hint for an experimental API",
-      "url": "https://github.com/vercel/next.js/pull/93811",
-      "author": "gaojude",
-      "at": "2026-05-13T01:42:44Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 45865,
-      "title": "host_not_allowed error after new API key update",
-      "url": "https://github.com/supabase/supabase/issues/45865",
-      "author": "syeditrath",
-      "at": "2026-05-13T05:56:09Z"
+      "number": 93828,
+      "title": "fix: enforce sequential error codes in errors.json",
+      "url": "https://github.com/vercel/next.js/pull/93828",
+      "author": "lubieowoce",
+      "at": "2026-05-13T15:33:49Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45864,
-      "title": "Update project name if dashboard is local CLI",
-      "url": "https://github.com/supabase/supabase/pull/45864",
-      "author": "joshenlim",
-      "at": "2026-05-13T04:56:15Z"
+      "number": 45891,
+      "title": "fix(query-insights): aggregate logs into per-minute buckets for chart",
+      "url": "https://github.com/supabase/supabase/pull/45891",
+      "author": "jordienr",
+      "at": "2026-05-13T16:14:53Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 45890,
+      "title": "fix(security): validate domain parameter in check-cname to prevent SSRF/URL injection",
+      "url": "https://github.com/supabase/supabase/pull/45890",
+      "author": "suletetes",
+      "at": "2026-05-13T16:13:30Z"
     }
   ]
 }
