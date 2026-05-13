@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-05-12T16:16:48.776Z",
-  "count": 12,
+  "updatedAt": "2026-05-13T06:26:52.960Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4824,
-      "title": "Feature Request: Too strict dependency version pinning (`==`) causes dependency conflicts in complex projects",
-      "url": "https://github.com/browser-use/browser-use/issues/4824",
-      "author": "houying910523",
-      "at": "2026-05-12T14:17:52Z"
+      "kind": "pr",
+      "number": 4826,
+      "title": "Add BrowserTrace observability example",
+      "url": "https://github.com/browser-use/browser-use/pull/4826",
+      "author": "aaronlab",
+      "at": "2026-05-13T03:35:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4823,
-      "title": "fix(cli): cover tab management commands",
-      "url": "https://github.com/browser-use/browser-use/pull/4823",
-      "author": "frafra077",
-      "at": "2026-05-12T09:27:00Z"
+      "kind": "issue",
+      "number": 4825,
+      "title": "Protect browser-use from AI slop PRs",
+      "url": "https://github.com/browser-use/browser-use/issues/4825",
+      "author": "kimjune01",
+      "at": "2026-05-13T00:45:05Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3412,
-      "title": "feat(connected-accounts-py): namespace SHARED-connection surface under experimental",
-      "url": "https://github.com/ComposioHQ/composio/pull/3412",
-      "author": "venkat82",
-      "at": "2026-05-12T15:13:52Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3411,
-      "title": "fix(install): resolve latest CLI release from assets",
-      "url": "https://github.com/ComposioHQ/composio/pull/3411",
+      "number": 3419,
+      "title": "feat(cli): add enhanced permission cache gating",
+      "url": "https://github.com/ComposioHQ/composio/pull/3419",
       "author": "CryogenicPlanet",
-      "at": "2026-05-12T09:23:12Z"
+      "at": "2026-05-13T04:14:54Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "release",
-      "number": 0,
-      "title": "@composio/cli@0.2.29 released",
-      "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/cli%400.2.29",
-      "author": "abir-taheer",
-      "at": "2026-05-12T16:07:42Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2298,
-      "title": "feat: support mistralai v2",
-      "url": "https://github.com/567-labs/instructor/pull/2298",
-      "author": "Ian321",
-      "at": "2026-05-05T16:45:23Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37359,
-      "title": "perplexity[patch]: Add use_responses_api flag to ChatPerplexity",
-      "url": "https://github.com/langchain-ai/langchain/pull/37359",
-      "author": "jliounis",
-      "at": "2026-05-12T10:16:04Z"
+      "number": 3418,
+      "title": "feat(cli): scaffold native UI sidecar",
+      "url": "https://github.com/ComposioHQ/composio/pull/3418",
+      "author": "CryogenicPlanet",
+      "at": "2026-05-13T03:26:02Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37358,
-      "title": "add method from_huggingface_tokenizer for RecursiveCharacterTextSplitter within HTMLSemanticPreservingSplitter",
-      "url": "https://github.com/langchain-ai/langchain/issues/37358",
-      "author": "hxxxer",
-      "at": "2026-05-12T06:33:10Z"
+      "number": 37370,
+      "title": "bug(ollama): `OllamaLLM._stream`/`_astream` write `self.stop` (list[str]) into `finish_reason`",
+      "url": "https://github.com/langchain-ai/langchain/issues/37370",
+      "author": "wachawo",
+      "at": "2026-05-13T02:01:42Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37369,
+      "title": "bug(langchain): glob_search returns files in arbitrary order despite docstring promising mtime-desc sort",
+      "url": "https://github.com/langchain-ai/langchain/issues/37369",
+      "author": "wachawo",
+      "at": "2026-05-13T01:47:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93795,
-      "title": "Fix flaky app-prefetch/prefetching.test.ts",
-      "url": "https://github.com/vercel/next.js/pull/93795",
-      "author": "timneutkens",
-      "at": "2026-05-12T14:58:39Z"
+      "number": 93812,
+      "title": "fix: remove extra dot in codemod next-lint-to-eslint-cli",
+      "url": "https://github.com/vercel/next.js/pull/93812",
+      "author": "MD-Mushfiqur123",
+      "at": "2026-05-13T03:03:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93794,
-      "title": "ci: run Linux Playwright jobs in prebuilt Microsoft container",
-      "url": "https://github.com/vercel/next.js/pull/93794",
-      "author": "timneutkens",
-      "at": "2026-05-12T13:36:35Z"
+      "number": 93811,
+      "title": "docs: less aggressive AI agent hint for an experimental API",
+      "url": "https://github.com/vercel/next.js/pull/93811",
+      "author": "gaojude",
+      "at": "2026-05-13T01:42:44Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 45865,
+      "title": "host_not_allowed error after new API key update",
+      "url": "https://github.com/supabase/supabase/issues/45865",
+      "author": "syeditrath",
+      "at": "2026-05-13T05:56:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45837,
-      "title": "feat(storage): add keyboard shortcuts for storage screens",
-      "url": "https://github.com/supabase/supabase/pull/45837",
-      "author": "awaseem",
-      "at": "2026-05-12T15:58:09Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 45836,
-      "title": "fix(www): mobile partner form blank panel on submit success",
-      "url": "https://github.com/supabase/supabase/pull/45836",
-      "author": "stylessh",
-      "at": "2026-05-12T15:56:10Z"
+      "number": 45864,
+      "title": "Update project name if dashboard is local CLI",
+      "url": "https://github.com/supabase/supabase/pull/45864",
+      "author": "joshenlim",
+      "at": "2026-05-13T04:56:15Z"
     }
   ]
 }
