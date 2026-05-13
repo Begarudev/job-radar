@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T10:37:41.981Z",
+  "updatedAt": "2026-05-13T09:25:43.227Z",
   "count": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "OpenAI launches a Safety Bug Bounty program to identify AI abuse and safety risks, including agentic vulnerabilities, prompt injection, and data exfiltration.",
       "url": "https://openai.com/index/safety-bug-bounty",
       "publishedAt": "Wed, 25 Mar 2026 00:00:00 GMT",
-      "fetchedAt": "2026-05-12T10:37:37.969Z",
+      "fetchedAt": "2026-05-13T09:25:38.752Z",
       "company": "OpenAI",
       "tags": []
     },
@@ -22,7 +22,7 @@
       "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
-      "fetchedAt": "2026-05-12T10:37:37.969Z",
+      "fetchedAt": "2026-05-13T09:25:38.752Z",
       "company": "OpenAI",
       "tags": []
     }
