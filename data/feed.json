@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T02:41:13.096Z",
+  "updatedAt": "2026-05-13T06:44:24.529Z",
   "count": 2,
   "postings": [
     {
@@ -10,7 +10,7 @@
       "body": "Waypoint Learning (EdTech) | Founding Engineer | NYC or Remote (US) | Full-time Students with disabilities are not receiving the support they deserve, and Waypoint is changing that. We&#x27;re building AI tools that special education teachers use to better support students with Individualized Education Programs (IEPs). Hiring a founding engineer and running a one-week challenge to start creating together. Best submission gets $500 and top 5 get an immediate final round interview. Deadline: Monday, May 11 @ 12pm ET. Challenge details:  https:&#x2F;&#x2F;github.com&#x2F;igoldstein19&#x2F;waypoint-challenge&#x2F;  Stack: TypeScript&#x2F;Python, MCP, Claude Prefer to apply through the standard process or want to learn more? Email resume and 1 paragraph about interest to isaac@waypoint-learning.org",
       "remote": true,
       "postedAt": "2026-05-04T18:00:21.000Z",
-      "fetchedAt": "2026-05-13T02:41:13.069Z",
+      "fetchedAt": "2026-05-13T06:44:24.507Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, python",
@@ -34,7 +34,7 @@
       "body": "BetterDB ( https:&#x2F;&#x2F;betterdb.com ) ( https:&#x2F;&#x2F;github.com&#x2F;BetterDB-inc ) | Founding Engineer | Remote | Full-time\nBetterDB is building the tooling ecosystem for Valkey, the high-performance Redis fork backed by AWS, Google, and Oracle. We&#x27;re starting with observability — historical persistence, pattern analysis, anomaly detection, and Prometheus export — so you can debug what happened at 3am when you wake up at 9am. Stack: TypeScript, NestJS + Fastify, React, Valkey, PostgreSQL, Docker, Kubernetes, Terraform, AWS. We ship OSS self-hosted and have a live cloud SaaS:  https:&#x2F;&#x2F;betterdb.com&#x2F;login  In the last two months we&#x27;ve averaged more than one release per week across multiple products and channels. That&#x27;s what &quot;moves fast&quot; looks like in practice. We recently started moving more and more into the LLM cache space via both observability and actual libraries. We hired our first engineer in March and are looking to expand the team — no pressure on timeline, we&#x27;d rather find the right person. Just email kristiyan@betterdb.com with a bit about yourself and why this is interesting to you.\nI reply to everyone. It might take a day or two given volume, but you&#x27;ll hear back.",
       "remote": true,
       "postedAt": "2026-05-05T18:00:36.000Z",
-      "fetchedAt": "2026-05-13T02:41:13.069Z",
+      "fetchedAt": "2026-05-13T06:44:24.507Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react",
