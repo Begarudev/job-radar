@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-13T16:15:52.687Z",
-  "count": 7,
+  "updatedAt": "2026-05-14T06:25:25.517Z",
+  "count": 12,
   "signals": [
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4826,
-      "title": "Add BrowserTrace observability example",
-      "url": "https://github.com/browser-use/browser-use/pull/4826",
-      "author": "aaronlab",
-      "at": "2026-05-13T03:35:25Z"
-    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -25,59 +14,125 @@
       "at": "2026-05-12T14:17:52Z"
     },
     {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 4819,
+      "title": "fix: restore token count display in verbose logs with safe fallback (#4150)",
+      "url": "https://github.com/browser-use/browser-use/pull/4819",
+      "author": "paulxg12",
+      "at": "2026-05-11T08:33:37Z"
+    },
+    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3425,
+      "number": 3430,
+      "title": "feat(cli): send x-cli-session-id header on every request",
+      "url": "https://github.com/ComposioHQ/composio/pull/3430",
+      "author": "CryogenicPlanet",
+      "at": "2026-05-14T01:38:49Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3429,
       "title": "Release: update version",
-      "url": "https://github.com/ComposioHQ/composio/pull/3425",
+      "url": "https://github.com/ComposioHQ/composio/pull/3429",
       "author": "abir-taheer",
-      "at": "2026-05-13T13:50:14Z"
+      "at": "2026-05-14T00:13:17Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "release",
+      "number": 0,
+      "title": "@composio/claude-agent-sdk@0.9.2 released",
+      "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/claude-agent-sdk%400.9.2",
+      "author": "abir-taheer",
+      "at": "2026-05-13T17:26:18Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2304,
+      "title": "fix(openai): align text.format with tool schema to prevent empty {} args in RESPONSES_TOOLS",
+      "url": "https://github.com/567-labs/instructor/pull/2304",
+      "author": "ayushh0110",
+      "at": "2026-05-14T03:37:29Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2300,
+      "title": "Responses API migration pain: RESPONSES_TOOLS can ignore structured text format and return empty `{}` tool args",
+      "url": "https://github.com/567-labs/instructor/issues/2300",
+      "author": "davidsmv",
+      "at": "2026-05-07T22:41:15Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37420,
+      "title": "stream_events(version=\"v3\"): reasoning content dropped from AIMessage when message also contains a tool_call",
+      "url": "https://github.com/langchain-ai/langchain/issues/37420",
+      "author": "imsalik",
+      "at": "2026-05-14T06:18:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93829,
-      "title": "Fix errors.json merge driver to handle gaps in error codes",
-      "url": "https://github.com/vercel/next.js/pull/93829",
-      "author": "sokra",
-      "at": "2026-05-13T15:34:55Z"
+      "number": 93838,
+      "title": "fix(next): duplicated \"to\" in build template route comments",
+      "url": "https://github.com/vercel/next.js/pull/93838",
+      "author": "quyentonndbs",
+      "at": "2026-05-14T04:50:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93828,
-      "title": "fix: enforce sequential error codes in errors.json",
-      "url": "https://github.com/vercel/next.js/pull/93828",
-      "author": "lubieowoce",
-      "at": "2026-05-13T15:33:49Z"
+      "number": 93837,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/93837",
+      "author": "vercel-release-bot",
+      "at": "2026-05-14T00:38:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45891,
-      "title": "fix(query-insights): aggregate logs into per-minute buckets for chart",
-      "url": "https://github.com/supabase/supabase/pull/45891",
-      "author": "jordienr",
-      "at": "2026-05-13T16:14:53Z"
+      "number": 45913,
+      "title": "Improve loading state for unified logs",
+      "url": "https://github.com/supabase/supabase/pull/45913",
+      "author": "joshenlim",
+      "at": "2026-05-14T05:45:16Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45890,
-      "title": "fix(security): validate domain parameter in check-cname to prevent SSRF/URL injection",
-      "url": "https://github.com/supabase/supabase/pull/45890",
-      "author": "suletetes",
-      "at": "2026-05-13T16:13:30Z"
+      "number": 45912,
+      "title": "simplify sql editor warning dialog",
+      "url": "https://github.com/supabase/supabase/pull/45912",
+      "author": "dnywh",
+      "at": "2026-05-14T05:07:08Z"
     }
   ]
 }
