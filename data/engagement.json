@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-05-14T06:25:25.517Z",
-  "count": 12,
+  "updatedAt": "2026-05-14T16:09:13.259Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4824,
-      "title": "Feature Request: Too strict dependency version pinning (`==`) causes dependency conflicts in complex projects",
-      "url": "https://github.com/browser-use/browser-use/issues/4824",
-      "author": "houying910523",
-      "at": "2026-05-12T14:17:52Z"
+      "kind": "pr",
+      "number": 4828,
+      "title": "fix: export missing LLM classes from browser_use package",
+      "url": "https://github.com/browser-use/browser-use/pull/4828",
+      "author": "goingforstudying-ctrl",
+      "at": "2026-05-14T09:24:21Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4819,
-      "title": "fix: restore token count display in verbose logs with safe fallback (#4150)",
-      "url": "https://github.com/browser-use/browser-use/pull/4819",
-      "author": "paulxg12",
-      "at": "2026-05-11T08:33:37Z"
+      "number": 4826,
+      "title": "Add BrowserTrace observability example",
+      "url": "https://github.com/browser-use/browser-use/pull/4826",
+      "author": "aaronlab",
+      "at": "2026-05-13T03:35:25Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -62,6 +62,17 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
+      "number": 2305,
+      "title": "Add modern FastAPI integration example with dependency injection",
+      "url": "https://github.com/567-labs/instructor/pull/2305",
+      "author": "Jacob-hash999",
+      "at": "2026-05-14T13:09:29Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
       "number": 2304,
       "title": "fix(openai): align text.format with tool schema to prevent empty {} args in RESPONSES_TOOLS",
       "url": "https://github.com/567-labs/instructor/pull/2304",
@@ -69,70 +80,81 @@
       "at": "2026-05-14T03:37:29Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2300,
-      "title": "Responses API migration pain: RESPONSES_TOOLS can ignore structured text format and return empty `{}` tool args",
-      "url": "https://github.com/567-labs/instructor/issues/2300",
-      "author": "davidsmv",
-      "at": "2026-05-07T22:41:15Z"
+      "number": 37426,
+      "title": "Add tool_call_id to on_tool_start event's data",
+      "url": "https://github.com/langchain-ai/langchain/issues/37426",
+      "author": "jboreiko",
+      "at": "2026-05-14T12:43:46Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37420,
-      "title": "stream_events(version=\"v3\"): reasoning content dropped from AIMessage when message also contains a tool_call",
-      "url": "https://github.com/langchain-ai/langchain/issues/37420",
-      "author": "imsalik",
-      "at": "2026-05-14T06:18:12Z"
+      "number": 37423,
+      "title": "HTMLSemanticPreservingSplitter processes malformed and unsafe links",
+      "url": "https://github.com/langchain-ai/langchain/issues/37423",
+      "author": "shivam-poriya",
+      "at": "2026-05-14T11:13:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93838,
-      "title": "fix(next): duplicated \"to\" in build template route comments",
-      "url": "https://github.com/vercel/next.js/pull/93838",
-      "author": "quyentonndbs",
-      "at": "2026-05-14T04:50:28Z"
+      "number": 93855,
+      "title": "Fix(segment-cache): replace hash instead of concatenating on repeated same-path navigation",
+      "url": "https://github.com/vercel/next.js/pull/93855",
+      "author": "Varshil-B-Shah",
+      "at": "2026-05-14T15:37:36Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93837,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/93837",
-      "author": "vercel-release-bot",
-      "at": "2026-05-14T00:38:35Z"
+      "number": 93853,
+      "title": "fix(eslint-plugin-next): respect pageExtensions in no-html-link-for-pages",
+      "url": "https://github.com/vercel/next.js/pull/93853",
+      "author": "Eswar809",
+      "at": "2026-05-14T14:41:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45913,
-      "title": "Improve loading state for unified logs",
-      "url": "https://github.com/supabase/supabase/pull/45913",
-      "author": "joshenlim",
-      "at": "2026-05-14T05:45:16Z"
+      "number": 45939,
+      "title": "refactor(common): drop ConfigCat proxy probe in favor of waitForReady",
+      "url": "https://github.com/supabase/supabase/pull/45939",
+      "author": "charislam",
+      "at": "2026-05-14T14:18:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45912,
-      "title": "simplify sql editor warning dialog",
-      "url": "https://github.com/supabase/supabase/pull/45912",
-      "author": "dnywh",
-      "at": "2026-05-14T05:07:08Z"
+      "number": 45935,
+      "title": "feat: move drizzle example to supabase",
+      "url": "https://github.com/supabase/supabase/pull/45935",
+      "author": "mansueli",
+      "at": "2026-05-14T13:49:27Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1604,
+      "title": "docs: Add FAQ section for common questions about Julep AI agent workflows",
+      "url": "https://github.com/julep-ai/julep/pull/1604",
+      "author": "meichuanyi",
+      "at": "2026-05-14T15:18:54Z"
     }
   ]
 }
