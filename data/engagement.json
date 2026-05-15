@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-05-14T16:09:13.259Z",
-  "count": 14,
+  "updatedAt": "2026-05-15T06:34:29.601Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4828,
-      "title": "fix: export missing LLM classes from browser_use package",
-      "url": "https://github.com/browser-use/browser-use/pull/4828",
-      "author": "goingforstudying-ctrl",
-      "at": "2026-05-14T09:24:21Z"
+      "number": 4838,
+      "title": "fix(logging): show message token counts",
+      "url": "https://github.com/browser-use/browser-use/pull/4838",
+      "author": "Lubrsy706",
+      "at": "2026-05-15T02:34:39Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4826,
-      "title": "Add BrowserTrace observability example",
-      "url": "https://github.com/browser-use/browser-use/pull/4826",
-      "author": "aaronlab",
-      "at": "2026-05-13T03:35:25Z"
+      "number": 4837,
+      "title": "fix(config): avoid docker detection false positives",
+      "url": "https://github.com/browser-use/browser-use/pull/4837",
+      "author": "Lubrsy706",
+      "at": "2026-05-15T02:23:58Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3430,
-      "title": "feat(cli): send x-cli-session-id header on every request",
-      "url": "https://github.com/ComposioHQ/composio/pull/3430",
+      "number": 3431,
+      "title": "feat(cli): refresh approval fallback page",
+      "url": "https://github.com/ComposioHQ/composio/pull/3431",
       "author": "CryogenicPlanet",
-      "at": "2026-05-14T01:38:49Z"
+      "at": "2026-05-15T00:21:13Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -47,15 +47,15 @@
       "at": "2026-05-14T00:13:17Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "release",
-      "number": 0,
-      "title": "@composio/claude-agent-sdk@0.9.2 released",
-      "url": "https://github.com/ComposioHQ/composio/releases/tag/%40composio/claude-agent-sdk%400.9.2",
-      "author": "abir-taheer",
-      "at": "2026-05-13T17:26:18Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2306,
+      "title": "feat(minimax): add MiniMax provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2306",
+      "author": "Bhavyashah20",
+      "at": "2026-05-14T20:24:08Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,81 +69,70 @@
       "at": "2026-05-14T13:09:29Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2304,
-      "title": "fix(openai): align text.format with tool schema to prevent empty {} args in RESPONSES_TOOLS",
-      "url": "https://github.com/567-labs/instructor/pull/2304",
-      "author": "ayushh0110",
-      "at": "2026-05-14T03:37:29Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37442,
+      "title": "feat(langchain): add fork_agent for spawning identical sub-agents",
+      "url": "https://github.com/langchain-ai/langchain/issues/37442",
+      "author": "GodweiLL",
+      "at": "2026-05-15T05:02:15Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37426,
-      "title": "Add tool_call_id to on_tool_start event's data",
-      "url": "https://github.com/langchain-ai/langchain/issues/37426",
-      "author": "jboreiko",
-      "at": "2026-05-14T12:43:46Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37423,
-      "title": "HTMLSemanticPreservingSplitter processes malformed and unsafe links",
-      "url": "https://github.com/langchain-ai/langchain/issues/37423",
-      "author": "shivam-poriya",
-      "at": "2026-05-14T11:13:22Z"
+      "number": 37438,
+      "title": "grep_search: Python fallback skips valid UTF-8 files on Windows due to read_text() encoding",
+      "url": "https://github.com/langchain-ai/langchain/issues/37438",
+      "author": "zhuweid",
+      "at": "2026-05-15T03:40:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93855,
-      "title": "Fix(segment-cache): replace hash instead of concatenating on repeated same-path navigation",
-      "url": "https://github.com/vercel/next.js/pull/93855",
-      "author": "Varshil-B-Shah",
-      "at": "2026-05-14T15:37:36Z"
+      "number": 93865,
+      "title": "ci: declare workflow-level `contents: read` on 3 workflows",
+      "url": "https://github.com/vercel/next.js/pull/93865",
+      "author": "arpitjain099",
+      "at": "2026-05-15T05:49:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93853,
-      "title": "fix(eslint-plugin-next): respect pageExtensions in no-html-link-for-pages",
-      "url": "https://github.com/vercel/next.js/pull/93853",
-      "author": "Eswar809",
-      "at": "2026-05-14T14:41:12Z"
+      "number": 93864,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/93864",
+      "author": "vercel-release-bot",
+      "at": "2026-05-15T00:36:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45939,
-      "title": "refactor(common): drop ConfigCat proxy probe in favor of waitForReady",
-      "url": "https://github.com/supabase/supabase/pull/45939",
-      "author": "charislam",
-      "at": "2026-05-14T14:18:12Z"
+      "number": 45961,
+      "title": "align rls confirmation dialogs",
+      "url": "https://github.com/supabase/supabase/pull/45961",
+      "author": "dnywh",
+      "at": "2026-05-15T04:33:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45935,
-      "title": "feat: move drizzle example to supabase",
-      "url": "https://github.com/supabase/supabase/pull/45935",
-      "author": "mansueli",
-      "at": "2026-05-14T13:49:27Z"
+      "number": 45960,
+      "title": "feat(studio): add async handling to AlertDialog actions",
+      "url": "https://github.com/supabase/supabase/pull/45960",
+      "author": "dnywh",
+      "at": "2026-05-15T04:00:00Z"
     },
     {
       "founder": "Diwank Tomer",
