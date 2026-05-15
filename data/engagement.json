@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-05-15T06:34:29.601Z",
-  "count": 13,
+  "updatedAt": "2026-05-15T16:02:09.945Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4838,
-      "title": "fix(logging): show message token counts",
-      "url": "https://github.com/browser-use/browser-use/pull/4838",
-      "author": "Lubrsy706",
-      "at": "2026-05-15T02:34:39Z"
+      "number": 4840,
+      "title": "fix: relax OpenAI dependency pin",
+      "url": "https://github.com/browser-use/browser-use/pull/4840",
+      "author": "MukundaKatta",
+      "at": "2026-05-15T14:43:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4837,
-      "title": "fix(config): avoid docker detection false positives",
-      "url": "https://github.com/browser-use/browser-use/pull/4837",
-      "author": "Lubrsy706",
-      "at": "2026-05-15T02:23:58Z"
+      "number": 4839,
+      "title": "fix: strip thinking tags before JSON parsing for MiniMax compatibility",
+      "url": "https://github.com/browser-use/browser-use/pull/4839",
+      "author": "chenzhenxu",
+      "at": "2026-05-15T09:10:46Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3432,
+      "title": "feat(openai): add Qianfan helpers and docs on the existing OpenAI-compatible path",
+      "url": "https://github.com/ComposioHQ/composio/pull/3432",
+      "author": "jimmyzhuu",
+      "at": "2026-05-15T07:33:15Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -34,17 +45,6 @@
       "url": "https://github.com/ComposioHQ/composio/pull/3431",
       "author": "CryogenicPlanet",
       "at": "2026-05-15T00:21:13Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3429,
-      "title": "Release: update version",
-      "url": "https://github.com/ComposioHQ/composio/pull/3429",
-      "author": "abir-taheer",
-      "at": "2026-05-14T00:13:17Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,89 +61,78 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2289,
+      "title": "Documentation (at least Google-related) is an outdated mess.",
+      "url": "https://github.com/567-labs/instructor/issues/2289",
+      "author": "vykintazo",
+      "at": "2026-04-27T08:57:16Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2305,
-      "title": "Add modern FastAPI integration example with dependency injection",
-      "url": "https://github.com/567-labs/instructor/pull/2305",
-      "author": "Jacob-hash999",
-      "at": "2026-05-14T13:09:29Z"
+      "number": 37448,
+      "title": "refactor(langchain): clean redundancy ifelse.",
+      "url": "https://github.com/langchain-ai/langchain/pull/37448",
+      "author": "zhanluxianshen",
+      "at": "2026-05-15T11:54:33Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37442,
-      "title": "feat(langchain): add fork_agent for spawning identical sub-agents",
-      "url": "https://github.com/langchain-ai/langchain/issues/37442",
-      "author": "GodweiLL",
-      "at": "2026-05-15T05:02:15Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37438,
-      "title": "grep_search: Python fallback skips valid UTF-8 files on Windows due to read_text() encoding",
-      "url": "https://github.com/langchain-ai/langchain/issues/37438",
-      "author": "zhuweid",
-      "at": "2026-05-15T03:40:47Z"
+      "kind": "pr",
+      "number": 37445,
+      "title": "[codex] Include tool_call_id on tool start events",
+      "url": "https://github.com/langchain-ai/langchain/pull/37445",
+      "author": "MukundaKatta",
+      "at": "2026-05-15T08:07:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93865,
-      "title": "ci: declare workflow-level `contents: read` on 3 workflows",
-      "url": "https://github.com/vercel/next.js/pull/93865",
-      "author": "arpitjain099",
-      "at": "2026-05-15T05:49:18Z"
+      "number": 93876,
+      "title": "turbo-tasks: prioritize recomputed tasks with Recomputation priority",
+      "url": "https://github.com/vercel/next.js/pull/93876",
+      "author": "sokra",
+      "at": "2026-05-15T15:51:16Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93864,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/93864",
-      "author": "vercel-release-bot",
-      "at": "2026-05-15T00:36:08Z"
+      "number": 93875,
+      "title": "turbopack: emit assets before duplicate check in emit_assets",
+      "url": "https://github.com/vercel/next.js/pull/93875",
+      "author": "sokra",
+      "at": "2026-05-15T15:42:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45961,
-      "title": "align rls confirmation dialogs",
-      "url": "https://github.com/supabase/supabase/pull/45961",
-      "author": "dnywh",
-      "at": "2026-05-15T04:33:45Z"
+      "number": 45996,
+      "title": "chore: rename `CommandMenu` internal components to avoid conflicts with base shadcn ones",
+      "url": "https://github.com/supabase/supabase/pull/45996",
+      "author": "djhi",
+      "at": "2026-05-15T15:45:58Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45960,
-      "title": "feat(studio): add async handling to AlertDialog actions",
-      "url": "https://github.com/supabase/supabase/pull/45960",
-      "author": "dnywh",
-      "at": "2026-05-15T04:00:00Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1604,
-      "title": "docs: Add FAQ section for common questions about Julep AI agent workflows",
-      "url": "https://github.com/julep-ai/julep/pull/1604",
-      "author": "meichuanyi",
-      "at": "2026-05-14T15:18:54Z"
+      "number": 45995,
+      "title": "Fix curl command for API key handling",
+      "url": "https://github.com/supabase/supabase/pull/45995",
+      "author": "gudgeirbui",
+      "at": "2026-05-15T15:22:00Z"
     }
   ]
 }
