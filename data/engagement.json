@@ -1,138 +1,127 @@
 {
-  "updatedAt": "2026-05-15T16:02:09.945Z",
-  "count": 12,
+  "updatedAt": "2026-05-16T05:55:06.493Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4840,
-      "title": "fix: relax OpenAI dependency pin",
-      "url": "https://github.com/browser-use/browser-use/pull/4840",
-      "author": "MukundaKatta",
-      "at": "2026-05-15T14:43:02Z"
+      "number": 4843,
+      "title": "fix(browser): dispatch tab event for window.open targets",
+      "url": "https://github.com/browser-use/browser-use/pull/4843",
+      "author": "pragnyanramtha",
+      "at": "2026-05-16T05:09:06Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4839,
-      "title": "fix: strip thinking tags before JSON parsing for MiniMax compatibility",
-      "url": "https://github.com/browser-use/browser-use/pull/4839",
-      "author": "chenzhenxu",
-      "at": "2026-05-15T09:10:46Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3432,
-      "title": "feat(openai): add Qianfan helpers and docs on the existing OpenAI-compatible path",
-      "url": "https://github.com/ComposioHQ/composio/pull/3432",
+      "number": 4842,
+      "title": "Add a Qianfan example for OpenAI-compatible model setup",
+      "url": "https://github.com/browser-use/browser-use/pull/4842",
       "author": "jimmyzhuu",
-      "at": "2026-05-15T07:33:15Z"
+      "at": "2026-05-16T04:49:18Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3431,
-      "title": "feat(cli): refresh approval fallback page",
-      "url": "https://github.com/ComposioHQ/composio/pull/3431",
-      "author": "CryogenicPlanet",
-      "at": "2026-05-15T00:21:13Z"
+      "number": 3435,
+      "title": "feat(connected-accounts): rename experimental updateAcl to updateSharing",
+      "url": "https://github.com/ComposioHQ/composio/pull/3435",
+      "author": "venkat82",
+      "at": "2026-05-16T01:30:42Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3434,
+      "title": "feat(connected-accounts-py): rename update_acl to update_sharing",
+      "url": "https://github.com/ComposioHQ/composio/pull/3434",
+      "author": "venkat82",
+      "at": "2026-05-16T01:26:40Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2306,
-      "title": "feat(minimax): add MiniMax provider support",
-      "url": "https://github.com/567-labs/instructor/pull/2306",
-      "author": "Bhavyashah20",
-      "at": "2026-05-14T20:24:08Z"
+      "number": 2307,
+      "title": "fix(validation): harden llm_validator prompt isolation",
+      "url": "https://github.com/567-labs/instructor/pull/2307",
+      "author": "amingclawdev",
+      "at": "2026-05-15T21:36:18Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2289,
-      "title": "Documentation (at least Google-related) is an outdated mess.",
-      "url": "https://github.com/567-labs/instructor/issues/2289",
-      "author": "vykintazo",
-      "at": "2026-04-27T08:57:16Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37448,
-      "title": "refactor(langchain): clean redundancy ifelse.",
-      "url": "https://github.com/langchain-ai/langchain/pull/37448",
-      "author": "zhanluxianshen",
-      "at": "2026-05-15T11:54:33Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37445,
-      "title": "[codex] Include tool_call_id on tool start events",
-      "url": "https://github.com/langchain-ai/langchain/pull/37445",
-      "author": "MukundaKatta",
-      "at": "2026-05-15T08:07:58Z"
+      "number": 37452,
+      "title": "`Chroma.update_document()` fails when `Document` metadata is omitted",
+      "url": "https://github.com/langchain-ai/langchain/issues/37452",
+      "author": "k-smanis",
+      "at": "2026-05-15T18:04:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93876,
-      "title": "turbo-tasks: prioritize recomputed tasks with Recomputation priority",
-      "url": "https://github.com/vercel/next.js/pull/93876",
-      "author": "sokra",
-      "at": "2026-05-15T15:51:16Z"
+      "number": 93887,
+      "title": "best effort debugging hack",
+      "url": "https://github.com/vercel/next.js/pull/93887",
+      "author": "lukesandberg",
+      "at": "2026-05-16T02:06:54Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93875,
-      "title": "turbopack: emit assets before duplicate check in emit_assets",
-      "url": "https://github.com/vercel/next.js/pull/93875",
-      "author": "sokra",
-      "at": "2026-05-15T15:42:55Z"
+      "number": 93886,
+      "title": "[ci] Resize tiny jobs in integration_tests_reusable.yml to use smaller machines",
+      "url": "https://github.com/vercel/next.js/pull/93886",
+      "author": "bgw",
+      "at": "2026-05-16T01:23:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45996,
-      "title": "chore: rename `CommandMenu` internal components to avoid conflicts with base shadcn ones",
-      "url": "https://github.com/supabase/supabase/pull/45996",
-      "author": "djhi",
-      "at": "2026-05-15T15:45:58Z"
+      "number": 46011,
+      "title": "fix(studio): improve realtime inspector toggle handler",
+      "url": "https://github.com/supabase/supabase/pull/46011",
+      "author": "deepshekhardas",
+      "at": "2026-05-16T04:40:16Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 45995,
-      "title": "Fix curl command for API key handling",
-      "url": "https://github.com/supabase/supabase/pull/45995",
-      "author": "gudgeirbui",
-      "at": "2026-05-15T15:22:00Z"
+      "number": 46010,
+      "title": "fix(studio): improve logs keyboard navigation",
+      "url": "https://github.com/supabase/supabase/pull/46010",
+      "author": "deepshekhardas",
+      "at": "2026-05-16T04:38:43Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2230,
+      "title": "feat!: update @clack/prompts dependency",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2230",
+      "author": "gameroman",
+      "at": "2026-05-15T19:47:52Z"
     }
   ]
 }
