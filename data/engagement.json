@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-05-16T05:55:06.493Z",
+  "updatedAt": "2026-05-16T14:53:09.427Z",
   "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4843,
-      "title": "fix(browser): dispatch tab event for window.open targets",
-      "url": "https://github.com/browser-use/browser-use/pull/4843",
-      "author": "pragnyanramtha",
-      "at": "2026-05-16T05:09:06Z"
+      "kind": "issue",
+      "number": 4846,
+      "title": "Bug: MCP server connects but list_tabs/get_state/screenshot fail while navigate works (CDP healthy)",
+      "url": "https://github.com/browser-use/browser-use/issues/4846",
+      "author": "shiftlabshq",
+      "at": "2026-05-16T10:02:08Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4842,
-      "title": "Add a Qianfan example for OpenAI-compatible model setup",
-      "url": "https://github.com/browser-use/browser-use/pull/4842",
-      "author": "jimmyzhuu",
-      "at": "2026-05-16T04:49:18Z"
+      "number": 4845,
+      "title": "fix(browser): preserve video recording timing",
+      "url": "https://github.com/browser-use/browser-use/pull/4845",
+      "author": "pragnyanramtha",
+      "at": "2026-05-16T08:03:38Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -61,56 +61,56 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37452,
-      "title": "`Chroma.update_document()` fails when `Document` metadata is omitted",
-      "url": "https://github.com/langchain-ai/langchain/issues/37452",
-      "author": "k-smanis",
-      "at": "2026-05-15T18:04:15Z"
+      "kind": "pr",
+      "number": 37471,
+      "title": "fix(core): preserve message classes in `Serializable` envelopes",
+      "url": "https://github.com/langchain-ai/langchain/pull/37471",
+      "author": "T1mn",
+      "at": "2026-05-16T14:09:40Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93887,
-      "title": "best effort debugging hack",
-      "url": "https://github.com/vercel/next.js/pull/93887",
-      "author": "lukesandberg",
-      "at": "2026-05-16T02:06:54Z"
+      "number": 93894,
+      "title": "Polish instant fix cards and validation messages",
+      "url": "https://github.com/vercel/next.js/pull/93894",
+      "author": "aurorascharff",
+      "at": "2026-05-16T13:48:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93886,
-      "title": "[ci] Resize tiny jobs in integration_tests_reusable.yml to use smaller machines",
-      "url": "https://github.com/vercel/next.js/pull/93886",
-      "author": "bgw",
-      "at": "2026-05-16T01:23:09Z"
+      "number": 93893,
+      "title": "Clarify barrel loader export map comment",
+      "url": "https://github.com/vercel/next.js/pull/93893",
+      "author": "2wndrhs",
+      "at": "2026-05-16T13:12:22Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46011,
-      "title": "fix(studio): improve realtime inspector toggle handler",
-      "url": "https://github.com/supabase/supabase/pull/46011",
-      "author": "deepshekhardas",
-      "at": "2026-05-16T04:40:16Z"
+      "number": 46020,
+      "title": "fix(self-hosted): add jwt issue env var to auth config",
+      "url": "https://github.com/supabase/supabase/pull/46020",
+      "author": "aantti",
+      "at": "2026-05-16T10:48:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46010,
-      "title": "fix(studio): improve logs keyboard navigation",
-      "url": "https://github.com/supabase/supabase/pull/46010",
-      "author": "deepshekhardas",
-      "at": "2026-05-16T04:38:43Z"
+      "number": 46018,
+      "title": "docs: update Prisma Quickstart Guide for Prisma v7",
+      "url": "https://github.com/supabase/supabase/pull/46018",
+      "author": "HariNayan",
+      "at": "2026-05-16T09:52:45Z"
     },
     {
       "founder": "Theo Browne",
