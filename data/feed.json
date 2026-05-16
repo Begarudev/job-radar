@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T06:18:12.126Z",
+  "updatedAt": "2026-05-16T09:26:21.336Z",
   "count": 3,
   "postings": [
     {
@@ -10,7 +10,7 @@
       "body": "Stealth Startup | Founding Engineer | NYC (in-person 5x&#x2F;week) | Full-Time The mission\nWe’re building a best-in-class multi-modal AI agent product (voice + SMS + email) with the potential to disrupt deeply entrenched software businesses and unify a fragmented industry. We’re a tiny team with real traction pre-product, moving fast, and we care obsessively about craft. Why this role\nThis is a founding engineering seat: you’ll be an early builder shaping the product, architecture, and quality bar from day one. In the first 3–6 months, the role is highly IC-focused. As we scale (including our first in-person hub&#x2F;site and new hires), this role has optionality (i.e., growing into a leadership role or staying on the IC track and owning the engineering roadmap) for the right person. What you’ll do Build real-time systems for voice (streaming audio, low latency, turn-taking), SMS, and email automation with robust state + memory.\nDesign the foundation: architecture, data model, reliability, observability, deployment, and developer velocity.\nSet the quality bar: clean code, pragmatic abstractions, testing strategy, “don’t break prod,” and thoughtful product UX.\nPartner closely with the co-founders on product decisions. You’ll have real influence over what we build and how it feels + how it&#x27;s designed. What we’re looking for\nYou should be able to work anywhere in the stack (frontend, backend, infra, integrations) and you know how to make smart tradeoffs. Strong product sense: you’re obsessive about confusing UI and you want to make workflows feel magical.\nSystems thinking: you can design for latency, reliability, and iteration speed (especially for real-time voice + agent state).\nHigh ownership: you run toward ambiguity, unblock yourself, and care deeply about outcomes.\nStartup mindset: high-risk&#x2F;high-reward energy, low ego, high pace. Bonus points: Experience with agentic systems: LLM orchestration, tool calling, RAG, evals, prompt&#x2F;versioning, guardrails.\nVoice&#x2F;telephony or streaming experience (WebSockets&#x2F;WebRTC, audio pipelines, turn detection).\nMessaging + deliverability experience (SMS workflows, email sending, compliance&#x2F;opt-in, bounce handling).\nFamiliarity with modern stacks (examples): TypeScript&#x2F;Node, Python, React&#x2F;Next.js, Postgres, Redis, queues, Docker, AWS&#x2F;GCP, observability.",
       "remote": false,
       "postedAt": "2026-05-13T20:26:23.000Z",
-      "fetchedAt": "2026-05-16T06:18:12.095Z",
+      "fetchedAt": "2026-05-16T09:26:21.309Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react, next, python, node",
@@ -40,7 +40,7 @@
       "body": "Waypoint Learning (EdTech) | Founding Engineer | NYC or Remote (US) | Full-time Students with disabilities are not receiving the support they deserve, and Waypoint is changing that. We&#x27;re building AI tools that special education teachers use to better support students with Individualized Education Programs (IEPs). Hiring a founding engineer and running a one-week challenge to start creating together. Best submission gets $500 and top 5 get an immediate final round interview. Deadline: Monday, May 11 @ 12pm ET. Challenge details:  https:&#x2F;&#x2F;github.com&#x2F;igoldstein19&#x2F;waypoint-challenge&#x2F;  Stack: TypeScript&#x2F;Python, MCP, Claude Prefer to apply through the standard process or want to learn more? Email resume and 1 paragraph about interest to isaac@waypoint-learning.org",
       "remote": true,
       "postedAt": "2026-05-04T18:00:21.000Z",
-      "fetchedAt": "2026-05-16T06:18:12.095Z",
+      "fetchedAt": "2026-05-16T09:26:21.309Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, python",
@@ -64,7 +64,7 @@
       "body": "BetterDB ( https:&#x2F;&#x2F;betterdb.com ) ( https:&#x2F;&#x2F;github.com&#x2F;BetterDB-inc ) | Founding Engineer | Remote | Full-time\nBetterDB is building the tooling ecosystem for Valkey, the high-performance Redis fork backed by AWS, Google, and Oracle. We&#x27;re starting with observability — historical persistence, pattern analysis, anomaly detection, and Prometheus export — so you can debug what happened at 3am when you wake up at 9am. Stack: TypeScript, NestJS + Fastify, React, Valkey, PostgreSQL, Docker, Kubernetes, Terraform, AWS. We ship OSS self-hosted and have a live cloud SaaS:  https:&#x2F;&#x2F;betterdb.com&#x2F;login  In the last two months we&#x27;ve averaged more than one release per week across multiple products and channels. That&#x27;s what &quot;moves fast&quot; looks like in practice. We recently started moving more and more into the LLM cache space via both observability and actual libraries. We hired our first engineer in March and are looking to expand the team — no pressure on timeline, we&#x27;d rather find the right person. Just email kristiyan@betterdb.com with a bit about yourself and why this is interesting to you.\nI reply to everyone. It might take a day or two given volume, but you&#x27;ll hear back.",
       "remote": true,
       "postedAt": "2026-05-05T18:00:36.000Z",
-      "fetchedAt": "2026-05-16T06:18:12.095Z",
+      "fetchedAt": "2026-05-16T09:26:21.309Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react",
