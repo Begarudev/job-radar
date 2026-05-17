@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-17T06:23:29.480Z",
+  "updatedAt": "2026-05-17T14:53:15.992Z",
   "count": 12,
   "signals": [
     {
@@ -7,55 +7,66 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4852,
-      "title": "Add emem geospatial custom tool example",
-      "url": "https://github.com/browser-use/browser-use/pull/4852",
-      "author": "kumari-jaya",
-      "at": "2026-05-17T03:27:54Z"
+      "number": 4857,
+      "title": "feat(cli): add extension diagnostics to doctor",
+      "url": "https://github.com/browser-use/browser-use/pull/4857",
+      "author": "felix-windsor",
+      "at": "2026-05-17T11:08:57Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4850,
-      "title": "fix(security): block special-scheme domain bypasses",
-      "url": "https://github.com/browser-use/browser-use/pull/4850",
-      "author": "pragnyanramtha",
-      "at": "2026-05-16T23:51:40Z"
+      "number": 4856,
+      "title": "docs: clarify integration example placement",
+      "url": "https://github.com/browser-use/browser-use/pull/4856",
+      "author": "felix-windsor",
+      "at": "2026-05-17T11:05:44Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3443,
+      "title": "[Phase 1] Reorganize docs sidebar structure",
+      "url": "https://github.com/ComposioHQ/composio/pull/3443",
+      "author": "palash-c",
+      "at": "2026-05-17T13:28:13Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3439,
-      "title": "[Bug]: React hydration error #418 + 404s on toolkit detail pages + broken analytics",
-      "url": "https://github.com/ComposioHQ/composio/issues/3439",
+      "number": 3442,
+      "title": "[Performance]: Telemetry flush blocks the main thread (annotated @TODO in code)",
+      "url": "https://github.com/ComposioHQ/composio/issues/3442",
       "author": "aptsalt",
-      "at": "2026-05-17T06:22:38Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3438,
-      "title": "fix(providers): normalize string tool input in Anthropic, Google, LangChain",
-      "url": "https://github.com/ComposioHQ/composio/pull/3438",
-      "author": "aptsalt",
-      "at": "2026-05-17T06:22:11Z"
+      "at": "2026-05-17T06:26:09Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2308,
-      "title": "fix: stream array-root JSON extraction",
-      "url": "https://github.com/567-labs/instructor/pull/2308",
-      "author": "pragnyanramtha",
-      "at": "2026-05-17T03:05:00Z"
+      "number": 2310,
+      "title": "docs: fix semantic validation link",
+      "url": "https://github.com/567-labs/instructor/pull/2310",
+      "author": "ynachiket",
+      "at": "2026-05-17T12:49:13Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2309,
+      "title": "fix(gemini,vertexai): raise descriptive ImportError when jsonref is missing",
+      "url": "https://github.com/567-labs/instructor/pull/2309",
+      "author": "xodn348",
+      "at": "2026-05-17T07:14:39Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +80,48 @@
       "at": "2026-05-16T16:55:13Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37471,
-      "title": "fix(core): preserve message classes in `Serializable` envelopes",
-      "url": "https://github.com/langchain-ai/langchain/pull/37471",
-      "author": "T1mn",
-      "at": "2026-05-16T14:09:40Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 93905,
+      "title": "Bug: Scripts disabled due to cache error when navigating back via browser history (Regression) Next JS 16.2.6",
+      "url": "https://github.com/vercel/next.js/issues/93905",
+      "author": "barisdemirr",
+      "at": "2026-05-17T13:57:26Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93898,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/93898",
-      "author": "vercel-release-bot",
-      "at": "2026-05-17T00:37:12Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 93897,
-      "title": "%%drp...%% params leaking into generateStaticParams() during build with Cache Components.",
-      "url": "https://github.com/vercel/next.js/issues/93897",
-      "author": "alexortizl",
-      "at": "2026-05-16T20:09:42Z"
+      "number": 93904,
+      "title": "fix: add CSP nonce to component chunk scripts",
+      "url": "https://github.com/vercel/next.js/pull/93904",
+      "author": "IxayWolf",
+      "at": "2026-05-17T11:59:11Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46034,
-      "title": "fix(design-system): improve responsiveness of copywriting components",
-      "url": "https://github.com/supabase/supabase/pull/46034",
-      "author": "hasithasandunlakshan",
-      "at": "2026-05-17T03:44:26Z"
+      "number": 46038,
+      "title": "fix(self-hosted): add depends_on analytics for vector",
+      "url": "https://github.com/supabase/supabase/pull/46038",
+      "author": "aantti",
+      "at": "2026-05-17T14:03:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46033,
-      "title": "design-system: ComponentPreview layout clips and breaks responsiveness on mobile viewports",
-      "url": "https://github.com/supabase/supabase/issues/46033",
-      "author": "hasithasandunlakshan",
-      "at": "2026-05-17T03:18:39Z"
+      "kind": "pr",
+      "number": 46037,
+      "title": "fix(studio): make cron log query backend-agnostic",
+      "url": "https://github.com/supabase/supabase/pull/46037",
+      "author": "aantti",
+      "at": "2026-05-17T11:26:58Z"
     },
     {
       "founder": "Diwank Tomer",
