@@ -1,61 +1,72 @@
 {
-  "updatedAt": "2026-05-16T14:53:09.427Z",
-  "count": 11,
+  "updatedAt": "2026-05-17T06:23:29.480Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4846,
-      "title": "Bug: MCP server connects but list_tabs/get_state/screenshot fail while navigate works (CDP healthy)",
-      "url": "https://github.com/browser-use/browser-use/issues/4846",
-      "author": "shiftlabshq",
-      "at": "2026-05-16T10:02:08Z"
+      "kind": "pr",
+      "number": 4852,
+      "title": "Add emem geospatial custom tool example",
+      "url": "https://github.com/browser-use/browser-use/pull/4852",
+      "author": "kumari-jaya",
+      "at": "2026-05-17T03:27:54Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4845,
-      "title": "fix(browser): preserve video recording timing",
-      "url": "https://github.com/browser-use/browser-use/pull/4845",
+      "number": 4850,
+      "title": "fix(security): block special-scheme domain bypasses",
+      "url": "https://github.com/browser-use/browser-use/pull/4850",
       "author": "pragnyanramtha",
-      "at": "2026-05-16T08:03:38Z"
+      "at": "2026-05-16T23:51:40Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3439,
+      "title": "[Bug]: React hydration error #418 + 404s on toolkit detail pages + broken analytics",
+      "url": "https://github.com/ComposioHQ/composio/issues/3439",
+      "author": "aptsalt",
+      "at": "2026-05-17T06:22:38Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3435,
-      "title": "feat(connected-accounts): rename experimental updateAcl to updateSharing",
-      "url": "https://github.com/ComposioHQ/composio/pull/3435",
-      "author": "venkat82",
-      "at": "2026-05-16T01:30:42Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3434,
-      "title": "feat(connected-accounts-py): rename update_acl to update_sharing",
-      "url": "https://github.com/ComposioHQ/composio/pull/3434",
-      "author": "venkat82",
-      "at": "2026-05-16T01:26:40Z"
+      "number": 3438,
+      "title": "fix(providers): normalize string tool input in Anthropic, Google, LangChain",
+      "url": "https://github.com/ComposioHQ/composio/pull/3438",
+      "author": "aptsalt",
+      "at": "2026-05-17T06:22:11Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2307,
-      "title": "fix(validation): harden llm_validator prompt isolation",
-      "url": "https://github.com/567-labs/instructor/pull/2307",
-      "author": "amingclawdev",
-      "at": "2026-05-15T21:36:18Z"
+      "number": 2308,
+      "title": "fix: stream array-root JSON extraction",
+      "url": "https://github.com/567-labs/instructor/pull/2308",
+      "author": "pragnyanramtha",
+      "at": "2026-05-17T03:05:00Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37473,
+      "title": "feat(core): add `&` operator as declarative shorthand for RunnableParallel",
+      "url": "https://github.com/langchain-ai/langchain/issues/37473",
+      "author": "subhani2108",
+      "at": "2026-05-16T16:55:13Z"
     },
     {
       "founder": "Harrison Chase",
@@ -73,55 +84,55 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93894,
-      "title": "Polish instant fix cards and validation messages",
-      "url": "https://github.com/vercel/next.js/pull/93894",
-      "author": "aurorascharff",
-      "at": "2026-05-16T13:48:27Z"
+      "number": 93898,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/93898",
+      "author": "vercel-release-bot",
+      "at": "2026-05-17T00:37:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 93893,
-      "title": "Clarify barrel loader export map comment",
-      "url": "https://github.com/vercel/next.js/pull/93893",
-      "author": "2wndrhs",
-      "at": "2026-05-16T13:12:22Z"
+      "kind": "issue",
+      "number": 93897,
+      "title": "%%drp...%% params leaking into generateStaticParams() during build with Cache Components.",
+      "url": "https://github.com/vercel/next.js/issues/93897",
+      "author": "alexortizl",
+      "at": "2026-05-16T20:09:42Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46020,
-      "title": "fix(self-hosted): add jwt issue env var to auth config",
-      "url": "https://github.com/supabase/supabase/pull/46020",
-      "author": "aantti",
-      "at": "2026-05-16T10:48:26Z"
+      "number": 46034,
+      "title": "fix(design-system): improve responsiveness of copywriting components",
+      "url": "https://github.com/supabase/supabase/pull/46034",
+      "author": "hasithasandunlakshan",
+      "at": "2026-05-17T03:44:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46018,
-      "title": "docs: update Prisma Quickstart Guide for Prisma v7",
-      "url": "https://github.com/supabase/supabase/pull/46018",
-      "author": "HariNayan",
-      "at": "2026-05-16T09:52:45Z"
+      "kind": "issue",
+      "number": 46033,
+      "title": "design-system: ComponentPreview layout clips and breaks responsiveness on mobile viewports",
+      "url": "https://github.com/supabase/supabase/issues/46033",
+      "author": "hasithasandunlakshan",
+      "at": "2026-05-17T03:18:39Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "pr",
-      "number": 2230,
-      "title": "feat!: update @clack/prompts dependency",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2230",
-      "author": "gameroman",
-      "at": "2026-05-15T19:47:52Z"
+      "number": 1605,
+      "title": "[codex] fix CLI auth invalid token error",
+      "url": "https://github.com/julep-ai/julep/pull/1605",
+      "author": "pragnyanramtha",
+      "at": "2026-05-16T18:31:07Z"
     }
   ]
 }
