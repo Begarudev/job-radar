@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-17T14:53:15.992Z",
+  "updatedAt": "2026-05-18T06:57:06.109Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 4858,
+      "title": "fix(session): detect CDP reconnect flapping (#4471 Part 2)",
+      "url": "https://github.com/browser-use/browser-use/pull/4858",
+      "author": "wtfashwin",
+      "at": "2026-05-17T16:14:39Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-05-17T11:08:57Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4856,
-      "title": "docs: clarify integration example placement",
-      "url": "https://github.com/browser-use/browser-use/pull/4856",
-      "author": "felix-windsor",
-      "at": "2026-05-17T11:05:44Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3444,
+      "title": "RFC: Deterministic policy-as-code firewalls for Composio outbound tool schemas",
+      "url": "https://github.com/ComposioHQ/composio/issues/3444",
+      "author": "beebeeVB",
+      "at": "2026-05-17T19:29:05Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +47,15 @@
       "at": "2026-05-17T13:28:13Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3442,
-      "title": "[Performance]: Telemetry flush blocks the main thread (annotated @TODO in code)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3442",
-      "author": "aptsalt",
-      "at": "2026-05-17T06:26:09Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2311,
+      "title": "docs(examples): add medication-adherence triage example for Anthropic Claude",
+      "url": "https://github.com/567-labs/instructor/pull/2311",
+      "author": "Manas103",
+      "at": "2026-05-17T20:59:58Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +69,70 @@
       "at": "2026-05-17T12:49:13Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2309,
-      "title": "fix(gemini,vertexai): raise descriptive ImportError when jsonref is missing",
-      "url": "https://github.com/567-labs/instructor/pull/2309",
-      "author": "xodn348",
-      "at": "2026-05-17T07:14:39Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37488,
+      "title": "feat(text-splitters): add SemanticCohesionSplitter with adaptive Max-Min cohesion threshold",
+      "url": "https://github.com/langchain-ai/langchain/issues/37488",
+      "author": "GodweiLL",
+      "at": "2026-05-18T06:14:53Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37473,
-      "title": "feat(core): add `&` operator as declarative shorthand for RunnableParallel",
-      "url": "https://github.com/langchain-ai/langchain/issues/37473",
-      "author": "subhani2108",
-      "at": "2026-05-16T16:55:13Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 93905,
-      "title": "Bug: Scripts disabled due to cache error when navigating back via browser history (Regression) Next JS 16.2.6",
-      "url": "https://github.com/vercel/next.js/issues/93905",
-      "author": "barisdemirr",
-      "at": "2026-05-17T13:57:26Z"
+      "number": 37452,
+      "title": "`Chroma.update_document()` fails when `Document` metadata is omitted",
+      "url": "https://github.com/langchain-ai/langchain/issues/37452",
+      "author": "k-smanis",
+      "at": "2026-05-15T18:04:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93904,
-      "title": "fix: add CSP nonce to component chunk scripts",
-      "url": "https://github.com/vercel/next.js/pull/93904",
-      "author": "IxayWolf",
-      "at": "2026-05-17T11:59:11Z"
+      "number": 93910,
+      "title": "Phase 1a: create empty turbo-tasks-handle crate",
+      "url": "https://github.com/vercel/next.js/pull/93910",
+      "author": "lukesandberg",
+      "at": "2026-05-18T06:48:20Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 93907,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/93907",
+      "author": "vercel-release-bot",
+      "at": "2026-05-18T00:37:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46038,
-      "title": "fix(self-hosted): add depends_on analytics for vector",
-      "url": "https://github.com/supabase/supabase/pull/46038",
-      "author": "aantti",
-      "at": "2026-05-17T14:03:04Z"
+      "number": 46054,
+      "title": "chore(design-system): remove Admonition label alias",
+      "url": "https://github.com/supabase/supabase/pull/46054",
+      "author": "dnywh",
+      "at": "2026-05-18T05:54:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46037,
-      "title": "fix(studio): make cron log query backend-agnostic",
-      "url": "https://github.com/supabase/supabase/pull/46037",
-      "author": "aantti",
-      "at": "2026-05-17T11:26:58Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1605,
-      "title": "[codex] fix CLI auth invalid token error",
-      "url": "https://github.com/julep-ai/julep/pull/1605",
-      "author": "pragnyanramtha",
-      "at": "2026-05-16T18:31:07Z"
+      "number": 46053,
+      "title": "chore(docs): migrate Admonition labels to titles",
+      "url": "https://github.com/supabase/supabase/pull/46053",
+      "author": "dnywh",
+      "at": "2026-05-18T05:44:48Z"
     }
   ]
 }
