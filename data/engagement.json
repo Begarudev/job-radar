@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-05-18T06:57:06.109Z",
-  "count": 12,
+  "updatedAt": "2026-05-18T16:45:26.429Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4858,
-      "title": "fix(session): detect CDP reconnect flapping (#4471 Part 2)",
-      "url": "https://github.com/browser-use/browser-use/pull/4858",
-      "author": "wtfashwin",
-      "at": "2026-05-17T16:14:39Z"
+      "number": 4859,
+      "title": "fix(browser): exclude chrome-extension:// targets from get_all_page_targets",
+      "url": "https://github.com/browser-use/browser-use/pull/4859",
+      "author": "mrvenom17",
+      "at": "2026-05-18T16:03:09Z"
     },
     {
       "founder": "Magnus Müller",
@@ -28,23 +28,23 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3445,
+      "title": "docs: update CLAUDE.md for composio",
+      "url": "https://github.com/ComposioHQ/composio/pull/3445",
+      "author": "zen-agent",
+      "at": "2026-05-18T09:25:09Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
       "number": 3444,
       "title": "RFC: Deterministic policy-as-code firewalls for Composio outbound tool schemas",
       "url": "https://github.com/ComposioHQ/composio/issues/3444",
       "author": "beebeeVB",
       "at": "2026-05-17T19:29:05Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3443,
-      "title": "[Phase 1] Reorganize docs sidebar structure",
-      "url": "https://github.com/ComposioHQ/composio/pull/3443",
-      "author": "palash-c",
-      "at": "2026-05-17T13:28:13Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,11 +62,11 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2310,
-      "title": "docs: fix semantic validation link",
-      "url": "https://github.com/567-labs/instructor/pull/2310",
-      "author": "ynachiket",
-      "at": "2026-05-17T12:49:13Z"
+      "number": 2306,
+      "title": "feat(minimax): add MiniMax provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2306",
+      "author": "Bhavyashah20",
+      "at": "2026-05-14T20:24:08Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,44 +95,55 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93910,
-      "title": "Phase 1a: create empty turbo-tasks-handle crate",
-      "url": "https://github.com/vercel/next.js/pull/93910",
-      "author": "lukesandberg",
-      "at": "2026-05-18T06:48:20Z"
+      "number": 93921,
+      "title": "Remove vercel approvers",
+      "url": "https://github.com/vercel/next.js/pull/93921",
+      "author": "gnoff",
+      "at": "2026-05-18T16:40:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93907,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/93907",
-      "author": "vercel-release-bot",
-      "at": "2026-05-18T00:37:44Z"
+      "number": 93919,
+      "title": "[backport] Fix server action forwarding loop with middleware rewrites",
+      "url": "https://github.com/vercel/next.js/pull/93919",
+      "author": "unstubbable",
+      "at": "2026-05-18T14:50:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46054,
-      "title": "chore(design-system): remove Admonition label alias",
-      "url": "https://github.com/supabase/supabase/pull/46054",
-      "author": "dnywh",
-      "at": "2026-05-18T05:54:54Z"
+      "number": 46075,
+      "title": "fix(studio): use measured node heights for instance diagram layout",
+      "url": "https://github.com/supabase/supabase/pull/46075",
+      "author": "charislam",
+      "at": "2026-05-18T16:38:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46053,
-      "title": "chore(docs): migrate Admonition labels to titles",
-      "url": "https://github.com/supabase/supabase/pull/46053",
-      "author": "dnywh",
-      "at": "2026-05-18T05:44:48Z"
+      "number": 46074,
+      "title": "chore: remove NoticeBanner2",
+      "url": "https://github.com/supabase/supabase/pull/46074",
+      "author": "charislam",
+      "at": "2026-05-18T15:21:19Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1606,
+      "title": "fix: guard against empty/filtered LLM responses in CLI and API utils",
+      "url": "https://github.com/julep-ai/julep/pull/1606",
+      "author": "qizwiz",
+      "at": "2026-05-18T09:27:54Z"
     }
   ]
 }
