@@ -1,61 +1,72 @@
 {
-  "updatedAt": "2026-05-18T16:45:26.429Z",
-  "count": 13,
+  "updatedAt": "2026-05-19T06:49:11.780Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4859,
-      "title": "fix(browser): exclude chrome-extension:// targets from get_all_page_targets",
-      "url": "https://github.com/browser-use/browser-use/pull/4859",
-      "author": "mrvenom17",
-      "at": "2026-05-18T16:03:09Z"
+      "number": 4871,
+      "title": "fix(tools): refuse evaluate() on restricted browser profiles",
+      "url": "https://github.com/browser-use/browser-use/pull/4871",
+      "author": "sauravpanda",
+      "at": "2026-05-19T01:30:27Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4857,
-      "title": "feat(cli): add extension diagnostics to doctor",
-      "url": "https://github.com/browser-use/browser-use/pull/4857",
-      "author": "felix-windsor",
-      "at": "2026-05-17T11:08:57Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3445,
-      "title": "docs: update CLAUDE.md for composio",
-      "url": "https://github.com/ComposioHQ/composio/pull/3445",
-      "author": "zen-agent",
-      "at": "2026-05-18T09:25:09Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3444,
-      "title": "RFC: Deterministic policy-as-code firewalls for Composio outbound tool schemas",
-      "url": "https://github.com/ComposioHQ/composio/issues/3444",
-      "author": "beebeeVB",
-      "at": "2026-05-17T19:29:05Z"
+      "number": 4868,
+      "title": "Bug: browser-use 0.12.6 requires anthropic==0.76.0, but you have anthropic 0.102.0 which is incompatible.",
+      "url": "https://github.com/browser-use/browser-use/issues/4868",
+      "author": "badaboot",
+      "at": "2026-05-18T21:22:11Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.12.7 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.12.7",
+      "author": "sauravpanda",
+      "at": "2026-05-19T01:11:20Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3450,
+      "title": "fix(cli): make output more LLM friendly",
+      "url": "https://github.com/ComposioHQ/composio/pull/3450",
+      "author": "CryogenicPlanet",
+      "at": "2026-05-19T06:20:12Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3449,
+      "title": "fix(cli): make permission allows expire after one hour",
+      "url": "https://github.com/ComposioHQ/composio/pull/3449",
+      "author": "CryogenicPlanet",
+      "at": "2026-05-19T06:02:34Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2311,
-      "title": "docs(examples): add medication-adherence triage example for Anthropic Claude",
-      "url": "https://github.com/567-labs/instructor/pull/2311",
-      "author": "Manas103",
-      "at": "2026-05-17T20:59:58Z"
+      "number": 2312,
+      "title": "fix(json): support array-root JSON in extract_json_from_codeblock",
+      "url": "https://github.com/567-labs/instructor/pull/2312",
+      "author": "rmotgi1227",
+      "at": "2026-05-18T21:11:52Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,6 +84,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 37498,
+      "title": "langchain-openrouter: ChatOpenRouter creates fresh httpx clients per instantiation (no default-client caching)",
+      "url": "https://github.com/langchain-ai/langchain/issues/37498",
+      "author": "arturbagramyan1",
+      "at": "2026-05-18T18:29:51Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 37488,
       "title": "feat(text-splitters): add SemanticCohesionSplitter with adaptive Max-Min cohesion threshold",
       "url": "https://github.com/langchain-ai/langchain/issues/37488",
@@ -80,59 +102,26 @@
       "at": "2026-05-18T06:14:53Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37452,
-      "title": "`Chroma.update_document()` fails when `Document` metadata is omitted",
-      "url": "https://github.com/langchain-ai/langchain/issues/37452",
-      "author": "k-smanis",
-      "at": "2026-05-15T18:04:15Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 93929,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/93929",
+      "author": "vercel-release-bot",
+      "at": "2026-05-19T00:39:50Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93921,
-      "title": "Remove vercel approvers",
-      "url": "https://github.com/vercel/next.js/pull/93921",
-      "author": "gnoff",
-      "at": "2026-05-18T16:40:17Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 93919,
-      "title": "[backport] Fix server action forwarding loop with middleware rewrites",
-      "url": "https://github.com/vercel/next.js/pull/93919",
-      "author": "unstubbable",
-      "at": "2026-05-18T14:50:02Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46075,
-      "title": "fix(studio): use measured node heights for instance diagram layout",
-      "url": "https://github.com/supabase/supabase/pull/46075",
-      "author": "charislam",
-      "at": "2026-05-18T16:38:48Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46074,
-      "title": "chore: remove NoticeBanner2",
-      "url": "https://github.com/supabase/supabase/pull/46074",
-      "author": "charislam",
-      "at": "2026-05-18T15:21:19Z"
+      "number": 93927,
+      "title": "chore: migrate auth0 to app folder",
+      "url": "https://github.com/vercel/next.js/pull/93927",
+      "author": "imevanc",
+      "at": "2026-05-18T23:07:33Z"
     },
     {
       "founder": "Diwank Tomer",
