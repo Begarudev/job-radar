@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-19T06:49:11.780Z",
-  "count": 12,
+  "updatedAt": "2026-05-19T16:48:37.764Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -36,28 +36,6 @@
       "at": "2026-05-19T01:11:20Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3450,
-      "title": "fix(cli): make output more LLM friendly",
-      "url": "https://github.com/ComposioHQ/composio/pull/3450",
-      "author": "CryogenicPlanet",
-      "at": "2026-05-19T06:20:12Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3449,
-      "title": "fix(cli): make permission allows expire after one hour",
-      "url": "https://github.com/ComposioHQ/composio/pull/3449",
-      "author": "CryogenicPlanet",
-      "at": "2026-05-19T06:02:34Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
@@ -69,70 +47,59 @@
       "at": "2026-05-18T21:11:52Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2306,
-      "title": "feat(minimax): add MiniMax provider support",
-      "url": "https://github.com/567-labs/instructor/pull/2306",
-      "author": "Bhavyashah20",
-      "at": "2026-05-14T20:24:08Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37498,
-      "title": "langchain-openrouter: ChatOpenRouter creates fresh httpx clients per instantiation (no default-client caching)",
-      "url": "https://github.com/langchain-ai/langchain/issues/37498",
-      "author": "arturbagramyan1",
-      "at": "2026-05-18T18:29:51Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37488,
-      "title": "feat(text-splitters): add SemanticCohesionSplitter with adaptive Max-Min cohesion threshold",
-      "url": "https://github.com/langchain-ai/langchain/issues/37488",
-      "author": "GodweiLL",
-      "at": "2026-05-18T06:14:53Z"
+      "number": 37523,
+      "title": "chore: unify core versions in text-splitters.",
+      "url": "https://github.com/langchain-ai/langchain/pull/37523",
+      "author": "zhanluxianshen",
+      "at": "2026-05-19T07:33:57Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93929,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/93929",
-      "author": "vercel-release-bot",
-      "at": "2026-05-19T00:39:50Z"
+      "number": 93941,
+      "title": "test: migrate webdriver callers to next.browser",
+      "url": "https://github.com/vercel/next.js/pull/93941",
+      "author": "timneutkens",
+      "at": "2026-05-19T14:38:34Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93927,
-      "title": "chore: migrate auth0 to app folder",
-      "url": "https://github.com/vercel/next.js/pull/93927",
-      "author": "imevanc",
-      "at": "2026-05-18T23:07:33Z"
+      "number": 93939,
+      "title": "Add dev-loop skill for runtime verification during next dev",
+      "url": "https://github.com/vercel/next.js/pull/93939",
+      "author": "gaojude",
+      "at": "2026-05-19T13:16:00Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 1606,
-      "title": "fix: guard against empty/filtered LLM responses in CLI and API utils",
-      "url": "https://github.com/julep-ai/julep/pull/1606",
-      "author": "qizwiz",
-      "at": "2026-05-18T09:27:54Z"
+      "number": 46116,
+      "title": "fix(upcomingInvoice): do not manually subtract credits",
+      "url": "https://github.com/supabase/supabase/pull/46116",
+      "author": "juleswritescode",
+      "at": "2026-05-19T16:06:36Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46115,
+      "title": "cant sing into account or setn link ot acess iut",
+      "url": "https://github.com/supabase/supabase/issues/46115",
+      "author": "DemlerBrothersApp",
+      "at": "2026-05-19T15:56:48Z"
     }
   ]
 }
