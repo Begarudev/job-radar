@@ -1,105 +1,116 @@
 {
-  "updatedAt": "2026-05-19T16:48:37.764Z",
-  "count": 9,
+  "updatedAt": "2026-05-20T06:49:21.789Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4871,
-      "title": "fix(tools): refuse evaluate() on restricted browser profiles",
-      "url": "https://github.com/browser-use/browser-use/pull/4871",
-      "author": "sauravpanda",
-      "at": "2026-05-19T01:30:27Z"
+      "number": 4875,
+      "title": "fix(cdp): prevent indefinite hangs on remote browsers via DOMWatchdog timeouts",
+      "url": "https://github.com/browser-use/browser-use/pull/4875",
+      "author": "Parth-001-git",
+      "at": "2026-05-20T06:19:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4868,
-      "title": "Bug: browser-use 0.12.6 requires anthropic==0.76.0, but you have anthropic 0.102.0 which is incompatible.",
-      "url": "https://github.com/browser-use/browser-use/issues/4868",
-      "author": "badaboot",
-      "at": "2026-05-18T21:22:11Z"
+      "kind": "pr",
+      "number": 4874,
+      "title": "feat: add token usage tracking and Prometheus /metrics endpoint",
+      "url": "https://github.com/browser-use/browser-use/pull/4874",
+      "author": "zangxin75",
+      "at": "2026-05-20T04:39:23Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.12.7 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.12.7",
-      "author": "sauravpanda",
-      "at": "2026-05-19T01:11:20Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3465,
+      "title": "docs: dark mode, navbar polish, scroll reset, platform→dashboard rename",
+      "url": "https://github.com/ComposioHQ/composio/pull/3465",
+      "author": "Malayvasa",
+      "at": "2026-05-20T06:07:10Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3463,
+      "title": "feat(core): add AbortSignal cancellation to public SDK methods + ComposioRequestCancelledError",
+      "url": "https://github.com/ComposioHQ/composio/pull/3463",
+      "author": "zen-agent",
+      "at": "2026-05-20T04:47:17Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2312,
-      "title": "fix(json): support array-root JSON in extract_json_from_codeblock",
-      "url": "https://github.com/567-labs/instructor/pull/2312",
-      "author": "rmotgi1227",
-      "at": "2026-05-18T21:11:52Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37523,
-      "title": "chore: unify core versions in text-splitters.",
-      "url": "https://github.com/langchain-ai/langchain/pull/37523",
-      "author": "zhanluxianshen",
-      "at": "2026-05-19T07:33:57Z"
+      "number": 2313,
+      "title": "Convert ruff.yaml github actions workflow to buildkite",
+      "url": "https://github.com/567-labs/instructor/pull/2313",
+      "author": "mattymejia",
+      "at": "2026-05-19T22:54:51Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93941,
-      "title": "test: migrate webdriver callers to next.browser",
-      "url": "https://github.com/vercel/next.js/pull/93941",
-      "author": "timneutkens",
-      "at": "2026-05-19T14:38:34Z"
+      "number": 93958,
+      "title": "docs: Fix broken link to Node.js Debugging Guide",
+      "url": "https://github.com/vercel/next.js/pull/93958",
+      "author": "gilest",
+      "at": "2026-05-20T02:11:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93939,
-      "title": "Add dev-loop skill for runtime verification during next dev",
-      "url": "https://github.com/vercel/next.js/pull/93939",
-      "author": "gaojude",
-      "at": "2026-05-19T13:16:00Z"
+      "number": 93957,
+      "title": "[ci] Give the build cache in cache in build_and_deploy a more obvious name, not just a hash and run number",
+      "url": "https://github.com/vercel/next.js/pull/93957",
+      "author": "bgw",
+      "at": "2026-05-20T01:29:50Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46116,
-      "title": "fix(upcomingInvoice): do not manually subtract credits",
-      "url": "https://github.com/supabase/supabase/pull/46116",
-      "author": "juleswritescode",
-      "at": "2026-05-19T16:06:36Z"
+      "number": 46134,
+      "title": "Joshen/debug 110 default unified logs search to event message",
+      "url": "https://github.com/supabase/supabase/pull/46134",
+      "author": "joshenlim",
+      "at": "2026-05-20T05:51:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46132,
+      "title": "Set default size for filter side bar unified logs",
+      "url": "https://github.com/supabase/supabase/pull/46132",
+      "author": "joshenlim",
+      "at": "2026-05-20T04:59:19Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
       "kind": "issue",
-      "number": 46115,
-      "title": "cant sing into account or setn link ot acess iut",
-      "url": "https://github.com/supabase/supabase/issues/46115",
-      "author": "DemlerBrothersApp",
-      "at": "2026-05-19T15:56:48Z"
+      "number": 2231,
+      "title": "bug: Package.ts file is crap!! pls change it to the below code",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2231",
+      "author": "M-Vishal-11",
+      "at": "2026-05-20T02:29:34Z"
     }
   ]
 }
