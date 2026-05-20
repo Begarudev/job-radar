@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-20T06:49:21.789Z",
-  "count": 10,
+  "updatedAt": "2026-05-20T16:53:30.366Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -29,77 +29,99 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3465,
-      "title": "docs: dark mode, navbar polish, scroll reset, platform→dashboard rename",
-      "url": "https://github.com/ComposioHQ/composio/pull/3465",
-      "author": "Malayvasa",
-      "at": "2026-05-20T06:07:10Z"
+      "number": 3469,
+      "title": "fix(security): bump authlib to 1.7.2 (GHSA-wvwj-cvrp-7pv5)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3469",
+      "author": "zen-agent",
+      "at": "2026-05-20T10:41:32Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3463,
-      "title": "feat(core): add AbortSignal cancellation to public SDK methods + ComposioRequestCancelledError",
-      "url": "https://github.com/ComposioHQ/composio/pull/3463",
-      "author": "zen-agent",
-      "at": "2026-05-20T04:47:17Z"
+      "kind": "issue",
+      "number": 3468,
+      "title": "LinkedIn CREATE_POST fails with 426 - API version 20241101 no longer active",
+      "url": "https://github.com/ComposioHQ/composio/issues/3468",
+      "author": "baruchklein",
+      "at": "2026-05-20T10:18:15Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2313,
-      "title": "Convert ruff.yaml github actions workflow to buildkite",
-      "url": "https://github.com/567-labs/instructor/pull/2313",
-      "author": "mattymejia",
-      "at": "2026-05-19T22:54:51Z"
+      "number": 2315,
+      "title": "fix(v2): forward provider modes from auto client",
+      "url": "https://github.com/567-labs/instructor/pull/2315",
+      "author": "jxnl-oai",
+      "at": "2026-05-20T14:31:45Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 37579,
+      "title": "feat(langchain): add `interrupt_mode` and `when` predicate to `HumanInTheLoopMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/37579",
+      "author": "sydney-runkle",
+      "at": "2026-05-20T15:07:48Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37576,
+      "title": "anthropic: base64 file blocks with non-PDF text mime types fail with media_type validation error",
+      "url": "https://github.com/langchain-ai/langchain/issues/37576",
+      "author": "rotem1850",
+      "at": "2026-05-20T10:04:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93958,
-      "title": "docs: Fix broken link to Node.js Debugging Guide",
-      "url": "https://github.com/vercel/next.js/pull/93958",
-      "author": "gilest",
-      "at": "2026-05-20T02:11:52Z"
+      "number": 93979,
+      "title": "fix(deps): bump @vercel/nft@1.5.0",
+      "url": "https://github.com/vercel/next.js/pull/93979",
+      "author": "styfle",
+      "at": "2026-05-20T14:52:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93957,
-      "title": "[ci] Give the build cache in cache in build_and_deploy a more obvious name, not just a hash and run number",
-      "url": "https://github.com/vercel/next.js/pull/93957",
-      "author": "bgw",
-      "at": "2026-05-20T01:29:50Z"
+      "number": 93978,
+      "title": "request insights: add DevTools request panel (5/5)",
+      "url": "https://github.com/vercel/next.js/pull/93978",
+      "author": "feedthejim",
+      "at": "2026-05-20T14:45:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46134,
-      "title": "Joshen/debug 110 default unified logs search to event message",
-      "url": "https://github.com/supabase/supabase/pull/46134",
-      "author": "joshenlim",
-      "at": "2026-05-20T05:51:37Z"
+      "number": 46173,
+      "title": "feat(self-hosted): add new API keys to self-hosted Studio and MCP server",
+      "url": "https://github.com/supabase/supabase/pull/46173",
+      "author": "aantti",
+      "at": "2026-05-20T16:12:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46132,
-      "title": "Set default size for filter side bar unified logs",
-      "url": "https://github.com/supabase/supabase/pull/46132",
-      "author": "joshenlim",
-      "at": "2026-05-20T04:59:19Z"
+      "number": 46172,
+      "title": "chore(docs): use more restrictive RLS policies for storage in example projects",
+      "url": "https://github.com/supabase/supabase/pull/46172",
+      "author": "itslenny",
+      "at": "2026-05-20T15:25:58Z"
     },
     {
       "founder": "Theo Browne",
