@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T16:53:30.366Z",
+  "updatedAt": "2026-05-21T06:53:47.616Z",
   "count": 12,
   "signals": [
     {
@@ -17,12 +17,23 @@
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4874,
-      "title": "feat: add token usage tracking and Prometheus /metrics endpoint",
-      "url": "https://github.com/browser-use/browser-use/pull/4874",
-      "author": "zangxin75",
-      "at": "2026-05-20T04:39:23Z"
+      "kind": "issue",
+      "number": 4860,
+      "title": "Feature Request: Session replay / task audit trail for agent runs",
+      "url": "https://github.com/browser-use/browser-use/issues/4860",
+      "author": "Ruthwik-Data",
+      "at": "2026-05-18T18:07:35Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3470,
+      "title": "Google Ads tools hardcode customer_id from first-connected account, ignoring connectedAccountId",
+      "url": "https://github.com/ComposioHQ/composio/issues/3470",
+      "author": "mishaal-cloud",
+      "at": "2026-05-20T21:21:24Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -34,17 +45,6 @@
       "url": "https://github.com/ComposioHQ/composio/pull/3469",
       "author": "zen-agent",
       "at": "2026-05-20T10:41:32Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3468,
-      "title": "LinkedIn CREATE_POST fails with 426 - API version 20241101 no longer active",
-      "url": "https://github.com/ComposioHQ/composio/issues/3468",
-      "author": "baruchklein",
-      "at": "2026-05-20T10:18:15Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,78 +61,78 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37579,
-      "title": "feat(langchain): add `interrupt_mode` and `when` predicate to `HumanInTheLoopMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/37579",
-      "author": "sydney-runkle",
-      "at": "2026-05-20T15:07:48Z"
+      "kind": "issue",
+      "number": 37596,
+      "title": "ChatAnthropic.bind_tools mutates caller-provided tool_choice dict",
+      "url": "https://github.com/langchain-ai/langchain/issues/37596",
+      "author": "WOLIKIMCHENG",
+      "at": "2026-05-21T03:03:25Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37576,
-      "title": "anthropic: base64 file blocks with non-PDF text mime types fail with media_type validation error",
-      "url": "https://github.com/langchain-ai/langchain/issues/37576",
-      "author": "rotem1850",
-      "at": "2026-05-20T10:04:52Z"
+      "kind": "pr",
+      "number": 37592,
+      "title": "test(standard-tests): allow extra content blocks in streaming assertions",
+      "url": "https://github.com/langchain-ai/langchain/pull/37592",
+      "author": "mdrxy",
+      "at": "2026-05-21T02:01:50Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93979,
-      "title": "fix(deps): bump @vercel/nft@1.5.0",
-      "url": "https://github.com/vercel/next.js/pull/93979",
-      "author": "styfle",
-      "at": "2026-05-20T14:52:32Z"
+      "number": 94012,
+      "title": "Enable experimental.cachedNavigations by default with cacheComponents",
+      "url": "https://github.com/vercel/next.js/pull/94012",
+      "author": "acdlite",
+      "at": "2026-05-21T04:42:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 93978,
-      "title": "request insights: add DevTools request panel (5/5)",
-      "url": "https://github.com/vercel/next.js/pull/93978",
-      "author": "feedthejim",
-      "at": "2026-05-20T14:45:35Z"
+      "number": 94011,
+      "title": "Enable experimental.optimisticRouting by default",
+      "url": "https://github.com/vercel/next.js/pull/94011",
+      "author": "acdlite",
+      "at": "2026-05-21T04:42:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46173,
-      "title": "feat(self-hosted): add new API keys to self-hosted Studio and MCP server",
-      "url": "https://github.com/supabase/supabase/pull/46173",
-      "author": "aantti",
-      "at": "2026-05-20T16:12:33Z"
+      "number": 46191,
+      "title": "Joshen/fe 3432 show maintenance banners only for affected project regions",
+      "url": "https://github.com/supabase/supabase/pull/46191",
+      "author": "joshenlim",
+      "at": "2026-05-21T06:20:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46172,
-      "title": "chore(docs): use more restrictive RLS policies for storage in example projects",
-      "url": "https://github.com/supabase/supabase/pull/46172",
-      "author": "itslenny",
-      "at": "2026-05-20T15:25:58Z"
+      "number": 46190,
+      "title": "fix(studio): work around Vercel build OOM",
+      "url": "https://github.com/supabase/supabase/pull/46190",
+      "author": "alaister",
+      "at": "2026-05-21T05:49:57Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2231,
-      "title": "bug: Package.ts file is crap!! pls change it to the below code",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2231",
-      "author": "M-Vishal-11",
-      "at": "2026-05-20T02:29:34Z"
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1607,
+      "title": "docs: Add FAQ section for common questions",
+      "url": "https://github.com/julep-ai/julep/pull/1607",
+      "author": "meichuanyi",
+      "at": "2026-05-21T03:13:25Z"
     }
   ]
 }
