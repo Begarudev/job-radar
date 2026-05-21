@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T06:53:47.616Z",
+  "updatedAt": "2026-05-21T16:37:17.633Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4875,
-      "title": "fix(cdp): prevent indefinite hangs on remote browsers via DOMWatchdog timeouts",
-      "url": "https://github.com/browser-use/browser-use/pull/4875",
-      "author": "Parth-001-git",
-      "at": "2026-05-20T06:19:00Z"
+      "number": 4878,
+      "title": "fix: relax Anthropic dependency pin",
+      "url": "https://github.com/browser-use/browser-use/pull/4878",
+      "author": "he-yufeng",
+      "at": "2026-05-21T10:19:42Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4860,
-      "title": "Feature Request: Session replay / task audit trail for agent runs",
-      "url": "https://github.com/browser-use/browser-use/issues/4860",
-      "author": "Ruthwik-Data",
-      "at": "2026-05-18T18:07:35Z"
+      "number": 4877,
+      "title": "Bug: ...pip dependency conflicts due to strict exact-pins (==) in pyproject.toml",
+      "url": "https://github.com/browser-use/browser-use/issues/4877",
+      "author": "Ito-69",
+      "at": "2026-05-21T10:04:24Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,22 +40,22 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3469,
-      "title": "fix(security): bump authlib to 1.7.2 (GHSA-wvwj-cvrp-7pv5)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3469",
+      "number": 3463,
+      "title": "feat(core): add AbortSignal cancellation to public SDK methods + ComposioRequestCancelledError",
+      "url": "https://github.com/ComposioHQ/composio/pull/3463",
       "author": "zen-agent",
-      "at": "2026-05-20T10:41:32Z"
+      "at": "2026-05-20T04:47:17Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2315,
-      "title": "fix(v2): forward provider modes from auto client",
-      "url": "https://github.com/567-labs/instructor/pull/2315",
-      "author": "jxnl-oai",
-      "at": "2026-05-20T14:31:45Z"
+      "kind": "issue",
+      "number": 2316,
+      "title": "Feature request: OWASP ASI06 memory poisoning defense for structured output agents",
+      "url": "https://github.com/567-labs/instructor/issues/2316",
+      "author": "vgudur-dev",
+      "at": "2026-05-21T15:06:48Z"
     },
     {
       "founder": "Harrison Chase",
@@ -84,44 +84,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94012,
-      "title": "Enable experimental.cachedNavigations by default with cacheComponents",
-      "url": "https://github.com/vercel/next.js/pull/94012",
-      "author": "acdlite",
-      "at": "2026-05-21T04:42:10Z"
+      "number": 94023,
+      "title": "lru audit data",
+      "url": "https://github.com/vercel/next.js/pull/94023",
+      "author": "lukesandberg",
+      "at": "2026-05-21T16:24:49Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94011,
-      "title": "Enable experimental.optimisticRouting by default",
-      "url": "https://github.com/vercel/next.js/pull/94011",
-      "author": "acdlite",
-      "at": "2026-05-21T04:42:06Z"
+      "number": 94022,
+      "title": "[turbopack] Disable ctor under RA",
+      "url": "https://github.com/vercel/next.js/pull/94022",
+      "author": "lukesandberg",
+      "at": "2026-05-21T16:24:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46191,
-      "title": "Joshen/fe 3432 show maintenance banners only for affected project regions",
-      "url": "https://github.com/supabase/supabase/pull/46191",
-      "author": "joshenlim",
-      "at": "2026-05-21T06:20:12Z"
+      "number": 46230,
+      "title": "fix(connect-sheet): remove invalid Codex MCP config step",
+      "url": "https://github.com/supabase/supabase/pull/46230",
+      "author": "Rodriguespn",
+      "at": "2026-05-21T16:33:42Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46190,
-      "title": "fix(studio): work around Vercel build OOM",
-      "url": "https://github.com/supabase/supabase/pull/46190",
-      "author": "alaister",
-      "at": "2026-05-21T05:49:57Z"
+      "number": 46229,
+      "title": "chore: migrate Logs settings `Modal` to `Dialog`",
+      "url": "https://github.com/supabase/supabase/pull/46229",
+      "author": "djhi",
+      "at": "2026-05-21T16:16:46Z"
     },
     {
       "founder": "Diwank Tomer",
