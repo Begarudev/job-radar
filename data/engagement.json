@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T16:37:17.633Z",
+  "updatedAt": "2026-05-22T06:50:01.918Z",
   "count": 12,
   "signals": [
     {
@@ -7,44 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4878,
-      "title": "fix: relax Anthropic dependency pin",
-      "url": "https://github.com/browser-use/browser-use/pull/4878",
-      "author": "he-yufeng",
-      "at": "2026-05-21T10:19:42Z"
+      "number": 4884,
+      "title": "feat: add client header to GoogleChat",
+      "url": "https://github.com/browser-use/browser-use/pull/4884",
+      "author": "markmcd",
+      "at": "2026-05-22T06:23:38Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4877,
-      "title": "Bug: ...pip dependency conflicts due to strict exact-pins (==) in pyproject.toml",
-      "url": "https://github.com/browser-use/browser-use/issues/4877",
-      "author": "Ito-69",
-      "at": "2026-05-21T10:04:24Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3470,
-      "title": "Google Ads tools hardcode customer_id from first-connected account, ignoring connectedAccountId",
-      "url": "https://github.com/ComposioHQ/composio/issues/3470",
-      "author": "mishaal-cloud",
-      "at": "2026-05-20T21:21:24Z"
+      "kind": "pr",
+      "number": 4883,
+      "title": "fix: use timezone-aware config timestamps",
+      "url": "https://github.com/browser-use/browser-use/pull/4883",
+      "author": "Ghraven",
+      "at": "2026-05-22T04:20:36Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3463,
-      "title": "feat(core): add AbortSignal cancellation to public SDK methods + ComposioRequestCancelledError",
-      "url": "https://github.com/ComposioHQ/composio/pull/3463",
-      "author": "zen-agent",
-      "at": "2026-05-20T04:47:17Z"
+      "number": 3473,
+      "title": "fix(sdk): relax ParametersSchema to support empty objects for MCP toolkits",
+      "url": "https://github.com/ComposioHQ/composio/pull/3473",
+      "author": "STiFLeR7",
+      "at": "2026-05-22T05:09:33Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3472,
+      "title": "Composio MCP/API returning HTTP 500 for QBO/tool execution",
+      "url": "https://github.com/ComposioHQ/composio/issues/3472",
+      "author": "Vianne-droid",
+      "at": "2026-05-21T18:55:27Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2317,
+      "title": "fix(retry): emit hook attempt metadata",
+      "url": "https://github.com/567-labs/instructor/pull/2317",
+      "author": "2830500285",
+      "at": "2026-05-22T06:08:34Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,77 +73,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37596,
-      "title": "ChatAnthropic.bind_tools mutates caller-provided tool_choice dict",
-      "url": "https://github.com/langchain-ai/langchain/issues/37596",
-      "author": "WOLIKIMCHENG",
-      "at": "2026-05-21T03:03:25Z"
+      "number": 37619,
+      "title": "bug: RePhraseQueryRetriever._aget_relevant_documents raises NotImplementedError",
+      "url": "https://github.com/langchain-ai/langchain/issues/37619",
+      "author": "eye-gu",
+      "at": "2026-05-22T04:56:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 37592,
-      "title": "test(standard-tests): allow extra content blocks in streaming assertions",
-      "url": "https://github.com/langchain-ai/langchain/pull/37592",
-      "author": "mdrxy",
-      "at": "2026-05-21T02:01:50Z"
+      "number": 37616,
+      "title": "feat(langchain): redact streamed PII in flight on `PIIMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/37616",
+      "author": "nick-hollon-lc",
+      "at": "2026-05-21T19:40:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94023,
-      "title": "lru audit data",
-      "url": "https://github.com/vercel/next.js/pull/94023",
-      "author": "lukesandberg",
-      "at": "2026-05-21T16:24:49Z"
+      "number": 94038,
+      "title": "docs: update Contributor Covenant link to HTTPS",
+      "url": "https://github.com/vercel/next.js/pull/94038",
+      "author": "sgibler-droid",
+      "at": "2026-05-22T06:45:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94022,
-      "title": "[turbopack] Disable ctor under RA",
-      "url": "https://github.com/vercel/next.js/pull/94022",
-      "author": "lukesandberg",
-      "at": "2026-05-21T16:24:47Z"
+      "number": 94037,
+      "title": "Improve notFound recovery in error pathway",
+      "url": "https://github.com/vercel/next.js/pull/94037",
+      "author": "gnoff",
+      "at": "2026-05-22T05:49:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46230,
-      "title": "fix(connect-sheet): remove invalid Codex MCP config step",
-      "url": "https://github.com/supabase/supabase/pull/46230",
-      "author": "Rodriguespn",
-      "at": "2026-05-21T16:33:42Z"
+      "number": 46258,
+      "title": "Bump stroke width of logs icon",
+      "url": "https://github.com/supabase/supabase/pull/46258",
+      "author": "joshenlim",
+      "at": "2026-05-22T06:42:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46229,
-      "title": "chore: migrate Logs settings `Modal` to `Dialog`",
-      "url": "https://github.com/supabase/supabase/pull/46229",
-      "author": "djhi",
-      "at": "2026-05-21T16:16:46Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1607,
-      "title": "docs: Add FAQ section for common questions",
-      "url": "https://github.com/julep-ai/julep/pull/1607",
-      "author": "meichuanyi",
-      "at": "2026-05-21T03:13:25Z"
+      "number": 46255,
+      "title": "feat(indexes): add table filter for indexing dashboard",
+      "url": "https://github.com/supabase/supabase/pull/46255",
+      "author": "hasithasandunlakshan",
+      "at": "2026-05-22T06:05:02Z"
     }
   ]
 }
