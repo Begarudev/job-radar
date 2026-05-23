@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-05-23T06:13:15.701Z",
-  "count": 11,
+  "updatedAt": "2026-05-23T14:57:21.309Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4893,
-      "title": "fix: write text files with utf-8",
-      "url": "https://github.com/browser-use/browser-use/pull/4893",
-      "author": "Ghraven",
-      "at": "2026-05-23T02:50:05Z"
+      "kind": "issue",
+      "number": 4895,
+      "title": "Feature Request: ...",
+      "url": "https://github.com/browser-use/browser-use/issues/4895",
+      "author": "flckv",
+      "at": "2026-05-23T14:24:57Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4892,
-      "title": "feat(llm): surface cached input tokens for OpenAI-compatible providers",
-      "url": "https://github.com/browser-use/browser-use/pull/4892",
-      "author": "sauravpanda",
-      "at": "2026-05-23T01:50:12Z"
+      "number": 4894,
+      "title": "fix: bump openai pin for downstream compatibility",
+      "url": "https://github.com/browser-use/browser-use/pull/4894",
+      "author": "hqn21",
+      "at": "2026-05-23T07:36:02Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -69,59 +69,48 @@
       "at": "2026-05-23T01:21:05Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37642,
-      "title": "Lazy instantiation for fallback models in ModelFallbackMiddleware",
-      "url": "https://github.com/langchain-ai/langchain/issues/37642",
-      "author": "zikrulihsan",
-      "at": "2026-05-23T00:48:46Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94073,
+      "title": "Add Errors/Insights tab split to the instant error overlay",
+      "url": "https://github.com/vercel/next.js/pull/94073",
+      "author": "aurorascharff",
+      "at": "2026-05-23T12:07:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94064,
-      "title": "[ci] Fix the playwright-chromium Dockerfile",
-      "url": "https://github.com/vercel/next.js/pull/94064",
-      "author": "bgw",
-      "at": "2026-05-23T01:16:23Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94062,
-      "title": "Turbopack: reduce hmr chunk list subscriptions",
-      "url": "https://github.com/vercel/next.js/pull/94062",
-      "author": "wbinnssmith",
-      "at": "2026-05-23T00:03:35Z"
+      "number": 94072,
+      "title": "Use default runner Playwright browsers",
+      "url": "https://github.com/vercel/next.js/pull/94072",
+      "author": "timneutkens",
+      "at": "2026-05-23T10:33:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46292,
-      "title": "chore(realtime): add error handling information to protocol page",
-      "url": "https://github.com/supabase/supabase/pull/46292",
-      "author": "filipecabaco",
-      "at": "2026-05-22T23:06:09Z"
+      "number": 46297,
+      "title": "chore(self-hosted): add STORAGE_S3_UPLOAD_PART_SIZE to env vars list",
+      "url": "https://github.com/supabase/supabase/pull/46297",
+      "author": "aantti",
+      "at": "2026-05-23T14:18:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46291,
-      "title": "brew on linux not updated to the latest supabase cli version",
-      "url": "https://github.com/supabase/supabase/issues/46291",
-      "author": "JCKodel",
-      "at": "2026-05-22T21:57:07Z"
+      "kind": "pr",
+      "number": 46295,
+      "title": "feat(studio): add Sequences management interface and related function…",
+      "url": "https://github.com/supabase/supabase/pull/46295",
+      "author": "Vinaysohaliya",
+      "at": "2026-05-23T13:12:48Z"
     }
   ]
 }
