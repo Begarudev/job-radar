@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T06:37:37.879Z",
+  "updatedAt": "2026-05-24T14:59:38.002Z",
   "count": 13,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4904,
-      "title": "fix: read cli history as utf-8",
-      "url": "https://github.com/browser-use/browser-use/pull/4904",
-      "author": "Ghraven",
-      "at": "2026-05-24T02:58:37Z"
+      "number": 4908,
+      "title": "feat(agent): support suspendable HITL tool pauses",
+      "url": "https://github.com/browser-use/browser-use/pull/4908",
+      "author": "MicroYui",
+      "at": "2026-05-24T14:16:54Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4903,
-      "title": "Feature: Add MCP server trust verification before browser tool execution",
-      "url": "https://github.com/browser-use/browser-use/issues/4903",
-      "author": "vdineshk",
-      "at": "2026-05-24T02:30:12Z"
+      "kind": "pr",
+      "number": 4907,
+      "title": "fix: prevent credential loss when domain-scoped sensitive_data shares key names",
+      "url": "https://github.com/browser-use/browser-use/pull/4907",
+      "author": "devteamaegis",
+      "at": "2026-05-24T13:58:07Z"
     },
     {
       "founder": "Magnus Müller",
@@ -105,45 +105,45 @@
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94075,
-      "title": "[Turbopack] React fails to hydrate in cross-origin WebView (Android) — regression from 16.0.10 to 16.2.6",
-      "url": "https://github.com/vercel/next.js/issues/94075",
-      "author": "AriajSarkar",
-      "at": "2026-05-23T18:50:37Z"
+      "kind": "pr",
+      "number": 94078,
+      "title": "fix(devtools): detect VSCodium on macOS in launch-editor",
+      "url": "https://github.com/vercel/next.js/pull/94078",
+      "author": "pipe1os",
+      "at": "2026-05-24T09:34:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 94077,
+      "title": "VSCodium not detected on macOS when clicking error overlay links",
+      "url": "https://github.com/vercel/next.js/issues/94077",
+      "author": "pipe1os",
+      "at": "2026-05-24T09:33:29Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 94073,
-      "title": "Add Errors/Insights tab split to the instant error overlay",
-      "url": "https://github.com/vercel/next.js/pull/94073",
-      "author": "aurorascharff",
-      "at": "2026-05-23T12:07:38Z"
+      "number": 46313,
+      "title": "docs: escape token",
+      "url": "https://github.com/supabase/supabase/pull/46313",
+      "author": "7ttp",
+      "at": "2026-05-24T13:09:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46303,
-      "title": "Storage & Realtime return null auth.uid() in RLS after HS256→ES256 signing-key migration (PostgREST works)",
-      "url": "https://github.com/supabase/supabase/issues/46303",
-      "author": "NorthNova",
-      "at": "2026-05-24T04:33:47Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46302,
-      "title": "https://supabase.com/docs/guides/local-development/customizing-email-templates is missing",
-      "url": "https://github.com/supabase/supabase/issues/46302",
-      "author": "G3DW",
-      "at": "2026-05-24T01:00:27Z"
+      "kind": "pr",
+      "number": 46312,
+      "title": "chore(studio): clarify advisor scope on project home",
+      "url": "https://github.com/supabase/supabase/pull/46312",
+      "author": "aantti",
+      "at": "2026-05-24T10:49:53Z"
     }
   ]
 }
