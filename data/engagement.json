@@ -1,72 +1,116 @@
 {
-  "updatedAt": "2026-05-23T14:57:21.309Z",
-  "count": 10,
+  "updatedAt": "2026-05-24T06:37:37.879Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4895,
-      "title": "Feature Request: ...",
-      "url": "https://github.com/browser-use/browser-use/issues/4895",
-      "author": "flckv",
-      "at": "2026-05-23T14:24:57Z"
+      "kind": "pr",
+      "number": 4904,
+      "title": "fix: read cli history as utf-8",
+      "url": "https://github.com/browser-use/browser-use/pull/4904",
+      "author": "Ghraven",
+      "at": "2026-05-24T02:58:37Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4894,
-      "title": "fix: bump openai pin for downstream compatibility",
-      "url": "https://github.com/browser-use/browser-use/pull/4894",
-      "author": "hqn21",
-      "at": "2026-05-23T07:36:02Z"
+      "kind": "issue",
+      "number": 4903,
+      "title": "Feature: Add MCP server trust verification before browser tool execution",
+      "url": "https://github.com/browser-use/browser-use/issues/4903",
+      "author": "vdineshk",
+      "at": "2026-05-24T02:30:12Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.12.8 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.12.8",
+      "author": "MagMueller",
+      "at": "2026-05-23T19:29:53Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3477,
-      "title": "[Bug]: GOOGLEDRIVE_DOWNLOAD_FILE returns success but presigned R2 URL fetch returns 401 Unauthorized",
-      "url": "https://github.com/ComposioHQ/composio/issues/3477",
-      "author": "alejandroiglesias",
-      "at": "2026-05-23T05:39:24Z"
+      "number": 3479,
+      "title": "Feature: Add MCP server trust verification before tool execution",
+      "url": "https://github.com/ComposioHQ/composio/issues/3479",
+      "author": "vdineshk",
+      "at": "2026-05-24T01:42:23Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3476,
-      "title": "docs: toolkits fuzzy search, category filter, accessibility fixes, persona-aware cookbook recs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3476",
-      "author": "aakashbisht0704",
-      "at": "2026-05-23T01:07:08Z"
+      "number": 3478,
+      "title": "fix: correct typos 'sucessfull' and 'satus' in callbackUrl JSDoc",
+      "url": "https://github.com/ComposioHQ/composio/pull/3478",
+      "author": "yosinn1-blip",
+      "at": "2026-05-23T21:49:05Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2318,
-      "title": "fix: surface helpful ImportError when jsonref is missing in Gemini/VertexAI paths",
-      "url": "https://github.com/567-labs/instructor/pull/2318",
+      "number": 2320,
+      "title": "fix(gemini,vertexai): raise ConfigurationError with install hint when jsonref is absent",
+      "url": "https://github.com/567-labs/instructor/pull/2320",
+      "author": "ppradyoth",
+      "at": "2026-05-24T03:56:29Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2319,
+      "title": "fix(v2/retry): max_retries off-by-one — treat as retry count, not max-attempts",
+      "url": "https://github.com/567-labs/instructor/pull/2319",
       "author": "devteamaegis",
-      "at": "2026-05-22T23:18:05Z"
+      "at": "2026-05-24T01:28:43Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37643,
-      "title": "fix(langchain): land final answer in last AIMessage for `TodoListMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/37643",
-      "author": "nick-hollon-lc",
-      "at": "2026-05-23T01:21:05Z"
+      "kind": "issue",
+      "number": 37659,
+      "title": "PIIMiddleware state hooks miss tool-call args and corrupt structured content",
+      "url": "https://github.com/langchain-ai/langchain/issues/37659",
+      "author": "fallintoplace",
+      "at": "2026-05-24T02:22:48Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37657,
+      "title": "Feature: Add MCP server trust verification before tool execution",
+      "url": "https://github.com/langchain-ai/langchain/issues/37657",
+      "author": "vdineshk",
+      "at": "2026-05-24T02:03:00Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 94075,
+      "title": "[Turbopack] React fails to hydrate in cross-origin WebView (Android) — regression from 16.0.10 to 16.2.6",
+      "url": "https://github.com/vercel/next.js/issues/94075",
+      "author": "AriajSarkar",
+      "at": "2026-05-23T18:50:37Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -80,37 +124,26 @@
       "at": "2026-05-23T12:07:38Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94072,
-      "title": "Use default runner Playwright browsers",
-      "url": "https://github.com/vercel/next.js/pull/94072",
-      "author": "timneutkens",
-      "at": "2026-05-23T10:33:26Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46303,
+      "title": "Storage & Realtime return null auth.uid() in RLS after HS256→ES256 signing-key migration (PostgREST works)",
+      "url": "https://github.com/supabase/supabase/issues/46303",
+      "author": "NorthNova",
+      "at": "2026-05-24T04:33:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46297,
-      "title": "chore(self-hosted): add STORAGE_S3_UPLOAD_PART_SIZE to env vars list",
-      "url": "https://github.com/supabase/supabase/pull/46297",
-      "author": "aantti",
-      "at": "2026-05-23T14:18:04Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46295,
-      "title": "feat(studio): add Sequences management interface and related function…",
-      "url": "https://github.com/supabase/supabase/pull/46295",
-      "author": "Vinaysohaliya",
-      "at": "2026-05-23T13:12:48Z"
+      "kind": "issue",
+      "number": 46302,
+      "title": "https://supabase.com/docs/guides/local-development/customizing-email-templates is missing",
+      "url": "https://github.com/supabase/supabase/issues/46302",
+      "author": "G3DW",
+      "at": "2026-05-24T01:00:27Z"
     }
   ]
 }
