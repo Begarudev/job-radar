@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T07:15:22.652Z",
+  "updatedAt": "2026-05-25T16:20:46.328Z",
   "count": 12,
   "signals": [
     {
@@ -7,44 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4913,
-      "title": "[RFC] Vision Enhancement Plugin — Visual Grounding for Icon-Only UI Elements",
-      "url": "https://github.com/browser-use/browser-use/issues/4913",
-      "author": "Raidriar7170",
-      "at": "2026-05-25T04:01:25Z"
+      "number": 4916,
+      "title": "MEDIUM: Telemetry enabled by default with browser interaction data collection",
+      "url": "https://github.com/browser-use/browser-use/issues/4916",
+      "author": "olliekirbyz548-ui",
+      "at": "2026-05-25T13:03:55Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4912,
-      "title": "Bug: Automated test issue creation failure",
-      "url": "https://github.com/browser-use/browser-use/issues/4912",
-      "author": "VincentiusJacob",
-      "at": "2026-05-24T18:23:32Z"
+      "number": 4915,
+      "title": "LOW: Missing SECURITY.md for 95K star project",
+      "url": "https://github.com/browser-use/browser-use/issues/4915",
+      "author": "olliekirbyz548-ui",
+      "at": "2026-05-25T13:03:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3482,
-      "title": "Composio entirely unusable: MCP → 500, CLI whoami null, execute → 401, login → 403",
-      "url": "https://github.com/ComposioHQ/composio/issues/3482",
-      "author": "tdubnov",
-      "at": "2026-05-24T19:44:01Z"
+      "number": 3484,
+      "title": "Post-incident API key creation fails — dashboard CSP blocks reCAPTCHA verification",
+      "url": "https://github.com/ComposioHQ/composio/issues/3484",
+      "author": "630ai",
+      "at": "2026-05-25T12:31:17Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3483,
+      "title": "[Bug]: Can't connect airtable",
+      "url": "https://github.com/ComposioHQ/composio/issues/3483",
+      "author": "Eddydpyl",
+      "at": "2026-05-25T12:25:06Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3481,
-      "title": "docs: add formula workbook custom tool cookbook",
-      "url": "https://github.com/ComposioHQ/composio/pull/3481",
-      "author": "gregkonush",
-      "at": "2026-05-24T17:05:52Z"
+      "number": 2321,
+      "title": "feat(security): add MemoryGuard and sensitive_field_guard for OWASP ASI06 prompt injection defense",
+      "url": "https://github.com/567-labs/instructor/pull/2321",
+      "author": "XXOriginalXX",
+      "at": "2026-05-25T12:56:29Z"
     },
     {
       "founder": "Jason Liu",
@@ -56,17 +67,6 @@
       "url": "https://github.com/567-labs/instructor/pull/2320",
       "author": "ppradyoth",
       "at": "2026-05-24T03:56:29Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2088,
-      "title": "feat(StreamingWithUnionType): Add support for streaming BaseModel with union Types",
-      "url": "https://github.com/567-labs/instructor/issues/2088",
-      "author": "wassim-trabelsi",
-      "at": "2026-02-19T16:41:15Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,44 +95,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94095,
-      "title": "Extract App Shell from static prefetches",
-      "url": "https://github.com/vercel/next.js/pull/94095",
-      "author": "acdlite",
-      "at": "2026-05-25T07:15:10Z"
+      "number": 94107,
+      "title": "fix(dev): restore no-store for dev HTML responses to prevent bfcache hydration failures",
+      "url": "https://github.com/vercel/next.js/pull/94107",
+      "author": "sleitor",
+      "at": "2026-05-25T16:19:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94094,
-      "title": "fix: add encode option to cookies().set() for raw cookie values",
-      "url": "https://github.com/vercel/next.js/pull/94094",
-      "author": "AliMahmoudDev",
-      "at": "2026-05-25T06:36:51Z"
+      "number": 94105,
+      "title": "[Skills] next-dev-loop: persist login state across loops",
+      "url": "https://github.com/vercel/next.js/pull/94105",
+      "author": "gaojude",
+      "at": "2026-05-25T14:14:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46319,
-      "title": "feat: surface send-email hook status in template UI and hook deletion dialog",
-      "url": "https://github.com/supabase/supabase/pull/46319",
-      "author": "dnywh",
-      "at": "2026-05-25T05:37:12Z"
+      "number": 46347,
+      "title": "fix: disable automatic branching for free projects",
+      "url": "https://github.com/supabase/supabase/pull/46347",
+      "author": "djhi",
+      "at": "2026-05-25T16:13:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46317,
-      "title": "Missing documentation",
-      "url": "https://github.com/supabase/supabase/issues/46317",
-      "author": "briighter",
-      "at": "2026-05-25T03:22:47Z"
+      "kind": "pr",
+      "number": 46345,
+      "title": "fix: close log details",
+      "url": "https://github.com/supabase/supabase/pull/46345",
+      "author": "7ttp",
+      "at": "2026-05-25T16:07:06Z"
     }
   ]
 }
