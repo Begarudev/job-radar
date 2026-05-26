@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-26T06:48:03.829Z",
-  "count": 12,
+  "updatedAt": "2026-05-26T17:23:59.352Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -17,12 +17,12 @@
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4916,
-      "title": "MEDIUM: Telemetry enabled by default with browser interaction data collection",
-      "url": "https://github.com/browser-use/browser-use/issues/4916",
-      "author": "olliekirbyz548-ui",
-      "at": "2026-05-25T13:03:55Z"
+      "kind": "pr",
+      "number": 4909,
+      "title": "Add Bilig WorkPaper integration example",
+      "url": "https://github.com/browser-use/browser-use/pull/4909",
+      "author": "gregkonush",
+      "at": "2026-05-24T15:15:50Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,99 +40,77 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3484,
-      "title": "Post-incident API key creation fails — dashboard CSP blocks reCAPTCHA verification",
-      "url": "https://github.com/ComposioHQ/composio/issues/3484",
-      "author": "630ai",
-      "at": "2026-05-25T12:31:17Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3483,
-      "title": "[Bug]: Can't connect airtable",
-      "url": "https://github.com/ComposioHQ/composio/issues/3483",
-      "author": "Eddydpyl",
-      "at": "2026-05-25T12:25:06Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2321,
-      "title": "feat(security): add MemoryGuard and sensitive_field_guard for OWASP ASI06 prompt injection defense",
-      "url": "https://github.com/567-labs/instructor/pull/2321",
-      "author": "XXOriginalXX",
-      "at": "2026-05-25T12:56:29Z"
+      "number": 3485,
+      "title": "Composio Connect MCP returns 401 Invalid consumer API key for regenerated ck_ keys",
+      "url": "https://github.com/ComposioHQ/composio/issues/3485",
+      "author": "attydenis",
+      "at": "2026-05-26T06:52:22Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37686,
-      "title": "core: AIMessageChunk validator escapes non-ASCII in tool_call_chunks[].args",
-      "url": "https://github.com/langchain-ai/langchain/issues/37686",
-      "author": "HumphreySun98",
-      "at": "2026-05-25T20:14:27Z"
+      "number": 37701,
+      "title": "feat(exa): add integration header and update search types",
+      "url": "https://github.com/langchain-ai/langchain/issues/37701",
+      "author": "10ishq",
+      "at": "2026-05-26T17:20:46Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37673,
-      "title": "VectorStore.add_texts exhausts generator inputs before creating documents",
-      "url": "https://github.com/langchain-ai/langchain/issues/37673",
-      "author": "zedlabs",
-      "at": "2026-05-24T18:20:06Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94118,
-      "title": "@next/mdx: unhandled promise rejection when plugin path fails to resolve in mdx-js-loader",
-      "url": "https://github.com/vercel/next.js/issues/94118",
-      "author": "Jinoko01",
-      "at": "2026-05-26T06:44:02Z"
+      "kind": "pr",
+      "number": 37698,
+      "title": "fix(langchain): neutralize `write_todos` tool message",
+      "url": "https://github.com/langchain-ai/langchain/pull/37698",
+      "author": "nick-hollon-lc",
+      "at": "2026-05-26T15:23:26Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94117,
-      "title": "fix(types): apply AppType generic to top-level props instead of pageP…",
-      "url": "https://github.com/vercel/next.js/pull/94117",
-      "author": "deeepanshu12",
-      "at": "2026-05-26T04:22:28Z"
+      "number": 94130,
+      "title": "Refine error overlay insight pagination",
+      "url": "https://github.com/vercel/next.js/pull/94130",
+      "author": "yavorpunchev",
+      "at": "2026-05-26T16:39:58Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94129,
+      "title": "Move webpack implementation into package folder",
+      "url": "https://github.com/vercel/next.js/pull/94129",
+      "author": "timneutkens",
+      "at": "2026-05-26T15:59:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46364,
-      "title": "feat: feature flag temporary access settings",
-      "url": "https://github.com/supabase/supabase/pull/46364",
-      "author": "staaldraad",
-      "at": "2026-05-26T06:42:19Z"
+      "number": 46396,
+      "title": "feat(studio): small modification to logs drawer rows",
+      "url": "https://github.com/supabase/supabase/pull/46396",
+      "author": "kemaldotearth",
+      "at": "2026-05-26T16:59:51Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46363,
-      "title": "fix: prevent invalid WITH CHECK () empty clause when updating policies",
-      "url": "https://github.com/supabase/supabase/pull/46363",
-      "author": "deepshekhardas",
-      "at": "2026-05-26T05:47:03Z"
+      "number": 46395,
+      "title": "fix(studio): guard priceMonthly lookup on new project page",
+      "url": "https://github.com/supabase/supabase/pull/46395",
+      "author": "awaseem",
+      "at": "2026-05-26T16:46:21Z"
     }
   ]
 }
