@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-27T07:04:12.258Z",
-  "count": 13,
+  "updatedAt": "2026-05-27T16:59:00.315Z",
+  "count": 15,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 4927,
+      "title": "feat(agent): export compact run traces",
+      "url": "https://github.com/browser-use/browser-use/pull/4927",
+      "author": "RitwijParmar",
+      "at": "2026-05-27T16:25:35Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/4923",
       "author": "kgarg2468",
       "at": "2026-05-26T23:38:00Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4922,
-      "title": "feat(openai): support Responses API in ChatOpenAI",
-      "url": "https://github.com/browser-use/browser-use/pull/4922",
-      "author": "philip-zhan",
-      "at": "2026-05-26T19:36:15Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,6 +36,17 @@
       "at": "2026-05-26T06:52:22Z"
     },
     {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3312,
+      "title": "fix(python-sdk): plumb connected_account_id through CustomTool [PLEN-2345]",
+      "url": "https://github.com/ComposioHQ/composio/pull/3312",
+      "author": "zen-agent",
+      "at": "2026-04-29T10:50:27Z"
+    },
+    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
@@ -45,6 +56,17 @@
       "url": "https://github.com/567-labs/instructor/pull/2322",
       "author": "xilema2",
       "at": "2026-05-27T06:07:08Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2316,
+      "title": "Feature request: OWASP ASI06 memory poisoning defense for structured output agents",
+      "url": "https://github.com/567-labs/instructor/issues/2316",
+      "author": "vgudur-dev",
+      "at": "2026-05-21T15:06:48Z"
     },
     {
       "founder": "Harrison Chase",
@@ -62,44 +84,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94151,
-      "title": "Turbopack: Make ChunkGroup a cell",
-      "url": "https://github.com/vercel/next.js/pull/94151",
-      "author": "mischnic",
-      "at": "2026-05-27T06:58:59Z"
+      "number": 94159,
+      "title": "Fix short circuit evaluation of AND / OR in the Turbopack analyzer for string & nullish-related methods",
+      "url": "https://github.com/vercel/next.js/pull/94159",
+      "author": "sampoder",
+      "at": "2026-05-27T16:56:31Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94150,
-      "title": "Upgrade ast-grep",
-      "url": "https://github.com/vercel/next.js/pull/94150",
-      "author": "mischnic",
-      "at": "2026-05-27T06:57:52Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46410,
-      "title": "The documentation around the recent Stripe announcements is incorrect, nonsensical and missing.",
-      "url": "https://github.com/supabase/supabase/issues/46410",
-      "author": "GRGAINZ",
-      "at": "2026-05-27T03:55:49Z"
+      "number": 94157,
+      "title": "Remove server route matcher stack",
+      "url": "https://github.com/vercel/next.js/pull/94157",
+      "author": "timneutkens",
+      "at": "2026-05-27T14:27:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46409,
-      "title": "bring back old charts",
-      "url": "https://github.com/supabase/supabase/pull/46409",
-      "author": "SaxonF",
-      "at": "2026-05-27T03:31:37Z"
+      "number": 46436,
+      "title": "chore: Migrate `Tabs` to Shadcn components",
+      "url": "https://github.com/supabase/supabase/pull/46436",
+      "author": "djhi",
+      "at": "2026-05-27T15:57:23Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46435,
+      "title": "feat(reports): add memory commitment chart to database report DEBUG-119",
+      "url": "https://github.com/supabase/supabase/pull/46435",
+      "author": "jordienr",
+      "at": "2026-05-27T15:03:29Z"
     },
     {
       "founder": "Erik Bernhardsson",
