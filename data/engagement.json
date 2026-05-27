@@ -1,39 +1,28 @@
 {
-  "updatedAt": "2026-05-26T17:23:59.352Z",
-  "count": 10,
+  "updatedAt": "2026-05-27T07:04:12.258Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4919,
-      "title": "fix: make news monitor text IO deterministic",
-      "url": "https://github.com/browser-use/browser-use/pull/4919",
-      "author": "Ghraven",
-      "at": "2026-05-26T01:23:36Z"
+      "number": 4923,
+      "title": "fix(agent): make flash prompts more cache friendly",
+      "url": "https://github.com/browser-use/browser-use/pull/4923",
+      "author": "kgarg2468",
+      "at": "2026-05-26T23:38:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4909,
-      "title": "Add Bilig WorkPaper integration example",
-      "url": "https://github.com/browser-use/browser-use/pull/4909",
-      "author": "gregkonush",
-      "at": "2026-05-24T15:15:50Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.12.9 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.12.9",
-      "author": "MagMueller",
-      "at": "2026-05-26T03:45:22Z"
+      "number": 4922,
+      "title": "feat(openai): support Responses API in ChatOpenAI",
+      "url": "https://github.com/browser-use/browser-use/pull/4922",
+      "author": "philip-zhan",
+      "at": "2026-05-26T19:36:15Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -47,6 +36,17 @@
       "at": "2026-05-26T06:52:22Z"
     },
     {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2322,
+      "title": "feat(orcarouter): add OrcaRouter provider integration",
+      "url": "https://github.com/567-labs/instructor/pull/2322",
+      "author": "xilema2",
+      "at": "2026-05-27T06:07:08Z"
+    },
+    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
@@ -58,59 +58,92 @@
       "at": "2026-05-26T17:20:46Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 37698,
-      "title": "fix(langchain): neutralize `write_todos` tool message",
-      "url": "https://github.com/langchain-ai/langchain/pull/37698",
-      "author": "nick-hollon-lc",
-      "at": "2026-05-26T15:23:26Z"
+      "number": 94151,
+      "title": "Turbopack: Make ChunkGroup a cell",
+      "url": "https://github.com/vercel/next.js/pull/94151",
+      "author": "mischnic",
+      "at": "2026-05-27T06:58:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94130,
-      "title": "Refine error overlay insight pagination",
-      "url": "https://github.com/vercel/next.js/pull/94130",
-      "author": "yavorpunchev",
-      "at": "2026-05-26T16:39:58Z"
+      "number": 94150,
+      "title": "Upgrade ast-grep",
+      "url": "https://github.com/vercel/next.js/pull/94150",
+      "author": "mischnic",
+      "at": "2026-05-27T06:57:52Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94129,
-      "title": "Move webpack implementation into package folder",
-      "url": "https://github.com/vercel/next.js/pull/94129",
-      "author": "timneutkens",
-      "at": "2026-05-26T15:59:25Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46410,
+      "title": "The documentation around the recent Stripe announcements is incorrect, nonsensical and missing.",
+      "url": "https://github.com/supabase/supabase/issues/46410",
+      "author": "GRGAINZ",
+      "at": "2026-05-27T03:55:49Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46396,
-      "title": "feat(studio): small modification to logs drawer rows",
-      "url": "https://github.com/supabase/supabase/pull/46396",
-      "author": "kemaldotearth",
-      "at": "2026-05-26T16:59:51Z"
+      "number": 46409,
+      "title": "bring back old charts",
+      "url": "https://github.com/supabase/supabase/pull/46409",
+      "author": "SaxonF",
+      "at": "2026-05-27T03:31:37Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46395,
-      "title": "fix(studio): guard priceMonthly lookup on new project page",
-      "url": "https://github.com/supabase/supabase/pull/46395",
-      "author": "awaseem",
-      "at": "2026-05-26T16:46:21Z"
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4114,
+      "title": "modal setup does not supports environment proxy",
+      "url": "https://github.com/modal-labs/modal-client/issues/4114",
+      "author": "donniexyz",
+      "at": "2026-05-27T07:02:52Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 3917,
+      "title": "Multipart upload completion fails on S3 503 SlowDown with no retry",
+      "url": "https://github.com/modal-labs/modal-client/issues/3917",
+      "author": "ShivamB25",
+      "at": "2026-02-13T13:58:39Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "issue",
+      "number": 1602,
+      "title": "SSRF in execute_api_call: no URL validation on user-controlled parameter",
+      "url": "https://github.com/julep-ai/julep/issues/1602",
+      "author": "cloakmaster",
+      "at": "2026-04-21T16:50:36Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "issue",
+      "number": 1594,
+      "title": "Tool Integration: MoltBridge agent trust and discovery",
+      "url": "https://github.com/julep-ai/julep/issues/1594",
+      "author": "JKHeadley",
+      "at": "2026-02-15T18:46:47Z"
     }
   ]
 }
