@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-05-28T06:55:25.537Z",
-  "count": 12,
+  "updatedAt": "2026-05-28T17:33:01.074Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4931,
-      "title": "docs(models): fix ChatBrowserUse default + bu-latest pricing (bu-latest now = bu-2-0)",
-      "url": "https://github.com/browser-use/browser-use/pull/4931",
-      "author": "r266-tech",
-      "at": "2026-05-28T00:23:51Z"
+      "kind": "issue",
+      "number": 4935,
+      "title": "Slice 4: Scrolling, Text Search, Keyboard Tools",
+      "url": "https://github.com/browser-use/browser-use/issues/4935",
+      "author": "alexzvn",
+      "at": "2026-05-28T11:35:28Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4930,
-      "title": "feat(example): add invisible_firefox integration example",
-      "url": "https://github.com/browser-use/browser-use/pull/4930",
-      "author": "feder-cr",
-      "at": "2026-05-27T18:48:44Z"
+      "kind": "issue",
+      "number": 4934,
+      "title": "Slice 3: Page Observation Tools (Screenshot, PDF, HTML, Evaluate)",
+      "url": "https://github.com/browser-use/browser-use/issues/4934",
+      "author": "alexzvn",
+      "at": "2026-05-28T11:35:10Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,6 +40,17 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
+      "number": 2325,
+      "title": "docs(examples): fix duplicate word in CRM example prompt",
+      "url": "https://github.com/567-labs/instructor/pull/2325",
+      "author": "kratos0718",
+      "at": "2026-05-28T13:32:04Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
       "number": 2324,
       "title": "feat(hooks): fire completion:error and completion:last_attempt with attempt metadata",
       "url": "https://github.com/567-labs/instructor/pull/2324",
@@ -47,92 +58,70 @@
       "at": "2026-05-28T03:05:46Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2323,
-      "title": "fix: use actual attempt count for InstructorRetryException.n_attempts",
-      "url": "https://github.com/567-labs/instructor/pull/2323",
-      "author": "rmotgi1227",
-      "at": "2026-05-27T19:10:55Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 37721,
-      "title": "feat(core): add subagent_name parameter to BaseTool",
-      "url": "https://github.com/langchain-ai/langchain/pull/37721",
+      "number": 37739,
+      "title": "feat(langchain): project subagent runs onto typed run.subagents channel",
+      "url": "https://github.com/langchain-ai/langchain/pull/37739",
       "author": "nick-hollon-lc",
-      "at": "2026-05-27T23:00:39Z"
+      "at": "2026-05-28T14:15:22Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37718,
-      "title": "feat(core, anthropic, openai): aclose() lifecycle + latched fallbacks",
-      "url": "https://github.com/langchain-ai/langchain/pull/37718",
-      "author": "baskaryan",
-      "at": "2026-05-27T19:31:48Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94182,
-      "title": "Update index.mdx",
-      "url": "https://github.com/vercel/next.js/pull/94182",
-      "author": "thiruneshb-alt",
-      "at": "2026-05-28T03:54:25Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94181,
-      "title": "test(typed-routes): improve ApiRouteConfig test coverage and cleanup",
-      "url": "https://github.com/vercel/next.js/pull/94181",
-      "author": "me-saurabhkohli",
-      "at": "2026-05-28T02:45:35Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46444,
-      "title": "feat(tests): type addAPIMock resolver against OpenAPI contract",
-      "url": "https://github.com/supabase/supabase/pull/46444",
-      "author": "alaister",
-      "at": "2026-05-28T04:48:27Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46442,
-      "title": "[FE-3493] fix(studio): respect role impersonation when copying truncated rows",
-      "url": "https://github.com/supabase/supabase/pull/46442",
-      "author": "alaister",
-      "at": "2026-05-28T03:40:38Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4114,
-      "title": "modal setup does not supports environment proxy",
-      "url": "https://github.com/modal-labs/modal-client/issues/4114",
-      "author": "donniexyz",
-      "at": "2026-05-27T07:02:52Z"
+      "number": 37736,
+      "title": "EnsembleRetriever: arank_fusion uses different normalization logic than rank_fusion causing ValidationError in async",
+      "url": "https://github.com/langchain-ai/langchain/issues/37736",
+      "author": "AliMuhammadAslam",
+      "at": "2026-05-28T11:27:28Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94204,
+      "title": "[skills] Add next-feedback",
+      "url": "https://github.com/vercel/next.js/pull/94204",
+      "author": "gaojude",
+      "at": "2026-05-28T17:31:01Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94202,
+      "title": "[turbopack] Optimize TaskInput implementations",
+      "url": "https://github.com/vercel/next.js/pull/94202",
+      "author": "lukesandberg",
+      "at": "2026-05-28T16:07:10Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46478,
+      "title": "feat(docs): add contextual AI sidebar for documentation guides",
+      "url": "https://github.com/supabase/supabase/pull/46478",
+      "author": "uixmat",
+      "at": "2026-05-28T17:25:04Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46476,
+      "title": "feat(logs): brand remaining analytics SQL callers with SafeLogSqlFragment",
+      "url": "https://github.com/supabase/supabase/pull/46476",
+      "author": "charislam",
+      "at": "2026-05-28T17:09:29Z"
     }
   ]
 }
