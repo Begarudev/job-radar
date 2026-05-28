@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-05-27T16:59:00.315Z",
-  "count": 15,
+  "updatedAt": "2026-05-28T06:55:25.537Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4927,
-      "title": "feat(agent): export compact run traces",
-      "url": "https://github.com/browser-use/browser-use/pull/4927",
-      "author": "RitwijParmar",
-      "at": "2026-05-27T16:25:35Z"
+      "number": 4931,
+      "title": "docs(models): fix ChatBrowserUse default + bu-latest pricing (bu-latest now = bu-2-0)",
+      "url": "https://github.com/browser-use/browser-use/pull/4931",
+      "author": "r266-tech",
+      "at": "2026-05-28T00:23:51Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4923,
-      "title": "fix(agent): make flash prompts more cache friendly",
-      "url": "https://github.com/browser-use/browser-use/pull/4923",
-      "author": "kgarg2468",
-      "at": "2026-05-26T23:38:00Z"
+      "number": 4930,
+      "title": "feat(example): add invisible_firefox integration example",
+      "url": "https://github.com/browser-use/browser-use/pull/4930",
+      "author": "feder-cr",
+      "at": "2026-05-27T18:48:44Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,92 +36,92 @@
       "at": "2026-05-26T06:52:22Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3312,
-      "title": "fix(python-sdk): plumb connected_account_id through CustomTool [PLEN-2345]",
-      "url": "https://github.com/ComposioHQ/composio/pull/3312",
-      "author": "zen-agent",
-      "at": "2026-04-29T10:50:27Z"
+      "number": 2324,
+      "title": "feat(hooks): fire completion:error and completion:last_attempt with attempt metadata",
+      "url": "https://github.com/567-labs/instructor/pull/2324",
+      "author": "NishchayMahor",
+      "at": "2026-05-28T03:05:46Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2322,
-      "title": "feat(orcarouter): add OrcaRouter provider integration",
-      "url": "https://github.com/567-labs/instructor/pull/2322",
-      "author": "xilema2",
-      "at": "2026-05-27T06:07:08Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2316,
-      "title": "Feature request: OWASP ASI06 memory poisoning defense for structured output agents",
-      "url": "https://github.com/567-labs/instructor/issues/2316",
-      "author": "vgudur-dev",
-      "at": "2026-05-21T15:06:48Z"
+      "number": 2323,
+      "title": "fix: use actual attempt count for InstructorRetryException.n_attempts",
+      "url": "https://github.com/567-labs/instructor/pull/2323",
+      "author": "rmotgi1227",
+      "at": "2026-05-27T19:10:55Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37701,
-      "title": "feat(exa): add integration header and update search types",
-      "url": "https://github.com/langchain-ai/langchain/issues/37701",
-      "author": "10ishq",
-      "at": "2026-05-26T17:20:46Z"
+      "kind": "pr",
+      "number": 37721,
+      "title": "feat(core): add subagent_name parameter to BaseTool",
+      "url": "https://github.com/langchain-ai/langchain/pull/37721",
+      "author": "nick-hollon-lc",
+      "at": "2026-05-27T23:00:39Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 37718,
+      "title": "feat(core, anthropic, openai): aclose() lifecycle + latched fallbacks",
+      "url": "https://github.com/langchain-ai/langchain/pull/37718",
+      "author": "baskaryan",
+      "at": "2026-05-27T19:31:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94159,
-      "title": "Fix short circuit evaluation of AND / OR in the Turbopack analyzer for string & nullish-related methods",
-      "url": "https://github.com/vercel/next.js/pull/94159",
-      "author": "sampoder",
-      "at": "2026-05-27T16:56:31Z"
+      "number": 94182,
+      "title": "Update index.mdx",
+      "url": "https://github.com/vercel/next.js/pull/94182",
+      "author": "thiruneshb-alt",
+      "at": "2026-05-28T03:54:25Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94157,
-      "title": "Remove server route matcher stack",
-      "url": "https://github.com/vercel/next.js/pull/94157",
-      "author": "timneutkens",
-      "at": "2026-05-27T14:27:56Z"
+      "number": 94181,
+      "title": "test(typed-routes): improve ApiRouteConfig test coverage and cleanup",
+      "url": "https://github.com/vercel/next.js/pull/94181",
+      "author": "me-saurabhkohli",
+      "at": "2026-05-28T02:45:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46436,
-      "title": "chore: Migrate `Tabs` to Shadcn components",
-      "url": "https://github.com/supabase/supabase/pull/46436",
-      "author": "djhi",
-      "at": "2026-05-27T15:57:23Z"
+      "number": 46444,
+      "title": "feat(tests): type addAPIMock resolver against OpenAPI contract",
+      "url": "https://github.com/supabase/supabase/pull/46444",
+      "author": "alaister",
+      "at": "2026-05-28T04:48:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46435,
-      "title": "feat(reports): add memory commitment chart to database report DEBUG-119",
-      "url": "https://github.com/supabase/supabase/pull/46435",
-      "author": "jordienr",
-      "at": "2026-05-27T15:03:29Z"
+      "number": 46442,
+      "title": "[FE-3493] fix(studio): respect role impersonation when copying truncated rows",
+      "url": "https://github.com/supabase/supabase/pull/46442",
+      "author": "alaister",
+      "at": "2026-05-28T03:40:38Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -133,39 +133,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4114",
       "author": "donniexyz",
       "at": "2026-05-27T07:02:52Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 3917,
-      "title": "Multipart upload completion fails on S3 503 SlowDown with no retry",
-      "url": "https://github.com/modal-labs/modal-client/issues/3917",
-      "author": "ShivamB25",
-      "at": "2026-02-13T13:58:39Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1602,
-      "title": "SSRF in execute_api_call: no URL validation on user-controlled parameter",
-      "url": "https://github.com/julep-ai/julep/issues/1602",
-      "author": "cloakmaster",
-      "at": "2026-04-21T16:50:36Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1594,
-      "title": "Tool Integration: MoltBridge agent trust and discovery",
-      "url": "https://github.com/julep-ai/julep/issues/1594",
-      "author": "JKHeadley",
-      "at": "2026-02-15T18:46:47Z"
     }
   ]
 }
