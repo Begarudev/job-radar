@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-05-28T17:33:01.074Z",
-  "count": 11,
+  "updatedAt": "2026-05-29T06:55:29.853Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4935,
-      "title": "Slice 4: Scrolling, Text Search, Keyboard Tools",
-      "url": "https://github.com/browser-use/browser-use/issues/4935",
-      "author": "alexzvn",
-      "at": "2026-05-28T11:35:28Z"
+      "number": 4903,
+      "title": "Feature: Add MCP server trust verification before browser tool execution",
+      "url": "https://github.com/browser-use/browser-use/issues/4903",
+      "author": "vdineshk",
+      "at": "2026-05-24T02:30:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 4934,
-      "title": "Slice 3: Page Observation Tools (Screenshot, PDF, HTML, Evaluate)",
-      "url": "https://github.com/browser-use/browser-use/issues/4934",
-      "author": "alexzvn",
-      "at": "2026-05-28T11:35:10Z"
+      "number": 4846,
+      "title": "Bug: MCP server connects but list_tabs/get_state/screenshot fail while navigate works (CDP healthy)",
+      "url": "https://github.com/browser-use/browser-use/issues/4846",
+      "author": "shiftlabshq",
+      "at": "2026-05-16T10:02:08Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3485,
-      "title": "Composio Connect MCP returns 401 Invalid consumer API key for regenerated ck_ keys",
-      "url": "https://github.com/ComposioHQ/composio/issues/3485",
-      "author": "attydenis",
-      "at": "2026-05-26T06:52:22Z"
+      "number": 3487,
+      "title": "docs: update outdated CONTRIBUTING.md for current repo structure",
+      "url": "https://github.com/ComposioHQ/composio/issues/3487",
+      "author": "Joyboy48",
+      "at": "2026-05-28T18:03:52Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +47,92 @@
       "at": "2026-05-28T13:32:04Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2324,
-      "title": "feat(hooks): fire completion:error and completion:last_attempt with attempt metadata",
-      "url": "https://github.com/567-labs/instructor/pull/2324",
-      "author": "NishchayMahor",
-      "at": "2026-05-28T03:05:46Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37739,
-      "title": "feat(langchain): project subagent runs onto typed run.subagents channel",
-      "url": "https://github.com/langchain-ai/langchain/pull/37739",
-      "author": "nick-hollon-lc",
-      "at": "2026-05-28T14:15:22Z"
+      "kind": "issue",
+      "number": 37767,
+      "title": "Add langchain-bocha partner integration package",
+      "url": "https://github.com/langchain-ai/langchain/issues/37767",
+      "author": "GAAZ",
+      "at": "2026-05-29T05:50:58Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37736,
-      "title": "EnsembleRetriever: arank_fusion uses different normalization logic than rank_fusion causing ValidationError in async",
-      "url": "https://github.com/langchain-ai/langchain/issues/37736",
-      "author": "AliMuhammadAslam",
-      "at": "2026-05-28T11:27:28Z"
+      "number": 37761,
+      "title": "_to_protocol_usage drops input_token_details in v3 streaming path, causing cache token counts to always be 0",
+      "url": "https://github.com/langchain-ai/langchain/issues/37761",
+      "author": "muhdnorian",
+      "at": "2026-05-29T04:12:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94204,
-      "title": "[skills] Add next-feedback",
-      "url": "https://github.com/vercel/next.js/pull/94204",
-      "author": "gaojude",
-      "at": "2026-05-28T17:31:01Z"
+      "number": 94218,
+      "title": "[turbopack] Handle negative numbers as constants in the analyzer",
+      "url": "https://github.com/vercel/next.js/pull/94218",
+      "author": "sampoder",
+      "at": "2026-05-29T06:26:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94202,
-      "title": "[turbopack] Optimize TaskInput implementations",
-      "url": "https://github.com/vercel/next.js/pull/94202",
-      "author": "lukesandberg",
-      "at": "2026-05-28T16:07:10Z"
+      "number": 94217,
+      "title": "[turbopack] Add `explain()` methods to `WellKnownObjectKind` and `WellKnownFunctionKind`",
+      "url": "https://github.com/vercel/next.js/pull/94217",
+      "author": "sampoder",
+      "at": "2026-05-29T05:18:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46478,
-      "title": "feat(docs): add contextual AI sidebar for documentation guides",
-      "url": "https://github.com/supabase/supabase/pull/46478",
-      "author": "uixmat",
-      "at": "2026-05-28T17:25:04Z"
+      "number": 46491,
+      "title": "docs: note minimum supabase-js version for passkeys",
+      "url": "https://github.com/supabase/supabase/pull/46491",
+      "author": "tomaspozo",
+      "at": "2026-05-29T04:29:29Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46476,
-      "title": "feat(logs): brand remaining analytics SQL callers with SafeLogSqlFragment",
-      "url": "https://github.com/supabase/supabase/pull/46476",
-      "author": "charislam",
-      "at": "2026-05-28T17:09:29Z"
+      "number": 46490,
+      "title": "[FIX] OAuth integrations - support callback_status install identification method",
+      "url": "https://github.com/supabase/supabase/pull/46490",
+      "author": "deepshekhardas",
+      "at": "2026-05-29T03:06:50Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4115,
+      "title": "Q: User-supplied FUSE filesystems inside Function/Sandbox containers — supported?",
+      "url": "https://github.com/modal-labs/modal-client/issues/4115",
+      "author": "dilverse",
+      "at": "2026-05-28T22:00:41Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2234,
+      "title": "Add CLAUDE.md with repo overview and T3 FAQ docs",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2234",
+      "author": "matteo-tousignant17",
+      "at": "2026-05-29T04:34:19Z"
     }
   ]
 }
