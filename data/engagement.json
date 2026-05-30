@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-29T17:31:49.776Z",
-  "count": 12,
+  "updatedAt": "2026-05-30T06:23:55.209Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -17,12 +17,12 @@
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4903,
-      "title": "Feature: Add MCP server trust verification before browser tool execution",
-      "url": "https://github.com/browser-use/browser-use/issues/4903",
-      "author": "vdineshk",
-      "at": "2026-05-24T02:30:12Z"
+      "kind": "pr",
+      "number": 4828,
+      "title": "fix: export missing LLM classes from browser_use package",
+      "url": "https://github.com/browser-use/browser-use/pull/4828",
+      "author": "goingforstudying-ctrl",
+      "at": "2026-05-14T09:24:21Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,103 +36,114 @@
       "at": "2026-05-29T16:13:55Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3487,
-      "title": "docs: update outdated CONTRIBUTING.md for current repo structure",
-      "url": "https://github.com/ComposioHQ/composio/issues/3487",
-      "author": "Joyboy48",
-      "at": "2026-05-28T18:03:52Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2328,
+      "title": "feat(hooks): pass attempt_number to parse:error handlers",
+      "url": "https://github.com/567-labs/instructor/pull/2328",
+      "author": "sebastianbreguel",
+      "at": "2026-05-30T01:58:30Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2327,
+      "title": "perf(streaming): scan Iterable chunks incrementally to avoid O(n²) reparsing",
+      "url": "https://github.com/567-labs/instructor/pull/2327",
+      "author": "sebastianbreguel",
+      "at": "2026-05-30T01:54:35Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37770,
-      "title": "VideoContentBlock  ValueError: Block of type video is not supported",
-      "url": "https://github.com/langchain-ai/langchain/issues/37770",
-      "author": "iamckun",
-      "at": "2026-05-29T07:29:10Z"
+      "number": 37786,
+      "title": "test(ollama): add missing standard unit tests for ChatOllama",
+      "url": "https://github.com/langchain-ai/langchain/issues/37786",
+      "author": "ravitejapioneerblaze-code",
+      "at": "2026-05-30T00:48:09Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37767,
-      "title": "Add langchain-bocha partner integration package",
-      "url": "https://github.com/langchain-ai/langchain/issues/37767",
-      "author": "GAAZ",
-      "at": "2026-05-29T05:50:58Z"
+      "number": 37785,
+      "title": "test(huggingface): add missing standard unit tests for ChatHuggingFace",
+      "url": "https://github.com/langchain-ai/langchain/issues/37785",
+      "author": "ravitejapioneerblaze-code",
+      "at": "2026-05-30T00:23:09Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94242,
-      "title": "Fix: POST request succeeds for standard pages in next dev (issue #38863)",
-      "url": "https://github.com/vercel/next.js/pull/94242",
-      "author": "saitejabandaru-in",
-      "at": "2026-05-29T17:27:19Z"
+      "number": 94261,
+      "title": "chore: lint-language output only warnings and errors",
+      "url": "https://github.com/vercel/next.js/pull/94261",
+      "author": "icyJoseph",
+      "at": "2026-05-30T05:42:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94241,
-      "title": "[CLI] Exit non-zero with a clear message when next typegen fails",
-      "url": "https://github.com/vercel/next.js/pull/94241",
-      "author": "gaojude",
-      "at": "2026-05-29T17:25:48Z"
+      "number": 94260,
+      "title": "fix: #10465 - Swipe back on mobile with getInitialProps flickers",
+      "url": "https://github.com/vercel/next.js/pull/94260",
+      "author": "duongynhi000005-oss",
+      "at": "2026-05-30T05:28:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46511,
-      "title": "fix(content): Remove map calls. Improve md extraction.",
-      "url": "https://github.com/supabase/supabase/pull/46511",
-      "author": "jeremenichelli",
-      "at": "2026-05-29T17:16:55Z"
+      "number": 46517,
+      "title": "fix: prevent account lockout after unlinking last OAuth identity",
+      "url": "https://github.com/supabase/supabase/pull/46517",
+      "author": "durgaprasadml",
+      "at": "2026-05-30T04:35:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46509,
-      "title": "Account locked out after unlinking OAuth identity",
-      "url": "https://github.com/supabase/supabase/issues/46509",
-      "author": "kee5625",
-      "at": "2026-05-29T16:36:32Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4115,
-      "title": "Q: User-supplied FUSE filesystems inside Function/Sandbox containers — supported?",
-      "url": "https://github.com/modal-labs/modal-client/issues/4115",
-      "author": "dilverse",
-      "at": "2026-05-28T22:00:41Z"
+      "kind": "pr",
+      "number": 46516,
+      "title": "fix(go): fix form initialization",
+      "url": "https://github.com/supabase/supabase/pull/46516",
+      "author": "stylessh",
+      "at": "2026-05-29T21:42:47Z"
     },
     {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2234,
-      "title": "Add CLAUDE.md with repo overview and T3 FAQ docs",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2234",
-      "author": "matteo-tousignant17",
-      "at": "2026-05-29T04:34:19Z"
+      "kind": "issue",
+      "number": 2231,
+      "title": "bug: Package.ts file is crap!! pls change it to the below code",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2231",
+      "author": "M-Vishal-11",
+      "at": "2026-05-20T02:29:34Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2226,
+      "title": "bug: installing with bun fails \"check:unsafe\"",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2226",
+      "author": "maxwoolfdev",
+      "at": "2026-04-11T20:15:49Z"
     }
   ]
 }
