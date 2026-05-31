@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-31T06:58:11.474Z",
-  "count": 12,
+  "updatedAt": "2026-05-31T15:15:50.772Z",
+  "count": 10,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 4939,
+      "title": "Great project! I tried playing Gold Miner via browser-harness in Codex. It can successfully open the webpage and load the game, but fails to",
+      "url": "https://github.com/browser-use/browser-use/issues/4939",
+      "author": "jiabaogithub",
+      "at": "2026-05-31T07:44:45Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-05-31T03:17:25Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4937,
-      "title": "fix(schema): allow stripping string length constraints",
-      "url": "https://github.com/browser-use/browser-use/pull/4937",
-      "author": "fengclient",
-      "at": "2026-05-30T11:24:37Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3491,
+      "title": "Companion MCP for ComposioHQ: live tool recommendations",
+      "url": "https://github.com/ComposioHQ/composio/issues/3491",
+      "author": "Vest-ai-tools",
+      "at": "2026-05-31T10:22:12Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,37 +47,15 @@
       "at": "2026-05-30T23:59:37Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3489,
-      "title": "fix(providers): normalize string tool input in LlamaIndex & Claude Agent SDK providers + add regression tests",
-      "url": "https://github.com/ComposioHQ/composio/pull/3489",
-      "author": "srijanarya",
-      "at": "2026-05-30T13:50:31Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2329,
-      "title": "fix(docs): remove inaccurate backwards compatibility notes in Google provider docs",
-      "url": "https://github.com/567-labs/instructor/pull/2329",
-      "author": "nigamgauri",
-      "at": "2026-05-30T09:15:15Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2289,
-      "title": "Documentation (at least Google-related) is an outdated mess.",
-      "url": "https://github.com/567-labs/instructor/issues/2289",
-      "author": "vykintazo",
-      "at": "2026-04-27T08:57:16Z"
+      "number": 2330,
+      "title": "feat: emit attempt metadata in completion:error and completion:last_attempt hooks",
+      "url": "https://github.com/567-labs/instructor/pull/2330",
+      "author": "sridhar-3009",
+      "at": "2026-05-31T08:20:57Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,59 +69,48 @@
       "at": "2026-05-31T00:12:36Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37761,
-      "title": "_to_protocol_usage drops input_token_details in v3 streaming path, causing cache token counts to always be 0",
-      "url": "https://github.com/langchain-ai/langchain/issues/37761",
-      "author": "muhdnorian",
-      "at": "2026-05-29T04:12:46Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94278,
-      "title": "Malformed Request URL causes 500 response",
-      "url": "https://github.com/vercel/next.js/issues/94278",
-      "author": "Oudwins",
-      "at": "2026-05-31T05:19:14Z"
+      "kind": "pr",
+      "number": 94281,
+      "title": "[15.5.x] Fix CI",
+      "url": "https://github.com/vercel/next.js/pull/94281",
+      "author": "eps1lon",
+      "at": "2026-05-31T11:17:07Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94277,
-      "title": "feat(experimental): parallel server functions",
-      "url": "https://github.com/vercel/next.js/pull/94277",
-      "author": "devjiwonchoi",
-      "at": "2026-05-31T04:54:39Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46525,
-      "title": "Type generation incorrectly treats PostgreSQL ROWS 1 RPC functions as returning a single object instead of an array",
-      "url": "https://github.com/supabase/supabase/issues/46525",
-      "author": "IdrisCelik",
-      "at": "2026-05-30T20:47:55Z"
+      "number": 94279,
+      "title": "Add unstable_requestSignal for Server Action cancellation",
+      "url": "https://github.com/vercel/next.js/pull/94279",
+      "author": "girishcx07",
+      "at": "2026-05-31T09:25:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46524,
-      "title": "feat(auth): introduce freezekit runtime freeze diagnostics framework",
-      "url": "https://github.com/supabase/supabase/pull/46524",
-      "author": "AdityaOP007",
-      "at": "2026-05-30T19:42:50Z"
+      "number": 46530,
+      "title": "docs: uncomment Next.js Drizzle ORM template in serverless-drivers",
+      "url": "https://github.com/supabase/supabase/pull/46530",
+      "author": "bijanmurmu",
+      "at": "2026-05-31T11:43:27Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46529,
+      "title": "docs: Add missing Next.js + Drizzle ORM template to serverless drivers",
+      "url": "https://github.com/supabase/supabase/issues/46529",
+      "author": "bijanmurmu",
+      "at": "2026-05-31T11:31:03Z"
     }
   ]
 }
