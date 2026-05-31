@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-30T15:03:02.469Z",
-  "count": 13,
+  "updatedAt": "2026-05-31T06:58:11.474Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 4938,
+      "title": "feat(browser): optionally export full storage state",
+      "url": "https://github.com/browser-use/browser-use/pull/4938",
+      "author": "fengclient",
+      "at": "2026-05-31T03:17:25Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-05-30T11:24:37Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 4828,
-      "title": "fix: export missing LLM classes from browser_use package",
-      "url": "https://github.com/browser-use/browser-use/pull/4828",
-      "author": "goingforstudying-ctrl",
-      "at": "2026-05-14T09:24:21Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3490,
+      "title": "Add HVTracker badge to README?",
+      "url": "https://github.com/ComposioHQ/composio/issues/3490",
+      "author": "YugantM",
+      "at": "2026-05-30T23:59:37Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -34,17 +45,6 @@
       "url": "https://github.com/ComposioHQ/composio/pull/3489",
       "author": "srijanarya",
       "at": "2026-05-30T13:50:31Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3488,
-      "title": "Composio is independently tracked on HVTracker (trust score 68.9/100)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3488",
-      "author": "YugantM",
-      "at": "2026-05-29T16:13:55Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,89 +61,78 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2328,
-      "title": "feat(hooks): pass attempt_number to parse:error handlers",
-      "url": "https://github.com/567-labs/instructor/pull/2328",
-      "author": "sebastianbreguel",
-      "at": "2026-05-30T01:58:30Z"
+      "kind": "issue",
+      "number": 2289,
+      "title": "Documentation (at least Google-related) is an outdated mess.",
+      "url": "https://github.com/567-labs/instructor/issues/2289",
+      "author": "vykintazo",
+      "at": "2026-04-27T08:57:16Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37786,
-      "title": "test(ollama): add missing standard unit tests for ChatOllama",
-      "url": "https://github.com/langchain-ai/langchain/issues/37786",
-      "author": "ravitejapioneerblaze-code",
-      "at": "2026-05-30T00:48:09Z"
+      "number": 37801,
+      "title": "Add langchain-torchagentic partner package - differentiable planning tool",
+      "url": "https://github.com/langchain-ai/langchain/issues/37801",
+      "author": "py-ai-dev",
+      "at": "2026-05-31T00:12:36Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37761,
+      "title": "_to_protocol_usage drops input_token_details in v3 streaming path, causing cache token counts to always be 0",
+      "url": "https://github.com/langchain-ai/langchain/issues/37761",
+      "author": "muhdnorian",
+      "at": "2026-05-29T04:12:46Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 94278,
+      "title": "Malformed Request URL causes 500 response",
+      "url": "https://github.com/vercel/next.js/issues/94278",
+      "author": "Oudwins",
+      "at": "2026-05-31T05:19:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94268,
-      "title": "Fix dev debug channel not closing on the client with Node streams",
-      "url": "https://github.com/vercel/next.js/pull/94268",
-      "author": "unstubbable",
-      "at": "2026-05-30T14:36:11Z"
+      "number": 94277,
+      "title": "feat(experimental): parallel server functions",
+      "url": "https://github.com/vercel/next.js/pull/94277",
+      "author": "devjiwonchoi",
+      "at": "2026-05-31T04:54:39Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94267,
-      "title": "update: prisma added and connected with mongodb",
-      "url": "https://github.com/vercel/next.js/pull/94267",
-      "author": "FlyingTurkman",
-      "at": "2026-05-30T14:18:42Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46525,
+      "title": "Type generation incorrectly treats PostgreSQL ROWS 1 RPC functions as returning a single object instead of an array",
+      "url": "https://github.com/supabase/supabase/issues/46525",
+      "author": "IdrisCelik",
+      "at": "2026-05-30T20:47:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46521,
-      "title": "fix(studio): sync auth state before auth redirects",
-      "url": "https://github.com/supabase/supabase/pull/46521",
-      "author": "EduardF1",
-      "at": "2026-05-30T15:00:44Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46520,
-      "title": "feat: add PostgREST schema cache diagnostics and self-service Studio UI fixes",
-      "url": "https://github.com/supabase/supabase/pull/46520",
-      "author": "aartisonigra",
-      "at": "2026-05-30T10:37:40Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2231,
-      "title": "bug: Package.ts file is crap!! pls change it to the below code",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2231",
-      "author": "M-Vishal-11",
-      "at": "2026-05-20T02:29:34Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2226,
-      "title": "bug: installing with bun fails \"check:unsafe\"",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2226",
-      "author": "maxwoolfdev",
-      "at": "2026-04-11T20:15:49Z"
+      "number": 46524,
+      "title": "feat(auth): introduce freezekit runtime freeze diagnostics framework",
+      "url": "https://github.com/supabase/supabase/pull/46524",
+      "author": "AdityaOP007",
+      "at": "2026-05-30T19:42:50Z"
     }
   ]
 }
