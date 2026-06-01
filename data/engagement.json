@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T08:34:52.868Z",
+  "updatedAt": "2026-06-01T19:18:09.985Z",
   "count": 12,
   "signals": [
     {
@@ -28,111 +28,111 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3493,
-      "title": "chore(toolchain): finish mise migration",
-      "url": "https://github.com/ComposioHQ/composio/pull/3493",
-      "author": "jkomyno",
-      "at": "2026-06-01T07:35:54Z"
+      "kind": "issue",
+      "number": 3496,
+      "title": "MCP connected_account_urls use plural query parameter rejected by MCP transport",
+      "url": "https://github.com/ComposioHQ/composio/issues/3496",
+      "author": "Konan69",
+      "at": "2026-06-01T14:58:18Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3492,
-      "title": "feat(toolchain): introduce mise.toml as single source of truth",
-      "url": "https://github.com/ComposioHQ/composio/pull/3492",
+      "number": 3495,
+      "title": "fix(ts): support Zod 4 custom tool schemas",
+      "url": "https://github.com/ComposioHQ/composio/pull/3495",
       "author": "jkomyno",
-      "at": "2026-06-01T06:44:27Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2334,
-      "title": "[Feature Request] Memory Poisoning Protection for Instructor via OWASP Agent Memory Guard",
-      "url": "https://github.com/567-labs/instructor/issues/2334",
-      "author": "vgudur-dev",
-      "at": "2026-06-01T04:46:11Z"
+      "at": "2026-06-01T11:36:28Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2333,
-      "title": "fix(templating): handle missing chat_history on Cohere first-turn calls",
-      "url": "https://github.com/567-labs/instructor/pull/2333",
+      "number": 2336,
+      "title": "fix(utils): guard empty/absent messages in handle_gemini_json",
+      "url": "https://github.com/567-labs/instructor/pull/2336",
       "author": "devteamaegis",
-      "at": "2026-06-01T03:38:39Z"
+      "at": "2026-06-01T18:41:44Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37819,
-      "title": "fix(openrouter): strip rs_* reasoning IDs from outbound messages",
-      "url": "https://github.com/langchain-ai/langchain/pull/37819",
-      "author": "goingforstudying-ctrl",
-      "at": "2026-06-01T08:34:28Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2335,
+      "title": "fix: handle_gemini_json crashes with empty or absent messages list",
+      "url": "https://github.com/567-labs/instructor/issues/2335",
+      "author": "devteamaegis",
+      "at": "2026-06-01T18:41:26Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37815,
-      "title": "ClearToolUsesEdit trigger semantics are degenerate with a persistent checkpointer — eviction re-fires every turn",
-      "url": "https://github.com/langchain-ai/langchain/issues/37815",
-      "author": "Saxxon-Usagi",
-      "at": "2026-06-01T01:11:23Z"
+      "number": 37840,
+      "title": "Remove IPEX backend of huggingface integration",
+      "url": "https://github.com/langchain-ai/langchain/issues/37840",
+      "author": "yao-matrix",
+      "at": "2026-06-01T18:05:23Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37837,
+      "title": "ShellSession._collect_output times out when command output lacks a trailing newline",
+      "url": "https://github.com/langchain-ai/langchain/issues/37837",
+      "author": "ghiander",
+      "at": "2026-06-01T16:45:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94294,
-      "title": "[turbopack] Treat local `const` assignments as side-effect free",
-      "url": "https://github.com/vercel/next.js/pull/94294",
-      "author": "sampoder",
-      "at": "2026-06-01T08:32:01Z"
+      "number": 94314,
+      "title": "cover html-limited bot metadata behavior in deployed PPR paths",
+      "url": "https://github.com/vercel/next.js/pull/94314",
+      "author": "gnoff",
+      "at": "2026-06-01T18:59:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94293,
-      "title": "[turbopack] Treat assignments to `module.exports` as side-effect free",
-      "url": "https://github.com/vercel/next.js/pull/94293",
-      "author": "sampoder",
-      "at": "2026-06-01T08:31:45Z"
+      "number": 94313,
+      "title": "Upgrade React from `c0cd4d5d-20260527` to `557e28fa-20260601`",
+      "url": "https://github.com/vercel/next.js/pull/94313",
+      "author": "vercel-release-bot",
+      "at": "2026-06-01T18:35:30Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46537,
-      "title": "fix(telemetry): fix and unify dashboard_error_created tracking",
-      "url": "https://github.com/supabase/supabase/pull/46537",
-      "author": "pamelachia",
-      "at": "2026-06-01T08:01:06Z"
+      "number": 46561,
+      "title": "chore: update banner for pooler w/ new dates",
+      "url": "https://github.com/supabase/supabase/pull/46561",
+      "author": "awaseem",
+      "at": "2026-06-01T17:30:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46535,
-      "title": "chore(studio): remove expired Fly.io deprecation banner",
-      "url": "https://github.com/supabase/supabase/pull/46535",
-      "author": "pamelachia",
-      "at": "2026-06-01T06:30:19Z"
+      "number": 46560,
+      "title": "fix: Search embedding fails due to missing partial",
+      "url": "https://github.com/supabase/supabase/pull/46560",
+      "author": "jeremenichelli",
+      "at": "2026-06-01T16:26:19Z"
     }
   ]
 }
