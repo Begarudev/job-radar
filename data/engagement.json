@@ -1,116 +1,138 @@
 {
-  "updatedAt": "2026-05-31T15:15:50.772Z",
-  "count": 10,
+  "updatedAt": "2026-06-01T08:34:52.868Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4939,
-      "title": "Great project! I tried playing Gold Miner via browser-harness in Codex. It can successfully open the webpage and load the game, but fails to",
-      "url": "https://github.com/browser-use/browser-use/issues/4939",
-      "author": "jiabaogithub",
-      "at": "2026-05-31T07:44:45Z"
+      "kind": "pr",
+      "number": 4949,
+      "title": "Fix OpenRouter example import",
+      "url": "https://github.com/browser-use/browser-use/pull/4949",
+      "author": "rzigante",
+      "at": "2026-06-01T03:36:34Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4938,
-      "title": "feat(browser): optionally export full storage state",
-      "url": "https://github.com/browser-use/browser-use/pull/4938",
-      "author": "fengclient",
-      "at": "2026-05-31T03:17:25Z"
+      "number": 4948,
+      "title": "fix(views): AgentHistoryList.last_action() crashes with IndexError",
+      "url": "https://github.com/browser-use/browser-use/pull/4948",
+      "author": "devteamaegis",
+      "at": "2026-06-01T03:19:41Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3491,
-      "title": "Companion MCP for ComposioHQ: live tool recommendations",
-      "url": "https://github.com/ComposioHQ/composio/issues/3491",
-      "author": "Vest-ai-tools",
-      "at": "2026-05-31T10:22:12Z"
+      "kind": "pr",
+      "number": 3493,
+      "title": "chore(toolchain): finish mise migration",
+      "url": "https://github.com/ComposioHQ/composio/pull/3493",
+      "author": "jkomyno",
+      "at": "2026-06-01T07:35:54Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3492,
+      "title": "feat(toolchain): introduce mise.toml as single source of truth",
+      "url": "https://github.com/ComposioHQ/composio/pull/3492",
+      "author": "jkomyno",
+      "at": "2026-06-01T06:44:27Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 3490,
-      "title": "Add HVTracker badge to README?",
-      "url": "https://github.com/ComposioHQ/composio/issues/3490",
-      "author": "YugantM",
-      "at": "2026-05-30T23:59:37Z"
+      "number": 2334,
+      "title": "[Feature Request] Memory Poisoning Protection for Instructor via OWASP Agent Memory Guard",
+      "url": "https://github.com/567-labs/instructor/issues/2334",
+      "author": "vgudur-dev",
+      "at": "2026-06-01T04:46:11Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2330,
-      "title": "feat: emit attempt metadata in completion:error and completion:last_attempt hooks",
-      "url": "https://github.com/567-labs/instructor/pull/2330",
-      "author": "sridhar-3009",
-      "at": "2026-05-31T08:20:57Z"
+      "number": 2333,
+      "title": "fix(templating): handle missing chat_history on Cohere first-turn calls",
+      "url": "https://github.com/567-labs/instructor/pull/2333",
+      "author": "devteamaegis",
+      "at": "2026-06-01T03:38:39Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 37819,
+      "title": "fix(openrouter): strip rs_* reasoning IDs from outbound messages",
+      "url": "https://github.com/langchain-ai/langchain/pull/37819",
+      "author": "goingforstudying-ctrl",
+      "at": "2026-06-01T08:34:28Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37801,
-      "title": "Add langchain-torchagentic partner package - differentiable planning tool",
-      "url": "https://github.com/langchain-ai/langchain/issues/37801",
-      "author": "py-ai-dev",
-      "at": "2026-05-31T00:12:36Z"
+      "number": 37815,
+      "title": "ClearToolUsesEdit trigger semantics are degenerate with a persistent checkpointer — eviction re-fires every turn",
+      "url": "https://github.com/langchain-ai/langchain/issues/37815",
+      "author": "Saxxon-Usagi",
+      "at": "2026-06-01T01:11:23Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94281,
-      "title": "[15.5.x] Fix CI",
-      "url": "https://github.com/vercel/next.js/pull/94281",
-      "author": "eps1lon",
-      "at": "2026-05-31T11:17:07Z"
+      "number": 94294,
+      "title": "[turbopack] Treat local `const` assignments as side-effect free",
+      "url": "https://github.com/vercel/next.js/pull/94294",
+      "author": "sampoder",
+      "at": "2026-06-01T08:32:01Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94279,
-      "title": "Add unstable_requestSignal for Server Action cancellation",
-      "url": "https://github.com/vercel/next.js/pull/94279",
-      "author": "girishcx07",
-      "at": "2026-05-31T09:25:45Z"
+      "number": 94293,
+      "title": "[turbopack] Treat assignments to `module.exports` as side-effect free",
+      "url": "https://github.com/vercel/next.js/pull/94293",
+      "author": "sampoder",
+      "at": "2026-06-01T08:31:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46530,
-      "title": "docs: uncomment Next.js Drizzle ORM template in serverless-drivers",
-      "url": "https://github.com/supabase/supabase/pull/46530",
-      "author": "bijanmurmu",
-      "at": "2026-05-31T11:43:27Z"
+      "number": 46537,
+      "title": "fix(telemetry): fix and unify dashboard_error_created tracking",
+      "url": "https://github.com/supabase/supabase/pull/46537",
+      "author": "pamelachia",
+      "at": "2026-06-01T08:01:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46529,
-      "title": "docs: Add missing Next.js + Drizzle ORM template to serverless drivers",
-      "url": "https://github.com/supabase/supabase/issues/46529",
-      "author": "bijanmurmu",
-      "at": "2026-05-31T11:31:03Z"
+      "kind": "pr",
+      "number": 46535,
+      "title": "chore(studio): remove expired Fly.io deprecation banner",
+      "url": "https://github.com/supabase/supabase/pull/46535",
+      "author": "pamelachia",
+      "at": "2026-06-01T06:30:19Z"
     }
   ]
 }
