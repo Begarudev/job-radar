@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-06-01T19:18:09.985Z",
-  "count": 12,
+  "updatedAt": "2026-06-02T07:24:36.623Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4949,
-      "title": "Fix OpenRouter example import",
-      "url": "https://github.com/browser-use/browser-use/pull/4949",
-      "author": "rzigante",
-      "at": "2026-06-01T03:36:34Z"
+      "number": 4951,
+      "title": "fix: guard against empty action list in last_action()",
+      "url": "https://github.com/browser-use/browser-use/pull/4951",
+      "author": "ZongrongLi",
+      "at": "2026-06-01T21:16:06Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4948,
-      "title": "fix(views): AgentHistoryList.last_action() crashes with IndexError",
-      "url": "https://github.com/browser-use/browser-use/pull/4948",
-      "author": "devteamaegis",
-      "at": "2026-06-01T03:19:41Z"
+      "number": 4940,
+      "title": "fix(security): block data: URLs and validate blob: URL origins when allowed_domains is set",
+      "url": "https://github.com/browser-use/browser-use/pull/4940",
+      "author": "Oxygen56",
+      "at": "2026-05-31T17:26:29Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -34,17 +34,6 @@
       "url": "https://github.com/ComposioHQ/composio/issues/3496",
       "author": "Konan69",
       "at": "2026-06-01T14:58:18Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3495,
-      "title": "fix(ts): support Zod 4 custom tool schemas",
-      "url": "https://github.com/ComposioHQ/composio/pull/3495",
-      "author": "jkomyno",
-      "at": "2026-06-01T11:36:28Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +62,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37840,
-      "title": "Remove IPEX backend of huggingface integration",
-      "url": "https://github.com/langchain-ai/langchain/issues/37840",
-      "author": "yao-matrix",
-      "at": "2026-06-01T18:05:23Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37837,
-      "title": "ShellSession._collect_output times out when command output lacks a trailing newline",
-      "url": "https://github.com/langchain-ai/langchain/issues/37837",
-      "author": "ghiander",
-      "at": "2026-06-01T16:45:22Z"
+      "number": 37849,
+      "title": "feat(core): add image field to InputTokenDetails and OutputTokenDetails for image generation models",
+      "url": "https://github.com/langchain-ai/langchain/issues/37849",
+      "author": "awg66",
+      "at": "2026-06-02T00:43:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94314,
-      "title": "cover html-limited bot metadata behavior in deployed PPR paths",
-      "url": "https://github.com/vercel/next.js/pull/94314",
-      "author": "gnoff",
-      "at": "2026-06-01T18:59:04Z"
+      "number": 94329,
+      "title": "chore(turbopack): bump lightningcss to alpha.70",
+      "url": "https://github.com/vercel/next.js/pull/94329",
+      "author": "fireairforce",
+      "at": "2026-06-02T07:00:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94313,
-      "title": "Upgrade React from `c0cd4d5d-20260527` to `557e28fa-20260601`",
-      "url": "https://github.com/vercel/next.js/pull/94313",
-      "author": "vercel-release-bot",
-      "at": "2026-06-01T18:35:30Z"
+      "number": 94327,
+      "title": "docs: fix link reference for child Layout in documentation",
+      "url": "https://github.com/vercel/next.js/pull/94327",
+      "author": "fediev",
+      "at": "2026-06-02T04:17:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46561,
-      "title": "chore: update banner for pooler w/ new dates",
-      "url": "https://github.com/supabase/supabase/pull/46561",
-      "author": "awaseem",
-      "at": "2026-06-01T17:30:44Z"
+      "number": 46569,
+      "title": "docs: fix broken internal links in database and telemetry guides",
+      "url": "https://github.com/supabase/supabase/pull/46569",
+      "author": "sebeeeen",
+      "at": "2026-06-02T05:07:38Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46560,
-      "title": "fix: Search embedding fails due to missing partial",
-      "url": "https://github.com/supabase/supabase/pull/46560",
-      "author": "jeremenichelli",
-      "at": "2026-06-01T16:26:19Z"
+      "number": 46568,
+      "title": "docs: add Next.js Drizzle template to serverless drivers",
+      "url": "https://github.com/supabase/supabase/pull/46568",
+      "author": "bijanmurmu",
+      "at": "2026-06-02T04:16:49Z"
     }
   ]
 }
