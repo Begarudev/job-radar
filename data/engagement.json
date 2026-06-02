@@ -1,61 +1,72 @@
 {
-  "updatedAt": "2026-06-02T07:24:36.623Z",
-  "count": 10,
+  "updatedAt": "2026-06-02T18:03:27.515Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4951,
-      "title": "fix: guard against empty action list in last_action()",
-      "url": "https://github.com/browser-use/browser-use/pull/4951",
-      "author": "ZongrongLi",
-      "at": "2026-06-01T21:16:06Z"
+      "number": 4955,
+      "title": "feat: add MiniMax LLM provider with M3 as default model",
+      "url": "https://github.com/browser-use/browser-use/pull/4955",
+      "author": "octo-patch",
+      "at": "2026-06-02T15:08:39Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4940,
-      "title": "fix(security): block data: URLs and validate blob: URL origins when allowed_domains is set",
-      "url": "https://github.com/browser-use/browser-use/pull/4940",
-      "author": "Oxygen56",
-      "at": "2026-05-31T17:26:29Z"
+      "number": 4954,
+      "title": "fix(groq): read tool_calls arguments for ToolCallingModels in structured output",
+      "url": "https://github.com/browser-use/browser-use/pull/4954",
+      "author": "yokipan77-gif",
+      "at": "2026-06-02T12:29:10Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3503,
+      "title": "security: upgrade vitest to ^4.1.0 to patch GHSA-5xrq-8626-4rwp (critical RCE)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3503",
+      "author": "Dotify71",
+      "at": "2026-06-02T18:02:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3496,
-      "title": "MCP connected_account_urls use plural query parameter rejected by MCP transport",
-      "url": "https://github.com/ComposioHQ/composio/issues/3496",
-      "author": "Konan69",
-      "at": "2026-06-01T14:58:18Z"
+      "number": 3502,
+      "title": "security: upgrade vitest to >=4.1.0 to patch GHSA-5xrq-8626-4rwp (critical RCE via UI server)",
+      "url": "https://github.com/ComposioHQ/composio/issues/3502",
+      "author": "Dotify71",
+      "at": "2026-06-02T17:57:38Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2336,
-      "title": "fix(utils): guard empty/absent messages in handle_gemini_json",
-      "url": "https://github.com/567-labs/instructor/pull/2336",
-      "author": "devteamaegis",
-      "at": "2026-06-01T18:41:44Z"
+      "number": 2339,
+      "title": "fix(streaming): ignore braces inside strings when splitting Iterable objects",
+      "url": "https://github.com/567-labs/instructor/pull/2339",
+      "author": "vidigoat",
+      "at": "2026-06-02T17:49:14Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2335,
-      "title": "fix: handle_gemini_json crashes with empty or absent messages list",
-      "url": "https://github.com/567-labs/instructor/issues/2335",
-      "author": "devteamaegis",
-      "at": "2026-06-01T18:41:26Z"
+      "kind": "pr",
+      "number": 2338,
+      "title": "fix(cohere): guard handle_templating against missing chat_history key",
+      "url": "https://github.com/567-labs/instructor/pull/2338",
+      "author": "Oxygen56",
+      "at": "2026-06-02T15:36:33Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,48 +80,59 @@
       "at": "2026-06-02T00:43:15Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94329,
-      "title": "chore(turbopack): bump lightningcss to alpha.70",
-      "url": "https://github.com/vercel/next.js/pull/94329",
-      "author": "fireairforce",
-      "at": "2026-06-02T07:00:12Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37844,
+      "title": "AzureChatOpenAI._create_chat_result emits PydanticSerializationUnexpectedValue warnings for structured-output responses",
+      "url": "https://github.com/langchain-ai/langchain/issues/37844",
+      "author": "ryanscovill",
+      "at": "2026-06-01T23:38:03Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94327,
-      "title": "docs: fix link reference for child Layout in documentation",
-      "url": "https://github.com/vercel/next.js/pull/94327",
-      "author": "fediev",
-      "at": "2026-06-02T04:17:17Z"
+      "number": 94358,
+      "title": "refactor: make early/late checks stricter",
+      "url": "https://github.com/vercel/next.js/pull/94358",
+      "author": "lubieowoce",
+      "at": "2026-06-02T17:06:14Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94357,
+      "title": "[devtools] Keep instant nav capture alive when opening the error overlay or menu",
+      "url": "https://github.com/vercel/next.js/pull/94357",
+      "author": "devjiwonchoi",
+      "at": "2026-06-02T16:56:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46569,
-      "title": "docs: fix broken internal links in database and telemetry guides",
-      "url": "https://github.com/supabase/supabase/pull/46569",
-      "author": "sebeeeen",
-      "at": "2026-06-02T05:07:38Z"
+      "number": 46592,
+      "title": "fix(self-hosted): reveal and copy secret api key in project settings",
+      "url": "https://github.com/supabase/supabase/pull/46592",
+      "author": "aantti",
+      "at": "2026-06-02T16:38:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46568,
-      "title": "docs: add Next.js Drizzle template to serverless drivers",
-      "url": "https://github.com/supabase/supabase/pull/46568",
-      "author": "bijanmurmu",
-      "at": "2026-06-02T04:16:49Z"
+      "number": 46591,
+      "title": "fix(logs): allow mouse wheel scroll in field reference source picker",
+      "url": "https://github.com/supabase/supabase/pull/46591",
+      "author": "jordienr",
+      "at": "2026-06-02T15:58:21Z"
     }
   ]
 }
