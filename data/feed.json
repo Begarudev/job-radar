@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-01T22:31:31.375Z",
-  "count": 2,
+  "updatedAt": "2026-06-02T03:30:05.562Z",
+  "count": 1,
   "postings": [
     {
       "id": "hn:48358793",
@@ -10,7 +10,7 @@
       "body": "DrSwarm | Founding Engineer (Full-Stack) | REMOTE (US or LATAM; must overlap with US Pacific hours) | Full-time or Contract to Full-time DrSwarm is building AI-driven workflow automation for healthcare clinics &#x2F; health systems (scheduling, RCM&#x2F;billing workflows, patient ops). This is a true 0→1 role: ship fast, talk to customers, own systems end-to-end. You will: - Build product end-to-end (Next.js + Django) - Ship integrations + workflow automation (APIs, webhooks, background jobs, queues) - Own reliability (logs&#x2F;metrics, retries, failure modes) and pragmatic security (HIPAA-aware) Stack: Next.js, React&#x2F;TypeScript, Django&#x2F;Python, Postgres, Celery&#x2F;Redis, Docker, AWS&#x2F;DigitalOcean, LLM APIs. Looking for: Strong full-stack builder.  Good to work with.  Can talk to customers &#x2F; users &#x2F; salespeople.  Uses AI to generate 90%+ of their code, interested in AI + Healthcare. Comp: Market with mix of base + bonus + meaningful equity\nProcess: 30m intro → 60m technical&#x2F;product deep dive → short paid work trial → references. I (founder) read every email and reply. Contact: jobs@drswarm.com (include “HN Founding Engineer” in subject) + GitHub&#x2F;LinkedIn + 2–3 projects you’re proud of.",
       "remote": true,
       "postedAt": "2026-06-01T16:11:25.000Z",
-      "fetchedAt": "2026-06-01T22:31:31.358Z",
+      "fetchedAt": "2026-06-02T03:30:05.534Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react, next, python",
@@ -29,31 +29,6 @@
         "remote"
       ],
       "score": 7.2
-    },
-    {
-      "id": "hn:48360435",
-      "source": "hn",
-      "title": "Location: Edirne, Turkey Remote: Yes Willing to relocate: Yes Technologies: Go (Golang), React, MySQL, Python, TypeScrip",
-      "url": "https://news.ycombinator.com/item?id=48360435",
-      "body": "Location: Edirne, Turkey\nRemote: Yes\nWilling to relocate: Yes\nTechnologies: Go (Golang), React, MySQL, Python, TypeScript, Docker, Kubernetes, GCP\nRésumé&#x2F;CV: drive.google.com&#x2F;drive&#x2F;folders&#x2F;1QS3BpbXu9S_F7P6ORtXOaoy1GZWXYX3j\nEmail: niyazimert039@hotmail.com\nI have experience building concurrent systems with Go (such as a Concurrent Log Streamer) and full-stack applications with React and MySQL. I am currently leading the GDG on Campus at my university and focusing on Machine Learning and production-ready backend architectures. I am looking for a Machine Learning Developer Intern or Junior Backend role where I can apply my skills in scalable systems.",
-      "remote": true,
-      "postedAt": "2026-06-01T18:03:31.000Z",
-      "fetchedAt": "2026-06-01T22:31:31.358Z",
-      "reasons": [
-        "title match: intern",
-        "core stack: typescript, react, go, python",
-        "remote-friendly"
-      ],
-      "tags": [
-        "hn-who-is-hiring",
-        "role:match",
-        "stack:typescript",
-        "stack:react",
-        "stack:go",
-        "stack:python",
-        "remote"
-      ],
-      "score": 6
     }
   ]
 }
