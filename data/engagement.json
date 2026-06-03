@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T18:03:27.515Z",
+  "updatedAt": "2026-06-03T08:17:42.617Z",
   "count": 12,
   "signals": [
     {
@@ -7,132 +7,132 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4955,
-      "title": "feat: add MiniMax LLM provider with M3 as default model",
-      "url": "https://github.com/browser-use/browser-use/pull/4955",
-      "author": "octo-patch",
-      "at": "2026-06-02T15:08:39Z"
+      "number": 4957,
+      "title": "feat(tools): enforce browser action policies",
+      "url": "https://github.com/browser-use/browser-use/pull/4957",
+      "author": "RitwijParmar",
+      "at": "2026-06-03T01:07:51Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4954,
-      "title": "fix(groq): read tool_calls arguments for ToolCallingModels in structured output",
-      "url": "https://github.com/browser-use/browser-use/pull/4954",
-      "author": "yokipan77-gif",
-      "at": "2026-06-02T12:29:10Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3503,
-      "title": "security: upgrade vitest to ^4.1.0 to patch GHSA-5xrq-8626-4rwp (critical RCE)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3503",
-      "author": "Dotify71",
-      "at": "2026-06-02T18:02:16Z"
+      "number": 4956,
+      "title": "test: cover Windows CLI process liveness",
+      "url": "https://github.com/browser-use/browser-use/pull/4956",
+      "author": "yyzquwu",
+      "at": "2026-06-02T19:20:49Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3502,
-      "title": "security: upgrade vitest to >=4.1.0 to patch GHSA-5xrq-8626-4rwp (critical RCE via UI server)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3502",
-      "author": "Dotify71",
-      "at": "2026-06-02T17:57:38Z"
+      "number": 3506,
+      "title": "Auto file-download silently skipped when output schema marks file_downloadable via $ref/$defs (walker doesn't dereference $ref)",
+      "url": "https://github.com/ComposioHQ/composio/issues/3506",
+      "author": "theguylivnat",
+      "at": "2026-06-03T08:10:34Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3505,
+      "title": "Remove legacy custom tools APIs",
+      "url": "https://github.com/ComposioHQ/composio/pull/3505",
+      "author": "jkomyno",
+      "at": "2026-06-03T06:52:56Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2339,
-      "title": "fix(streaming): ignore braces inside strings when splitting Iterable objects",
-      "url": "https://github.com/567-labs/instructor/pull/2339",
-      "author": "vidigoat",
-      "at": "2026-06-02T17:49:14Z"
+      "number": 2340,
+      "title": "fix(v2): consolidate minor runtime fixes",
+      "url": "https://github.com/567-labs/instructor/pull/2340",
+      "author": "jxnl",
+      "at": "2026-06-02T23:03:24Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2338,
-      "title": "fix(cohere): guard handle_templating against missing chat_history key",
-      "url": "https://github.com/567-labs/instructor/pull/2338",
-      "author": "Oxygen56",
-      "at": "2026-06-02T15:36:33Z"
+      "kind": "issue",
+      "number": 2335,
+      "title": "fix: handle_gemini_json crashes with empty or absent messages list",
+      "url": "https://github.com/567-labs/instructor/issues/2335",
+      "author": "devteamaegis",
+      "at": "2026-06-01T18:41:26Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37849,
-      "title": "feat(core): add image field to InputTokenDetails and OutputTokenDetails for image generation models",
-      "url": "https://github.com/langchain-ai/langchain/issues/37849",
-      "author": "awg66",
-      "at": "2026-06-02T00:43:15Z"
+      "number": 37869,
+      "title": "Agent factory _execute_model_async uses ainvoke (non-streaming) and cannot trigger on_llm_new_token callback; LangGraph use_astream=True onl",
+      "url": "https://github.com/langchain-ai/langchain/issues/37869",
+      "author": "xiaocode337317439",
+      "at": "2026-06-03T03:19:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37844,
-      "title": "AzureChatOpenAI._create_chat_result emits PydanticSerializationUnexpectedValue warnings for structured-output responses",
-      "url": "https://github.com/langchain-ai/langchain/issues/37844",
-      "author": "ryanscovill",
-      "at": "2026-06-01T23:38:03Z"
+      "kind": "pr",
+      "number": 37867,
+      "title": "fix(langchain): sanitize anthropic cache markers on fallback retries",
+      "url": "https://github.com/langchain-ai/langchain/pull/37867",
+      "author": "hntrl",
+      "at": "2026-06-02T22:33:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94358,
-      "title": "refactor: make early/late checks stricter",
-      "url": "https://github.com/vercel/next.js/pull/94358",
-      "author": "lubieowoce",
-      "at": "2026-06-02T17:06:14Z"
+      "number": 94376,
+      "title": "[turbopack] Only ship top-level async support in the runtime when needed",
+      "url": "https://github.com/vercel/next.js/pull/94376",
+      "author": "sampoder",
+      "at": "2026-06-03T07:49:44Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94357,
-      "title": "[devtools] Keep instant nav capture alive when opening the error overlay or menu",
-      "url": "https://github.com/vercel/next.js/pull/94357",
-      "author": "devjiwonchoi",
-      "at": "2026-06-02T16:56:36Z"
+      "number": 94375,
+      "title": "docs: fix typos in contribution guide",
+      "url": "https://github.com/vercel/next.js/pull/94375",
+      "author": "RazinShafayet2007",
+      "at": "2026-06-03T06:50:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46592,
-      "title": "fix(self-hosted): reveal and copy secret api key in project settings",
-      "url": "https://github.com/supabase/supabase/pull/46592",
-      "author": "aantti",
-      "at": "2026-06-02T16:38:12Z"
+      "number": 46607,
+      "title": "chore: update CI e2e tests diagnostics",
+      "url": "https://github.com/supabase/supabase/pull/46607",
+      "author": "djhi",
+      "at": "2026-06-03T07:31:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46591,
-      "title": "fix(logs): allow mouse wheel scroll in field reference source picker",
-      "url": "https://github.com/supabase/supabase/pull/46591",
-      "author": "jordienr",
-      "at": "2026-06-02T15:58:21Z"
+      "number": 46606,
+      "title": "fix: upgrade js-cookie to 3.0.7 (CVE-2026-46625)",
+      "url": "https://github.com/supabase/supabase/pull/46606",
+      "author": "orbisai0security",
+      "at": "2026-06-03T05:37:07Z"
     }
   ]
 }
