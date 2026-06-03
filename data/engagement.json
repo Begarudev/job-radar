@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-03T08:17:42.617Z",
-  "count": 12,
+  "updatedAt": "2026-06-03T18:20:19.904Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -28,23 +28,23 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3506,
-      "title": "Auto file-download silently skipped when output schema marks file_downloadable via $ref/$defs (walker doesn't dereference $ref)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3506",
-      "author": "theguylivnat",
-      "at": "2026-06-03T08:10:34Z"
+      "kind": "pr",
+      "number": 3510,
+      "title": "docs: remove legacy custom tools references and retarget redirects",
+      "url": "https://github.com/ComposioHQ/composio/pull/3510",
+      "author": "jkomyno",
+      "at": "2026-06-03T12:57:32Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3505,
-      "title": "Remove legacy custom tools APIs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3505",
+      "number": 3509,
+      "title": "feat(core): remove legacy TypeScript custom tools",
+      "url": "https://github.com/ComposioHQ/composio/pull/3509",
       "author": "jkomyno",
-      "at": "2026-06-03T06:52:56Z"
+      "at": "2026-06-03T12:57:20Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +58,70 @@
       "at": "2026-06-02T23:03:24Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2335,
-      "title": "fix: handle_gemini_json crashes with empty or absent messages list",
-      "url": "https://github.com/567-labs/instructor/issues/2335",
-      "author": "devteamaegis",
-      "at": "2026-06-01T18:41:26Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 37879,
+      "title": "feat(agents): AgentRuntime fields + _build_runtime hook for middleware",
+      "url": "https://github.com/langchain-ai/langchain/pull/37879",
+      "author": "sydney-runkle",
+      "at": "2026-06-03T17:29:53Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37869,
-      "title": "Agent factory _execute_model_async uses ainvoke (non-streaming) and cannot trigger on_llm_new_token callback; LangGraph use_astream=True onl",
-      "url": "https://github.com/langchain-ai/langchain/issues/37869",
-      "author": "xiaocode337317439",
-      "at": "2026-06-03T03:19:37Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37867,
-      "title": "fix(langchain): sanitize anthropic cache markers on fallback retries",
-      "url": "https://github.com/langchain-ai/langchain/pull/37867",
-      "author": "hntrl",
-      "at": "2026-06-02T22:33:22Z"
+      "number": 37878,
+      "title": "AgentExecutor._execute_model_async uses ainvoke (non-streaming) — on_llm_new_token never fires; LangGraph use_astream=True does not enable t",
+      "url": "https://github.com/langchain-ai/langchain/issues/37878",
+      "author": "kevin23w",
+      "at": "2026-06-03T16:24:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94376,
-      "title": "[turbopack] Only ship top-level async support in the runtime when needed",
-      "url": "https://github.com/vercel/next.js/pull/94376",
-      "author": "sampoder",
-      "at": "2026-06-03T07:49:44Z"
+      "number": 94439,
+      "title": "Add an experimental option for eviction",
+      "url": "https://github.com/vercel/next.js/pull/94439",
+      "author": "lukesandberg",
+      "at": "2026-06-03T18:02:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94375,
-      "title": "docs: fix typos in contribution guide",
-      "url": "https://github.com/vercel/next.js/pull/94375",
-      "author": "RazinShafayet2007",
-      "at": "2026-06-03T06:50:54Z"
+      "number": 94438,
+      "title": "[CC] add shell stages",
+      "url": "https://github.com/vercel/next.js/pull/94438",
+      "author": "lubieowoce",
+      "at": "2026-06-03T17:48:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46607,
-      "title": "chore: update CI e2e tests diagnostics",
-      "url": "https://github.com/supabase/supabase/pull/46607",
+      "number": 46627,
+      "title": "fix(studio): show role permission descriptions in edit access drawer",
+      "url": "https://github.com/supabase/supabase/pull/46627",
+      "author": "awaseem",
+      "at": "2026-06-03T16:51:12Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46626,
+      "title": "feat: add a dashboard button to retrigger a branch workflow",
+      "url": "https://github.com/supabase/supabase/pull/46626",
       "author": "djhi",
-      "at": "2026-06-03T07:31:39Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46606,
-      "title": "fix: upgrade js-cookie to 3.0.7 (CVE-2026-46625)",
-      "url": "https://github.com/supabase/supabase/pull/46606",
-      "author": "orbisai0security",
-      "at": "2026-06-03T05:37:07Z"
+      "at": "2026-06-03T16:12:21Z"
     }
   ]
 }
