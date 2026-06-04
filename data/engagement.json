@@ -1,28 +1,61 @@
 {
-  "updatedAt": "2026-06-04T07:24:42.865Z",
-  "count": 7,
+  "updatedAt": "2026-06-04T16:51:10.031Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4963,
-      "title": "fix(dom): remove task-specific debug log artifacts from service.py",
-      "url": "https://github.com/browser-use/browser-use/pull/4963",
-      "author": "ferasbusiness666",
-      "at": "2026-06-03T21:37:40Z"
+      "number": 4965,
+      "title": "  feat(tools): add hover action to agent for CSS :hover interactions and dropdown menus",
+      "url": "https://github.com/browser-use/browser-use/pull/4965",
+      "author": "Kie-Chi",
+      "at": "2026-06-04T10:38:49Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 4964,
+      "title": "  Feature Request: Add hover action for triggering CSS :hover dropdowns, tooltips, and hover-reveal patterns",
+      "url": "https://github.com/browser-use/browser-use/issues/4964",
+      "author": "Kie-Chi",
+      "at": "2026-06-04T10:35:44Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4962,
-      "title": "fix: remove unused LLMException dead code from exceptions.py",
-      "url": "https://github.com/browser-use/browser-use/pull/4962",
-      "author": "ferasbusiness666",
-      "at": "2026-06-03T21:36:33Z"
+      "number": 3516,
+      "title": "fix: resolve $ref/$defs indirection in file download/upload walkers",
+      "url": "https://github.com/ComposioHQ/composio/pull/3516",
+      "author": "michaelxer",
+      "at": "2026-06-04T12:38:04Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3515,
+      "title": "fix(ci): make CLI releases reliably ship binary assets",
+      "url": "https://github.com/ComposioHQ/composio/pull/3515",
+      "author": "jkomyno",
+      "at": "2026-06-04T12:36:03Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2343,
+      "title": "fix(docs): correct Vertex AI migration, update Known Limitations, clarify Google providers",
+      "url": "https://github.com/567-labs/instructor/pull/2343",
+      "author": "junqigif",
+      "at": "2026-06-04T12:47:47Z"
     },
     {
       "founder": "Harrison Chase",
@@ -36,48 +69,48 @@
       "at": "2026-06-04T05:20:53Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 37879,
-      "title": "feat(agents): AgentRuntime fields + _build_runtime hook for middleware",
-      "url": "https://github.com/langchain-ai/langchain/pull/37879",
-      "author": "sydney-runkle",
-      "at": "2026-06-03T17:29:53Z"
+      "number": 94462,
+      "title": "Reland the debug channel on native Node streams, fixed for React 18",
+      "url": "https://github.com/vercel/next.js/pull/94462",
+      "author": "unstubbable",
+      "at": "2026-06-04T14:21:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94453,
-      "title": "try pressure signals",
-      "url": "https://github.com/vercel/next.js/pull/94453",
-      "author": "lukesandberg",
-      "at": "2026-06-04T06:29:12Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94452,
-      "title": "enable eviction by default",
-      "url": "https://github.com/vercel/next.js/pull/94452",
-      "author": "lukesandberg",
-      "at": "2026-06-04T06:29:11Z"
+      "number": 94461,
+      "title": "fix(turbopack): allow `#/` prefixed subpath import specifiers",
+      "url": "https://github.com/vercel/next.js/pull/94461",
+      "author": "sleitor",
+      "at": "2026-06-04T13:56:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46636,
-      "title": "chore: remove deprecated fields",
-      "url": "https://github.com/supabase/supabase/pull/46636",
-      "author": "imor",
-      "at": "2026-06-04T06:10:11Z"
+      "number": 46657,
+      "title": "fix(self-hosted): hide log drains when no logs enabled",
+      "url": "https://github.com/supabase/supabase/pull/46657",
+      "author": "aantti",
+      "at": "2026-06-04T16:38:31Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46656,
+      "title": "docs: migrate Edge Functions guides to @supabase/server (COM-269)",
+      "url": "https://github.com/supabase/supabase/pull/46656",
+      "author": "tomaspozo",
+      "at": "2026-06-04T16:17:05Z"
     }
   ]
 }
