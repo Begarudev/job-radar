@@ -1,61 +1,39 @@
 {
-  "updatedAt": "2026-06-03T18:20:19.904Z",
-  "count": 11,
+  "updatedAt": "2026-06-04T07:24:42.865Z",
+  "count": 7,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4957,
-      "title": "feat(tools): enforce browser action policies",
-      "url": "https://github.com/browser-use/browser-use/pull/4957",
-      "author": "RitwijParmar",
-      "at": "2026-06-03T01:07:51Z"
+      "number": 4963,
+      "title": "fix(dom): remove task-specific debug log artifacts from service.py",
+      "url": "https://github.com/browser-use/browser-use/pull/4963",
+      "author": "ferasbusiness666",
+      "at": "2026-06-03T21:37:40Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4956,
-      "title": "test: cover Windows CLI process liveness",
-      "url": "https://github.com/browser-use/browser-use/pull/4956",
-      "author": "yyzquwu",
-      "at": "2026-06-02T19:20:49Z"
+      "number": 4962,
+      "title": "fix: remove unused LLMException dead code from exceptions.py",
+      "url": "https://github.com/browser-use/browser-use/pull/4962",
+      "author": "ferasbusiness666",
+      "at": "2026-06-03T21:36:33Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3510,
-      "title": "docs: remove legacy custom tools references and retarget redirects",
-      "url": "https://github.com/ComposioHQ/composio/pull/3510",
-      "author": "jkomyno",
-      "at": "2026-06-03T12:57:32Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3509,
-      "title": "feat(core): remove legacy TypeScript custom tools",
-      "url": "https://github.com/ComposioHQ/composio/pull/3509",
-      "author": "jkomyno",
-      "at": "2026-06-03T12:57:20Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2340,
-      "title": "fix(v2): consolidate minor runtime fixes",
-      "url": "https://github.com/567-labs/instructor/pull/2340",
-      "author": "jxnl",
-      "at": "2026-06-02T23:03:24Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37894,
+      "title": "convert_to_openai_messages mutates the caller's input message in place",
+      "url": "https://github.com/langchain-ai/langchain/issues/37894",
+      "author": "ImmortalDemonGod",
+      "at": "2026-06-04T05:20:53Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +47,37 @@
       "at": "2026-06-03T17:29:53Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37878,
-      "title": "AgentExecutor._execute_model_async uses ainvoke (non-streaming) — on_llm_new_token never fires; LangGraph use_astream=True does not enable t",
-      "url": "https://github.com/langchain-ai/langchain/issues/37878",
-      "author": "kevin23w",
-      "at": "2026-06-03T16:24:33Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94439,
-      "title": "Add an experimental option for eviction",
-      "url": "https://github.com/vercel/next.js/pull/94439",
+      "number": 94453,
+      "title": "try pressure signals",
+      "url": "https://github.com/vercel/next.js/pull/94453",
       "author": "lukesandberg",
-      "at": "2026-06-03T18:02:17Z"
+      "at": "2026-06-04T06:29:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94438,
-      "title": "[CC] add shell stages",
-      "url": "https://github.com/vercel/next.js/pull/94438",
-      "author": "lubieowoce",
-      "at": "2026-06-03T17:48:02Z"
+      "number": 94452,
+      "title": "enable eviction by default",
+      "url": "https://github.com/vercel/next.js/pull/94452",
+      "author": "lukesandberg",
+      "at": "2026-06-04T06:29:11Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46627,
-      "title": "fix(studio): show role permission descriptions in edit access drawer",
-      "url": "https://github.com/supabase/supabase/pull/46627",
-      "author": "awaseem",
-      "at": "2026-06-03T16:51:12Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46626,
-      "title": "feat: add a dashboard button to retrigger a branch workflow",
-      "url": "https://github.com/supabase/supabase/pull/46626",
-      "author": "djhi",
-      "at": "2026-06-03T16:12:21Z"
+      "number": 46636,
+      "title": "chore: remove deprecated fields",
+      "url": "https://github.com/supabase/supabase/pull/46636",
+      "author": "imor",
+      "at": "2026-06-04T06:10:11Z"
     }
   ]
 }
