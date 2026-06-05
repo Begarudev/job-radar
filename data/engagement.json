@@ -1,116 +1,127 @@
 {
-  "updatedAt": "2026-06-04T16:51:10.031Z",
-  "count": 10,
+  "updatedAt": "2026-06-05T07:08:19.525Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4965,
-      "title": "  feat(tools): add hover action to agent for CSS :hover interactions and dropdown menus",
-      "url": "https://github.com/browser-use/browser-use/pull/4965",
-      "author": "Kie-Chi",
-      "at": "2026-06-04T10:38:49Z"
+      "number": 4968,
+      "title": "Rust core cli ",
+      "url": "https://github.com/browser-use/browser-use/pull/4968",
+      "author": "MagMueller",
+      "at": "2026-06-05T01:47:34Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4964,
-      "title": "  Feature Request: Add hover action for triggering CSS :hover dropdowns, tooltips, and hover-reveal patterns",
-      "url": "https://github.com/browser-use/browser-use/issues/4964",
-      "author": "Kie-Chi",
-      "at": "2026-06-04T10:35:44Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3516,
-      "title": "fix: resolve $ref/$defs indirection in file download/upload walkers",
-      "url": "https://github.com/ComposioHQ/composio/pull/3516",
-      "author": "michaelxer",
-      "at": "2026-06-04T12:38:04Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3515,
-      "title": "fix(ci): make CLI releases reliably ship binary assets",
-      "url": "https://github.com/ComposioHQ/composio/pull/3515",
-      "author": "jkomyno",
-      "at": "2026-06-04T12:36:03Z"
+      "number": 4967,
+      "title": "fix(llm): surface token usage for Ollama and DeepSeek instead of dropping it",
+      "url": "https://github.com/browser-use/browser-use/pull/4967",
+      "author": "AjaasMk",
+      "at": "2026-06-04T21:37:15Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2343,
-      "title": "fix(docs): correct Vertex AI migration, update Known Limitations, clarify Google providers",
-      "url": "https://github.com/567-labs/instructor/pull/2343",
-      "author": "junqigif",
-      "at": "2026-06-04T12:47:47Z"
+      "number": 2345,
+      "title": "fix(multimodal): Image.autodetect returns None instead of raising",
+      "url": "https://github.com/567-labs/instructor/pull/2345",
+      "author": "devteamaegis",
+      "at": "2026-06-04T18:06:11Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2344,
+      "title": "Image.autodetect returns None for non-str/non-Path sources, causing a confusing AttributeError",
+      "url": "https://github.com/567-labs/instructor/issues/2344",
+      "author": "devteamaegis",
+      "at": "2026-06-04T18:06:02Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37894,
-      "title": "convert_to_openai_messages mutates the caller's input message in place",
-      "url": "https://github.com/langchain-ai/langchain/issues/37894",
-      "author": "ImmortalDemonGod",
-      "at": "2026-06-04T05:20:53Z"
+      "number": 37912,
+      "title": "perplexity: _convert_message_to_dict drops AIMessage.tool_calls and raises on ToolMessage",
+      "url": "https://github.com/langchain-ai/langchain/issues/37912",
+      "author": "rbuchmayer-pplx",
+      "at": "2026-06-04T23:26:22Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 37909,
+      "title": "fix(core): remove Bedrock prevalidation from `load`",
+      "url": "https://github.com/langchain-ai/langchain/pull/37909",
+      "author": "mdrxy",
+      "at": "2026-06-04T22:47:49Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94462,
-      "title": "Reland the debug channel on native Node streams, fixed for React 18",
-      "url": "https://github.com/vercel/next.js/pull/94462",
-      "author": "unstubbable",
-      "at": "2026-06-04T14:21:33Z"
+      "number": 94469,
+      "title": "docs: correct wording and casing in turbopack tracing guide",
+      "url": "https://github.com/vercel/next.js/pull/94469",
+      "author": "RazinShafayet2007",
+      "at": "2026-06-05T05:32:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94461,
-      "title": "fix(turbopack): allow `#/` prefixed subpath import specifiers",
-      "url": "https://github.com/vercel/next.js/pull/94461",
-      "author": "sleitor",
-      "at": "2026-06-04T13:56:09Z"
+      "number": 94467,
+      "title": "simplify `Transition` by removing dead members",
+      "url": "https://github.com/vercel/next.js/pull/94467",
+      "author": "lukesandberg",
+      "at": "2026-06-04T21:56:35Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46669,
+      "title": "PG 15→17 upgrade fails at completion (\"pg_cron has no update path from 1.6 to 1.6.4\"), leaves project with no valid restart target and rest/",
+      "url": "https://github.com/supabase/supabase/issues/46669",
+      "author": "TomPelsz",
+      "at": "2026-06-05T06:41:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46657,
-      "title": "fix(self-hosted): hide log drains when no logs enabled",
-      "url": "https://github.com/supabase/supabase/pull/46657",
-      "author": "aantti",
-      "at": "2026-06-04T16:38:31Z"
+      "number": 46668,
+      "title": "docs: document binary broadcast messages",
+      "url": "https://github.com/supabase/supabase/pull/46668",
+      "author": "edgurgel",
+      "at": "2026-06-05T05:15:22Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46656,
-      "title": "docs: migrate Edge Functions guides to @supabase/server (COM-269)",
-      "url": "https://github.com/supabase/supabase/pull/46656",
-      "author": "tomaspozo",
-      "at": "2026-06-04T16:17:05Z"
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2215,
+      "title": "bug: --import-alias flag crashes with TypeError when used in CI mode",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2215",
+      "author": "bmarianome",
+      "at": "2026-02-21T16:34:42Z"
     }
   ]
 }
