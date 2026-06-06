@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-06-05T16:28:03.523Z",
-  "count": 13,
+  "updatedAt": "2026-06-06T06:30:50.834Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4971,
-      "title": "fix: recover from trailing garbage in LLM JSON responses",
-      "url": "https://github.com/browser-use/browser-use/pull/4971",
-      "author": "michaelxer",
-      "at": "2026-06-05T13:48:11Z"
+      "number": 4977,
+      "title": "fix: improve icon-only button detection using tooltips and aria-labels",
+      "url": "https://github.com/browser-use/browser-use/pull/4977",
+      "author": "Oxygen56",
+      "at": "2026-06-06T05:49:17Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 4970,
-      "title": "Bug: Thinking mode usually has the problem \"Invalid JSON\"",
-      "url": "https://github.com/browser-use/browser-use/issues/4970",
-      "author": "pndhuy150902",
-      "at": "2026-06-05T13:21:30Z"
+      "kind": "pr",
+      "number": 4976,
+      "title": "feat: add hover action for triggering CSS :hover patterns",
+      "url": "https://github.com/browser-use/browser-use/pull/4976",
+      "author": "Oxygen56",
+      "at": "2026-06-06T04:46:20Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,88 +40,55 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2347,
-      "title": "fix: raise ValueError on unsupported autodetect types and add webp mime registration",
-      "url": "https://github.com/567-labs/instructor/pull/2347",
-      "author": "Charbelto",
-      "at": "2026-06-05T08:07:09Z"
+      "number": 2351,
+      "title": "chore: improve instructor maintenance path",
+      "url": "https://github.com/567-labs/instructor/pull/2351",
+      "author": "lphuc2250gma",
+      "at": "2026-06-05T22:35:33Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2346,
-      "title": "docs: add Entroly reference to prompt caching guide",
-      "url": "https://github.com/567-labs/instructor/pull/2346",
-      "author": "juyterman1000",
-      "at": "2026-06-05T07:56:13Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 37924,
-      "title": "fix(core): resolve string annotations in `_create_subset_model_v2`",
-      "url": "https://github.com/langchain-ai/langchain/pull/37924",
-      "author": "qflen",
-      "at": "2026-06-05T15:26:21Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 37921,
-      "title": "create_agent discards state_schema subclass in inferred return type",
-      "url": "https://github.com/langchain-ai/langchain/issues/37921",
-      "author": "mihai1voicescu",
-      "at": "2026-06-05T14:45:22Z"
+      "number": 94499,
+      "title": "Instrumentation.onRequestError error parameter type does not match the docs",
+      "url": "https://github.com/vercel/next.js/issues/94499",
+      "author": "sculli-net",
+      "at": "2026-06-06T04:16:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94480,
-      "title": "[ci] Switch release-next-rspack to a more explicit environment name",
-      "url": "https://github.com/vercel/next.js/pull/94480",
-      "author": "bgw",
-      "at": "2026-06-05T16:12:29Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94479,
-      "title": "[App Shells] Track session data usage during static prerender",
-      "url": "https://github.com/vercel/next.js/pull/94479",
-      "author": "lubieowoce",
-      "at": "2026-06-05T16:05:17Z"
+      "number": 94498,
+      "title": "[tubopack] migrate rcstr! to use scattered collect",
+      "url": "https://github.com/vercel/next.js/pull/94498",
+      "author": "lukesandberg",
+      "at": "2026-06-06T00:32:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46681,
-      "title": "docs(realtime): troubleshooting WarnSendingBroadcastMessage",
-      "url": "https://github.com/supabase/supabase/pull/46681",
-      "author": "leandrocp",
-      "at": "2026-06-05T14:16:34Z"
+      "number": 46688,
+      "title": "fix: use type-only import for SupabasePersistenceOptions in realtime-monaco",
+      "url": "https://github.com/supabase/supabase/pull/46688",
+      "author": "Rohit-Gahlawat",
+      "at": "2026-06-05T22:52:31Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46678,
-      "title": "fix(ai): allow multiple assistant query approvals",
-      "url": "https://github.com/supabase/supabase/pull/46678",
-      "author": "mattrossman",
-      "at": "2026-06-05T13:39:28Z"
+      "number": 46686,
+      "title": "Remove unexposed extensions",
+      "url": "https://github.com/supabase/supabase/pull/46686",
+      "author": "lch-supa",
+      "at": "2026-06-05T20:58:59Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -133,17 +100,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4116",
       "author": "HBcao233",
       "at": "2026-06-05T11:37:09Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2215,
-      "title": "bug: --import-alias flag crashes with TypeError when used in CI mode",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2215",
-      "author": "bmarianome",
-      "at": "2026-02-21T16:34:42Z"
     }
   ]
 }
