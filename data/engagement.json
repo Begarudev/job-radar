@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T07:05:43.645Z",
+  "updatedAt": "2026-06-07T15:22:05.530Z",
   "count": 13,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4983,
-      "title": "fix(agent): harden _extract_start_url URL gating — skip local paths (incl. quoted) and match file extensions on the path, not as a substring",
-      "url": "https://github.com/browser-use/browser-use/pull/4983",
-      "author": "r266-tech",
-      "at": "2026-06-07T01:14:18Z"
+      "number": 4986,
+      "title": "fix(llm): extract thinking tags and sanitize json code blocks",
+      "url": "https://github.com/browser-use/browser-use/pull/4986",
+      "author": "harryautomazione",
+      "at": "2026-06-07T13:19:36Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4982,
-      "title": "[codex] add bu3 max browser-use model",
-      "url": "https://github.com/browser-use/browser-use/pull/4982",
-      "author": "MagMueller",
-      "at": "2026-06-06T17:36:12Z"
+      "number": 4985,
+      "title": "fix(llm): surface token usage for Ollama and DeepSeek instead of dropping it",
+      "url": "https://github.com/browser-use/browser-use/pull/4985",
+      "author": "harryautomazione",
+      "at": "2026-06-07T12:47:31Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -62,6 +62,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 37949,
+      "title": "refactor: migrate legacy pydantic .dict() to .model_dump()",
+      "url": "https://github.com/langchain-ai/langchain/issues/37949",
+      "author": "ramkumar27072006",
+      "at": "2026-06-07T10:47:38Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 37938,
       "title": "Update deprecated OpenAI computer-use-preview support for the current OpenAI `computer` tool",
       "url": "https://github.com/langchain-ai/langchain/issues/37938",
@@ -69,37 +80,37 @@
       "at": "2026-06-06T12:33:26Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37937,
-      "title": "OpenAI computer-use tool calls are not executed as LangChain tool calls",
-      "url": "https://github.com/langchain-ai/langchain/issues/37937",
-      "author": "yuakagi",
-      "at": "2026-06-06T12:02:39Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94536,
+      "title": "docs: align redirect comment with website docs",
+      "url": "https://github.com/vercel/next.js/pull/94536",
+      "author": "louzhedong",
+      "at": "2026-06-07T14:09:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94534,
-      "title": "Serve ISR fallback shells in response to prefetch requests",
-      "url": "https://github.com/vercel/next.js/pull/94534",
-      "author": "acdlite",
-      "at": "2026-06-07T06:43:30Z"
+      "number": 94535,
+      "title": "fix(@edge-runtime/cookies): fall back to raw value on malformed percent-encoding in cookie values",
+      "url": "https://github.com/vercel/next.js/pull/94535",
+      "author": "harsha-cpp",
+      "at": "2026-06-07T12:32:46Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94533,
-      "title": "Intercepting Route uses cached non-intercepted tree via optimistic routing after full-page navigation to target route in production",
-      "url": "https://github.com/vercel/next.js/issues/94533",
-      "author": "cshiraga",
-      "at": "2026-06-07T06:40:41Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46706,
+      "title": "docs(skills): scope studio-ui-patterns description to Studio codebase",
+      "url": "https://github.com/supabase/supabase/pull/46706",
+      "author": "Manibharadwaj",
+      "at": "2026-06-07T13:51:05Z"
     },
     {
       "founder": "Paul Copplestone",
@@ -113,15 +124,15 @@
       "at": "2026-06-07T06:45:09Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 46703,
-      "title": "Added Project Deletion docs",
-      "url": "https://github.com/supabase/supabase/pull/46703",
-      "author": "NARUDESIGNS",
-      "at": "2026-06-07T01:39:20Z"
+      "number": 2235,
+      "title": "docs: clarify tRPC frontend entrypoints",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2235",
+      "author": "louzhedong",
+      "at": "2026-06-07T14:05:59Z"
     },
     {
       "founder": "Theo Browne",
@@ -133,17 +144,6 @@
       "url": "https://github.com/t3-oss/create-t3-app/issues/2217",
       "author": "brucexu-eth",
       "at": "2026-03-06T02:09:21Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2178,
-      "title": "bug: installation fails on biome formatting",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2178",
-      "author": "FilipMasar",
-      "at": "2025-12-22T11:56:41Z"
     }
   ]
 }
