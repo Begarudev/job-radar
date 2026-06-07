@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-06-06T15:11:18.146Z",
-  "count": 12,
+  "updatedAt": "2026-06-07T07:05:43.645Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4980,
-      "title": "fix: correct Chrome DevTools typo in issue template",
-      "url": "https://github.com/browser-use/browser-use/pull/4980",
-      "author": "Nukually",
-      "at": "2026-06-06T08:59:55Z"
+      "number": 4983,
+      "title": "fix(agent): harden _extract_start_url URL gating — skip local paths (incl. quoted) and match file extensions on the path, not as a substring",
+      "url": "https://github.com/browser-use/browser-use/pull/4983",
+      "author": "r266-tech",
+      "at": "2026-06-07T01:14:18Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4979,
-      "title": "fix(dom): surface title attribute for icon-only buttons in LLM element text to improve matching when aria-label is missing",
-      "url": "https://github.com/browser-use/browser-use/pull/4979",
-      "author": "ad-ix",
-      "at": "2026-06-06T07:31:57Z"
+      "number": 4982,
+      "title": "[codex] add bu3 max browser-use model",
+      "url": "https://github.com/browser-use/browser-use/pull/4982",
+      "author": "MagMueller",
+      "at": "2026-06-06T17:36:12Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3525,
-      "title": "docs: add Security and Data section (Security + Data retention)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3525",
-      "author": "palash-c",
-      "at": "2026-06-05T10:57:23Z"
+      "number": 3526,
+      "title": "feat(examples): add agent-trust example using TWZRD Agent Intel MCP server",
+      "url": "https://github.com/ComposioHQ/composio/pull/3526",
+      "author": "twzrd-sol",
+      "at": "2026-06-06T22:43:19Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3507,
-      "title": "MCP server returns \"Access denied\" from Relevance AI despite valid API key",
-      "url": "https://github.com/ComposioHQ/composio/issues/3507",
-      "author": "gustavo08-dev",
-      "at": "2026-06-03T11:14:43Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2354,
+      "title": "docs(contributing): update contributing setup instructions to reflect the uv migration",
+      "url": "https://github.com/567-labs/instructor/pull/2354",
+      "author": "Steeveyboy",
+      "at": "2026-06-07T01:12:12Z"
     },
     {
       "founder": "Jason Liu",
@@ -56,17 +56,6 @@
       "url": "https://github.com/567-labs/instructor/pull/2352",
       "author": "Charbelto",
       "at": "2026-06-06T14:49:30Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2351,
-      "title": "chore: improve instructor maintenance path",
-      "url": "https://github.com/567-labs/instructor/pull/2351",
-      "author": "lphuc2250gma",
-      "at": "2026-06-05T22:35:33Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,44 +84,66 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94508,
-      "title": "docs: add updateTag example to cacheTag page",
-      "url": "https://github.com/vercel/next.js/pull/94508",
-      "author": "aurorascharff",
-      "at": "2026-06-06T13:07:09Z"
+      "number": 94534,
+      "title": "Serve ISR fallback shells in response to prefetch requests",
+      "url": "https://github.com/vercel/next.js/pull/94534",
+      "author": "acdlite",
+      "at": "2026-06-07T06:43:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94503,
-      "title": "migrate turbo-tasks to scattered collect",
-      "url": "https://github.com/vercel/next.js/pull/94503",
-      "author": "lukesandberg",
-      "at": "2026-06-06T06:59:43Z"
+      "kind": "issue",
+      "number": 94533,
+      "title": "Intercepting Route uses cached non-intercepted tree via optimistic routing after full-page navigation to target route in production",
+      "url": "https://github.com/vercel/next.js/issues/94533",
+      "author": "cshiraga",
+      "at": "2026-06-07T06:40:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46697,
-      "title": "fix(studio): wrappers install state in detail view",
-      "url": "https://github.com/supabase/supabase/pull/46697",
-      "author": "fsansalvadore",
-      "at": "2026-06-06T14:56:40Z"
+      "number": 46704,
+      "title": "Fix inconsistent padding in www mobile menu",
+      "url": "https://github.com/supabase/supabase/pull/46704",
+      "author": "joshenlim",
+      "at": "2026-06-07T06:45:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46694,
-      "title": "docs: fix invalid syntax and wrong identifiers in code examples",
-      "url": "https://github.com/supabase/supabase/pull/46694",
-      "author": "emmayusufu",
-      "at": "2026-06-06T10:10:03Z"
+      "number": 46703,
+      "title": "Added Project Deletion docs",
+      "url": "https://github.com/supabase/supabase/pull/46703",
+      "author": "NARUDESIGNS",
+      "at": "2026-06-07T01:39:20Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2217,
+      "title": "bug: Prisma generated files under generated/prisma are reformatted by Prettier, causing persistent git diff churn in fresh T3 scaffold",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2217",
+      "author": "brucexu-eth",
+      "at": "2026-03-06T02:09:21Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2178,
+      "title": "bug: installation fails on biome formatting",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2178",
+      "author": "FilipMasar",
+      "at": "2025-12-22T11:56:41Z"
     }
   ]
 }
