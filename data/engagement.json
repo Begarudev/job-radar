@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-06-07T15:22:05.530Z",
-  "count": 13,
+  "updatedAt": "2026-06-08T08:10:13.313Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4986,
-      "title": "fix(llm): extract thinking tags and sanitize json code blocks",
-      "url": "https://github.com/browser-use/browser-use/pull/4986",
-      "author": "harryautomazione",
-      "at": "2026-06-07T13:19:36Z"
+      "number": 4990,
+      "title": "fix: reset fallback LLM state at the start of each run()",
+      "url": "https://github.com/browser-use/browser-use/pull/4990",
+      "author": "aarushisingh04",
+      "at": "2026-06-08T06:53:57Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4985,
-      "title": "fix(llm): surface token usage for Ollama and DeepSeek instead of dropping it",
-      "url": "https://github.com/browser-use/browser-use/pull/4985",
-      "author": "harryautomazione",
-      "at": "2026-06-07T12:47:31Z"
+      "number": 4989,
+      "title": "fix(downloads): reject Windows reserved device names in download filename sanitizer",
+      "url": "https://github.com/browser-use/browser-use/pull/4989",
+      "author": "r266-tech",
+      "at": "2026-06-08T05:22:33Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3526,
-      "title": "feat(examples): add agent-trust example using TWZRD Agent Intel MCP server",
-      "url": "https://github.com/ComposioHQ/composio/pull/3526",
-      "author": "twzrd-sol",
-      "at": "2026-06-06T22:43:19Z"
+      "kind": "issue",
+      "number": 3507,
+      "title": "MCP server returns \"Access denied\" from Relevance AI despite valid API key",
+      "url": "https://github.com/ComposioHQ/composio/issues/3507",
+      "author": "gustavo08-dev",
+      "at": "2026-06-03T11:14:43Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2354,
-      "title": "docs(contributing): update contributing setup instructions to reflect the uv migration",
-      "url": "https://github.com/567-labs/instructor/pull/2354",
-      "author": "Steeveyboy",
-      "at": "2026-06-07T01:12:12Z"
+      "number": 2357,
+      "title": "docs(v2): document provider-owned client architecture",
+      "url": "https://github.com/567-labs/instructor/pull/2357",
+      "author": "jxnl-oai",
+      "at": "2026-06-07T23:46:50Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2352,
-      "title": "fix: consolidate fixes for multiple open bugs (#2205, #2300, #2056, #2076, #2344)",
-      "url": "https://github.com/567-labs/instructor/pull/2352",
-      "author": "Charbelto",
-      "at": "2026-06-06T14:49:30Z"
+      "number": 2356,
+      "title": "test(v2): validate provider-owned client architecture",
+      "url": "https://github.com/567-labs/instructor/pull/2356",
+      "author": "jxnl-oai",
+      "at": "2026-06-07T23:46:47Z"
     },
     {
       "founder": "Harrison Chase",
@@ -84,44 +84,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94536,
-      "title": "docs: align redirect comment with website docs",
-      "url": "https://github.com/vercel/next.js/pull/94536",
-      "author": "louzhedong",
-      "at": "2026-06-07T14:09:24Z"
+      "number": 94542,
+      "title": "Update env.mdx with environment variable config example",
+      "url": "https://github.com/vercel/next.js/pull/94542",
+      "author": "Nishajzmk",
+      "at": "2026-06-08T06:48:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94535,
-      "title": "fix(@edge-runtime/cookies): fall back to raw value on malformed percent-encoding in cookie values",
-      "url": "https://github.com/vercel/next.js/pull/94535",
-      "author": "harsha-cpp",
-      "at": "2026-06-07T12:32:46Z"
+      "kind": "issue",
+      "number": 94541,
+      "title": "Next.js logs BAILOUT_TO_CLIENT_SIDE_RENDERING on the not-found render, despite a Suspense boundary",
+      "url": "https://github.com/vercel/next.js/issues/94541",
+      "author": "arjenblokzijl",
+      "at": "2026-06-08T06:33:31Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46706,
-      "title": "docs(skills): scope studio-ui-patterns description to Studio codebase",
-      "url": "https://github.com/supabase/supabase/pull/46706",
-      "author": "Manibharadwaj",
-      "at": "2026-06-07T13:51:05Z"
+      "number": 46716,
+      "title": "Fix/year footer",
+      "url": "https://github.com/supabase/supabase/pull/46716",
+      "author": "Premiermoney",
+      "at": "2026-06-07T23:59:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46704,
-      "title": "Fix inconsistent padding in www mobile menu",
-      "url": "https://github.com/supabase/supabase/pull/46704",
-      "author": "joshenlim",
-      "at": "2026-06-07T06:45:09Z"
+      "number": 46715,
+      "title": "Patch 6 (#1)",
+      "url": "https://github.com/supabase/supabase/pull/46715",
+      "author": "Premiermoney",
+      "at": "2026-06-07T23:54:51Z"
     },
     {
       "founder": "Theo Browne",
@@ -133,17 +133,6 @@
       "url": "https://github.com/t3-oss/create-t3-app/pull/2235",
       "author": "louzhedong",
       "at": "2026-06-07T14:05:59Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2217,
-      "title": "bug: Prisma generated files under generated/prisma are reformatted by Prettier, causing persistent git diff churn in fresh T3 scaffold",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2217",
-      "author": "brucexu-eth",
-      "at": "2026-03-06T02:09:21Z"
     }
   ]
 }
