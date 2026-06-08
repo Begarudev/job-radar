@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T08:10:13.313Z",
+  "updatedAt": "2026-06-08T17:20:06.662Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,33 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4990,
-      "title": "fix: reset fallback LLM state at the start of each run()",
-      "url": "https://github.com/browser-use/browser-use/pull/4990",
-      "author": "aarushisingh04",
-      "at": "2026-06-08T06:53:57Z"
+      "number": 4995,
+      "title": "fix(agent): preserve all actions when history metadata is partial",
+      "url": "https://github.com/browser-use/browser-use/pull/4995",
+      "author": "JaeCoding",
+      "at": "2026-06-08T16:19:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4989,
-      "title": "fix(downloads): reject Windows reserved device names in download filename sanitizer",
-      "url": "https://github.com/browser-use/browser-use/pull/4989",
-      "author": "r266-tech",
-      "at": "2026-06-08T05:22:33Z"
+      "number": 4994,
+      "title": "Add browser-use-core binary discovery",
+      "url": "https://github.com/browser-use/browser-use/pull/4994",
+      "author": "gregpr07",
+      "at": "2026-06-08T15:06:55Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3528,
+      "title": "fix(core): remove deprecated auth-config `uuid` field from V3 responses",
+      "url": "https://github.com/ComposioHQ/composio/pull/3528",
+      "author": "lingala-composio",
+      "at": "2026-06-08T16:46:35Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -84,55 +95,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94542,
-      "title": "Update env.mdx with environment variable config example",
-      "url": "https://github.com/vercel/next.js/pull/94542",
-      "author": "Nishajzmk",
-      "at": "2026-06-08T06:48:18Z"
+      "number": 94557,
+      "title": "[ci] Always upload canary tarballs from the canary branch",
+      "url": "https://github.com/vercel/next.js/pull/94557",
+      "author": "eps1lon",
+      "at": "2026-06-08T16:33:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94541,
-      "title": "Next.js logs BAILOUT_TO_CLIENT_SIDE_RENDERING on the not-found render, despite a Suspense boundary",
-      "url": "https://github.com/vercel/next.js/issues/94541",
-      "author": "arjenblokzijl",
-      "at": "2026-06-08T06:33:31Z"
+      "kind": "pr",
+      "number": 94556,
+      "title": "fix(eslint-plugin-next): Support pageExtensions in no-html-link-for-pages and resolve app directory static route bug",
+      "url": "https://github.com/vercel/next.js/pull/94556",
+      "author": "Myself-Praveen",
+      "at": "2026-06-08T16:15:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46716,
-      "title": "Fix/year footer",
-      "url": "https://github.com/supabase/supabase/pull/46716",
-      "author": "Premiermoney",
-      "at": "2026-06-07T23:59:07Z"
+      "number": 46752,
+      "title": "fix: clip overflowing text in collapsed sonner toasts",
+      "url": "https://github.com/supabase/supabase/pull/46752",
+      "author": "awaseem",
+      "at": "2026-06-08T17:02:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46715,
-      "title": "Patch 6 (#1)",
-      "url": "https://github.com/supabase/supabase/pull/46715",
-      "author": "Premiermoney",
-      "at": "2026-06-07T23:54:51Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2235,
-      "title": "docs: clarify tRPC frontend entrypoints",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2235",
-      "author": "louzhedong",
-      "at": "2026-06-07T14:05:59Z"
+      "number": 46750,
+      "title": "fix(www): open footer social links in a new tab",
+      "url": "https://github.com/supabase/supabase/pull/46750",
+      "author": "narendraio",
+      "at": "2026-06-08T16:30:33Z"
     }
   ]
 }
