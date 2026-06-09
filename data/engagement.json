@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-09T06:50:25.256Z",
-  "count": 11,
+  "updatedAt": "2026-06-09T16:29:28.949Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5007,
+      "title": "feat(llm): accept provider-prefixed models in ChatBrowserUse",
+      "url": "https://github.com/browser-use/browser-use/pull/5007",
+      "author": "sauravpanda",
+      "at": "2026-06-09T16:01:36Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/5002",
       "author": "MagMueller",
       "at": "2026-06-08T20:48:41Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5001,
-      "title": "Add local terminal source discovery",
-      "url": "https://github.com/browser-use/browser-use/pull/5001",
-      "author": "gregpr07",
-      "at": "2026-06-08T20:45:40Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,6 +40,17 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
+      "number": 3540,
+      "title": "docs: remove non-existent alias parameter from initiate-to-link migration guide",
+      "url": "https://github.com/ComposioHQ/composio/pull/3540",
+      "author": "lingala-composio",
+      "at": "2026-06-09T13:29:05Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
       "number": 3535,
       "title": "docs: update CONTRIBUTING.md for current ts/packages + python repo structure",
       "url": "https://github.com/ComposioHQ/composio/pull/3535",
@@ -47,15 +58,26 @@
       "at": "2026-06-09T04:32:10Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3534,
-      "title": "[codex] Rename scoped API key reference",
-      "url": "https://github.com/ComposioHQ/composio/pull/3534",
-      "author": "shamsharoon",
-      "at": "2026-06-09T03:44:20Z"
+      "number": 2360,
+      "title": "docs: fix broken integration links to useinstructor.com",
+      "url": "https://github.com/567-labs/instructor/pull/2360",
+      "author": "fancy-agent",
+      "at": "2026-06-09T10:29:12Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 37976,
+      "title": "RunnableSequence.astream() leaks TCP socket FDs on client disconnect",
+      "url": "https://github.com/langchain-ai/langchain/issues/37976",
+      "author": "Sim-JH",
+      "at": "2026-06-09T10:39:35Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +91,48 @@
       "at": "2026-06-09T06:04:28Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37970,
-      "title": "feat(langchain): add custom message param to ToolCallLimitMiddleware",
-      "url": "https://github.com/langchain-ai/langchain/issues/37970",
-      "author": "EduardoGomezHST",
-      "at": "2026-06-08T20:02:30Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94606,
+      "title": "Resolve App Router routes when Pages Router i18n domains are configured",
+      "url": "https://github.com/vercel/next.js/pull/94606",
+      "author": "RobVermeer",
+      "at": "2026-06-09T15:46:25Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94586,
-      "title": "[turbopack] Create a shared asset with browser runtime code",
-      "url": "https://github.com/vercel/next.js/pull/94586",
-      "author": "sampoder",
-      "at": "2026-06-09T05:43:24Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94585,
-      "title": "Fix node:stream leak in webpack edge bundles",
-      "url": "https://github.com/vercel/next.js/pull/94585",
-      "author": "gnoff",
-      "at": "2026-06-09T05:32:01Z"
+      "number": 94605,
+      "title": "docs: document non-streamed bot rendering and Cache Components",
+      "url": "https://github.com/vercel/next.js/pull/94605",
+      "author": "icyJoseph",
+      "at": "2026-06-09T15:36:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46759,
-      "title": "fix(realtime-monaco): add missing @supabase-labs/y-supabase dependency and use type-only imports",
-      "url": "https://github.com/supabase/supabase/pull/46759",
-      "author": "SahilArate",
-      "at": "2026-06-09T06:01:38Z"
+      "number": 46786,
+      "title": "feat(logs): add realtime, supavisor, and pgbouncer to unified logs",
+      "url": "https://github.com/supabase/supabase/pull/46786",
+      "author": "jordienr",
+      "at": "2026-06-09T16:16:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46757,
-      "title": "feat(www): partners pages",
-      "url": "https://github.com/supabase/supabase/pull/46757",
-      "author": "fsansalvadore",
-      "at": "2026-06-08T21:26:42Z"
+      "number": 46784,
+      "title": "Jeremias/docs 1019 detect widgets in markdown content and add readable content",
+      "url": "https://github.com/supabase/supabase/pull/46784",
+      "author": "jeremenichelli",
+      "at": "2026-06-09T16:01:19Z"
     }
   ]
 }
