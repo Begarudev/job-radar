@@ -1,138 +1,127 @@
 {
-  "updatedAt": "2026-06-08T17:20:06.662Z",
-  "count": 12,
+  "updatedAt": "2026-06-09T06:50:25.256Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4995,
-      "title": "fix(agent): preserve all actions when history metadata is partial",
-      "url": "https://github.com/browser-use/browser-use/pull/4995",
-      "author": "JaeCoding",
-      "at": "2026-06-08T16:19:25Z"
+      "number": 5002,
+      "title": "[codex] add BU3 browser use models",
+      "url": "https://github.com/browser-use/browser-use/pull/5002",
+      "author": "MagMueller",
+      "at": "2026-06-08T20:48:41Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 4994,
-      "title": "Add browser-use-core binary discovery",
-      "url": "https://github.com/browser-use/browser-use/pull/4994",
+      "number": 5001,
+      "title": "Add local terminal source discovery",
+      "url": "https://github.com/browser-use/browser-use/pull/5001",
       "author": "gregpr07",
-      "at": "2026-06-08T15:06:55Z"
+      "at": "2026-06-08T20:45:40Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.0 - Rebuilt in Rust [beta] released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.0",
+      "author": "gregpr07",
+      "at": "2026-06-08T22:07:47Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3528,
-      "title": "fix(core): remove deprecated auth-config `uuid` field from V3 responses",
-      "url": "https://github.com/ComposioHQ/composio/pull/3528",
-      "author": "lingala-composio",
-      "at": "2026-06-08T16:46:35Z"
+      "number": 3535,
+      "title": "docs: update CONTRIBUTING.md for current ts/packages + python repo structure",
+      "url": "https://github.com/ComposioHQ/composio/pull/3535",
+      "author": "eldar702",
+      "at": "2026-06-09T04:32:10Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3507,
-      "title": "MCP server returns \"Access denied\" from Relevance AI despite valid API key",
-      "url": "https://github.com/ComposioHQ/composio/issues/3507",
-      "author": "gustavo08-dev",
-      "at": "2026-06-03T11:14:43Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2357,
-      "title": "docs(v2): document provider-owned client architecture",
-      "url": "https://github.com/567-labs/instructor/pull/2357",
-      "author": "jxnl-oai",
-      "at": "2026-06-07T23:46:50Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2356,
-      "title": "test(v2): validate provider-owned client architecture",
-      "url": "https://github.com/567-labs/instructor/pull/2356",
-      "author": "jxnl-oai",
-      "at": "2026-06-07T23:46:47Z"
+      "number": 3534,
+      "title": "[codex] Rename scoped API key reference",
+      "url": "https://github.com/ComposioHQ/composio/pull/3534",
+      "author": "shamsharoon",
+      "at": "2026-06-09T03:44:20Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37949,
-      "title": "refactor: migrate legacy pydantic .dict() to .model_dump()",
-      "url": "https://github.com/langchain-ai/langchain/issues/37949",
-      "author": "ramkumar27072006",
-      "at": "2026-06-07T10:47:38Z"
+      "number": 37972,
+      "title": "Add deterministic middleware orchestration with priority, conditional activation, and safe parallel execution",
+      "url": "https://github.com/langchain-ai/langchain/issues/37972",
+      "author": "AyushSonuu",
+      "at": "2026-06-09T06:04:28Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 37938,
-      "title": "Update deprecated OpenAI computer-use-preview support for the current OpenAI `computer` tool",
-      "url": "https://github.com/langchain-ai/langchain/issues/37938",
-      "author": "yuakagi",
-      "at": "2026-06-06T12:33:26Z"
+      "number": 37970,
+      "title": "feat(langchain): add custom message param to ToolCallLimitMiddleware",
+      "url": "https://github.com/langchain-ai/langchain/issues/37970",
+      "author": "EduardoGomezHST",
+      "at": "2026-06-08T20:02:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94557,
-      "title": "[ci] Always upload canary tarballs from the canary branch",
-      "url": "https://github.com/vercel/next.js/pull/94557",
-      "author": "eps1lon",
-      "at": "2026-06-08T16:33:59Z"
+      "number": 94586,
+      "title": "[turbopack] Create a shared asset with browser runtime code",
+      "url": "https://github.com/vercel/next.js/pull/94586",
+      "author": "sampoder",
+      "at": "2026-06-09T05:43:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94556,
-      "title": "fix(eslint-plugin-next): Support pageExtensions in no-html-link-for-pages and resolve app directory static route bug",
-      "url": "https://github.com/vercel/next.js/pull/94556",
-      "author": "Myself-Praveen",
-      "at": "2026-06-08T16:15:27Z"
+      "number": 94585,
+      "title": "Fix node:stream leak in webpack edge bundles",
+      "url": "https://github.com/vercel/next.js/pull/94585",
+      "author": "gnoff",
+      "at": "2026-06-09T05:32:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46752,
-      "title": "fix: clip overflowing text in collapsed sonner toasts",
-      "url": "https://github.com/supabase/supabase/pull/46752",
-      "author": "awaseem",
-      "at": "2026-06-08T17:02:07Z"
+      "number": 46759,
+      "title": "fix(realtime-monaco): add missing @supabase-labs/y-supabase dependency and use type-only imports",
+      "url": "https://github.com/supabase/supabase/pull/46759",
+      "author": "SahilArate",
+      "at": "2026-06-09T06:01:38Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46750,
-      "title": "fix(www): open footer social links in a new tab",
-      "url": "https://github.com/supabase/supabase/pull/46750",
-      "author": "narendraio",
-      "at": "2026-06-08T16:30:33Z"
+      "number": 46757,
+      "title": "feat(www): partners pages",
+      "url": "https://github.com/supabase/supabase/pull/46757",
+      "author": "fsansalvadore",
+      "at": "2026-06-08T21:26:42Z"
     }
   ]
 }
