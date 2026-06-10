@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-09T16:29:28.949Z",
-  "count": 12,
+  "updatedAt": "2026-06-10T07:09:04.158Z",
+  "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5011,
+      "title": "fix(groq): read structured output from tool calls for tool-calling models",
+      "url": "https://github.com/browser-use/browser-use/pull/5011",
+      "author": "alvinttang",
+      "at": "2026-06-10T00:02:24Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -17,23 +28,12 @@
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5002,
-      "title": "[codex] add BU3 browser use models",
-      "url": "https://github.com/browser-use/browser-use/pull/5002",
-      "author": "MagMueller",
-      "at": "2026-06-08T20:48:41Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
       "kind": "release",
       "number": 0,
-      "title": "0.13.0 - Rebuilt in Rust [beta] released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.0",
+      "title": "0.13.1 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.1",
       "author": "gregpr07",
-      "at": "2026-06-08T22:07:47Z"
+      "at": "2026-06-10T01:00:59Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -51,11 +51,22 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3535,
-      "title": "docs: update CONTRIBUTING.md for current ts/packages + python repo structure",
-      "url": "https://github.com/ComposioHQ/composio/pull/3535",
+      "number": 3533,
+      "title": "fix(python): redact raw webhook payload from trigger parse-error log (#2963)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3533",
       "author": "eldar702",
-      "at": "2026-06-09T04:32:10Z"
+      "at": "2026-06-08T19:38:58Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2361,
+      "title": "fix(multimodal): raise explicit errors in Audio instead of assert",
+      "url": "https://github.com/567-labs/instructor/pull/2361",
+      "author": "IgnazioDS",
+      "at": "2026-06-10T05:51:22Z"
     },
     {
       "founder": "Jason Liu",
@@ -72,67 +83,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 37976,
-      "title": "RunnableSequence.astream() leaks TCP socket FDs on client disconnect",
-      "url": "https://github.com/langchain-ai/langchain/issues/37976",
-      "author": "Sim-JH",
-      "at": "2026-06-09T10:39:35Z"
+      "kind": "pr",
+      "number": 38006,
+      "title": "feat(openai): provider-aware native streaming for compatible subclasses",
+      "url": "https://github.com/langchain-ai/langchain/pull/38006",
+      "author": "nick-hollon-lc",
+      "at": "2026-06-10T03:02:40Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 38004,
+      "title": "feat(openai): native content-block streaming for the Responses API",
+      "url": "https://github.com/langchain-ai/langchain/pull/38004",
+      "author": "nick-hollon-lc",
+      "at": "2026-06-10T02:21:49Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 37972,
-      "title": "Add deterministic middleware orchestration with priority, conditional activation, and safe parallel execution",
-      "url": "https://github.com/langchain-ai/langchain/issues/37972",
-      "author": "AyushSonuu",
-      "at": "2026-06-09T06:04:28Z"
+      "number": 94634,
+      "title": "infinite refresh loop and crashes in next.js 16.2.7",
+      "url": "https://github.com/vercel/next.js/issues/94634",
+      "author": "ken-spencer",
+      "at": "2026-06-10T05:13:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94606,
-      "title": "Resolve App Router routes when Pages Router i18n domains are configured",
-      "url": "https://github.com/vercel/next.js/pull/94606",
-      "author": "RobVermeer",
-      "at": "2026-06-09T15:46:25Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94605,
-      "title": "docs: document non-streamed bot rendering and Cache Components",
-      "url": "https://github.com/vercel/next.js/pull/94605",
-      "author": "icyJoseph",
-      "at": "2026-06-09T15:36:23Z"
+      "number": 94633,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/94633",
+      "author": "vercel-release-bot",
+      "at": "2026-06-10T00:44:57Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46786,
-      "title": "feat(logs): add realtime, supavisor, and pgbouncer to unified logs",
-      "url": "https://github.com/supabase/supabase/pull/46786",
-      "author": "jordienr",
-      "at": "2026-06-09T16:16:33Z"
+      "number": 46794,
+      "title": "fix: improve redirect validation",
+      "url": "https://github.com/supabase/supabase/pull/46794",
+      "author": "staaldraad",
+      "at": "2026-06-10T07:00:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46784,
-      "title": "Jeremias/docs 1019 detect widgets in markdown content and add readable content",
-      "url": "https://github.com/supabase/supabase/pull/46784",
-      "author": "jeremenichelli",
-      "at": "2026-06-09T16:01:19Z"
+      "number": 46793,
+      "title": "ref(replication): Improve replication copy and UI",
+      "url": "https://github.com/supabase/supabase/pull/46793",
+      "author": "iambriccardo",
+      "at": "2026-06-10T06:43:37Z"
     }
   ]
 }
