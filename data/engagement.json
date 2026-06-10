@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-06-10T07:09:04.158Z",
-  "count": 13,
+  "updatedAt": "2026-06-10T16:55:39.668Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5011,
-      "title": "fix(groq): read structured output from tool calls for tool-calling models",
-      "url": "https://github.com/browser-use/browser-use/pull/5011",
-      "author": "alvinttang",
-      "at": "2026-06-10T00:02:24Z"
+      "number": 5014,
+      "title": "fix: skip extension page targets",
+      "url": "https://github.com/browser-use/browser-use/pull/5014",
+      "author": "he-yufeng",
+      "at": "2026-06-10T16:18:29Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5007,
-      "title": "feat(llm): accept provider-prefixed models in ChatBrowserUse",
-      "url": "https://github.com/browser-use/browser-use/pull/5007",
-      "author": "sauravpanda",
-      "at": "2026-06-09T16:01:36Z"
+      "number": 5013,
+      "title": "[ENG-4762] publish: gate publish_to_pypi behind release env",
+      "url": "https://github.com/browser-use/browser-use/pull/5013",
+      "author": "LarsenCundric",
+      "at": "2026-06-10T13:32:15Z"
     },
     {
       "founder": "Magnus Müller",
@@ -39,12 +39,12 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3540,
-      "title": "docs: remove non-existent alias parameter from initiate-to-link migration guide",
-      "url": "https://github.com/ComposioHQ/composio/pull/3540",
-      "author": "lingala-composio",
-      "at": "2026-06-09T13:29:05Z"
+      "kind": "issue",
+      "number": 3541,
+      "title": "[Bug]: API key IP allowlist evaluates Cloudflare edge IP instead of real client IP — every request 401s (code 10401) with a rotating AS13335",
+      "url": "https://github.com/ComposioHQ/composio/issues/3541",
+      "author": "Arthurhussey",
+      "at": "2026-06-10T09:31:32Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -62,6 +62,17 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
+      "number": 2362,
+      "title": "fix: warn against combining RESPONSES_TOOLS with text.format json_schema (closes #2300)",
+      "url": "https://github.com/567-labs/instructor/pull/2362",
+      "author": "botbikamordehai2-sketch",
+      "at": "2026-06-10T12:34:28Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
       "number": 2361,
       "title": "fix(multimodal): raise explicit errors in Audio instead of assert",
       "url": "https://github.com/567-labs/instructor/pull/2361",
@@ -69,81 +80,81 @@
       "at": "2026-06-10T05:51:22Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2360,
-      "title": "docs: fix broken integration links to useinstructor.com",
-      "url": "https://github.com/567-labs/instructor/pull/2360",
-      "author": "fancy-agent",
-      "at": "2026-06-09T10:29:12Z"
+      "number": 38022,
+      "title": "feat(mistralai): native content-block streaming events",
+      "url": "https://github.com/langchain-ai/langchain/pull/38022",
+      "author": "nick-hollon-lc",
+      "at": "2026-06-10T16:26:42Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38006,
-      "title": "feat(openai): provider-aware native streaming for compatible subclasses",
-      "url": "https://github.com/langchain-ai/langchain/pull/38006",
+      "number": 38021,
+      "title": "fix(core): preserve usage token details in v3 streaming events",
+      "url": "https://github.com/langchain-ai/langchain/pull/38021",
       "author": "nick-hollon-lc",
-      "at": "2026-06-10T03:02:40Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38004,
-      "title": "feat(openai): native content-block streaming for the Responses API",
-      "url": "https://github.com/langchain-ai/langchain/pull/38004",
-      "author": "nick-hollon-lc",
-      "at": "2026-06-10T02:21:49Z"
+      "at": "2026-06-10T16:05:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94661,
+      "title": "[turbopack] Add `inline_registration` to `BrowserChunkingContext` and `registration_code` to `ChunkGroupResult`",
+      "url": "https://github.com/vercel/next.js/pull/94661",
+      "author": "sampoder",
+      "at": "2026-06-10T16:54:40Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94658,
+      "title": "fix: ignore aborted http request errors",
+      "url": "https://github.com/vercel/next.js/pull/94658",
+      "author": "ifer47",
+      "at": "2026-06-10T16:14:08Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.2.9 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.2.9",
+      "author": "eps1lon",
+      "at": "2026-06-10T12:30:06Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 46819,
+      "title": "fix(www): clear CountUp interval on unmount to prevent memory leak",
+      "url": "https://github.com/supabase/supabase/pull/46819",
+      "author": "soufian3hm",
+      "at": "2026-06-10T16:28:04Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 94634,
-      "title": "infinite refresh loop and crashes in next.js 16.2.7",
-      "url": "https://github.com/vercel/next.js/issues/94634",
-      "author": "ken-spencer",
-      "at": "2026-06-10T05:13:35Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94633,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/94633",
-      "author": "vercel-release-bot",
-      "at": "2026-06-10T00:44:57Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46794,
-      "title": "fix: improve redirect validation",
-      "url": "https://github.com/supabase/supabase/pull/46794",
-      "author": "staaldraad",
-      "at": "2026-06-10T07:00:59Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46793,
-      "title": "ref(replication): Improve replication copy and UI",
-      "url": "https://github.com/supabase/supabase/pull/46793",
-      "author": "iambriccardo",
-      "at": "2026-06-10T06:43:37Z"
+      "number": 46818,
+      "title": "Table Editor: false “over 10,240 characters” warning on small jsonb value",
+      "url": "https://github.com/supabase/supabase/issues/46818",
+      "author": "Jathosn",
+      "at": "2026-06-10T16:00:57Z"
     }
   ]
 }
