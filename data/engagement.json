@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T17:34:56.338Z",
+  "updatedAt": "2026-06-12T07:23:06.836Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5020,
-      "title": "chore(llm): remove bu-3 / bu-3-max, default beta example to openai/gpt-5.5",
-      "url": "https://github.com/browser-use/browser-use/pull/5020",
-      "author": "sauravpanda",
-      "at": "2026-06-11T17:20:49Z"
+      "number": 5023,
+      "title": "Fix Ollama provider: strip invalid options and improve JSON error handling",
+      "url": "https://github.com/browser-use/browser-use/pull/5023",
+      "author": "Sarthak816",
+      "at": "2026-06-12T04:23:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5019,
-      "title": "Bump OpenAI dependency for LiteLLM compatibility",
-      "url": "https://github.com/browser-use/browser-use/pull/5019",
-      "author": "matt-greathouse",
-      "at": "2026-06-11T15:53:50Z"
+      "number": 5022,
+      "title": "test(beta): use openai/gpt-5.5 in the credential-bridging test",
+      "url": "https://github.com/browser-use/browser-use/pull/5022",
+      "author": "sauravpanda",
+      "at": "2026-06-12T03:08:30Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -41,7 +41,7 @@
       "repo": "ComposioHQ/composio",
       "kind": "pr",
       "number": 3549,
-      "title": "fix(core): remove manual Content-Length from S3 upload PUT (fixes #3548)",
+      "title": "fix(core): drop manual Content-Length in S3 upload PUT for compat with strict undici dispatcher (refs #3548)",
       "url": "https://github.com/ComposioHQ/composio/pull/3549",
       "author": "ThrouMisi",
       "at": "2026-06-11T17:11:46Z"
@@ -51,11 +51,22 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2086,
-      "title": "feat(bedrock): add native structured outputs and strict tool use modes",
-      "url": "https://github.com/567-labs/instructor/pull/2086",
-      "author": "429er",
-      "at": "2026-02-16T21:38:01Z"
+      "number": 2364,
+      "title": "fix(multimodal): support bytes in Image.autodetect, reject unsupported types",
+      "url": "https://github.com/567-labs/instructor/pull/2364",
+      "author": "by-Kaimercer",
+      "at": "2026-06-11T22:05:23Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38084,
+      "title": "Content block corruption when using type file",
+      "url": "https://github.com/langchain-ai/langchain/issues/38084",
+      "author": "Danstiv",
+      "at": "2026-06-11T21:13:15Z"
     },
     {
       "founder": "Harrison Chase",
@@ -63,65 +74,54 @@
       "repo": "langchain-ai/langchain",
       "kind": "issue",
       "number": 38074,
-      "title": "RunnableSequence silently swallows exceptions in async streaming path",
+      "title": "`RunnableSequence` silently swallows exceptions in async streaming path",
       "url": "https://github.com/langchain-ai/langchain/issues/38074",
       "author": "shareefmx",
       "at": "2026-06-11T16:13:27Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38073,
-      "title": "perf(core): memoize `BaseTool.tool_call_schema` subset model",
-      "url": "https://github.com/langchain-ai/langchain/pull/38073",
-      "author": "nick-hollon-lc",
-      "at": "2026-06-11T15:21:13Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 94740,
+      "title": "image-component.js: deviceSizes.sort() crashes on frozen array in production SSR (Next.js 16)",
+      "url": "https://github.com/vercel/next.js/issues/94740",
+      "author": "AP-Forever",
+      "at": "2026-06-12T05:05:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94719,
-      "title": "[agents-md] Index bundled docs instead of downloading into .next-docs",
-      "url": "https://github.com/vercel/next.js/pull/94719",
-      "author": "gaojude",
-      "at": "2026-06-11T17:21:55Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94718,
-      "title": "[CC] refactor staged rendering codepaths in params/searchParams",
-      "url": "https://github.com/vercel/next.js/pull/94718",
+      "number": 94738,
+      "title": "[App Shells] Allow root params in app shells",
+      "url": "https://github.com/vercel/next.js/pull/94738",
       "author": "lubieowoce",
-      "at": "2026-06-11T16:44:46Z"
+      "at": "2026-06-12T01:35:21Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46860,
-      "title": "Clarify pre-flight checks in CONTRIBUTING.md",
-      "url": "https://github.com/supabase/supabase/pull/46860",
-      "author": "Premiermoney",
-      "at": "2026-06-11T16:48:00Z"
+      "number": 46869,
+      "title": "chore(etl): etl add-on forward compat",
+      "url": "https://github.com/supabase/supabase/pull/46869",
+      "author": "kevcodez",
+      "at": "2026-06-12T06:39:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46859,
-      "title": "chore(docs): add openapi to lint rule003",
-      "url": "https://github.com/supabase/supabase/pull/46859",
-      "author": "aantti",
-      "at": "2026-06-11T16:44:30Z"
+      "number": 46868,
+      "title": "adjust project settings integrations layout",
+      "url": "https://github.com/supabase/supabase/pull/46868",
+      "author": "SaxonF",
+      "at": "2026-06-12T03:25:23Z"
     }
   ]
 }
