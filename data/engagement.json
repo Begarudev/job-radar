@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-12T07:23:06.836Z",
-  "count": 11,
+  "updatedAt": "2026-06-12T16:41:42.305Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -28,100 +28,111 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3550,
-      "title": "docs: add MCP, files, and realtime routes to scoped API key permissions",
-      "url": "https://github.com/ComposioHQ/composio/pull/3550",
-      "author": "shamsharoon",
-      "at": "2026-06-11T17:21:48Z"
+      "kind": "issue",
+      "number": 3557,
+      "title": "Test from Codex",
+      "url": "https://github.com/ComposioHQ/composio/issues/3557",
+      "author": "dadasavagemmmm",
+      "at": "2026-06-12T11:41:53Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3549,
-      "title": "fix(core): drop manual Content-Length in S3 upload PUT for compat with strict undici dispatcher (refs #3548)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3549",
-      "author": "ThrouMisi",
-      "at": "2026-06-11T17:11:46Z"
+      "kind": "issue",
+      "number": 3556,
+      "title": "[Feature]: TealTiger deterministic governance for tool call authorization",
+      "url": "https://github.com/ComposioHQ/composio/issues/3556",
+      "author": "nagasatish007",
+      "at": "2026-06-12T11:41:42Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2366,
+      "title": "`generation_config` dict causes error when `response_model=None` with GenAI provider",
+      "url": "https://github.com/567-labs/instructor/issues/2366",
+      "author": "kunalchamoli",
+      "at": "2026-06-12T12:14:45Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2365,
+      "title": "Mistral AI v2 support",
+      "url": "https://github.com/567-labs/instructor/issues/2365",
+      "author": "lchoquel",
+      "at": "2026-06-12T07:51:20Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2364,
-      "title": "fix(multimodal): support bytes in Image.autodetect, reject unsupported types",
-      "url": "https://github.com/567-labs/instructor/pull/2364",
-      "author": "by-Kaimercer",
-      "at": "2026-06-11T22:05:23Z"
+      "number": 38106,
+      "title": "fix(langchain,anthropic): confine file-search results and tighten anthropic `allowed_prefixes`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38106",
+      "author": "nick-hollon-lc",
+      "at": "2026-06-12T16:38:59Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38084,
-      "title": "Content block corruption when using type file",
-      "url": "https://github.com/langchain-ai/langchain/issues/38084",
-      "author": "Danstiv",
-      "at": "2026-06-11T21:13:15Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38074,
-      "title": "`RunnableSequence` silently swallows exceptions in async streaming path",
-      "url": "https://github.com/langchain-ai/langchain/issues/38074",
-      "author": "shareefmx",
-      "at": "2026-06-11T16:13:27Z"
+      "kind": "pr",
+      "number": 38105,
+      "title": "release(anthropic): 1.4.6",
+      "url": "https://github.com/langchain-ai/langchain/pull/38105",
+      "author": "nick-hollon-lc",
+      "at": "2026-06-12T15:57:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 94740,
-      "title": "image-component.js: deviceSizes.sort() crashes on frozen array in production SSR (Next.js 16)",
-      "url": "https://github.com/vercel/next.js/issues/94740",
-      "author": "AP-Forever",
-      "at": "2026-06-12T05:05:13Z"
+      "number": 94750,
+      "title": "Production: dynamic page behind route loading.tsx sticks in $~ throttled-reveal state — renders but never hydrates, silently",
+      "url": "https://github.com/vercel/next.js/issues/94750",
+      "author": "beyond305",
+      "at": "2026-06-12T14:45:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94738,
-      "title": "[App Shells] Allow root params in app shells",
-      "url": "https://github.com/vercel/next.js/pull/94738",
-      "author": "lubieowoce",
-      "at": "2026-06-12T01:35:21Z"
+      "number": 94747,
+      "title": "scripts: write pnpm overrides for pnpm projects in pack/patch helpers",
+      "url": "https://github.com/vercel/next.js/pull/94747",
+      "author": "eps1lon",
+      "at": "2026-06-12T10:00:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46869,
-      "title": "chore(etl): etl add-on forward compat",
-      "url": "https://github.com/supabase/supabase/pull/46869",
-      "author": "kevcodez",
-      "at": "2026-06-12T06:39:15Z"
+      "number": 46886,
+      "title": "security: harden GitHub Actions workflows",
+      "url": "https://github.com/supabase/supabase/pull/46886",
+      "author": "shunfeng8421",
+      "at": "2026-06-12T16:15:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46868,
-      "title": "adjust project settings integrations layout",
-      "url": "https://github.com/supabase/supabase/pull/46868",
-      "author": "SaxonF",
-      "at": "2026-06-12T03:25:23Z"
+      "number": 46885,
+      "title": "fix: intercept responses missing content lenght and re-add",
+      "url": "https://github.com/supabase/supabase/pull/46885",
+      "author": "awaseem",
+      "at": "2026-06-12T15:53:51Z"
     }
   ]
 }
