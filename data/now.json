@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T10:48:28.285Z",
+  "updatedAt": "2026-06-12T10:23:40.208Z",
   "events": [
     {
       "type": "PushEvent",
@@ -78,48 +78,6 @@
       "repo": "Begarudev/saheli",
       "summary": "created repo",
       "at": "2026-05-13T07:40:59Z"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "Begarudev/waypoint-mcp",
-      "summary": "created repo",
-      "at": "2026-05-12T19:02:42Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/job-radar",
-      "summary": "pushed commits",
-      "at": "2026-05-12T10:37:58Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/Begarudev",
-      "summary": "pushed commits",
-      "at": "2026-05-12T10:33:10Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/job-radar",
-      "summary": "pushed commits",
-      "at": "2026-05-12T08:10:27Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/job-radar",
-      "summary": "pushed commits",
-      "at": "2026-05-12T07:54:24Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/job-radar",
-      "summary": "pushed commits",
-      "at": "2026-05-12T07:41:54Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/job-radar",
-      "summary": "pushed commits",
-      "at": "2026-05-12T05:38:16Z"
     }
   ],
   "currently": [
