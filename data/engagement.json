@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T06:58:35.631Z",
+  "updatedAt": "2026-06-13T15:40:55.075Z",
   "count": 13,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5032,
-      "title": "docs(cli): document python execution trust boundary",
-      "url": "https://github.com/browser-use/browser-use/pull/5032",
-      "author": "maxpetrusenkoagent",
-      "at": "2026-06-13T03:23:34Z"
+      "number": 5035,
+      "title": "Fix beta Agent returning None with no error message",
+      "url": "https://github.com/browser-use/browser-use/pull/5035",
+      "author": "Sarthak816",
+      "at": "2026-06-13T15:26:49Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5031,
-      "title": "fix: preserve keep-alive browser event bus",
-      "url": "https://github.com/browser-use/browser-use/pull/5031",
-      "author": "he-yufeng",
-      "at": "2026-06-12T23:50:21Z"
+      "number": 5034,
+      "title": "fix(browser): add timeout fallback to default extension downloads",
+      "url": "https://github.com/browser-use/browser-use/pull/5034",
+      "author": "sakiko-toyokawa",
+      "at": "2026-06-13T12:27:30Z"
     },
     {
       "founder": "Magnus Müller",
@@ -39,6 +39,17 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3559,
+      "title": "chore(ts/packages/core): add repository, bugs, and homepage metadata to package.json",
+      "url": "https://github.com/ComposioHQ/composio/pull/3559",
+      "author": "Omgiri01",
+      "at": "2026-06-13T15:29:37Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
       "number": 3558,
       "title": "DocuPost toolkit: DOCUPOST_SEND_LETTER reports success with null fields when the API actually errors",
@@ -47,70 +58,59 @@
       "at": "2026-06-12T17:01:34Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3557,
-      "title": "Test from Codex",
-      "url": "https://github.com/ComposioHQ/composio/issues/3557",
-      "author": "dadasavagemmmm",
-      "at": "2026-06-12T11:41:53Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2366,
-      "title": "`generation_config` dict causes error when `response_model=None` with GenAI provider",
-      "url": "https://github.com/567-labs/instructor/issues/2366",
-      "author": "kunalchamoli",
-      "at": "2026-06-12T12:14:45Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2365,
-      "title": "Mistral AI v2 support",
-      "url": "https://github.com/567-labs/instructor/issues/2365",
-      "author": "lchoquel",
-      "at": "2026-06-12T07:51:20Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38132,
-      "title": "fix(langchain): make `write_todos` calls tool-only to stop duplicated plan text",
-      "url": "https://github.com/langchain-ai/langchain/pull/38132",
-      "author": "mdrxy",
-      "at": "2026-06-13T06:41:19Z"
+      "number": 2369,
+      "title": "fix(bedrock): route top_k via additionalModelRequestFields",
+      "url": "https://github.com/567-labs/instructor/pull/2369",
+      "author": "kimnamu",
+      "at": "2026-06-13T14:02:04Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2368,
+      "title": "Bedrock Converse fails with ParamValidationError when top_k is passed",
+      "url": "https://github.com/567-labs/instructor/issues/2368",
+      "author": "kimnamu",
+      "at": "2026-06-13T14:01:50Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38125,
-      "title": "Add source line ranges to MarkdownHeaderTextSplitter chunks",
-      "url": "https://github.com/langchain-ai/langchain/issues/38125",
-      "author": "gyx09212214-prog",
-      "at": "2026-06-13T03:34:09Z"
+      "number": 38138,
+      "title": "`@tool(infer_schema=False)` requires docstring but ignores both docstring and `description` parameter",
+      "url": "https://github.com/langchain-ai/langchain/issues/38138",
+      "author": "kinch-tech",
+      "at": "2026-06-13T15:34:06Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38137,
+      "title": "`RootModel` unions fail to deserialize well-known schema objects that override `__init__`",
+      "url": "https://github.com/langchain-ai/langchain/issues/38137",
+      "author": "xy200303",
+      "at": "2026-06-13T11:38:23Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94788,
-      "title": "Docs:",
-      "url": "https://github.com/vercel/next.js/issues/94788",
-      "author": "firebas11",
-      "at": "2026-06-13T05:29:10Z"
+      "kind": "pr",
+      "number": 94790,
+      "title": "dev-overlay: polish error header layout and instant fix-card chip",
+      "url": "https://github.com/vercel/next.js/pull/94790",
+      "author": "aurorascharff",
+      "at": "2026-06-13T10:57:11Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -128,22 +128,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 46896,
-      "title": "Management API rejects android:apk-key-hash: in webauthn_rp_origins despite GoTrue supporting it",
-      "url": "https://github.com/supabase/supabase/issues/46896",
-      "author": "gauravmehta13",
-      "at": "2026-06-13T04:15:47Z"
+      "number": 46900,
+      "title": "PROJETO INACESSÍVEL",
+      "url": "https://github.com/supabase/supabase/issues/46900",
+      "author": "ahlanfonseca-source",
+      "at": "2026-06-13T12:39:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46895,
-      "title": "chore(docs) Prescribe more detailed docs style lints",
-      "url": "https://github.com/supabase/supabase/pull/46895",
-      "author": "czenko",
-      "at": "2026-06-12T23:17:53Z"
+      "number": 46899,
+      "title": "Add 'Sagar Shedge' to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/46899",
+      "author": "shedges",
+      "at": "2026-06-13T11:52:49Z"
     }
   ]
 }
