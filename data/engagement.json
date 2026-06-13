@@ -1,28 +1,50 @@
 {
-  "updatedAt": "2026-06-12T16:41:42.305Z",
-  "count": 12,
+  "updatedAt": "2026-06-13T06:58:35.631Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5023,
-      "title": "Fix Ollama provider: strip invalid options and improve JSON error handling",
-      "url": "https://github.com/browser-use/browser-use/pull/5023",
-      "author": "Sarthak816",
-      "at": "2026-06-12T04:23:14Z"
+      "number": 5032,
+      "title": "docs(cli): document python execution trust boundary",
+      "url": "https://github.com/browser-use/browser-use/pull/5032",
+      "author": "maxpetrusenkoagent",
+      "at": "2026-06-13T03:23:34Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5022,
-      "title": "test(beta): use openai/gpt-5.5 in the credential-bridging test",
-      "url": "https://github.com/browser-use/browser-use/pull/5022",
-      "author": "sauravpanda",
-      "at": "2026-06-12T03:08:30Z"
+      "number": 5031,
+      "title": "fix: preserve keep-alive browser event bus",
+      "url": "https://github.com/browser-use/browser-use/pull/5031",
+      "author": "he-yufeng",
+      "at": "2026-06-12T23:50:21Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.2 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.2",
+      "author": "MagMueller",
+      "at": "2026-06-12T22:45:04Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3558,
+      "title": "DocuPost toolkit: DOCUPOST_SEND_LETTER reports success with null fields when the API actually errors",
+      "url": "https://github.com/ComposioHQ/composio/issues/3558",
+      "author": "ricklesgibson",
+      "at": "2026-06-12T17:01:34Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -34,17 +56,6 @@
       "url": "https://github.com/ComposioHQ/composio/issues/3557",
       "author": "dadasavagemmmm",
       "at": "2026-06-12T11:41:53Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3556,
-      "title": "[Feature]: TealTiger deterministic governance for tool call authorization",
-      "url": "https://github.com/ComposioHQ/composio/issues/3556",
-      "author": "nagasatish007",
-      "at": "2026-06-12T11:41:42Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +84,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38106,
-      "title": "fix(langchain,anthropic): confine file-search results and tighten anthropic `allowed_prefixes`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38106",
-      "author": "nick-hollon-lc",
-      "at": "2026-06-12T16:38:59Z"
+      "number": 38132,
+      "title": "fix(langchain): make `write_todos` calls tool-only to stop duplicated plan text",
+      "url": "https://github.com/langchain-ai/langchain/pull/38132",
+      "author": "mdrxy",
+      "at": "2026-06-13T06:41:19Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38105,
-      "title": "release(anthropic): 1.4.6",
-      "url": "https://github.com/langchain-ai/langchain/pull/38105",
-      "author": "nick-hollon-lc",
-      "at": "2026-06-12T15:57:04Z"
+      "kind": "issue",
+      "number": 38125,
+      "title": "Add source line ranges to MarkdownHeaderTextSplitter chunks",
+      "url": "https://github.com/langchain-ai/langchain/issues/38125",
+      "author": "gyx09212214-prog",
+      "at": "2026-06-13T03:34:09Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 94750,
-      "title": "Production: dynamic page behind route loading.tsx sticks in $~ throttled-reveal state — renders but never hydrates, silently",
-      "url": "https://github.com/vercel/next.js/issues/94750",
-      "author": "beyond305",
-      "at": "2026-06-12T14:45:58Z"
+      "number": 94788,
+      "title": "Docs:",
+      "url": "https://github.com/vercel/next.js/issues/94788",
+      "author": "firebas11",
+      "at": "2026-06-13T05:29:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94747,
-      "title": "scripts: write pnpm overrides for pnpm projects in pack/patch helpers",
-      "url": "https://github.com/vercel/next.js/pull/94747",
-      "author": "eps1lon",
-      "at": "2026-06-12T10:00:36Z"
+      "number": 94787,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/94787",
+      "author": "vercel-release-bot",
+      "at": "2026-06-13T00:46:26Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 46896,
+      "title": "Management API rejects android:apk-key-hash: in webauthn_rp_origins despite GoTrue supporting it",
+      "url": "https://github.com/supabase/supabase/issues/46896",
+      "author": "gauravmehta13",
+      "at": "2026-06-13T04:15:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46886,
-      "title": "security: harden GitHub Actions workflows",
-      "url": "https://github.com/supabase/supabase/pull/46886",
-      "author": "shunfeng8421",
-      "at": "2026-06-12T16:15:18Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46885,
-      "title": "fix: intercept responses missing content lenght and re-add",
-      "url": "https://github.com/supabase/supabase/pull/46885",
-      "author": "awaseem",
-      "at": "2026-06-12T15:53:51Z"
+      "number": 46895,
+      "title": "chore(docs) Prescribe more detailed docs style lints",
+      "url": "https://github.com/supabase/supabase/pull/46895",
+      "author": "czenko",
+      "at": "2026-06-12T23:17:53Z"
     }
   ]
 }
