@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T10:23:40.208Z",
+  "updatedAt": "2026-06-13T09:25:47.391Z",
   "events": [
     {
       "type": "PushEvent",
@@ -66,18 +66,6 @@
       "repo": "Begarudev/waypoint-mcp",
       "summary": "pushed commits",
       "at": "2026-05-18T23:47:06Z"
-    },
-    {
-      "type": "PushEvent",
-      "repo": "Begarudev/saheli",
-      "summary": "pushed commits",
-      "at": "2026-05-13T07:54:06Z"
-    },
-    {
-      "type": "CreateEvent",
-      "repo": "Begarudev/saheli",
-      "summary": "created repo",
-      "at": "2026-05-13T07:40:59Z"
     }
   ],
   "currently": [
