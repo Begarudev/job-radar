@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-14T07:22:48.629Z",
-  "count": 13,
+  "updatedAt": "2026-06-14T15:46:57.304Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5041,
+      "title": "[Bug] Potential loss of empty accessibility names due to implicit truthiness check in views.py",
+      "url": "https://github.com/browser-use/browser-use/issues/5041",
+      "author": "QiuYucheng2003",
+      "at": "2026-06-14T09:34:00Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,26 @@
       "at": "2026-06-14T06:36:18Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5039,
-      "title": "[Discussion] Add AgentPub as an integration — public chat for AI agents",
-      "url": "https://github.com/browser-use/browser-use/issues/5039",
-      "author": "liboy119",
-      "at": "2026-06-14T05:59:05Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3564,
+      "title": "docs: update README — Rube was discontinued, point to Tool Router",
+      "url": "https://github.com/ComposioHQ/composio/pull/3564",
+      "author": "leandrojo",
+      "at": "2026-06-14T14:51:44Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3559,
-      "title": "chore(ts/packages/core): add repository, bugs, and homepage metadata to package.json",
-      "url": "https://github.com/ComposioHQ/composio/pull/3559",
-      "author": "Omgiri01",
-      "at": "2026-06-13T15:29:37Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3503,
-      "title": "security: upgrade vitest to ^4.1.0 to patch GHSA-5xrq-8626-4rwp (critical RCE)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3503",
-      "author": "Dotify71",
-      "at": "2026-06-02T18:02:16Z"
+      "number": 3563,
+      "title": "fix(py): bound file transfer requests with timeouts",
+      "url": "https://github.com/ComposioHQ/composio/pull/3563",
+      "author": "XiaojuCH",
+      "at": "2026-06-14T13:16:58Z"
     },
     {
       "founder": "Jason Liu",
@@ -56,17 +56,6 @@
       "url": "https://github.com/567-labs/instructor/pull/2370",
       "author": "Kropiunig",
       "at": "2026-06-14T04:14:54Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2369,
-      "title": "fix(bedrock): route top_k via additionalModelRequestFields",
-      "url": "https://github.com/567-labs/instructor/pull/2369",
-      "author": "kimnamu",
-      "at": "2026-06-13T14:02:04Z"
     },
     {
       "founder": "Harrison Chase",
@@ -94,23 +83,23 @@
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94800,
-      "title": "Revert \"Avoid a premature Suspense fallback flash in the streaming dev render\"",
-      "url": "https://github.com/vercel/next.js/pull/94800",
-      "author": "gnoff",
-      "at": "2026-06-14T04:28:32Z"
+      "kind": "issue",
+      "number": 94802,
+      "title": "App Router routes intermittently return 404 after upgrading to Next.js 16.2.9",
+      "url": "https://github.com/vercel/next.js/issues/94802",
+      "author": "cassio707",
+      "at": "2026-06-14T07:42:21Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94799,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/94799",
-      "author": "vercel-release-bot",
-      "at": "2026-06-14T00:45:38Z"
+      "number": 94800,
+      "title": "Revert \"Avoid a premature Suspense fallback flash in the streaming dev render\"",
+      "url": "https://github.com/vercel/next.js/pull/94800",
+      "author": "gnoff",
+      "at": "2026-06-14T04:28:32Z"
     },
     {
       "founder": "Paul Copplestone",
