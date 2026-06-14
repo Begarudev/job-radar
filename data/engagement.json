@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T15:40:55.075Z",
+  "updatedAt": "2026-06-14T07:22:48.629Z",
   "count": 13,
   "signals": [
     {
@@ -7,33 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5035,
-      "title": "Fix beta Agent returning None with no error message",
-      "url": "https://github.com/browser-use/browser-use/pull/5035",
-      "author": "Sarthak816",
-      "at": "2026-06-13T15:26:49Z"
+      "number": 5040,
+      "title": "Reject MCP tool names that collide with existing actions",
+      "url": "https://github.com/browser-use/browser-use/pull/5040",
+      "author": "gezw",
+      "at": "2026-06-14T06:36:18Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5034,
-      "title": "fix(browser): add timeout fallback to default extension downloads",
-      "url": "https://github.com/browser-use/browser-use/pull/5034",
-      "author": "sakiko-toyokawa",
-      "at": "2026-06-13T12:27:30Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.2 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.2",
-      "author": "MagMueller",
-      "at": "2026-06-12T22:45:04Z"
+      "kind": "issue",
+      "number": 5039,
+      "title": "[Discussion] Add AgentPub as an integration — public chat for AI agents",
+      "url": "https://github.com/browser-use/browser-use/issues/5039",
+      "author": "liboy119",
+      "at": "2026-06-14T05:59:05Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -50,12 +39,23 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3558,
-      "title": "DocuPost toolkit: DOCUPOST_SEND_LETTER reports success with null fields when the API actually errors",
-      "url": "https://github.com/ComposioHQ/composio/issues/3558",
-      "author": "ricklesgibson",
-      "at": "2026-06-12T17:01:34Z"
+      "kind": "pr",
+      "number": 3503,
+      "title": "security: upgrade vitest to ^4.1.0 to patch GHSA-5xrq-8626-4rwp (critical RCE)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3503",
+      "author": "Dotify71",
+      "at": "2026-06-02T18:02:16Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2370,
+      "title": "docs(examples): fix dead hooks documentation link in hooks example README",
+      "url": "https://github.com/567-labs/instructor/pull/2370",
+      "author": "Kropiunig",
+      "at": "2026-06-14T04:14:54Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,15 +69,15 @@
       "at": "2026-06-13T14:02:04Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2368,
-      "title": "Bedrock Converse fails with ParamValidationError when top_k is passed",
-      "url": "https://github.com/567-labs/instructor/issues/2368",
-      "author": "kimnamu",
-      "at": "2026-06-13T14:01:50Z"
+      "number": 38142,
+      "title": "HTMLSectionSplitter leaks #TITLE# metadata and raises KeyError when parent metadata has no Title",
+      "url": "https://github.com/langchain-ai/langchain/issues/38142",
+      "author": "gyx09212214-prog",
+      "at": "2026-06-14T02:50:52Z"
     },
     {
       "founder": "Harrison Chase",
@@ -91,59 +91,59 @@
       "at": "2026-06-13T15:34:06Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38137,
-      "title": "`RootModel` unions fail to deserialize well-known schema objects that override `__init__`",
-      "url": "https://github.com/langchain-ai/langchain/issues/38137",
-      "author": "xy200303",
-      "at": "2026-06-13T11:38:23Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94800,
+      "title": "Revert \"Avoid a premature Suspense fallback flash in the streaming dev render\"",
+      "url": "https://github.com/vercel/next.js/pull/94800",
+      "author": "gnoff",
+      "at": "2026-06-14T04:28:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94790,
-      "title": "dev-overlay: polish error header layout and instant fix-card chip",
-      "url": "https://github.com/vercel/next.js/pull/94790",
-      "author": "aurorascharff",
-      "at": "2026-06-13T10:57:11Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94787,
+      "number": 94799,
       "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/94787",
+      "url": "https://github.com/vercel/next.js/pull/94799",
       "author": "vercel-release-bot",
-      "at": "2026-06-13T00:46:26Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 46900,
-      "title": "PROJETO INACESSÍVEL",
-      "url": "https://github.com/supabase/supabase/issues/46900",
-      "author": "ahlanfonseca-source",
-      "at": "2026-06-13T12:39:09Z"
+      "at": "2026-06-14T00:45:38Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46899,
-      "title": "Add 'Sagar Shedge' to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/46899",
-      "author": "shedges",
-      "at": "2026-06-13T11:52:49Z"
+      "number": 46915,
+      "title": "fix(studio): allow newlines in SMS OTP template string",
+      "url": "https://github.com/supabase/supabase/pull/46915",
+      "author": "Shaan-alpha",
+      "at": "2026-06-14T06:22:48Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1608,
+      "title": "docs: add TakoAPI directory badge",
+      "url": "https://github.com/julep-ai/julep/pull/1608",
+      "author": "oratis",
+      "at": "2026-06-14T01:25:14Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2185,
+      "title": "bug: [A11Y] Clipboard copy button lacks accessible label",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2185",
+      "author": "huangkevin-apr",
+      "at": "2026-01-06T09:37:04Z"
     }
   ]
 }
