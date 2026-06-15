@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-15T09:22:30.616Z",
-  "count": 11,
+  "updatedAt": "2026-06-15T18:22:29.836Z",
+  "count": 9,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5047,
+      "title": "fix(dom): scale clientRects/scrollRects by device_pixel_ratio in build_snapshot_lookup",
+      "url": "https://github.com/browser-use/browser-use/pull/5047",
+      "author": "r266-tech",
+      "at": "2026-06-15T09:22:34Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,26 @@
       "at": "2026-06-15T06:16:38Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5045,
-      "title": "Fix image-only clickable DOM context",
-      "url": "https://github.com/browser-use/browser-use/pull/5045",
-      "author": "maxpetrusenkoagent",
-      "at": "2026-06-15T03:28:06Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3567,
-      "title": "fix(triggers): handle V3 envelope in realtime subscribe path [SUP-392]",
-      "url": "https://github.com/ComposioHQ/composio/pull/3567",
-      "author": "anshugarg15",
-      "at": "2026-06-15T08:48:11Z"
+      "number": 3570,
+      "title": "fix: use allowed_tools instead of custom_tools in MCP.update()",
+      "url": "https://github.com/ComposioHQ/composio/pull/3570",
+      "author": "AdeevMardia2008",
+      "at": "2026-06-15T12:16:03Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3566,
-      "title": "fix(core): resolve $ref/$defs so file flags behind a reference aren't dropped",
-      "url": "https://github.com/ComposioHQ/composio/pull/3566",
-      "author": "serhiizghama",
-      "at": "2026-06-14T21:02:40Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2374,
+      "title": "Pydantic related error: type object 'list' has no attribute 'model_json_schema'",
+      "url": "https://github.com/567-labs/instructor/issues/2374",
+      "author": "tonkolviktor",
+      "at": "2026-06-15T14:54:05Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,70 +58,48 @@
       "at": "2026-06-15T05:50:47Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 38158,
-      "title": "fix(core): add messages to bare `raise ValueError` calls",
-      "url": "https://github.com/langchain-ai/langchain/pull/38158",
-      "author": "mdrxy",
-      "at": "2026-06-15T04:28:27Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38157,
-      "title": "fix(core): use `asyncio.get_running_loop()` in async contexts",
-      "url": "https://github.com/langchain-ai/langchain/pull/38157",
-      "author": "mdrxy",
-      "at": "2026-06-15T04:27:22Z"
+      "number": 94826,
+      "title": "Upgrade React from `43bcbf80-20260603` to `d9158919-20260615`",
+      "url": "https://github.com/vercel/next.js/pull/94826",
+      "author": "vercel-release-bot",
+      "at": "2026-06-15T18:14:34Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94813,
-      "title": "Format submillisecond durations as milliseconds",
-      "url": "https://github.com/vercel/next.js/pull/94813",
-      "author": "timneutkens",
-      "at": "2026-06-15T08:50:21Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94812,
-      "title": "[ci] Allow \"rerun failed jobs\" to work up until 5 days for e2e deploy tests",
-      "url": "https://github.com/vercel/next.js/pull/94812",
-      "author": "eps1lon",
-      "at": "2026-06-15T07:49:45Z"
+      "number": 94823,
+      "title": "Vary params iterable - remove unnecessary flushing logic",
+      "url": "https://github.com/vercel/next.js/pull/94823",
+      "author": "lubieowoce",
+      "at": "2026-06-15T16:47:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46930,
-      "title": "Ensure that fetching policies is filtered by schema in table editor and auth policies page",
-      "url": "https://github.com/supabase/supabase/pull/46930",
-      "author": "joshenlim",
-      "at": "2026-06-15T09:10:38Z"
+      "number": 46953,
+      "title": "fix(studio): allow Vercel Blob logos in OAuth authorize CSP",
+      "url": "https://github.com/supabase/supabase/pull/46953",
+      "author": "dnywh",
+      "at": "2026-06-15T17:42:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46929,
-      "title": "Joshen/fe 3610 projectneedssecuring to avoid fetching all table privileges",
-      "url": "https://github.com/supabase/supabase/pull/46929",
-      "author": "joshenlim",
-      "at": "2026-06-15T08:50:37Z"
+      "number": 46952,
+      "title": "fix(studio): map email template anchors to docs",
+      "url": "https://github.com/supabase/supabase/pull/46952",
+      "author": "dnywh",
+      "at": "2026-06-15T17:21:07Z"
     }
   ]
 }
