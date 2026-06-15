@@ -1,138 +1,127 @@
 {
-  "updatedAt": "2026-06-14T15:46:57.304Z",
-  "count": 12,
+  "updatedAt": "2026-06-15T09:22:30.616Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5041,
-      "title": "[Bug] Potential loss of empty accessibility names due to implicit truthiness check in views.py",
-      "url": "https://github.com/browser-use/browser-use/issues/5041",
-      "author": "QiuYucheng2003",
-      "at": "2026-06-14T09:34:00Z"
+      "kind": "pr",
+      "number": 5046,
+      "title": "fix: preserve remote keep-alive sessions on agent close",
+      "url": "https://github.com/browser-use/browser-use/pull/5046",
+      "author": "mturac",
+      "at": "2026-06-15T06:16:38Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5040,
-      "title": "Reject MCP tool names that collide with existing actions",
-      "url": "https://github.com/browser-use/browser-use/pull/5040",
-      "author": "gezw",
-      "at": "2026-06-14T06:36:18Z"
+      "number": 5045,
+      "title": "Fix image-only clickable DOM context",
+      "url": "https://github.com/browser-use/browser-use/pull/5045",
+      "author": "maxpetrusenkoagent",
+      "at": "2026-06-15T03:28:06Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3564,
-      "title": "docs: update README — Rube was discontinued, point to Tool Router",
-      "url": "https://github.com/ComposioHQ/composio/pull/3564",
-      "author": "leandrojo",
-      "at": "2026-06-14T14:51:44Z"
+      "number": 3567,
+      "title": "fix(triggers): handle V3 envelope in realtime subscribe path [SUP-392]",
+      "url": "https://github.com/ComposioHQ/composio/pull/3567",
+      "author": "anshugarg15",
+      "at": "2026-06-15T08:48:11Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3563,
-      "title": "fix(py): bound file transfer requests with timeouts",
-      "url": "https://github.com/ComposioHQ/composio/pull/3563",
-      "author": "XiaojuCH",
-      "at": "2026-06-14T13:16:58Z"
+      "number": 3566,
+      "title": "fix(core): resolve $ref/$defs so file flags behind a reference aren't dropped",
+      "url": "https://github.com/ComposioHQ/composio/pull/3566",
+      "author": "serhiizghama",
+      "at": "2026-06-14T21:02:40Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "release",
+      "number": 0,
+      "title": "v1.15.3 released",
+      "url": "https://github.com/567-labs/instructor/releases/tag/v1.15.3",
+      "author": "jxnl",
+      "at": "2026-06-15T05:50:47Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2370,
-      "title": "docs(examples): fix dead hooks documentation link in hooks example README",
-      "url": "https://github.com/567-labs/instructor/pull/2370",
-      "author": "Kropiunig",
-      "at": "2026-06-14T04:14:54Z"
+      "number": 38158,
+      "title": "fix(core): add messages to bare `raise ValueError` calls",
+      "url": "https://github.com/langchain-ai/langchain/pull/38158",
+      "author": "mdrxy",
+      "at": "2026-06-15T04:28:27Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38142,
-      "title": "HTMLSectionSplitter leaks #TITLE# metadata and raises KeyError when parent metadata has no Title",
-      "url": "https://github.com/langchain-ai/langchain/issues/38142",
-      "author": "gyx09212214-prog",
-      "at": "2026-06-14T02:50:52Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38138,
-      "title": "`@tool(infer_schema=False)` requires docstring but ignores both docstring and `description` parameter",
-      "url": "https://github.com/langchain-ai/langchain/issues/38138",
-      "author": "kinch-tech",
-      "at": "2026-06-13T15:34:06Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94802,
-      "title": "App Router routes intermittently return 404 after upgrading to Next.js 16.2.9",
-      "url": "https://github.com/vercel/next.js/issues/94802",
-      "author": "cassio707",
-      "at": "2026-06-14T07:42:21Z"
+      "kind": "pr",
+      "number": 38157,
+      "title": "fix(core): use `asyncio.get_running_loop()` in async contexts",
+      "url": "https://github.com/langchain-ai/langchain/pull/38157",
+      "author": "mdrxy",
+      "at": "2026-06-15T04:27:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94800,
-      "title": "Revert \"Avoid a premature Suspense fallback flash in the streaming dev render\"",
-      "url": "https://github.com/vercel/next.js/pull/94800",
-      "author": "gnoff",
-      "at": "2026-06-14T04:28:32Z"
+      "number": 94813,
+      "title": "Format submillisecond durations as milliseconds",
+      "url": "https://github.com/vercel/next.js/pull/94813",
+      "author": "timneutkens",
+      "at": "2026-06-15T08:50:21Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94812,
+      "title": "[ci] Allow \"rerun failed jobs\" to work up until 5 days for e2e deploy tests",
+      "url": "https://github.com/vercel/next.js/pull/94812",
+      "author": "eps1lon",
+      "at": "2026-06-15T07:49:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46915,
-      "title": "fix(studio): allow newlines in SMS OTP template string",
-      "url": "https://github.com/supabase/supabase/pull/46915",
-      "author": "Shaan-alpha",
-      "at": "2026-06-14T06:22:48Z"
+      "number": 46930,
+      "title": "Ensure that fetching policies is filtered by schema in table editor and auth policies page",
+      "url": "https://github.com/supabase/supabase/pull/46930",
+      "author": "joshenlim",
+      "at": "2026-06-15T09:10:38Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 1608,
-      "title": "docs: add TakoAPI directory badge",
-      "url": "https://github.com/julep-ai/julep/pull/1608",
-      "author": "oratis",
-      "at": "2026-06-14T01:25:14Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2185,
-      "title": "bug: [A11Y] Clipboard copy button lacks accessible label",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2185",
-      "author": "huangkevin-apr",
-      "at": "2026-01-06T09:37:04Z"
+      "number": 46929,
+      "title": "Joshen/fe 3610 projectneedssecuring to avoid fetching all table privileges",
+      "url": "https://github.com/supabase/supabase/pull/46929",
+      "author": "joshenlim",
+      "at": "2026-06-15T08:50:37Z"
     }
   ]
 }
