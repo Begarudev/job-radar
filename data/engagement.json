@@ -1,39 +1,61 @@
 {
-  "updatedAt": "2026-06-15T18:22:29.836Z",
-  "count": 9,
+  "updatedAt": "2026-06-16T08:46:17.504Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5047,
-      "title": "fix(dom): scale clientRects/scrollRects by device_pixel_ratio in build_snapshot_lookup",
-      "url": "https://github.com/browser-use/browser-use/pull/5047",
-      "author": "r266-tech",
-      "at": "2026-06-15T09:22:34Z"
+      "number": 5052,
+      "title": "docs: remove stray 'browser' line from install code block in README",
+      "url": "https://github.com/browser-use/browser-use/pull/5052",
+      "author": "yuchenaaa",
+      "at": "2026-06-16T07:29:11Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5046,
-      "title": "fix: preserve remote keep-alive sessions on agent close",
-      "url": "https://github.com/browser-use/browser-use/pull/5046",
-      "author": "mturac",
-      "at": "2026-06-15T06:16:38Z"
+      "number": 5051,
+      "title": "Fix CDP instability on Windows: proxy bypass, httpx retry, headless GPU flags",
+      "url": "https://github.com/browser-use/browser-use/pull/5051",
+      "author": "Sarthak816",
+      "at": "2026-06-16T04:16:55Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3570,
-      "title": "fix: use allowed_tools instead of custom_tools in MCP.update()",
-      "url": "https://github.com/ComposioHQ/composio/pull/3570",
-      "author": "AdeevMardia2008",
-      "at": "2026-06-15T12:16:03Z"
+      "number": 3576,
+      "title": "feat(sdk): forward user_id on triggers.create for trigger 2FA",
+      "url": "https://github.com/ComposioHQ/composio/pull/3576",
+      "author": "anshugarg15",
+      "at": "2026-06-16T07:51:26Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3574,
+      "title": "fix(anthropic): sanitize illegal/over-long tool property keys for Messages API",
+      "url": "https://github.com/ComposioHQ/composio/pull/3574",
+      "author": "serhiizghama",
+      "at": "2026-06-15T20:33:03Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2375,
+      "title": "fix(dsl): classify list[BaseModel] as non-simple type",
+      "url": "https://github.com/567-labs/instructor/pull/2375",
+      "author": "JSap0914",
+      "at": "2026-06-16T03:00:58Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,59 +69,48 @@
       "at": "2026-06-15T14:54:05Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "release",
-      "number": 0,
-      "title": "v1.15.3 released",
-      "url": "https://github.com/567-labs/instructor/releases/tag/v1.15.3",
-      "author": "jxnl",
-      "at": "2026-06-15T05:50:47Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38186,
+      "title": "feat(langchain-core): forward document metadata to embedding implementations to enable multimodal providers",
+      "url": "https://github.com/langchain-ai/langchain/issues/38186",
+      "author": "VedantSonani",
+      "at": "2026-06-16T06:02:29Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94826,
-      "title": "Upgrade React from `43bcbf80-20260603` to `d9158919-20260615`",
-      "url": "https://github.com/vercel/next.js/pull/94826",
-      "author": "vercel-release-bot",
-      "at": "2026-06-15T18:14:34Z"
+      "number": 94843,
+      "title": "[ci] Disable remote Turbo cache without token",
+      "url": "https://github.com/vercel/next.js/pull/94843",
+      "author": "devjiwonchoi",
+      "at": "2026-06-16T07:52:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94823,
-      "title": "Vary params iterable - remove unnecessary flushing logic",
-      "url": "https://github.com/vercel/next.js/pull/94823",
-      "author": "lubieowoce",
-      "at": "2026-06-15T16:47:53Z"
+      "number": 94842,
+      "title": "pre-cache idents",
+      "url": "https://github.com/vercel/next.js/pull/94842",
+      "author": "lukesandberg",
+      "at": "2026-06-16T05:46:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 46953,
-      "title": "fix(studio): allow Vercel Blob logos in OAuth authorize CSP",
-      "url": "https://github.com/supabase/supabase/pull/46953",
-      "author": "dnywh",
-      "at": "2026-06-15T17:42:32Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 46952,
-      "title": "fix(studio): map email template anchors to docs",
-      "url": "https://github.com/supabase/supabase/pull/46952",
-      "author": "dnywh",
-      "at": "2026-06-15T17:21:07Z"
+      "number": 46969,
+      "title": "Main",
+      "url": "https://github.com/supabase/supabase/pull/46969",
+      "author": "ChinmayBhattt",
+      "at": "2026-06-16T06:24:33Z"
     }
   ]
 }
