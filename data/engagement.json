@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-06-17T08:28:32.977Z",
+  "updatedAt": "2026-06-17T16:53:21.326Z",
   "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5055,
-      "title": "feat(atlascloud): add Atlas Cloud OpenAI-compatible chat provider",
-      "url": "https://github.com/browser-use/browser-use/pull/5055",
-      "author": "lucaszhu-hue",
-      "at": "2026-06-17T07:28:11Z"
+      "kind": "issue",
+      "number": 5057,
+      "title": "Feature Request: RFC: Standardized Evaluation/Benchmarking Harness for LLM Tool Calling",
+      "url": "https://github.com/browser-use/browser-use/issues/5057",
+      "author": "kushagarwal2910-lang",
+      "at": "2026-06-17T15:46:21Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5054,
-      "title": "Feature Request: Blur fields on input",
-      "url": "https://github.com/browser-use/browser-use/issues/5054",
-      "author": "MrLeit",
-      "at": "2026-06-16T20:37:53Z"
+      "kind": "pr",
+      "number": 5056,
+      "title": "Harden search_page against model-supplied ReDoS patterns",
+      "url": "https://github.com/browser-use/browser-use/pull/5056",
+      "author": "Jr61-star",
+      "at": "2026-06-17T09:48:29Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3588,
-      "title": "feat(sdk): native user_id on triggers.create (drop 2FA bridges)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3588",
-      "author": "anshugarg15",
-      "at": "2026-06-17T07:36:40Z"
+      "number": 3597,
+      "title": "docs: Deprecation & versioning policy page",
+      "url": "https://github.com/ComposioHQ/composio/pull/3597",
+      "author": "palash-c",
+      "at": "2026-06-17T15:07:11Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,67 +50,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38209,
-      "title": "Silent quality degradation in multi-agent flat round-table: 34.3/100 without synthesis node vs 86.3/100 with it",
-      "url": "https://github.com/langchain-ai/langchain/issues/38209",
-      "author": "aryanvnit-maker",
-      "at": "2026-06-17T05:09:40Z"
+      "kind": "pr",
+      "number": 38218,
+      "title": "feat(model-profiles): plain-English summary for profile refresh PRs",
+      "url": "https://github.com/langchain-ai/langchain/pull/38218",
+      "author": "mdrxy",
+      "at": "2026-06-17T14:42:02Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38206,
-      "title": "docs(anthropic): clarify prompt caching middleware docstring",
-      "url": "https://github.com/langchain-ai/langchain/pull/38206",
-      "author": "mdrxy",
-      "at": "2026-06-17T02:16:06Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 94890,
-      "title": "getItemsLru size accounting omits URL key length, causing excessive heap retention in long-lived servers",
-      "url": "https://github.com/vercel/next.js/issues/94890",
-      "author": "dmchoi77",
-      "at": "2026-06-17T08:12:50Z"
+      "number": 38217,
+      "title": "merge_message_runs is O(n^2) in run length for list/content-block messages",
+      "url": "https://github.com/langchain-ai/langchain/issues/38217",
+      "author": "qflen",
+      "at": "2026-06-17T14:35:51Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94889,
-      "title": "emit/collect",
-      "url": "https://github.com/vercel/next.js/pull/94889",
+      "number": 94905,
+      "title": "fix: preserve middleware rewrite query in Pages API routes",
+      "url": "https://github.com/vercel/next.js/pull/94905",
+      "author": "timneutkens",
+      "at": "2026-06-17T15:33:19Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94904,
+      "title": "Turbopack: emit/collect followups",
+      "url": "https://github.com/vercel/next.js/pull/94904",
       "author": "mischnic",
-      "at": "2026-06-17T08:05:23Z"
+      "at": "2026-06-17T14:50:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47021,
-      "title": "Joshen/fe 3624 queryblock causes client side crash if rendering many rows",
-      "url": "https://github.com/supabase/supabase/pull/47021",
-      "author": "joshenlim",
-      "at": "2026-06-17T07:19:25Z"
+      "number": 47053,
+      "title": "test(e2e): assert grid cell text with web-first toHaveText",
+      "url": "https://github.com/supabase/supabase/pull/47053",
+      "author": "voidmatcha",
+      "at": "2026-06-17T16:40:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47020,
-      "title": "docs(rbac): fix stale auth hooks links (#46947)",
-      "url": "https://github.com/supabase/supabase/pull/47020",
-      "author": "rafaumeu",
-      "at": "2026-06-17T03:15:42Z"
+      "number": 47052,
+      "title": "chore: add feature flag to pretty explain",
+      "url": "https://github.com/supabase/supabase/pull/47052",
+      "author": "awaseem",
+      "at": "2026-06-17T16:29:25Z"
     }
   ]
 }
