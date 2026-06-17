@@ -1,61 +1,39 @@
 {
-  "updatedAt": "2026-06-16T18:25:46.485Z",
-  "count": 11,
+  "updatedAt": "2026-06-17T08:28:32.977Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5053,
-      "title": "fix(llm): include cache-read tokens in Anthropic total_tokens",
-      "url": "https://github.com/browser-use/browser-use/pull/5053",
-      "author": "he-yufeng",
-      "at": "2026-06-16T10:51:59Z"
+      "number": 5055,
+      "title": "feat(atlascloud): add Atlas Cloud OpenAI-compatible chat provider",
+      "url": "https://github.com/browser-use/browser-use/pull/5055",
+      "author": "lucaszhu-hue",
+      "at": "2026-06-17T07:28:11Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5052,
-      "title": "docs: remove stray 'browser' line from install code block in README",
-      "url": "https://github.com/browser-use/browser-use/pull/5052",
-      "author": "yuchenaaa",
-      "at": "2026-06-16T07:29:11Z"
+      "kind": "issue",
+      "number": 5054,
+      "title": "Feature Request: Blur fields on input",
+      "url": "https://github.com/browser-use/browser-use/issues/5054",
+      "author": "MrLeit",
+      "at": "2026-06-16T20:37:53Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3584,
-      "title": "fix(core): resolve $ref in file download/upload walker for indirect schemas",
-      "url": "https://github.com/ComposioHQ/composio/pull/3584",
-      "author": "michaelxer",
-      "at": "2026-06-16T13:40:23Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3583,
-      "title": "chore(py): document pending releases",
-      "url": "https://github.com/ComposioHQ/composio/pull/3583",
-      "author": "jkomyno",
-      "at": "2026-06-16T12:18:01Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2375,
-      "title": "fix(dsl): classify list[BaseModel] as non-simple type",
-      "url": "https://github.com/567-labs/instructor/pull/2375",
-      "author": "JSap0914",
-      "at": "2026-06-16T03:00:58Z"
+      "number": 3588,
+      "title": "feat(sdk): native user_id on triggers.create (drop 2FA bridges)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3588",
+      "author": "anshugarg15",
+      "at": "2026-06-17T07:36:40Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,55 +51,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38201,
-      "title": "Architectural Proposal: Shifting from Chronological Context Biasing to Dynamic Semantic Vector Indexing for Non-Linear Session Management",
-      "url": "https://github.com/langchain-ai/langchain/issues/38201",
-      "author": "countryboy91h3-arch",
-      "at": "2026-06-16T18:15:49Z"
+      "number": 38209,
+      "title": "Silent quality degradation in multi-agent flat round-table: 34.3/100 without synthesis node vs 86.3/100 with it",
+      "url": "https://github.com/langchain-ai/langchain/issues/38209",
+      "author": "aryanvnit-maker",
+      "at": "2026-06-17T05:09:40Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 38206,
+      "title": "docs(anthropic): clarify prompt caching middleware docstring",
+      "url": "https://github.com/langchain-ai/langchain/pull/38206",
+      "author": "mdrxy",
+      "at": "2026-06-17T02:16:06Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 94890,
+      "title": "getItemsLru size accounting omits URL key length, causing excessive heap retention in long-lived servers",
+      "url": "https://github.com/vercel/next.js/issues/94890",
+      "author": "dmchoi77",
+      "at": "2026-06-17T08:12:50Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94867,
-      "title": "Upgrade React from `d9158919-20260615` to `ad78e251-20260616`",
-      "url": "https://github.com/vercel/next.js/pull/94867",
-      "author": "vercel-release-bot",
-      "at": "2026-06-16T18:18:32Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94866,
-      "title": "Fix instant navs capture silently stopping after \"Continue Rendering\"",
-      "url": "https://github.com/vercel/next.js/pull/94866",
-      "author": "unstubbable",
-      "at": "2026-06-16T17:49:58Z"
+      "number": 94889,
+      "title": "emit/collect",
+      "url": "https://github.com/vercel/next.js/pull/94889",
+      "author": "mischnic",
+      "at": "2026-06-17T08:05:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47004,
-      "title": "feat(studio): marketplace preview listings",
-      "url": "https://github.com/supabase/supabase/pull/47004",
-      "author": "alexhall",
-      "at": "2026-06-16T18:25:02Z"
+      "number": 47021,
+      "title": "Joshen/fe 3624 queryblock causes client side crash if rendering many rows",
+      "url": "https://github.com/supabase/supabase/pull/47021",
+      "author": "joshenlim",
+      "at": "2026-06-17T07:19:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47003,
-      "title": "feat(upgrade): surface ltree reindex + operator estimator upgrade warnings",
-      "url": "https://github.com/supabase/supabase/pull/47003",
-      "author": "utkarash2991",
-      "at": "2026-06-16T18:16:31Z"
+      "number": 47020,
+      "title": "docs(rbac): fix stale auth hooks links (#46947)",
+      "url": "https://github.com/supabase/supabase/pull/47020",
+      "author": "rafaumeu",
+      "at": "2026-06-17T03:15:42Z"
     }
   ]
 }
