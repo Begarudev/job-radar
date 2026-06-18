@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T08:08:11.899Z",
+  "updatedAt": "2026-06-18T16:53:52.679Z",
   "count": 9,
   "signals": [
     {
@@ -7,33 +7,44 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5060,
-      "title": "feat(evals): add deterministic benchmarking suite for tool-calling reliability (#5057)",
-      "url": "https://github.com/browser-use/browser-use/pull/5060",
-      "author": "kushagarwal2910-lang",
-      "at": "2026-06-18T06:59:19Z"
+      "number": 5062,
+      "title": "fix(browser): ignore extension page targets",
+      "url": "https://github.com/browser-use/browser-use/pull/5062",
+      "author": "JaeCoding",
+      "at": "2026-06-18T15:54:50Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5059,
-      "title": "Add CrawlDex preflight reporting example",
-      "url": "https://github.com/browser-use/browser-use/pull/5059",
-      "author": "adambot-droid",
-      "at": "2026-06-17T21:05:01Z"
+      "number": 5061,
+      "title": "fix: preserve history actions with partial metadata",
+      "url": "https://github.com/browser-use/browser-use/pull/5061",
+      "author": "JaeCoding",
+      "at": "2026-06-18T15:49:15Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3601,
-      "title": "docs: add Notion connection expiry FAQ",
-      "url": "https://github.com/ComposioHQ/composio/pull/3601",
-      "author": "abhishekpatil4",
-      "at": "2026-06-18T06:06:53Z"
+      "number": 3607,
+      "title": "docs: add Sequenzy MCP cookbook",
+      "url": "https://github.com/ComposioHQ/composio/pull/3607",
+      "author": "polnikale",
+      "at": "2026-06-18T14:40:16Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3606,
+      "title": "docs: clarify Notion reconnect expiry",
+      "url": "https://github.com/ComposioHQ/composio/pull/3606",
+      "author": "samvitjatia",
+      "at": "2026-06-18T12:48:25Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,59 +58,48 @@
       "at": "2026-06-17T23:20:15Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38243,
-      "title": "init_chat_model fails to infer `openai` provider for `o4` models (e.g. o4-mini)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38243",
-      "author": "zeukid",
-      "at": "2026-06-18T08:05:46Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94949,
+      "title": "[Instant] Point to first blocking await",
+      "url": "https://github.com/vercel/next.js/pull/94949",
+      "author": "lubieowoce",
+      "at": "2026-06-18T16:30:44Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94934,
-      "title": "docs: fix broken Node.js inspector URL in debugging guide",
-      "url": "https://github.com/vercel/next.js/pull/94934",
-      "author": "jahanzaib-iqbal-dev",
-      "at": "2026-06-18T08:06:24Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 94933,
-      "title": "[Bug]: instrumentation hook is incorrectly evaluated as edge runtime when using custom pageExtensions in Pages Router",
-      "url": "https://github.com/vercel/next.js/issues/94933",
-      "author": "sizuhiko",
-      "at": "2026-06-18T07:48:44Z"
+      "number": 94948,
+      "title": "Turbopack: aggregate server HMR into one subscription",
+      "url": "https://github.com/vercel/next.js/pull/94948",
+      "author": "wbinnssmith",
+      "at": "2026-06-18T15:23:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47069,
-      "title": "feat(replication): add better form to create ducklake replication",
-      "url": "https://github.com/supabase/supabase/pull/47069",
-      "author": "bnjjj",
-      "at": "2026-06-18T08:05:09Z"
+      "number": 47094,
+      "title": "chore: Handle Compute size table component for md output",
+      "url": "https://github.com/supabase/supabase/pull/47094",
+      "author": "jeremenichelli",
+      "at": "2026-06-18T16:47:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47068,
-      "title": "Remove custom label for SignInWithExternalProvider",
-      "url": "https://github.com/supabase/supabase/pull/47068",
-      "author": "joshenlim",
-      "at": "2026-06-18T07:54:25Z"
+      "number": 47092,
+      "title": "chore: Handle SharedData component for md output",
+      "url": "https://github.com/supabase/supabase/pull/47092",
+      "author": "jeremenichelli",
+      "at": "2026-06-18T15:14:18Z"
     }
   ]
 }
