@@ -1,116 +1,105 @@
 {
-  "updatedAt": "2026-06-17T16:53:21.326Z",
-  "count": 10,
+  "updatedAt": "2026-06-18T08:08:11.899Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5057,
-      "title": "Feature Request: RFC: Standardized Evaluation/Benchmarking Harness for LLM Tool Calling",
-      "url": "https://github.com/browser-use/browser-use/issues/5057",
+      "kind": "pr",
+      "number": 5060,
+      "title": "feat(evals): add deterministic benchmarking suite for tool-calling reliability (#5057)",
+      "url": "https://github.com/browser-use/browser-use/pull/5060",
       "author": "kushagarwal2910-lang",
-      "at": "2026-06-17T15:46:21Z"
+      "at": "2026-06-18T06:59:19Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5056,
-      "title": "Harden search_page against model-supplied ReDoS patterns",
-      "url": "https://github.com/browser-use/browser-use/pull/5056",
-      "author": "Jr61-star",
-      "at": "2026-06-17T09:48:29Z"
+      "number": 5059,
+      "title": "Add CrawlDex preflight reporting example",
+      "url": "https://github.com/browser-use/browser-use/pull/5059",
+      "author": "adambot-droid",
+      "at": "2026-06-17T21:05:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3597,
-      "title": "docs: Deprecation & versioning policy page",
-      "url": "https://github.com/ComposioHQ/composio/pull/3597",
-      "author": "palash-c",
-      "at": "2026-06-17T15:07:11Z"
+      "number": 3601,
+      "title": "docs: add Notion connection expiry FAQ",
+      "url": "https://github.com/ComposioHQ/composio/pull/3601",
+      "author": "abhishekpatil4",
+      "at": "2026-06-18T06:06:53Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2374,
-      "title": "Pydantic related error: type object 'list' has no attribute 'model_json_schema'",
-      "url": "https://github.com/567-labs/instructor/issues/2374",
-      "author": "tonkolviktor",
-      "at": "2026-06-15T14:54:05Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38218,
-      "title": "feat(model-profiles): plain-English summary for profile refresh PRs",
-      "url": "https://github.com/langchain-ai/langchain/pull/38218",
-      "author": "mdrxy",
-      "at": "2026-06-17T14:42:02Z"
+      "number": 2376,
+      "title": "feat: add Pinstripes OpenAI-compatible provider",
+      "url": "https://github.com/567-labs/instructor/pull/2376",
+      "author": "max-amos",
+      "at": "2026-06-17T23:20:15Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38217,
-      "title": "merge_message_runs is O(n^2) in run length for list/content-block messages",
-      "url": "https://github.com/langchain-ai/langchain/issues/38217",
-      "author": "qflen",
-      "at": "2026-06-17T14:35:51Z"
+      "number": 38243,
+      "title": "init_chat_model fails to infer `openai` provider for `o4` models (e.g. o4-mini)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38243",
+      "author": "zeukid",
+      "at": "2026-06-18T08:05:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94905,
-      "title": "fix: preserve middleware rewrite query in Pages API routes",
-      "url": "https://github.com/vercel/next.js/pull/94905",
-      "author": "timneutkens",
-      "at": "2026-06-17T15:33:19Z"
+      "number": 94934,
+      "title": "docs: fix broken Node.js inspector URL in debugging guide",
+      "url": "https://github.com/vercel/next.js/pull/94934",
+      "author": "jahanzaib-iqbal-dev",
+      "at": "2026-06-18T08:06:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94904,
-      "title": "Turbopack: emit/collect followups",
-      "url": "https://github.com/vercel/next.js/pull/94904",
-      "author": "mischnic",
-      "at": "2026-06-17T14:50:05Z"
+      "kind": "issue",
+      "number": 94933,
+      "title": "[Bug]: instrumentation hook is incorrectly evaluated as edge runtime when using custom pageExtensions in Pages Router",
+      "url": "https://github.com/vercel/next.js/issues/94933",
+      "author": "sizuhiko",
+      "at": "2026-06-18T07:48:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47053,
-      "title": "test(e2e): assert grid cell text with web-first toHaveText",
-      "url": "https://github.com/supabase/supabase/pull/47053",
-      "author": "voidmatcha",
-      "at": "2026-06-17T16:40:40Z"
+      "number": 47069,
+      "title": "feat(replication): add better form to create ducklake replication",
+      "url": "https://github.com/supabase/supabase/pull/47069",
+      "author": "bnjjj",
+      "at": "2026-06-18T08:05:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47052,
-      "title": "chore: add feature flag to pretty explain",
-      "url": "https://github.com/supabase/supabase/pull/47052",
-      "author": "awaseem",
-      "at": "2026-06-17T16:29:25Z"
+      "number": 47068,
+      "title": "Remove custom label for SignInWithExternalProvider",
+      "url": "https://github.com/supabase/supabase/pull/47068",
+      "author": "joshenlim",
+      "at": "2026-06-18T07:54:25Z"
     }
   ]
 }
