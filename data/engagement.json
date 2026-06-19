@@ -1,50 +1,28 @@
 {
-  "updatedAt": "2026-06-19T08:31:56.469Z",
-  "count": 12,
+  "updatedAt": "2026-06-19T16:30:31.254Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5065,
-      "title": "feat: add nimble as an API-backed search engine",
-      "url": "https://github.com/browser-use/browser-use/pull/5065",
-      "author": "wildcard",
-      "at": "2026-06-19T07:02:39Z"
+      "number": 5068,
+      "title": "Fix page crash auto-recovery: detect tab crashes via CDP, reload page, inform LLM",
+      "url": "https://github.com/browser-use/browser-use/pull/5068",
+      "author": "Sarthak816",
+      "at": "2026-06-19T15:51:21Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5064,
-      "title": "fix(input): call element.blur() after typing to commit value in JS frameworks",
-      "url": "https://github.com/browser-use/browser-use/pull/5064",
-      "author": "BRGOVIND",
-      "at": "2026-06-18T20:43:51Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3607,
-      "title": "docs: add Sequenzy MCP cookbook",
-      "url": "https://github.com/ComposioHQ/composio/pull/3607",
-      "author": "polnikale",
-      "at": "2026-06-18T14:40:16Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3606,
-      "title": "docs: clarify Notion reconnect expiry",
-      "url": "https://github.com/ComposioHQ/composio/pull/3606",
-      "author": "samvitjatia",
-      "at": "2026-06-18T12:48:25Z"
+      "kind": "issue",
+      "number": 5067,
+      "title": "bug: no automatic page-crash recovery — agent hangs after browser tab crashes",
+      "url": "https://github.com/browser-use/browser-use/issues/5067",
+      "author": "tcconnally",
+      "at": "2026-06-19T14:13:38Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +51,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38266,
-      "title": "Stale `xfail` markers in `langchain-core` tests: `test_convert_to_openai_function_nested_v2` and `test_sync_in_sync_lambdas` pass but are ma",
-      "url": "https://github.com/langchain-ai/langchain/issues/38266",
+      "number": 38276,
+      "title": "Inconsistent `generations` shape in chat model streaming `on_llm_error` callbacks: emits `[[]]` and `[[chunk], []]` where every other path e",
+      "url": "https://github.com/langchain-ai/langchain/issues/38276",
       "author": "15daksh-2003",
-      "at": "2026-06-19T07:59:28Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38249,
-      "title": "Public API for safe message retention cutoff",
-      "url": "https://github.com/langchain-ai/langchain/issues/38249",
-      "author": "maxence-oden",
-      "at": "2026-06-18T13:04:08Z"
+      "at": "2026-06-19T12:16:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94966,
-      "title": "chore: Improve Turborepo invalidations",
-      "url": "https://github.com/vercel/next.js/pull/94966",
-      "author": "mischnic",
-      "at": "2026-06-19T08:04:58Z"
+      "number": 94974,
+      "title": "fix: after(callback) called after response end",
+      "url": "https://github.com/vercel/next.js/pull/94974",
+      "author": "lubieowoce",
+      "at": "2026-06-19T15:37:31Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94965,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/94965",
-      "author": "vercel-release-bot",
-      "at": "2026-06-19T00:51:26Z"
+      "number": 94973,
+      "title": "Fix no-op PostCSS source labels in Turbopack errors",
+      "url": "https://github.com/vercel/next.js/pull/94973",
+      "author": "mturac",
+      "at": "2026-06-19T15:04:50Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47116,
-      "title": "feat(studio): TanStack project routes + page wiring (stack 5/6, from #46424)",
-      "url": "https://github.com/supabase/supabase/pull/47116",
-      "author": "alaister",
-      "at": "2026-06-19T08:27:22Z"
+      "number": 47136,
+      "title": "fix(logs): resolve BigQuery schema and dialect mismatches for self-hosted (rebased)",
+      "url": "https://github.com/supabase/supabase/pull/47136",
+      "author": "Tanusree-samanta",
+      "at": "2026-06-19T15:20:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47115,
-      "title": "Fire load more slightly before reaching the bottom of the page",
-      "url": "https://github.com/supabase/supabase/pull/47115",
-      "author": "joshenlim",
-      "at": "2026-06-19T08:23:03Z"
+      "number": 47135,
+      "title": "chore: Handle NavData component for md output",
+      "url": "https://github.com/supabase/supabase/pull/47135",
+      "author": "jeremenichelli",
+      "at": "2026-06-19T15:18:57Z"
     }
   ]
 }
