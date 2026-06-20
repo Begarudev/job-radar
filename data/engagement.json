@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T07:00:54.114Z",
+  "updatedAt": "2026-06-20T15:43:37.721Z",
   "count": 11,
   "signals": [
     {
@@ -7,33 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5071,
-      "title": "Design doc: deterministic permission gating for browser actions (#5063)",
-      "url": "https://github.com/browser-use/browser-use/pull/5071",
-      "author": "Sarthak816",
-      "at": "2026-06-20T05:47:10Z"
+      "number": 5073,
+      "title": "fix(dom): don't mutate node.snapshot_node.bounds in is_element_visible_according_to_all_parents",
+      "url": "https://github.com/browser-use/browser-use/pull/5073",
+      "author": "r266-tech",
+      "at": "2026-06-20T13:16:20Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5070,
-      "title": "fix: use aware UTC for config timestamps",
-      "url": "https://github.com/browser-use/browser-use/pull/5070",
-      "author": "Ghraven",
-      "at": "2026-06-20T00:35:00Z"
+      "number": 5072,
+      "title": "fix(security): write storage_state.json session cookies with 0o600",
+      "url": "https://github.com/browser-use/browser-use/pull/5072",
+      "author": "r266-tech",
+      "at": "2026-06-20T13:15:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3618,
-      "title": "[Bug]: _1PASSWORD_* tools fail with GLIBC_2.27 missing dependency",
-      "url": "https://github.com/ComposioHQ/composio/issues/3618",
-      "author": "AmSaltman",
-      "at": "2026-06-19T19:34:19Z"
+      "kind": "pr",
+      "number": 3623,
+      "title": "chore(ts): clean up dependencies and bump toolchain",
+      "url": "https://github.com/ComposioHQ/composio/pull/3623",
+      "author": "jkomyno",
+      "at": "2026-06-20T13:54:11Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3622,
+      "title": "chore(py): refresh Python dependencies",
+      "url": "https://github.com/ComposioHQ/composio/pull/3622",
+      "author": "jkomyno",
+      "at": "2026-06-20T09:29:26Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2384,
+      "title": "feat(azure): add Azure AI Foundry provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2384",
+      "author": "azrirefik",
+      "at": "2026-06-20T12:29:53Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +69,59 @@
       "at": "2026-06-19T16:35:32Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2382,
-      "title": "fix(v2): prepare response_model before handler dispatch in patch.py",
-      "url": "https://github.com/567-labs/instructor/pull/2382",
-      "author": "azrirefik",
-      "at": "2026-06-19T16:34:48Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38276,
-      "title": "Inconsistent `generations` shape in chat model streaming `on_llm_error` callbacks: emits `[[]]` and `[[chunk], []]` where every other path e",
-      "url": "https://github.com/langchain-ai/langchain/issues/38276",
-      "author": "15daksh-2003",
-      "at": "2026-06-19T12:16:27Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38266,
-      "title": "Stale `xfail` markers in `langchain-core` tests: `test_convert_to_openai_function_nested_v2` and `test_sync_in_sync_lambdas` pass but are ma",
-      "url": "https://github.com/langchain-ai/langchain/issues/38266",
-      "author": "15daksh-2003",
-      "at": "2026-06-19T07:59:28Z"
+      "number": 38329,
+      "title": "test_mset_chmod fails on Windows due to unsupported chmod permission bits",
+      "url": "https://github.com/langchain-ai/langchain/issues/38329",
+      "author": "AshwabhB",
+      "at": "2026-06-20T08:56:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94985,
-      "title": "docs: fix 3 broken external guide links",
-      "url": "https://github.com/vercel/next.js/pull/94985",
-      "author": "sanjibani",
-      "at": "2026-06-20T06:34:18Z"
+      "number": 94993,
+      "title": "fix(otel): set span status to ERROR for 4xx/5xx AppRender.fetch responses",
+      "url": "https://github.com/vercel/next.js/pull/94993",
+      "author": "sleitor",
+      "at": "2026-06-20T12:38:25Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94984,
-      "title": "fix(next-mdx): report unresolved plugin paths",
-      "url": "https://github.com/vercel/next.js/pull/94984",
-      "author": "mturac",
-      "at": "2026-06-20T02:48:28Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47146,
-      "title": "Upgrade Stuck",
-      "url": "https://github.com/supabase/supabase/issues/47146",
-      "author": "stylecastglobal",
-      "at": "2026-06-20T06:34:01Z"
+      "number": 94992,
+      "title": "fix(typegen): skip turbopackRustReactCompiler Turbopack-only check during next typegen",
+      "url": "https://github.com/vercel/next.js/pull/94992",
+      "author": "sleitor",
+      "at": "2026-06-20T10:41:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47145,
-      "title": "fix(studio): preserve session and redirect to MFA when AAL elevation is needed",
-      "url": "https://github.com/supabase/supabase/pull/47145",
-      "author": "charislam",
-      "at": "2026-06-20T01:33:38Z"
+      "number": 47148,
+      "title": "fix(docs): align edge function docs",
+      "url": "https://github.com/supabase/supabase/pull/47148",
+      "author": "7ttp",
+      "at": "2026-06-20T10:22:43Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47147,
+      "title": "fix(studio): clarify OTP auth rate limit copy",
+      "url": "https://github.com/supabase/supabase/pull/47147",
+      "author": "maxpetrusenkoagent",
+      "at": "2026-06-20T09:31:37Z"
     }
   ]
 }
