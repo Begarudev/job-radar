@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-06-19T16:30:31.254Z",
-  "count": 9,
+  "updatedAt": "2026-06-20T07:00:54.114Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5068,
-      "title": "Fix page crash auto-recovery: detect tab crashes via CDP, reload page, inform LLM",
-      "url": "https://github.com/browser-use/browser-use/pull/5068",
+      "number": 5071,
+      "title": "Design doc: deterministic permission gating for browser actions (#5063)",
+      "url": "https://github.com/browser-use/browser-use/pull/5071",
       "author": "Sarthak816",
-      "at": "2026-06-19T15:51:21Z"
+      "at": "2026-06-20T05:47:10Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5070,
+      "title": "fix: use aware UTC for config timestamps",
+      "url": "https://github.com/browser-use/browser-use/pull/5070",
+      "author": "Ghraven",
+      "at": "2026-06-20T00:35:00Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 5067,
-      "title": "bug: no automatic page-crash recovery — agent hangs after browser tab crashes",
-      "url": "https://github.com/browser-use/browser-use/issues/5067",
-      "author": "tcconnally",
-      "at": "2026-06-19T14:13:38Z"
+      "number": 3618,
+      "title": "[Bug]: _1PASSWORD_* tools fail with GLIBC_2.27 missing dependency",
+      "url": "https://github.com/ComposioHQ/composio/issues/3618",
+      "author": "AmSaltman",
+      "at": "2026-06-19T19:34:19Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2383,
+      "title": "Add Azure AI Foundry as a first-class v2 provider",
+      "url": "https://github.com/567-labs/instructor/issues/2383",
+      "author": "azrirefik",
+      "at": "2026-06-19T16:35:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2380,
-      "title": "Fix #2222 - Expose attempt metadata on completion:error and completion:last_attempt hooks",
-      "url": "https://github.com/567-labs/instructor/pull/2380",
-      "author": "Whning0513",
-      "at": "2026-06-19T06:33:14Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2379,
-      "title": "Fix #2335 - Guard against empty or absent messages list in handle_gemini_json",
-      "url": "https://github.com/567-labs/instructor/pull/2379",
-      "author": "Whning0513",
-      "at": "2026-06-19T05:57:56Z"
+      "number": 2382,
+      "title": "fix(v2): prepare response_model before handler dispatch in patch.py",
+      "url": "https://github.com/567-labs/instructor/pull/2382",
+      "author": "azrirefik",
+      "at": "2026-06-19T16:34:48Z"
     },
     {
       "founder": "Harrison Chase",
@@ -58,48 +69,59 @@
       "at": "2026-06-19T12:16:27Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94974,
-      "title": "fix: after(callback) called after response end",
-      "url": "https://github.com/vercel/next.js/pull/94974",
-      "author": "lubieowoce",
-      "at": "2026-06-19T15:37:31Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38266,
+      "title": "Stale `xfail` markers in `langchain-core` tests: `test_convert_to_openai_function_nested_v2` and `test_sync_in_sync_lambdas` pass but are ma",
+      "url": "https://github.com/langchain-ai/langchain/issues/38266",
+      "author": "15daksh-2003",
+      "at": "2026-06-19T07:59:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94973,
-      "title": "Fix no-op PostCSS source labels in Turbopack errors",
-      "url": "https://github.com/vercel/next.js/pull/94973",
+      "number": 94985,
+      "title": "docs: fix 3 broken external guide links",
+      "url": "https://github.com/vercel/next.js/pull/94985",
+      "author": "sanjibani",
+      "at": "2026-06-20T06:34:18Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 94984,
+      "title": "fix(next-mdx): report unresolved plugin paths",
+      "url": "https://github.com/vercel/next.js/pull/94984",
       "author": "mturac",
-      "at": "2026-06-19T15:04:50Z"
+      "at": "2026-06-20T02:48:28Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 47146,
+      "title": "Upgrade Stuck",
+      "url": "https://github.com/supabase/supabase/issues/47146",
+      "author": "stylecastglobal",
+      "at": "2026-06-20T06:34:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47136,
-      "title": "fix(logs): resolve BigQuery schema and dialect mismatches for self-hosted (rebased)",
-      "url": "https://github.com/supabase/supabase/pull/47136",
-      "author": "Tanusree-samanta",
-      "at": "2026-06-19T15:20:44Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47135,
-      "title": "chore: Handle NavData component for md output",
-      "url": "https://github.com/supabase/supabase/pull/47135",
-      "author": "jeremenichelli",
-      "at": "2026-06-19T15:18:57Z"
+      "number": 47145,
+      "title": "fix(studio): preserve session and redirect to MFA when AAL elevation is needed",
+      "url": "https://github.com/supabase/supabase/pull/47145",
+      "author": "charislam",
+      "at": "2026-06-20T01:33:38Z"
     }
   ]
 }
