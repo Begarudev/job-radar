@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T15:43:37.721Z",
+  "updatedAt": "2026-06-21T08:00:39.447Z",
   "count": 11,
   "signals": [
     {
@@ -29,22 +29,22 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3623,
-      "title": "chore(ts): clean up dependencies and bump toolchain",
-      "url": "https://github.com/ComposioHQ/composio/pull/3623",
+      "number": 3627,
+      "title": "chore(py): refresh Python dependencies",
+      "url": "https://github.com/ComposioHQ/composio/pull/3627",
       "author": "jkomyno",
-      "at": "2026-06-20T13:54:11Z"
+      "at": "2026-06-20T21:41:35Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3622,
-      "title": "chore(py): refresh Python dependencies",
-      "url": "https://github.com/ComposioHQ/composio/pull/3622",
-      "author": "jkomyno",
-      "at": "2026-06-20T09:29:26Z"
+      "number": 3625,
+      "title": "fix(google_adk): handle reserved Python keyword param names in wrap_tool",
+      "url": "https://github.com/ComposioHQ/composio/pull/3625",
+      "author": "ly-wang19",
+      "at": "2026-06-20T18:34:44Z"
     },
     {
       "founder": "Jason Liu",
@@ -80,48 +80,48 @@
       "at": "2026-06-20T08:56:28Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 94993,
-      "title": "fix(otel): set span status to ERROR for 4xx/5xx AppRender.fetch responses",
-      "url": "https://github.com/vercel/next.js/pull/94993",
-      "author": "sleitor",
-      "at": "2026-06-20T12:38:25Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 32120,
+      "title": "Reasoning model with structured output",
+      "url": "https://github.com/langchain-ai/langchain/issues/32120",
+      "author": "wangsiyu666",
+      "at": "2025-07-19T06:05:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 94992,
-      "title": "fix(typegen): skip turbopackRustReactCompiler Turbopack-only check during next typegen",
-      "url": "https://github.com/vercel/next.js/pull/94992",
-      "author": "sleitor",
-      "at": "2026-06-20T10:41:07Z"
+      "number": 95002,
+      "title": "docs: remove dead nextjs-keystone-demo + nextjs-makeswift-example URLs",
+      "url": "https://github.com/vercel/next.js/pull/95002",
+      "author": "sanjibani",
+      "at": "2026-06-21T04:16:57Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95001,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/95001",
+      "author": "vercel-release-bot",
+      "at": "2026-06-21T00:46:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47148,
-      "title": "fix(docs): align edge function docs",
-      "url": "https://github.com/supabase/supabase/pull/47148",
-      "author": "7ttp",
-      "at": "2026-06-20T10:22:43Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47147,
-      "title": "fix(studio): clarify OTP auth rate limit copy",
-      "url": "https://github.com/supabase/supabase/pull/47147",
-      "author": "maxpetrusenkoagent",
-      "at": "2026-06-20T09:31:37Z"
+      "kind": "issue",
+      "number": 47157,
+      "title": "report",
+      "url": "https://github.com/supabase/supabase/issues/47157",
+      "author": "contactdextrose-rgb",
+      "at": "2026-06-21T04:19:59Z"
     }
   ]
 }
