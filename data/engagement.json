@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-21T08:00:39.447Z",
-  "count": 11,
+  "updatedAt": "2026-06-21T15:48:42.461Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5075,
+      "title": "fix: preserve empty accessibility name (ax_node.name) instead of dropping it",
+      "url": "https://github.com/browser-use/browser-use/pull/5075",
+      "author": "kaXianc2-gom",
+      "at": "2026-06-21T13:00:08Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-06-20T13:16:20Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5072,
-      "title": "fix(security): write storage_state.json session cookies with 0o600",
-      "url": "https://github.com/browser-use/browser-use/pull/5072",
-      "author": "r266-tech",
-      "at": "2026-06-20T13:15:16Z"
+      "number": 3629,
+      "title": "fix(gemini): reinstate reserved-keyword param names in handle_response",
+      "url": "https://github.com/ComposioHQ/composio/pull/3629",
+      "author": "ly-wang19",
+      "at": "2026-06-21T11:26:59Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,28 +47,6 @@
       "at": "2026-06-20T21:41:35Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3625,
-      "title": "fix(google_adk): handle reserved Python keyword param names in wrap_tool",
-      "url": "https://github.com/ComposioHQ/composio/pull/3625",
-      "author": "ly-wang19",
-      "at": "2026-06-20T18:34:44Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2384,
-      "title": "feat(azure): add Azure AI Foundry provider support",
-      "url": "https://github.com/567-labs/instructor/pull/2384",
-      "author": "azrirefik",
-      "at": "2026-06-20T12:29:53Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
@@ -69,59 +58,81 @@
       "at": "2026-06-19T16:35:32Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 38329,
-      "title": "test_mset_chmod fails on Windows due to unsupported chmod permission bits",
-      "url": "https://github.com/langchain-ai/langchain/issues/38329",
-      "author": "AshwabhB",
-      "at": "2026-06-20T08:56:28Z"
+      "number": 2365,
+      "title": "Mistral AI v2 support",
+      "url": "https://github.com/567-labs/instructor/issues/2365",
+      "author": "lchoquel",
+      "at": "2026-06-12T07:51:20Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 32120,
-      "title": "Reasoning model with structured output",
-      "url": "https://github.com/langchain-ai/langchain/issues/32120",
-      "author": "wangsiyu666",
-      "at": "2025-07-19T06:05:33Z"
+      "number": 38345,
+      "title": "create_sql_query_chain allows Indirect Prompt Injection via DB sample rows, Direct Prompt Injection via unsanitized question, and emits mult",
+      "url": "https://github.com/langchain-ai/langchain/issues/38345",
+      "author": "Necta14",
+      "at": "2026-06-21T10:52:38Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38343,
+      "title": "Add OpenRouterEmbeddings to langchain-openrouter",
+      "url": "https://github.com/langchain-ai/langchain/issues/38343",
+      "author": "SabarinathK",
+      "at": "2026-06-21T10:43:57Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95002,
-      "title": "docs: remove dead nextjs-keystone-demo + nextjs-makeswift-example URLs",
-      "url": "https://github.com/vercel/next.js/pull/95002",
+      "number": 95006,
+      "title": "docs(examples): fix 5 broken external links across 5 README files",
+      "url": "https://github.com/vercel/next.js/pull/95006",
       "author": "sanjibani",
-      "at": "2026-06-21T04:16:57Z"
+      "at": "2026-06-21T14:25:56Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95001,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95001",
-      "author": "vercel-release-bot",
-      "at": "2026-06-21T00:46:26Z"
+      "number": 95005,
+      "title": "skill(next-dev-loop): fix --session flag, agent-browser bootstrap, --headed daemon note",
+      "url": "https://github.com/vercel/next.js/pull/95005",
+      "author": "aurorascharff",
+      "at": "2026-06-21T12:28:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47157,
-      "title": "report",
-      "url": "https://github.com/supabase/supabase/issues/47157",
-      "author": "contactdextrose-rgb",
-      "at": "2026-06-21T04:19:59Z"
+      "kind": "pr",
+      "number": 47167,
+      "title": "feat(blocks): add profile settings editor component block for Vue & Nuxt",
+      "url": "https://github.com/supabase/supabase/pull/47167",
+      "author": "gunabh25",
+      "at": "2026-06-21T13:30:07Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47166,
+      "title": "fix(studio): formatCompactNumber rolls over to \"M\" instead of rendering \"1000.0k\"",
+      "url": "https://github.com/supabase/supabase/pull/47166",
+      "author": "Lakshya77089",
+      "at": "2026-06-21T12:46:22Z"
     }
   ]
 }
