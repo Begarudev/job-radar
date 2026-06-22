@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-22T08:58:19.809Z",
+  "updatedAt": "2026-06-22T18:10:38.660Z",
   "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5079,
+      "title": "fix: commit input value by moving focus out of field (#5054)",
+      "url": "https://github.com/browser-use/browser-use/pull/5079",
+      "author": "AhmadAbdullahh",
+      "at": "2026-06-22T13:32:46Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/5078",
       "author": "r266-tech",
       "at": "2026-06-22T05:09:45Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5077,
-      "title": "fix(dom): use explicit None check for ax_node.name instead of truthiness",
-      "url": "https://github.com/browser-use/browser-use/pull/5077",
-      "author": "aqilaziz",
-      "at": "2026-06-21T22:01:55Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -41,7 +41,7 @@
       "repo": "ComposioHQ/composio",
       "kind": "pr",
       "number": 3631,
-      "title": "Document v3 proxy execute project API key permission",
+      "title": "Document version-placeholder project API key permission endpoints",
       "url": "https://github.com/ComposioHQ/composio/pull/3631",
       "author": "palash-c",
       "at": "2026-06-22T06:06:34Z"
@@ -73,66 +73,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38352,
-      "title": "Bug: SummarizationMiddleware._find_safe_cutoff_point preserves orphan ToolMessages -> provider 400 on next call",
-      "url": "https://github.com/langchain-ai/langchain/issues/38352",
-      "author": "Fr3ya",
-      "at": "2026-06-22T01:10:51Z"
+      "number": 38366,
+      "title": "[Bug] merge_dicts concatenates identical string metadata fields across streaming chunks (model_name, finish_reason doubled)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38366",
+      "author": "codeonym",
+      "at": "2026-06-22T16:52:38Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38351,
-      "title": "create_agent: model_to_tools router can return \"model\" but path_map omits it -> KeyError('model')",
-      "url": "https://github.com/langchain-ai/langchain/issues/38351",
-      "author": "Fr3ya",
-      "at": "2026-06-22T00:56:13Z"
+      "number": 38362,
+      "title": "Add Xquik tool pattern for public X data workflows",
+      "url": "https://github.com/langchain-ai/langchain/issues/38362",
+      "author": "kriptoburak",
+      "at": "2026-06-22T12:04:44Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95052,
-      "title": "fix: add title attribute to RSS feed link for better accessibility",
-      "url": "https://github.com/vercel/next.js/pull/95052",
-      "author": "niketchandivade",
-      "at": "2026-06-22T08:48:57Z"
+      "number": 95063,
+      "title": "Upgrade React from `b1786c31-20260618` to `247fbb45-20260622`",
+      "url": "https://github.com/vercel/next.js/pull/95063",
+      "author": "vercel-release-bot",
+      "at": "2026-06-22T18:08:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95051,
-      "title": "[test] Fix failing determinism test using adapter",
-      "url": "https://github.com/vercel/next.js/pull/95051",
-      "author": "mischnic",
-      "at": "2026-06-22T08:41:51Z"
+      "number": 95062,
+      "title": "fix(next): `getVersionInfo()` throw error in dev server when npm proxy return HTML resp instead of json",
+      "url": "https://github.com/vercel/next.js/pull/95062",
+      "author": "vctqs1",
+      "at": "2026-06-22T15:51:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47178,
-      "title": "Allow forward slashes for branch names",
-      "url": "https://github.com/supabase/supabase/pull/47178",
-      "author": "joshenlim",
-      "at": "2026-06-22T07:43:53Z"
+      "number": 47195,
+      "title": "docs: clarify Kakao individual Biz app setup",
+      "url": "https://github.com/supabase/supabase/pull/47195",
+      "author": "naveenvenk17",
+      "at": "2026-06-22T17:53:52Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47176,
-      "title": "Break down DestinationForm into its own hook for validation and submission",
-      "url": "https://github.com/supabase/supabase/pull/47176",
-      "author": "joshenlim",
-      "at": "2026-06-22T06:20:12Z"
+      "kind": "issue",
+      "number": 47193,
+      "title": "BUG REPORT",
+      "url": "https://github.com/supabase/supabase/issues/47193",
+      "author": "Oraboss",
+      "at": "2026-06-22T17:08:22Z"
     },
     {
       "founder": "Theo Browne",
