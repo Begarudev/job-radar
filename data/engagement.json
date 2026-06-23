@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-22T18:10:38.660Z",
-  "count": 13,
+  "updatedAt": "2026-06-23T06:50:51.321Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -18,11 +18,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5078,
-      "title": "fix(security): require exact host match for full-URL allowed/prohibited_domains patterns",
-      "url": "https://github.com/browser-use/browser-use/pull/5078",
-      "author": "r266-tech",
-      "at": "2026-06-22T05:09:45Z"
+      "number": 5055,
+      "title": "feat(atlascloud): add Atlas Cloud OpenAI-compatible chat provider",
+      "url": "https://github.com/browser-use/browser-use/pull/5055",
+      "author": "lucaszhu-hue",
+      "at": "2026-06-17T07:28:11Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3635,
+      "title": "feat(core): add sessions namespace and toolkit link fallback",
+      "url": "https://github.com/ComposioHQ/composio/pull/3635",
+      "author": "CryogenicPlanet",
+      "at": "2026-06-23T01:12:49Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,37 +47,26 @@
       "at": "2026-06-22T07:14:44Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3631,
-      "title": "Document version-placeholder project API key permission endpoints",
-      "url": "https://github.com/ComposioHQ/composio/pull/3631",
-      "author": "palash-c",
-      "at": "2026-06-22T06:06:34Z"
+      "number": 2387,
+      "title": "feat(codex-asset-studio): scaffold nextjs app with shadcn base",
+      "url": "https://github.com/567-labs/instructor/pull/2387",
+      "author": "jxnl",
+      "at": "2026-06-23T02:32:35Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2385,
-      "title": "fix(v2): preserve backticks inside JSON string values during stream extraction",
-      "url": "https://github.com/567-labs/instructor/pull/2385",
-      "author": "hoangsonww",
-      "at": "2026-06-21T23:24:45Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2383,
-      "title": "Add Azure AI Foundry as a first-class v2 provider",
-      "url": "https://github.com/567-labs/instructor/issues/2383",
-      "author": "azrirefik",
-      "at": "2026-06-19T16:35:32Z"
+      "number": 2386,
+      "title": "fix(schema): handle non-BaseModel response models gracefully",
+      "url": "https://github.com/567-labs/instructor/pull/2386",
+      "author": "by-Kaimercer",
+      "at": "2026-06-22T20:26:16Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,55 +95,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95063,
-      "title": "Upgrade React from `b1786c31-20260618` to `247fbb45-20260622`",
-      "url": "https://github.com/vercel/next.js/pull/95063",
-      "author": "vercel-release-bot",
-      "at": "2026-06-22T18:08:37Z"
+      "number": 95080,
+      "title": "Turbopack: add TURBOPACK_DEBUG_CSS_CHUNKING env var",
+      "url": "https://github.com/vercel/next.js/pull/95080",
+      "author": "sokra",
+      "at": "2026-06-23T06:42:43Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95062,
-      "title": "fix(next): `getVersionInfo()` throw error in dev server when npm proxy return HTML resp instead of json",
-      "url": "https://github.com/vercel/next.js/pull/95062",
-      "author": "vctqs1",
-      "at": "2026-06-22T15:51:07Z"
+      "number": 95074,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/95074",
+      "author": "vercel-release-bot",
+      "at": "2026-06-23T00:42:18Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 47206,
+      "title": "Security Advisor flags spatial_ref_sys with \"RLS Disabled\" but users cannot enable RLS on it",
+      "url": "https://github.com/supabase/supabase/issues/47206",
+      "author": "zchuwie",
+      "at": "2026-06-23T06:47:52Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47195,
-      "title": "docs: clarify Kakao individual Biz app setup",
-      "url": "https://github.com/supabase/supabase/pull/47195",
-      "author": "naveenvenk17",
-      "at": "2026-06-22T17:53:52Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47193,
-      "title": "BUG REPORT",
-      "url": "https://github.com/supabase/supabase/issues/47193",
-      "author": "Oraboss",
-      "at": "2026-06-22T17:08:22Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2221,
-      "title": "bug: Server-only modules leak into client bundle with Next.js 16.2.0",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2221",
-      "author": "lindit",
-      "at": "2026-03-19T07:44:26Z"
+      "number": 47204,
+      "title": "refactor(studio): extract SQL editor domain rules into pure module (2/9)",
+      "url": "https://github.com/supabase/supabase/pull/47204",
+      "author": "charislam",
+      "at": "2026-06-23T00:02:36Z"
     }
   ]
 }
