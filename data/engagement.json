@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-23T06:50:51.321Z",
+  "updatedAt": "2026-06-23T16:25:32.211Z",
   "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5079,
-      "title": "fix: commit input value by moving focus out of field (#5054)",
-      "url": "https://github.com/browser-use/browser-use/pull/5079",
-      "author": "AhmadAbdullahh",
-      "at": "2026-06-22T13:32:46Z"
+      "kind": "issue",
+      "number": 5067,
+      "title": "bug: no automatic page-crash recovery — agent hangs after browser tab crashes",
+      "url": "https://github.com/browser-use/browser-use/issues/5067",
+      "author": "tcconnally",
+      "at": "2026-06-19T14:13:38Z"
     },
     {
       "founder": "Magnus Müller",
@@ -29,22 +29,22 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3635,
-      "title": "feat(core): add sessions namespace and toolkit link fallback",
-      "url": "https://github.com/ComposioHQ/composio/pull/3635",
+      "number": 3637,
+      "title": "Experimental rahul",
+      "url": "https://github.com/ComposioHQ/composio/pull/3637",
       "author": "CryogenicPlanet",
-      "at": "2026-06-23T01:12:49Z"
+      "at": "2026-06-23T10:31:12Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3632,
-      "title": "fix(openai_agents): deep-copy tool schema before stripping examples/default",
-      "url": "https://github.com/ComposioHQ/composio/pull/3632",
-      "author": "ly-wang19",
-      "at": "2026-06-22T07:14:44Z"
+      "number": 3635,
+      "title": "feat(core): add sessions namespace and toolkit link fallback",
+      "url": "https://github.com/ComposioHQ/composio/pull/3635",
+      "author": "CryogenicPlanet",
+      "at": "2026-06-23T01:12:49Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +73,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38366,
-      "title": "[Bug] merge_dicts concatenates identical string metadata fields across streaming chunks (model_name, finish_reason doubled)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38366",
-      "author": "codeonym",
-      "at": "2026-06-22T16:52:38Z"
+      "number": 38384,
+      "title": "ChatMistralAI incompatible token output format for LangSmith traceability",
+      "url": "https://github.com/langchain-ai/langchain/issues/38384",
+      "author": "henriquejsb",
+      "at": "2026-06-23T16:16:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38362,
-      "title": "Add Xquik tool pattern for public X data workflows",
-      "url": "https://github.com/langchain-ai/langchain/issues/38362",
-      "author": "kriptoburak",
-      "at": "2026-06-22T12:04:44Z"
+      "kind": "pr",
+      "number": 38383,
+      "title": "fix(openrouter): strip Responses reasoning IDs",
+      "url": "https://github.com/langchain-ai/langchain/pull/38383",
+      "author": "mdrxy",
+      "at": "2026-06-23T15:38:43Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95080,
-      "title": "Turbopack: add TURBOPACK_DEBUG_CSS_CHUNKING env var",
-      "url": "https://github.com/vercel/next.js/pull/95080",
-      "author": "sokra",
-      "at": "2026-06-23T06:42:43Z"
+      "number": 95093,
+      "title": "fix(codemod): don't double-add '.' after boolean ESLint --fix flag (#84616)",
+      "url": "https://github.com/vercel/next.js/pull/95093",
+      "author": "Dodothereal",
+      "at": "2026-06-23T16:13:07Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95074,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95074",
-      "author": "vercel-release-bot",
-      "at": "2026-06-23T00:42:18Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47206,
-      "title": "Security Advisor flags spatial_ref_sys with \"RLS Disabled\" but users cannot enable RLS on it",
-      "url": "https://github.com/supabase/supabase/issues/47206",
-      "author": "zchuwie",
-      "at": "2026-06-23T06:47:52Z"
+      "number": 95091,
+      "title": "beforeDevRequest",
+      "url": "https://github.com/vercel/next.js/pull/95091",
+      "author": "mischnic",
+      "at": "2026-06-23T15:43:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47204,
-      "title": "refactor(studio): extract SQL editor domain rules into pure module (2/9)",
-      "url": "https://github.com/supabase/supabase/pull/47204",
-      "author": "charislam",
-      "at": "2026-06-23T00:02:36Z"
+      "number": 47240,
+      "title": "Add Márton Boros to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/47240",
+      "author": "brainrake",
+      "at": "2026-06-23T16:15:58Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47238,
+      "title": "Add 'Jefferson Venerando' to contributors",
+      "url": "https://github.com/supabase/supabase/pull/47238",
+      "author": "shamanime",
+      "at": "2026-06-23T15:08:50Z"
     }
   ]
 }
