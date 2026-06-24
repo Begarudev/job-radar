@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-06-23T16:25:32.211Z",
-  "count": 12,
+  "updatedAt": "2026-06-24T06:49:02.710Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5067,
-      "title": "bug: no automatic page-crash recovery — agent hangs after browser tab crashes",
-      "url": "https://github.com/browser-use/browser-use/issues/5067",
-      "author": "tcconnally",
-      "at": "2026-06-19T14:13:38Z"
+      "kind": "pr",
+      "number": 5080,
+      "title": "Bypass env proxies for local CDP polling",
+      "url": "https://github.com/browser-use/browser-use/pull/5080",
+      "author": "vicksiyi",
+      "at": "2026-06-23T17:05:59Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5055,
-      "title": "feat(atlascloud): add Atlas Cloud OpenAI-compatible chat provider",
-      "url": "https://github.com/browser-use/browser-use/pull/5055",
-      "author": "lucaszhu-hue",
-      "at": "2026-06-17T07:28:11Z"
+      "number": 5077,
+      "title": "fix(dom): use explicit None check for ax_node.name instead of truthiness",
+      "url": "https://github.com/browser-use/browser-use/pull/5077",
+      "author": "aqilaziz",
+      "at": "2026-06-21T22:01:55Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3637,
-      "title": "Experimental rahul",
-      "url": "https://github.com/ComposioHQ/composio/pull/3637",
-      "author": "CryogenicPlanet",
-      "at": "2026-06-23T10:31:12Z"
+      "number": 3645,
+      "title": "docs: refresh contributing guide",
+      "url": "https://github.com/ComposioHQ/composio/pull/3645",
+      "author": "Osraka",
+      "at": "2026-06-24T06:33:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3635,
-      "title": "feat(core): add sessions namespace and toolkit link fallback",
-      "url": "https://github.com/ComposioHQ/composio/pull/3635",
-      "author": "CryogenicPlanet",
-      "at": "2026-06-23T01:12:49Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2387,
-      "title": "feat(codex-asset-studio): scaffold nextjs app with shadcn base",
-      "url": "https://github.com/567-labs/instructor/pull/2387",
-      "author": "jxnl",
-      "at": "2026-06-23T02:32:35Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2386,
-      "title": "fix(schema): handle non-BaseModel response models gracefully",
-      "url": "https://github.com/567-labs/instructor/pull/2386",
-      "author": "by-Kaimercer",
-      "at": "2026-06-22T20:26:16Z"
+      "number": 3642,
+      "title": "feat(experimental): eve provider + iMessage example",
+      "url": "https://github.com/ComposioHQ/composio/pull/3642",
+      "author": "shamsharoon",
+      "at": "2026-06-24T00:29:01Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38384,
-      "title": "ChatMistralAI incompatible token output format for LangSmith traceability",
-      "url": "https://github.com/langchain-ai/langchain/issues/38384",
-      "author": "henriquejsb",
-      "at": "2026-06-23T16:16:51Z"
+      "number": 38391,
+      "title": "Feature request: Profile-aware prompt router with ML-backed routing and ensemble fallback",
+      "url": "https://github.com/langchain-ai/langchain/issues/38391",
+      "author": "zavera",
+      "at": "2026-06-24T01:22:42Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38383,
-      "title": "fix(openrouter): strip Responses reasoning IDs",
-      "url": "https://github.com/langchain-ai/langchain/pull/38383",
+      "kind": "issue",
+      "number": 38388,
+      "title": "Fireworks forwards unsupported file content blocks",
+      "url": "https://github.com/langchain-ai/langchain/issues/38388",
       "author": "mdrxy",
-      "at": "2026-06-23T15:38:43Z"
+      "at": "2026-06-23T19:08:19Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 95107,
+      "title": "Inability to disable dynamic params when using cache components causes Not Found case to waste CPU cycles",
+      "url": "https://github.com/vercel/next.js/issues/95107",
+      "author": "lourd",
+      "at": "2026-06-24T03:54:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95093,
-      "title": "fix(codemod): don't double-add '.' after boolean ESLint --fix flag (#84616)",
-      "url": "https://github.com/vercel/next.js/pull/95093",
-      "author": "Dodothereal",
-      "at": "2026-06-23T16:13:07Z"
+      "number": 95106,
+      "title": "refactor: split out validateStaticShell",
+      "url": "https://github.com/vercel/next.js/pull/95106",
+      "author": "lubieowoce",
+      "at": "2026-06-24T03:48:10Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95091,
-      "title": "beforeDevRequest",
-      "url": "https://github.com/vercel/next.js/pull/95091",
-      "author": "mischnic",
-      "at": "2026-06-23T15:43:05Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 47255,
+      "title": "Yo",
+      "url": "https://github.com/supabase/supabase/issues/47255",
+      "author": "yubrah93",
+      "at": "2026-06-24T04:09:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47240,
-      "title": "Add Márton Boros to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/47240",
-      "author": "brainrake",
-      "at": "2026-06-23T16:15:58Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47238,
-      "title": "Add 'Jefferson Venerando' to contributors",
-      "url": "https://github.com/supabase/supabase/pull/47238",
-      "author": "shamanime",
-      "at": "2026-06-23T15:08:50Z"
+      "number": 47254,
+      "title": "Página web ",
+      "url": "https://github.com/supabase/supabase/pull/47254",
+      "author": "yubrah93",
+      "at": "2026-06-24T00:49:30Z"
     }
   ]
 }
