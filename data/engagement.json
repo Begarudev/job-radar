@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-24T06:49:02.710Z",
-  "count": 10,
+  "updatedAt": "2026-06-24T16:14:53.348Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -29,88 +29,77 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3645,
-      "title": "docs: refresh contributing guide",
-      "url": "https://github.com/ComposioHQ/composio/pull/3645",
-      "author": "Osraka",
-      "at": "2026-06-24T06:33:01Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3642,
-      "title": "feat(experimental): eve provider + iMessage example",
-      "url": "https://github.com/ComposioHQ/composio/pull/3642",
-      "author": "shamsharoon",
-      "at": "2026-06-24T00:29:01Z"
+      "number": 3649,
+      "title": "fix(anthropic): sanitize illegal/over-long tool property keys for Messages API",
+      "url": "https://github.com/ComposioHQ/composio/pull/3649",
+      "author": "jkomyno",
+      "at": "2026-06-24T15:56:58Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38391,
-      "title": "Feature request: Profile-aware prompt router with ML-backed routing and ensemble fallback",
-      "url": "https://github.com/langchain-ai/langchain/issues/38391",
-      "author": "zavera",
-      "at": "2026-06-24T01:22:42Z"
+      "number": 38404,
+      "title": "HTMLSemanticPreservingSplitter reorders inline text around tags (e.g. <strong>, <a>, etc.)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38404",
+      "author": "evisser",
+      "at": "2026-06-24T13:39:01Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38388,
-      "title": "Fireworks forwards unsupported file content blocks",
-      "url": "https://github.com/langchain-ai/langchain/issues/38388",
-      "author": "mdrxy",
-      "at": "2026-06-23T19:08:19Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 95107,
-      "title": "Inability to disable dynamic params when using cache components causes Not Found case to waste CPU cycles",
-      "url": "https://github.com/vercel/next.js/issues/95107",
-      "author": "lourd",
-      "at": "2026-06-24T03:54:19Z"
+      "number": 38398,
+      "title": "langchain-anthropic: `cache_control` on a `tool_use` content block is silently dropped when a matching `tool_calls` item exists",
+      "url": "https://github.com/langchain-ai/langchain/issues/38398",
+      "author": "menezesandre",
+      "at": "2026-06-24T09:32:40Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95106,
-      "title": "refactor: split out validateStaticShell",
-      "url": "https://github.com/vercel/next.js/pull/95106",
-      "author": "lubieowoce",
-      "at": "2026-06-24T03:48:10Z"
+      "number": 95132,
+      "title": "defer and batch leaf distance updates",
+      "url": "https://github.com/vercel/next.js/pull/95132",
+      "author": "lukesandberg",
+      "at": "2026-06-24T15:51:42Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47255,
-      "title": "Yo",
-      "url": "https://github.com/supabase/supabase/issues/47255",
-      "author": "yubrah93",
-      "at": "2026-06-24T04:09:14Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95131,
+      "title": "router instrumentation: consolidate unmerged transition lifecycle stack",
+      "url": "https://github.com/vercel/next.js/pull/95131",
+      "author": "gaojude",
+      "at": "2026-06-24T15:46:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47254,
-      "title": "Página web ",
-      "url": "https://github.com/supabase/supabase/pull/47254",
-      "author": "yubrah93",
-      "at": "2026-06-24T00:49:30Z"
+      "number": 47279,
+      "title": "feat(docs): add page documenting free project pausing behavior",
+      "url": "https://github.com/supabase/supabase/pull/47279",
+      "author": "tk1ng",
+      "at": "2026-06-24T15:52:49Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47278,
+      "title": "fix: outdated link for api keys in data api docs",
+      "url": "https://github.com/supabase/supabase/pull/47278",
+      "author": "charislam",
+      "at": "2026-06-24T15:42:42Z"
     }
   ]
 }
