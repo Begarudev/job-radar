@@ -1,138 +1,83 @@
 {
-  "updatedAt": "2026-06-25T16:20:33.838Z",
-  "count": 12,
+  "updatedAt": "2026-06-26T06:55:14.579Z",
+  "count": 7,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5081,
-      "title": "fix: preserve empty accessibility names",
-      "url": "https://github.com/browser-use/browser-use/pull/5081",
-      "author": "vicksiyi",
-      "at": "2026-06-24T16:56:58Z"
+      "number": 5087,
+      "title": "fix(browser): auto-recover when the agent's focused tab crashes",
+      "url": "https://github.com/browser-use/browser-use/pull/5087",
+      "author": "sauravpanda",
+      "at": "2026-06-26T05:29:48Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5041,
-      "title": "[Bug] Potential loss of empty accessibility names due to implicit truthiness check in views.py",
-      "url": "https://github.com/browser-use/browser-use/issues/5041",
-      "author": "QiuYucheng2003",
-      "at": "2026-06-14T09:34:00Z"
+      "kind": "pr",
+      "number": 5086,
+      "title": "fix(browser): tolerate stepping a torn-down event bus on warm-Lambda resume (ENG-5280)",
+      "url": "https://github.com/browser-use/browser-use/pull/5086",
+      "author": "sauravpanda",
+      "at": "2026-06-26T05:29:20Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3667,
-      "title": "fix: correct zoom delete meeting OAuth scopes (#2863)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3667",
-      "author": "C1-BA-B1-F3",
-      "at": "2026-06-25T14:56:48Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3666,
-      "title": "chore(agents): normalize repo guidance skills",
-      "url": "https://github.com/ComposioHQ/composio/pull/3666",
-      "author": "jkomyno",
-      "at": "2026-06-25T14:37:12Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2394,
-      "title": "feat: schema complexity analyzer + automatic mode selection",
-      "url": "https://github.com/567-labs/instructor/pull/2394",
-      "author": "mimran-khan",
-      "at": "2026-06-24T19:59:05Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2393,
-      "title": "feat: schema complexity pre-flight analysis and automatic mode selection",
-      "url": "https://github.com/567-labs/instructor/issues/2393",
-      "author": "mimran-khan",
-      "at": "2026-06-24T19:58:26Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38442,
-      "title": "fix(anthropic): keep initial text on `content_block_start`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38442",
-      "author": "christian-bromann",
-      "at": "2026-06-24T23:13:23Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38440,
-      "title": "bug(core): cache implementing `__len__` makes `generate`/`agenerate` raise `KeyError`",
-      "url": "https://github.com/langchain-ai/langchain/issues/38440",
-      "author": "AliMuhammadAslam",
-      "at": "2026-06-24T22:20:39Z"
+      "number": 3679,
+      "title": "Add tool router session deletion",
+      "url": "https://github.com/ComposioHQ/composio/pull/3679",
+      "author": "abir-taheer",
+      "at": "2026-06-26T04:57:03Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 95166,
-      "title": "Child `generateStaticParams` skips pre-rendering ALL static params when returning empty array (`[]`) for SOME parent params",
-      "url": "https://github.com/vercel/next.js/issues/95166",
-      "author": "maxijonson",
-      "at": "2026-06-25T15:44:43Z"
+      "kind": "pr",
+      "number": 95183,
+      "title": "Jstory/pp validation except gsp patch",
+      "url": "https://github.com/vercel/next.js/pull/95183",
+      "author": "gnoff",
+      "at": "2026-06-26T05:37:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 95164,
-      "title": "Infinite reload loop in Firefox with loading.tsx and slow async Server Components",
-      "url": "https://github.com/vercel/next.js/issues/95164",
-      "author": "soberm",
-      "at": "2026-06-25T12:35:19Z"
+      "kind": "pr",
+      "number": 95182,
+      "title": "server actions: enforce bodySizeLimit in edge runtime for multipart and non-multipart bodies",
+      "url": "https://github.com/vercel/next.js/pull/95182",
+      "author": "tsushanth",
+      "at": "2026-06-26T02:13:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47311,
-      "title": "fix(billing): trim Tax ID inputs to trigger required validation",
-      "url": "https://github.com/supabase/supabase/pull/47311",
-      "author": "kanishkdudeja",
-      "at": "2026-06-25T16:14:08Z"
+      "number": 47328,
+      "title": "chore: manage CodeRabbit config in .coderabbit.yaml",
+      "url": "https://github.com/supabase/supabase/pull/47328",
+      "author": "alaister",
+      "at": "2026-06-26T06:39:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47308,
-      "title": "fix: self hosted cmdk organizations",
-      "url": "https://github.com/supabase/supabase/pull/47308",
-      "author": "Hallidayo",
-      "at": "2026-06-25T14:36:28Z"
+      "kind": "issue",
+      "number": 47326,
+      "title": "Password Auth failing",
+      "url": "https://github.com/supabase/supabase/issues/47326",
+      "author": "sideout100",
+      "at": "2026-06-26T04:27:58Z"
     }
   ]
 }
