@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-26T06:55:14.579Z",
-  "count": 7,
+  "updatedAt": "2026-06-26T16:12:21.624Z",
+  "count": 10,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5088,
+      "title": "add browser-use skill backed by browser-harness",
+      "url": "https://github.com/browser-use/browser-use/pull/5088",
+      "author": "laithrw",
+      "at": "2026-06-26T11:01:49Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,70 +25,92 @@
       "at": "2026-06-26T05:29:48Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5086,
-      "title": "fix(browser): tolerate stepping a torn-down event bus on warm-Lambda resume (ENG-5280)",
-      "url": "https://github.com/browser-use/browser-use/pull/5086",
-      "author": "sauravpanda",
-      "at": "2026-06-26T05:29:20Z"
+      "number": 3692,
+      "title": "docs: add support-informed toolkit FAQs",
+      "url": "https://github.com/ComposioHQ/composio/pull/3692",
+      "author": "abhishekpatil4",
+      "at": "2026-06-26T14:51:48Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3679,
-      "title": "Add tool router session deletion",
-      "url": "https://github.com/ComposioHQ/composio/pull/3679",
-      "author": "abir-taheer",
-      "at": "2026-06-26T04:57:03Z"
+      "number": 3691,
+      "title": "chore(ts): bump Hono, Mastra, and Chrome deps",
+      "url": "https://github.com/ComposioHQ/composio/pull/3691",
+      "author": "jkomyno",
+      "at": "2026-06-26T12:52:45Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38484,
+      "title": "langchain stream_events v3 final response tokens not streamed in real-time, all arrive at once",
+      "url": "https://github.com/langchain-ai/langchain/issues/38484",
+      "author": "hanruiyao163",
+      "at": "2026-06-26T12:33:06Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38482,
+      "title": "TypeError: unsupported operand type(s) for += on dict in _combine_llm_outputs when making multiple LLM calls",
+      "url": "https://github.com/langchain-ai/langchain/issues/38482",
+      "author": "ffoss",
+      "at": "2026-06-26T09:20:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95183,
-      "title": "Jstory/pp validation except gsp patch",
-      "url": "https://github.com/vercel/next.js/pull/95183",
-      "author": "gnoff",
-      "at": "2026-06-26T05:37:10Z"
+      "number": 95205,
+      "title": "Bump Rust toolchain",
+      "url": "https://github.com/vercel/next.js/pull/95205",
+      "author": "lukesandberg",
+      "at": "2026-06-26T15:58:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95182,
-      "title": "server actions: enforce bodySizeLimit in edge runtime for multipart and non-multipart bodies",
-      "url": "https://github.com/vercel/next.js/pull/95182",
-      "author": "tsushanth",
-      "at": "2026-06-26T02:13:33Z"
+      "number": 95204,
+      "title": "[ci] Add support for auth based preview build registries",
+      "url": "https://github.com/vercel/next.js/pull/95204",
+      "author": "eps1lon",
+      "at": "2026-06-26T15:35:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47328,
-      "title": "chore: manage CodeRabbit config in .coderabbit.yaml",
-      "url": "https://github.com/supabase/supabase/pull/47328",
-      "author": "alaister",
-      "at": "2026-06-26T06:39:37Z"
+      "number": 47348,
+      "title": "docs(storage): add guide for manually purging cdn cache",
+      "url": "https://github.com/supabase/supabase/pull/47348",
+      "author": "itslenny",
+      "at": "2026-06-26T16:01:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 47326,
-      "title": "Password Auth failing",
-      "url": "https://github.com/supabase/supabase/issues/47326",
-      "author": "sideout100",
-      "at": "2026-06-26T04:27:58Z"
+      "number": 47347,
+      "title": "Supabase self-hosted Queue + Cron job works with “Run Command” but does not run automatically",
+      "url": "https://github.com/supabase/supabase/issues/47347",
+      "author": "phongjimmy",
+      "at": "2026-06-26T15:52:21Z"
     }
   ]
 }
