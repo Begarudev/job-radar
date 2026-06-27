@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-26T16:12:21.624Z",
-  "count": 10,
+  "updatedAt": "2026-06-27T06:29:24.299Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -29,22 +29,33 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3692,
-      "title": "docs: add support-informed toolkit FAQs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3692",
+      "number": 3699,
+      "title": "docs: refresh OpenAPI reference",
+      "url": "https://github.com/ComposioHQ/composio/pull/3699",
       "author": "abhishekpatil4",
-      "at": "2026-06-26T14:51:48Z"
+      "at": "2026-06-27T03:25:29Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3691,
-      "title": "chore(ts): bump Hono, Mastra, and Chrome deps",
-      "url": "https://github.com/ComposioHQ/composio/pull/3691",
-      "author": "jkomyno",
-      "at": "2026-06-26T12:52:45Z"
+      "number": 2396,
+      "title": "update model name",
+      "url": "https://github.com/567-labs/instructor/pull/2396",
+      "author": "badaboot",
+      "at": "2026-06-27T02:05:26Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2395,
+      "title": "Fix the bug on ollama.md",
+      "url": "https://github.com/567-labs/instructor/issues/2395",
+      "author": "badaboot",
+      "at": "2026-06-27T02:04:18Z"
     },
     {
       "founder": "Harrison Chase",
@@ -73,44 +84,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95205,
-      "title": "Bump Rust toolchain",
-      "url": "https://github.com/vercel/next.js/pull/95205",
-      "author": "lukesandberg",
-      "at": "2026-06-26T15:58:20Z"
+      "number": 95227,
+      "title": "Recover from blocking routes under Instant Navigation lock when deployed",
+      "url": "https://github.com/vercel/next.js/pull/95227",
+      "author": "unstubbable",
+      "at": "2026-06-27T00:46:25Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95204,
-      "title": "[ci] Add support for auth based preview build registries",
-      "url": "https://github.com/vercel/next.js/pull/95204",
-      "author": "eps1lon",
-      "at": "2026-06-26T15:35:33Z"
+      "number": 95226,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/95226",
+      "author": "vercel-release-bot",
+      "at": "2026-06-27T00:40:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47348,
-      "title": "docs(storage): add guide for manually purging cdn cache",
-      "url": "https://github.com/supabase/supabase/pull/47348",
-      "author": "itslenny",
-      "at": "2026-06-26T16:01:23Z"
+      "number": 47363,
+      "title": "fix(studio): stop GraphiQL from corrupting other Monaco editors",
+      "url": "https://github.com/supabase/supabase/pull/47363",
+      "author": "alaister",
+      "at": "2026-06-27T03:31:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 47347,
-      "title": "Supabase self-hosted Queue + Cron job works with “Run Command” but does not run automatically",
-      "url": "https://github.com/supabase/supabase/issues/47347",
-      "author": "phongjimmy",
-      "at": "2026-06-26T15:52:21Z"
+      "number": 47362,
+      "title": "RepairOS",
+      "url": "https://github.com/supabase/supabase/issues/47362",
+      "author": "SalehAhmedAshrey89",
+      "at": "2026-06-27T01:38:04Z"
     }
   ]
 }
