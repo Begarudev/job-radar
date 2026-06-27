@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T06:29:24.299Z",
+  "updatedAt": "2026-06-27T15:12:52.272Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5088,
-      "title": "add browser-use skill backed by browser-harness",
-      "url": "https://github.com/browser-use/browser-use/pull/5088",
-      "author": "laithrw",
-      "at": "2026-06-26T11:01:49Z"
+      "number": 5089,
+      "title": "Fix variable shadowing in Element.click() error handling",
+      "url": "https://github.com/browser-use/browser-use/pull/5089",
+      "author": "Gaurav0807",
+      "at": "2026-06-27T08:06:17Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5087,
-      "title": "fix(browser): auto-recover when the agent's focused tab crashes",
-      "url": "https://github.com/browser-use/browser-use/pull/5087",
+      "number": 5086,
+      "title": "fix(browser): tolerate stepping a torn-down event bus on warm-Lambda resume (ENG-5280)",
+      "url": "https://github.com/browser-use/browser-use/pull/5086",
       "author": "sauravpanda",
-      "at": "2026-06-26T05:29:48Z"
+      "at": "2026-06-26T05:29:20Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -62,6 +62,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 38504,
+      "title": "bug: Legacy Qdrant vector store returns raw distances instead of normalized relevance scores",
+      "url": "https://github.com/langchain-ai/langchain/issues/38504",
+      "author": "rautaditya2606",
+      "at": "2026-06-27T15:09:32Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 38484,
       "title": "langchain stream_events v3 final response tokens not streamed in real-time, all arrive at once",
       "url": "https://github.com/langchain-ai/langchain/issues/38484",
@@ -69,59 +80,48 @@
       "at": "2026-06-26T12:33:06Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38482,
-      "title": "TypeError: unsupported operand type(s) for += on dict in _combine_llm_outputs when making multiple LLM calls",
-      "url": "https://github.com/langchain-ai/langchain/issues/38482",
-      "author": "ffoss",
-      "at": "2026-06-26T09:20:35Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95235,
+      "title": "docs: remove incorrect statement that force-cache is the default for …",
+      "url": "https://github.com/vercel/next.js/pull/95235",
+      "author": "Pranav18M",
+      "at": "2026-06-27T14:57:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95227,
-      "title": "Recover from blocking routes under Instant Navigation lock when deployed",
-      "url": "https://github.com/vercel/next.js/pull/95227",
-      "author": "unstubbable",
-      "at": "2026-06-27T00:46:25Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95226,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95226",
-      "author": "vercel-release-bot",
-      "at": "2026-06-27T00:40:47Z"
+      "number": 95233,
+      "title": "More granular cache keys for use-cache entries",
+      "url": "https://github.com/vercel/next.js/pull/95233",
+      "author": "mischnic",
+      "at": "2026-06-27T10:09:13Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47363,
-      "title": "fix(studio): stop GraphiQL from corrupting other Monaco editors",
-      "url": "https://github.com/supabase/supabase/pull/47363",
-      "author": "alaister",
-      "at": "2026-06-27T03:31:53Z"
+      "number": 47365,
+      "title": "fix(studio): close delete bucket modal immediately after deletion",
+      "url": "https://github.com/supabase/supabase/pull/47365",
+      "author": "aantti",
+      "at": "2026-06-27T11:55:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47362,
-      "title": "RepairOS",
-      "url": "https://github.com/supabase/supabase/issues/47362",
-      "author": "SalehAhmedAshrey89",
-      "at": "2026-06-27T01:38:04Z"
+      "kind": "pr",
+      "number": 47364,
+      "title": "fix(studio): allow multiline MFA phone template",
+      "url": "https://github.com/supabase/supabase/pull/47364",
+      "author": "jaivikjoshi",
+      "at": "2026-06-27T06:33:56Z"
     }
   ]
 }
