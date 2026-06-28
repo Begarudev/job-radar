@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T17:03:27.696Z",
+  "updatedAt": "2026-06-28T20:55:59.750Z",
   "count": 2,
   "postings": [
     {
@@ -10,7 +10,7 @@
       "body": "DrSwarm | Founding Engineer (Full-Stack) | REMOTE (US or LATAM; must overlap with US Pacific hours) | Full-time or Contract to Full-time DrSwarm is building AI-driven workflow automation for healthcare clinics &#x2F; health systems (scheduling, RCM&#x2F;billing workflows, patient ops). This is a true 0→1 role: ship fast, talk to customers, own systems end-to-end. You will: - Build product end-to-end (Next.js + Django) - Ship integrations + workflow automation (APIs, webhooks, background jobs, queues) - Own reliability (logs&#x2F;metrics, retries, failure modes) and pragmatic security (HIPAA-aware) Stack: Next.js, React&#x2F;TypeScript, Django&#x2F;Python, Postgres, Celery&#x2F;Redis, Docker, AWS&#x2F;DigitalOcean, LLM APIs. Looking for: Strong full-stack builder.  Good to work with.  Can talk to customers &#x2F; users &#x2F; salespeople.  Uses AI to generate 90%+ of their code, interested in AI + Healthcare. Comp: Market with mix of base + bonus + meaningful equity\nProcess: 30m intro → 60m technical&#x2F;product deep dive → short paid work trial → references. I (founder) read every email and reply. Contact: jobs@drswarm.com (include “HN Founding Engineer” in subject) + GitHub&#x2F;LinkedIn + 2–3 projects you’re proud of.",
       "remote": true,
       "postedAt": "2026-06-01T16:11:25.000Z",
-      "fetchedAt": "2026-06-28T17:03:27.665Z",
+      "fetchedAt": "2026-06-28T20:55:59.717Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react, next, python",
@@ -38,7 +38,7 @@
       "body": "Quin | Founding Engineer (CTO for the right person) | REMOTE (US), preference for Bay Area (tech), Chicago (consumer), or NYC (finance) | Full-time Quin is an agentic platform to (finally!) solve personal finance for people. It is a consumer-focused company.  https:&#x2F;&#x2F;iamquin.ai  I spent 13 years in private banking and have been working on Quin alone for about 15 months. I built 6 different prototypes to test different approaches. I&#x27;ve spent the last few weeks working with testers on the latest version and solidifying GTM. I need someone to take over engineering with a focus on building the backend and data layers that will support our agentic approach to personal finance. Georgetown. UCLA (MBA). Ex-JPMorgan. Traction: Prototype with testers The role: You&#x27;re the first engineering hire. This is about shipping the workflows that will become the product that users will trust and the data layer that can support an agent in the future. You&#x27;ll own backend architecture decisions from day one. Contract-first development (TypeScript contracts repo as source of truth), FastAPI, Supabase&#x2F;Postgres, Groq for LLM inference. The stack is clean and the codebase is small. Who I&#x27;m looking for: A full-stack engineer with a preference for backend. 5+ years backend engineering; Python &#x2F; FastAPI preferred. Strong data modeling instincts — you&#x27;ve designed schemas that had to scale. Experience with multi-tenant data architectures. Comfort operating without process. Finance domain familiarity a plus, not a requirement. Comfort and experience using AI tools and incorporating new ideas quickly. For the right person, this is an opportunity to take a CTO&#x2F;co-founder role and define the full technical path. Comp: Salary post-raise and meaningful equity. TBH, finding this role (either version) will be important for rasisng capital given that I do not have a technical background and fintech is complicated by regulations. I&#x27;m ok with part-time in the meantime if that&#x27;s what it requires. Email quin@iamquin.ai with the primary reason this interests you and the top two reasons why you should be considered (don&#x27;t worry about a resume at this point).",
       "remote": true,
       "postedAt": "2026-06-08T04:37:38.000Z",
-      "fetchedAt": "2026-06-28T17:03:27.665Z",
+      "fetchedAt": "2026-06-28T20:55:59.717Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, python",
