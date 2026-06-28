@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-28T07:02:28.609Z",
-  "count": 11,
+  "updatedAt": "2026-06-28T15:15:08.235Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5091,
+      "title": "fix: the gmail integration stores oauth tokens (incl... in service.py",
+      "url": "https://github.com/browser-use/browser-use/pull/5091",
+      "author": "orbisai0security",
+      "at": "2026-06-28T09:31:50Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/5090",
       "author": "Ghraven",
       "at": "2026-06-28T02:29:31Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5089,
-      "title": "Fix variable shadowing in Element.click() error handling",
-      "url": "https://github.com/browser-use/browser-use/pull/5089",
-      "author": "Gaurav0807",
-      "at": "2026-06-27T08:06:17Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -50,12 +50,12 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2398,
-      "title": "[codex] consolidate latest fixes and docs",
-      "url": "https://github.com/567-labs/instructor/pull/2398",
+      "kind": "release",
+      "number": 0,
+      "title": "v1.15.4 released",
+      "url": "https://github.com/567-labs/instructor/releases/tag/v1.15.4",
       "author": "jxnl",
-      "at": "2026-06-28T06:51:57Z"
+      "at": "2026-06-28T07:36:13Z"
     },
     {
       "founder": "Harrison Chase",
@@ -73,11 +73,22 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38504,
-      "title": "bug: Legacy Qdrant vector store returns raw distances instead of normalized relevance scores",
-      "url": "https://github.com/langchain-ai/langchain/issues/38504",
-      "author": "rautaditya2606",
-      "at": "2026-06-27T15:09:32Z"
+      "number": 38391,
+      "title": "Feature request: Profile-aware prompt router with ML-backed routing and ensemble fallback",
+      "url": "https://github.com/langchain-ai/langchain/issues/38391",
+      "author": "zavera",
+      "at": "2026-06-24T01:22:42Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95252,
+      "title": "fix(create-next-app): pin both axes on logo Images to silence aspect-ratio warning under Tailwind Preflight",
+      "url": "https://github.com/vercel/next.js/pull/95252",
+      "author": "aurorascharff",
+      "at": "2026-06-28T14:30:30Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -91,26 +102,26 @@
       "at": "2026-06-28T00:41:38Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 95246,
-      "title": "docs(opengraph-image): load assets at module scope to keep route static under Cache Components",
-      "url": "https://github.com/vercel/next.js/pull/95246",
-      "author": "aurorascharff",
-      "at": "2026-06-27T22:50:25Z"
+      "number": 47378,
+      "title": "fix(studio): sum numeric-string columns in cumulative SQL charts",
+      "url": "https://github.com/supabase/supabase/pull/47378",
+      "author": "Abuhaithem",
+      "at": "2026-06-28T14:56:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 47368,
-      "title": "Using CMD+Enter in the expanded editor makes a new line instead of applying changes",
-      "url": "https://github.com/supabase/supabase/issues/47368",
-      "author": "chs-5",
-      "at": "2026-06-27T22:22:44Z"
+      "number": 47377,
+      "title": "BUG(studio): cumulative chart option shows inflated values for count(*)/bigint results",
+      "url": "https://github.com/supabase/supabase/issues/47377",
+      "author": "Abuhaithem",
+      "at": "2026-06-28T14:56:23Z"
     },
     {
       "founder": "Erik Bernhardsson",
