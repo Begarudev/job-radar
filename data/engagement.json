@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-06-29T08:12:21.363Z",
-  "count": 13,
+  "updatedAt": "2026-06-29T16:51:19.865Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5093,
-      "title": "fix(deepseek): repair malformed tool call arguments",
-      "url": "https://github.com/browser-use/browser-use/pull/5093",
-      "author": "hopwesley",
-      "at": "2026-06-29T06:45:02Z"
+      "kind": "issue",
+      "number": 5097,
+      "title": "fix: event bus shutdown has no timeout — can hang on torn-down loop during warm-Lambda resume",
+      "url": "https://github.com/browser-use/browser-use/issues/5097",
+      "author": "tcconnally",
+      "at": "2026-06-29T16:47:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5092,
-      "title": "Feature request: prompt compression layer to reduce token costs in long-running agents",
-      "url": "https://github.com/browser-use/browser-use/issues/5092",
-      "author": "arjunkshah",
-      "at": "2026-06-29T05:57:28Z"
+      "kind": "pr",
+      "number": 5096,
+      "title": "fix(skill_cli): don't add venv bin/ to user PATH",
+      "url": "https://github.com/browser-use/browser-use/pull/5096",
+      "author": "srivtx",
+      "at": "2026-06-29T12:04:54Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3706,
-      "title": "fix(docs): use app token for SDK docs sync PRs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3706",
-      "author": "jkomyno",
-      "at": "2026-06-29T06:54:01Z"
+      "number": 3710,
+      "title": "fix(py): handle typeless and empty combiner schemas in openapi signatures",
+      "url": "https://github.com/ComposioHQ/composio/pull/3710",
+      "author": "anxkhn",
+      "at": "2026-06-29T10:54:07Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3705,
-      "title": "docs: update guides for SDK changes",
-      "url": "https://github.com/ComposioHQ/composio/pull/3705",
-      "author": "jkomyno",
-      "at": "2026-06-29T06:52:39Z"
+      "number": 3708,
+      "title": "fix(py): handle 4+ option and typeless anyOf/oneOf unions in tool signatures",
+      "url": "https://github.com/ComposioHQ/composio/pull/3708",
+      "author": "anxkhn",
+      "at": "2026-06-29T08:52:34Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,88 +62,99 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2389,
-      "title": "docs(google): fix incorrect mode enums and outdated limitations in Google provider docs",
-      "url": "https://github.com/567-labs/instructor/pull/2389",
+      "number": 2392,
+      "title": "feat: expose cumulative token usage on success + budget enforcement",
+      "url": "https://github.com/567-labs/instructor/pull/2392",
       "author": "mimran-khan",
-      "at": "2026-06-24T18:44:53Z"
+      "at": "2026-06-24T19:36:29Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38506,
-      "title": "bug: [chroma] similarity_search_by_vector_with_relevance_scores returns raw distances instead of normalized scores",
-      "url": "https://github.com/langchain-ai/langchain/issues/38506",
-      "author": "rautaditya2606",
-      "at": "2026-06-27T15:29:27Z"
+      "number": 38549,
+      "title": "Filesystem file search rejects valid path segments containing double dots",
+      "url": "https://github.com/langchain-ai/langchain/issues/38549",
+      "author": "onyx679",
+      "at": "2026-06-29T15:49:23Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38504,
-      "title": "bug: Legacy Qdrant vector store returns raw distances instead of normalized relevance scores",
-      "url": "https://github.com/langchain-ai/langchain/issues/38504",
-      "author": "rautaditya2606",
-      "at": "2026-06-27T15:09:32Z"
+      "number": 38544,
+      "title": "`ProviderToolSearchMiddleware` defers tools as flat top-level functions instead of wrapping them in a `namespace` — no token savings",
+      "url": "https://github.com/langchain-ai/langchain/issues/38544",
+      "author": "oleg-savko",
+      "at": "2026-06-29T13:04:41Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95261,
-      "title": "[turbopack] [wip] Generate partial chunks for each merged group to increase cache hits",
-      "url": "https://github.com/vercel/next.js/pull/95261",
-      "author": "sampoder",
-      "at": "2026-06-29T07:01:55Z"
+      "number": 95279,
+      "title": "test: fork select tests on partialPrefetching",
+      "url": "https://github.com/vercel/next.js/pull/95279",
+      "author": "lubieowoce",
+      "at": "2026-06-29T16:41:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95260,
-      "title": "fix(app-router): scroll to hash target inside a Suspense boundary",
-      "url": "https://github.com/vercel/next.js/pull/95260",
-      "author": "errmakov",
-      "at": "2026-06-29T06:59:14Z"
+      "number": 95278,
+      "title": "fix multiple cookie issue",
+      "url": "https://github.com/vercel/next.js/pull/95278",
+      "author": "boy397",
+      "at": "2026-06-29T16:00:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47385,
-      "title": "chore: dead code deletion in packages/ui",
-      "url": "https://github.com/supabase/supabase/pull/47385",
+      "number": 47409,
+      "title": "fix: snippet content missing after move or rename",
+      "url": "https://github.com/supabase/supabase/pull/47409",
+      "author": "charislam",
+      "at": "2026-06-29T16:24:23Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47408,
+      "title": "chore: add CI job to validate `ui-patterns` exports",
+      "url": "https://github.com/supabase/supabase/pull/47408",
       "author": "djhi",
-      "at": "2026-06-29T08:12:03Z"
+      "at": "2026-06-29T16:08:27Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47384,
-      "title": "feat(logs): validate log explorer queries client-side with ClickHouse parser",
-      "url": "https://github.com/supabase/supabase/pull/47384",
-      "author": "jordienr",
-      "at": "2026-06-29T08:11:09Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
       "kind": "issue",
-      "number": 4118,
-      "title": "Cross-platform collaboration: AgentPub <-> modal-client",
-      "url": "https://github.com/modal-labs/modal-client/issues/4118",
-      "author": "liboy119",
-      "at": "2026-06-28T19:21:08Z"
+      "number": 2223,
+      "title": "feat: Core Tooling & Scaffold Consistency Audit",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2223",
+      "author": "alton47",
+      "at": "2026-03-26T13:18:55Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2188,
+      "title": "feat: Add oxc support for formatting and linting.",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2188",
+      "author": "sanketlakhera",
+      "at": "2026-01-19T07:24:44Z"
     }
   ]
 }
