@@ -1,61 +1,72 @@
 {
-  "updatedAt": "2026-06-28T15:15:08.235Z",
-  "count": 12,
+  "updatedAt": "2026-06-29T08:12:21.363Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5091,
-      "title": "fix: the gmail integration stores oauth tokens (incl... in service.py",
-      "url": "https://github.com/browser-use/browser-use/pull/5091",
-      "author": "orbisai0security",
-      "at": "2026-06-28T09:31:50Z"
+      "number": 5093,
+      "title": "fix(deepseek): repair malformed tool call arguments",
+      "url": "https://github.com/browser-use/browser-use/pull/5093",
+      "author": "hopwesley",
+      "at": "2026-06-29T06:45:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5092,
+      "title": "Feature request: prompt compression layer to reduce token costs in long-running agents",
+      "url": "https://github.com/browser-use/browser-use/issues/5092",
+      "author": "arjunkshah",
+      "at": "2026-06-29T05:57:28Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5090,
-      "title": "fix: use utf-8 for config file IO",
-      "url": "https://github.com/browser-use/browser-use/pull/5090",
-      "author": "Ghraven",
-      "at": "2026-06-28T02:29:31Z"
+      "number": 3706,
+      "title": "fix(docs): use app token for SDK docs sync PRs",
+      "url": "https://github.com/ComposioHQ/composio/pull/3706",
+      "author": "jkomyno",
+      "at": "2026-06-29T06:54:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3543,
-      "title": "Add from_email (send-as alias) support to GMAIL_REPLY_TO_THREAD and GMAIL_CREATE_EMAIL_DRAFT",
-      "url": "https://github.com/ComposioHQ/composio/issues/3543",
-      "author": "ricklesgibson",
-      "at": "2026-06-10T22:48:16Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3175,
-      "title": "[Bug]: 29 toolkit logo URLs return 404/errors",
-      "url": "https://github.com/ComposioHQ/composio/issues/3175",
-      "author": "Sahilsingh0808",
-      "at": "2026-04-10T19:59:03Z"
+      "kind": "pr",
+      "number": 3705,
+      "title": "docs: update guides for SDK changes",
+      "url": "https://github.com/ComposioHQ/composio/pull/3705",
+      "author": "jkomyno",
+      "at": "2026-06-29T06:52:39Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "release",
-      "number": 0,
-      "title": "v1.15.4 released",
-      "url": "https://github.com/567-labs/instructor/releases/tag/v1.15.4",
-      "author": "jxnl",
-      "at": "2026-06-28T07:36:13Z"
+      "kind": "pr",
+      "number": 2394,
+      "title": "feat: schema complexity analyzer + automatic mode selection",
+      "url": "https://github.com/567-labs/instructor/pull/2394",
+      "author": "mimran-khan",
+      "at": "2026-06-24T19:59:05Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2389,
+      "title": "docs(google): fix incorrect mode enums and outdated limitations in Google provider docs",
+      "url": "https://github.com/567-labs/instructor/pull/2389",
+      "author": "mimran-khan",
+      "at": "2026-06-24T18:44:53Z"
     },
     {
       "founder": "Harrison Chase",
@@ -73,66 +84,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38391,
-      "title": "Feature request: Profile-aware prompt router with ML-backed routing and ensemble fallback",
-      "url": "https://github.com/langchain-ai/langchain/issues/38391",
-      "author": "zavera",
-      "at": "2026-06-24T01:22:42Z"
+      "number": 38504,
+      "title": "bug: Legacy Qdrant vector store returns raw distances instead of normalized relevance scores",
+      "url": "https://github.com/langchain-ai/langchain/issues/38504",
+      "author": "rautaditya2606",
+      "at": "2026-06-27T15:09:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95252,
-      "title": "fix(create-next-app): pin both axes on logo Images to silence aspect-ratio warning under Tailwind Preflight",
-      "url": "https://github.com/vercel/next.js/pull/95252",
-      "author": "aurorascharff",
-      "at": "2026-06-28T14:30:30Z"
+      "number": 95261,
+      "title": "[turbopack] [wip] Generate partial chunks for each merged group to increase cache hits",
+      "url": "https://github.com/vercel/next.js/pull/95261",
+      "author": "sampoder",
+      "at": "2026-06-29T07:01:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95247,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95247",
-      "author": "vercel-release-bot",
-      "at": "2026-06-28T00:41:38Z"
+      "number": 95260,
+      "title": "fix(app-router): scroll to hash target inside a Suspense boundary",
+      "url": "https://github.com/vercel/next.js/pull/95260",
+      "author": "errmakov",
+      "at": "2026-06-29T06:59:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47378,
-      "title": "fix(studio): sum numeric-string columns in cumulative SQL charts",
-      "url": "https://github.com/supabase/supabase/pull/47378",
-      "author": "Abuhaithem",
-      "at": "2026-06-28T14:56:37Z"
+      "number": 47385,
+      "title": "chore: dead code deletion in packages/ui",
+      "url": "https://github.com/supabase/supabase/pull/47385",
+      "author": "djhi",
+      "at": "2026-06-29T08:12:03Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47377,
-      "title": "BUG(studio): cumulative chart option shows inflated values for count(*)/bigint results",
-      "url": "https://github.com/supabase/supabase/issues/47377",
-      "author": "Abuhaithem",
-      "at": "2026-06-28T14:56:23Z"
+      "kind": "pr",
+      "number": 47384,
+      "title": "feat(logs): validate log explorer queries client-side with ClickHouse parser",
+      "url": "https://github.com/supabase/supabase/pull/47384",
+      "author": "jordienr",
+      "at": "2026-06-29T08:11:09Z"
     },
     {
       "founder": "Erik Bernhardsson",
       "company": "Modal",
       "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4117,
+      "number": 4118,
       "title": "Cross-platform collaboration: AgentPub <-> modal-client",
-      "url": "https://github.com/modal-labs/modal-client/issues/4117",
+      "url": "https://github.com/modal-labs/modal-client/issues/4118",
       "author": "liboy119",
-      "at": "2026-06-28T06:20:33Z"
+      "at": "2026-06-28T19:21:08Z"
     }
   ]
 }
