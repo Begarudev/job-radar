@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T16:51:19.865Z",
+  "updatedAt": "2026-06-30T06:56:06.352Z",
   "count": 14,
   "signals": [
     {
@@ -29,44 +29,55 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3710,
-      "title": "fix(py): handle typeless and empty combiner schemas in openapi signatures",
-      "url": "https://github.com/ComposioHQ/composio/pull/3710",
+      "number": 3713,
+      "title": "fix(py): apply skip_default to signature in langchain/langgraph providers",
+      "url": "https://github.com/ComposioHQ/composio/pull/3713",
       "author": "anxkhn",
-      "at": "2026-06-29T10:54:07Z"
+      "at": "2026-06-30T03:58:20Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3708,
-      "title": "fix(py): handle 4+ option and typeless anyOf/oneOf unions in tool signatures",
-      "url": "https://github.com/ComposioHQ/composio/pull/3708",
-      "author": "anxkhn",
-      "at": "2026-06-29T08:52:34Z"
+      "number": 3712,
+      "title": "fix(core): execute all parallel tool calls in OpenAIProvider.handleToolCalls",
+      "url": "https://github.com/ComposioHQ/composio/pull/3712",
+      "author": "serhiizghama",
+      "at": "2026-06-29T21:02:50Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2394,
-      "title": "feat: schema complexity analyzer + automatic mode selection",
-      "url": "https://github.com/567-labs/instructor/pull/2394",
-      "author": "mimran-khan",
-      "at": "2026-06-24T19:59:05Z"
+      "number": 2401,
+      "title": "Add OpenRuna AI coding resource directory",
+      "url": "https://github.com/567-labs/instructor/pull/2401",
+      "author": "dcnl1980",
+      "at": "2026-06-29T18:51:10Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2392,
-      "title": "feat: expose cumulative token usage on success + budget enforcement",
-      "url": "https://github.com/567-labs/instructor/pull/2392",
-      "author": "mimran-khan",
-      "at": "2026-06-24T19:36:29Z"
+      "number": 2400,
+      "title": "[codex] consolidate docs and audio validation fixes",
+      "url": "https://github.com/567-labs/instructor/pull/2400",
+      "author": "jxnl",
+      "at": "2026-06-29T16:56:45Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38561,
+      "title": "with_structured_output is not supported when reasoning effort is used",
+      "url": "https://github.com/langchain-ai/langchain/issues/38561",
+      "author": "spewwerrier",
+      "at": "2026-06-30T03:54:42Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,59 +91,48 @@
       "at": "2026-06-29T15:49:23Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38544,
-      "title": "`ProviderToolSearchMiddleware` defers tools as flat top-level functions instead of wrapping them in a `namespace` — no token savings",
-      "url": "https://github.com/langchain-ai/langchain/issues/38544",
-      "author": "oleg-savko",
-      "at": "2026-06-29T13:04:41Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95290,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/95290",
+      "author": "vercel-release-bot",
+      "at": "2026-06-30T00:40:57Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95279,
-      "title": "test: fork select tests on partialPrefetching",
-      "url": "https://github.com/vercel/next.js/pull/95279",
+      "number": 95289,
+      "title": "fix: params/searchParams in client page crashing dev instant validation",
+      "url": "https://github.com/vercel/next.js/pull/95289",
       "author": "lubieowoce",
-      "at": "2026-06-29T16:41:37Z"
+      "at": "2026-06-29T23:53:23Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95278,
-      "title": "fix multiple cookie issue",
-      "url": "https://github.com/vercel/next.js/pull/95278",
-      "author": "boy397",
-      "at": "2026-06-29T16:00:37Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 47428,
+      "title": "Storage Bucket RLS policy UI",
+      "url": "https://github.com/supabase/supabase/issues/47428",
+      "author": "Qasim-Hassan",
+      "at": "2026-06-30T06:16:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47409,
-      "title": "fix: snippet content missing after move or rename",
-      "url": "https://github.com/supabase/supabase/pull/47409",
-      "author": "charislam",
-      "at": "2026-06-29T16:24:23Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47408,
-      "title": "chore: add CI job to validate `ui-patterns` exports",
-      "url": "https://github.com/supabase/supabase/pull/47408",
-      "author": "djhi",
-      "at": "2026-06-29T16:08:27Z"
+      "number": 47426,
+      "title": "Remove old redirect links in database section",
+      "url": "https://github.com/supabase/supabase/pull/47426",
+      "author": "joshenlim",
+      "at": "2026-06-30T04:39:49Z"
     },
     {
       "founder": "Theo Browne",
