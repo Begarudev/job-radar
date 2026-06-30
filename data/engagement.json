@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-06-30T06:56:06.352Z",
-  "count": 14,
+  "updatedAt": "2026-06-30T16:21:46.817Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5097,
-      "title": "fix: event bus shutdown has no timeout — can hang on torn-down loop during warm-Lambda resume",
-      "url": "https://github.com/browser-use/browser-use/issues/5097",
-      "author": "tcconnally",
-      "at": "2026-06-29T16:47:12Z"
+      "kind": "pr",
+      "number": 5101,
+      "title": "fix(security): block data:/blob: URL bypass when allowed_domains is configured",
+      "url": "https://github.com/browser-use/browser-use/pull/5101",
+      "author": "itxaiohanglover",
+      "at": "2026-06-30T15:42:38Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5096,
-      "title": "fix(skill_cli): don't add venv bin/ to user PATH",
-      "url": "https://github.com/browser-use/browser-use/pull/5096",
-      "author": "srivtx",
-      "at": "2026-06-29T12:04:54Z"
+      "number": 5100,
+      "title": "fix(event-bus): add timeout to ResilientEventBus.stop() to prevent hangs",
+      "url": "https://github.com/browser-use/browser-use/pull/5100",
+      "author": "not-AdityaRawat",
+      "at": "2026-06-30T15:37:27Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3713,
-      "title": "fix(py): apply skip_default to signature in langchain/langgraph providers",
-      "url": "https://github.com/ComposioHQ/composio/pull/3713",
-      "author": "anxkhn",
-      "at": "2026-06-30T03:58:20Z"
+      "number": 3716,
+      "title": "fix(core): disable retries on non-idempotent `tools.execute`/`proxyExecute`",
+      "url": "https://github.com/ComposioHQ/composio/pull/3716",
+      "author": "jkomyno",
+      "at": "2026-06-30T16:06:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3712,
-      "title": "fix(core): execute all parallel tool calls in OpenAIProvider.handleToolCalls",
-      "url": "https://github.com/ComposioHQ/composio/pull/3712",
-      "author": "serhiizghama",
-      "at": "2026-06-29T21:02:50Z"
+      "number": 3714,
+      "title": "feat(triggers): resolve connection from user_id server-side in create()",
+      "url": "https://github.com/ComposioHQ/composio/pull/3714",
+      "author": "anshugarg15",
+      "at": "2026-06-30T07:37:34Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,6 +73,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 38572,
+      "title": "Uzbek low-resource RAG evaluation",
+      "url": "https://github.com/langchain-ai/langchain/issues/38572",
+      "author": "rajantripathi",
+      "at": "2026-06-30T10:37:12Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 38561,
       "title": "with_structured_output is not supported when reasoning effort is used",
       "url": "https://github.com/langchain-ai/langchain/issues/38561",
@@ -80,81 +91,48 @@
       "at": "2026-06-30T03:54:42Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38549,
-      "title": "Filesystem file search rejects valid path segments containing double dots",
-      "url": "https://github.com/langchain-ai/langchain/issues/38549",
-      "author": "onyx679",
-      "at": "2026-06-29T15:49:23Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95315,
+      "title": "Fix metadata title dropped on soft navigation with Cache Components",
+      "url": "https://github.com/vercel/next.js/pull/95315",
+      "author": "acdlite",
+      "at": "2026-06-30T15:04:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95290,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95290",
-      "author": "vercel-release-bot",
-      "at": "2026-06-30T00:40:57Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95289,
-      "title": "fix: params/searchParams in client page crashing dev instant validation",
-      "url": "https://github.com/vercel/next.js/pull/95289",
-      "author": "lubieowoce",
-      "at": "2026-06-29T23:53:23Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47428,
-      "title": "Storage Bucket RLS policy UI",
-      "url": "https://github.com/supabase/supabase/issues/47428",
-      "author": "Qasim-Hassan",
-      "at": "2026-06-30T06:16:09Z"
+      "number": 95314,
+      "title": "codemod: bump eslint alongside eslint-config-next",
+      "url": "https://github.com/vercel/next.js/pull/95314",
+      "author": "aurorascharff",
+      "at": "2026-06-30T14:11:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47426,
-      "title": "Remove old redirect links in database section",
-      "url": "https://github.com/supabase/supabase/pull/47426",
-      "author": "joshenlim",
-      "at": "2026-06-30T04:39:49Z"
+      "number": 47455,
+      "title": "fix(account): stop sb marker leaking into email toast",
+      "url": "https://github.com/supabase/supabase/pull/47455",
+      "author": "pamelachia",
+      "at": "2026-06-30T15:54:47Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2223,
-      "title": "feat: Core Tooling & Scaffold Consistency Audit",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2223",
-      "author": "alton47",
-      "at": "2026-03-26T13:18:55Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2188,
-      "title": "feat: Add oxc support for formatting and linting.",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2188",
-      "author": "sanketlakhera",
-      "at": "2026-01-19T07:24:44Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47454,
+      "title": "refactor(replication): do not fetch secrets from APIs and enable partial update on API",
+      "url": "https://github.com/supabase/supabase/pull/47454",
+      "author": "bnjjj",
+      "at": "2026-06-30T15:29:32Z"
     }
   ]
 }
