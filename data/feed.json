@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-01T14:24:10.743Z",
-  "count": 2,
+  "updatedAt": "2026-07-01T17:50:33.054Z",
+  "count": 1,
   "postings": [
     {
-      "id": "hn:48358793",
+      "id": "hn:48749788",
       "source": "hn",
-      "title": "DrSwarm | Founding Engineer (Full-Stack) | REMOTE (US or LATAM; must overlap with US Pacific hours) | Full-time or Contr",
-      "url": "https://news.ycombinator.com/item?id=48358793",
-      "body": "DrSwarm | Founding Engineer (Full-Stack) | REMOTE (US or LATAM; must overlap with US Pacific hours) | Full-time or Contract to Full-time DrSwarm is building AI-driven workflow automation for healthcare clinics &#x2F; health systems (scheduling, RCM&#x2F;billing workflows, patient ops). This is a true 0→1 role: ship fast, talk to customers, own systems end-to-end. You will: - Build product end-to-end (Next.js + Django) - Ship integrations + workflow automation (APIs, webhooks, background jobs, queues) - Own reliability (logs&#x2F;metrics, retries, failure modes) and pragmatic security (HIPAA-aware) Stack: Next.js, React&#x2F;TypeScript, Django&#x2F;Python, Postgres, Celery&#x2F;Redis, Docker, AWS&#x2F;DigitalOcean, LLM APIs. Looking for: Strong full-stack builder.  Good to work with.  Can talk to customers &#x2F; users &#x2F; salespeople.  Uses AI to generate 90%+ of their code, interested in AI + Healthcare. Comp: Market with mix of base + bonus + meaningful equity\nProcess: 30m intro → 60m technical&#x2F;product deep dive → short paid work trial → references. I (founder) read every email and reply. Contact: jobs@drswarm.com (include “HN Founding Engineer” in subject) + GitHub&#x2F;LinkedIn + 2–3 projects you’re proud of.",
+      "title": "Delta AI | Full Stack &#x2F; AI Founding Engineer | Remote (US, Bay Area) | $120-140k + 1-1.5% equity + benefits (flexib",
+      "url": "https://news.ycombinator.com/item?id=48749788",
+      "body": "Delta AI | Full Stack &#x2F; AI Founding Engineer | Remote (US, Bay Area) | $120-140k + 1-1.5% equity + benefits (flexible on comp) Delta AI is building an AI-powered, scenario-based training platform where trainees practice high-stakes conversations like sales calls, negotiations, leadership moments, and cross-cultural exchanges against conversational AI roleplayers capable of realistic speech and real-time interaction. We&#x27;re dual-use, serving both U.S. government and private-sector customers. As a founding engineer, you&#x27;ll touch the whole stack: front-end UIs, APIs, database schemas, system architecture, working in daily with our CTO to shape product and technical direction with the opportunity to grow into a leadership role as we scale. We&#x27;re looking for someone who&#x27;s shipped full-stack apps independently or on a team, is proficient in TypeScript, React, Node.js, and SQL, and thinks naturally in terms of API design and system architecture. You should be comfortable with Git, monorepos, and CI&#x2F;CD (GitHub Actions). Bonus if you&#x27;re familiar with T3 Stack, OpenTelemetry, and E2E testing. We ship daily and lean hard on coding agents like Claude Code to move fast, so experience developing alongside them is a big plus. We are in the process of raising our seed round and looking to hire within the next month. We are looking for someone remotely in the Bay Area, but are open to those who live outside of the region. We do not sponsor visas now or in the future. If you are interested, please reach out to hiring@learndelta.ai with your resume and linkedin profile. Full Job Req:  https:&#x2F;&#x2F;docs.google.com&#x2F;document&#x2F;d&#x2F;1UEIhC5y-iEnlSPab4s88OoA7... ",
       "remote": true,
-      "postedAt": "2026-06-01T16:11:25.000Z",
-      "fetchedAt": "2026-07-01T14:24:10.711Z",
+      "postedAt": "2026-07-01T16:52:15.000Z",
+      "fetchedAt": "2026-07-01T17:50:33.038Z",
       "reasons": [
         "title match: founding engineer",
-        "core stack: typescript, react, next, python",
-        "strong fit: llm, postgres",
+        "core stack: typescript, react, next, node",
+        "bonus: claude",
         "remote-friendly"
       ],
       "tags": [
@@ -23,39 +23,10 @@
         "stack:typescript",
         "stack:react",
         "stack:next",
-        "stack:python",
-        "signal:llm",
-        "signal:postgres",
+        "stack:node",
         "remote"
       ],
-      "score": 7.2
-    },
-    {
-      "id": "hn:48441385",
-      "source": "hn",
-      "title": "Quin | Founding Engineer (CTO for the right person) | REMOTE (US), preference for Bay Area (tech), Chicago (consumer), o",
-      "url": "https://news.ycombinator.com/item?id=48441385",
-      "body": "Quin | Founding Engineer (CTO for the right person) | REMOTE (US), preference for Bay Area (tech), Chicago (consumer), or NYC (finance) | Full-time Quin is an agentic platform to (finally!) solve personal finance for people. It is a consumer-focused company.  https:&#x2F;&#x2F;iamquin.ai  I spent 13 years in private banking and have been working on Quin alone for about 15 months. I built 6 different prototypes to test different approaches. I&#x27;ve spent the last few weeks working with testers on the latest version and solidifying GTM. I need someone to take over engineering with a focus on building the backend and data layers that will support our agentic approach to personal finance. Georgetown. UCLA (MBA). Ex-JPMorgan. Traction: Prototype with testers The role: You&#x27;re the first engineering hire. This is about shipping the workflows that will become the product that users will trust and the data layer that can support an agent in the future. You&#x27;ll own backend architecture decisions from day one. Contract-first development (TypeScript contracts repo as source of truth), FastAPI, Supabase&#x2F;Postgres, Groq for LLM inference. The stack is clean and the codebase is small. Who I&#x27;m looking for: A full-stack engineer with a preference for backend. 5+ years backend engineering; Python &#x2F; FastAPI preferred. Strong data modeling instincts — you&#x27;ve designed schemas that had to scale. Experience with multi-tenant data architectures. Comfort operating without process. Finance domain familiarity a plus, not a requirement. Comfort and experience using AI tools and incorporating new ideas quickly. For the right person, this is an opportunity to take a CTO&#x2F;co-founder role and define the full technical path. Comp: Salary post-raise and meaningful equity. TBH, finding this role (either version) will be important for rasisng capital given that I do not have a technical background and fintech is complicated by regulations. I&#x27;m ok with part-time in the meantime if that&#x27;s what it requires. Email quin@iamquin.ai with the primary reason this interests you and the top two reasons why you should be considered (don&#x27;t worry about a resume at this point).",
-      "remote": true,
-      "postedAt": "2026-06-08T04:37:38.000Z",
-      "fetchedAt": "2026-07-01T14:24:10.711Z",
-      "reasons": [
-        "title match: founding engineer",
-        "core stack: typescript, python",
-        "strong fit: llm, agent, postgres",
-        "remote-friendly"
-      ],
-      "tags": [
-        "hn-who-is-hiring",
-        "role:match",
-        "stack:typescript",
-        "stack:python",
-        "signal:llm",
-        "signal:agent",
-        "signal:postgres",
-        "remote"
-      ],
-      "score": 7.2
+      "score": 6.3
     }
   ]
 }
