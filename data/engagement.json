@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-30T16:21:46.817Z",
+  "updatedAt": "2026-07-01T07:11:50.291Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5102,
+      "title": "Fix CDP page target selection",
+      "url": "https://github.com/browser-use/browser-use/pull/5102",
+      "author": "davegoldblatt",
+      "at": "2026-06-30T17:48:14Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,28 +25,6 @@
       "at": "2026-06-30T15:42:38Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5100,
-      "title": "fix(event-bus): add timeout to ResilientEventBus.stop() to prevent hangs",
-      "url": "https://github.com/browser-use/browser-use/pull/5100",
-      "author": "not-AdityaRawat",
-      "at": "2026-06-30T15:37:27Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3716,
-      "title": "fix(core): disable retries on non-idempotent `tools.execute`/`proxyExecute`",
-      "url": "https://github.com/ComposioHQ/composio/pull/3716",
-      "author": "jkomyno",
-      "at": "2026-06-30T16:06:01Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
@@ -45,28 +34,6 @@
       "url": "https://github.com/ComposioHQ/composio/pull/3714",
       "author": "anshugarg15",
       "at": "2026-06-30T07:37:34Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2401,
-      "title": "Add OpenRuna AI coding resource directory",
-      "url": "https://github.com/567-labs/instructor/pull/2401",
-      "author": "dcnl1980",
-      "at": "2026-06-29T18:51:10Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2400,
-      "title": "[codex] consolidate docs and audio validation fixes",
-      "url": "https://github.com/567-labs/instructor/pull/2400",
-      "author": "jxnl",
-      "at": "2026-06-29T16:56:45Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,44 +62,77 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95315,
-      "title": "Fix metadata title dropped on soft navigation with Cache Components",
-      "url": "https://github.com/vercel/next.js/pull/95315",
-      "author": "acdlite",
-      "at": "2026-06-30T15:04:22Z"
+      "number": 95346,
+      "title": "example: Use a Redis cacheHandler w/o dependencies",
+      "url": "https://github.com/vercel/next.js/pull/95346",
+      "author": "icyJoseph",
+      "at": "2026-07-01T06:44:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95314,
-      "title": "codemod: bump eslint alongside eslint-config-next",
-      "url": "https://github.com/vercel/next.js/pull/95314",
-      "author": "aurorascharff",
-      "at": "2026-06-30T14:11:17Z"
+      "number": 95345,
+      "title": "[test] Remove eval catch-return-null",
+      "url": "https://github.com/vercel/next.js/pull/95345",
+      "author": "mischnic",
+      "at": "2026-07-01T06:33:22Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47455,
-      "title": "fix(account): stop sb marker leaking into email toast",
-      "url": "https://github.com/supabase/supabase/pull/47455",
-      "author": "pamelachia",
-      "at": "2026-06-30T15:54:47Z"
+      "number": 47483,
+      "title": "docs: initial draft of pgcopydb for migration of data",
+      "url": "https://github.com/supabase/supabase/pull/47483",
+      "author": "encima",
+      "at": "2026-07-01T06:45:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47454,
-      "title": "refactor(replication): do not fetch secrets from APIs and enable partial update on API",
-      "url": "https://github.com/supabase/supabase/pull/47454",
-      "author": "bnjjj",
-      "at": "2026-06-30T15:29:32Z"
+      "number": 47482,
+      "title": "fix: Minor fix on some of the stats on state of startups 2026",
+      "url": "https://github.com/supabase/supabase/pull/47482",
+      "author": "dshukertjr",
+      "at": "2026-07-01T06:02:00Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4119,
+      "title": "Dynamic batching hangs when invoked from a Modal web/function container",
+      "url": "https://github.com/modal-labs/modal-client/issues/4119",
+      "author": "mstykow",
+      "at": "2026-06-30T16:28:01Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 3917,
+      "title": "Multipart upload completion fails on S3 503 SlowDown with no retry",
+      "url": "https://github.com/modal-labs/modal-client/issues/3917",
+      "author": "ShivamB25",
+      "at": "2026-02-13T13:58:39Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2237,
+      "title": "feat: detect nub package manager",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2237",
+      "author": "colinhacks",
+      "at": "2026-07-01T01:54:34Z"
     }
   ]
 }
