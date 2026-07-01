@@ -1,39 +1,94 @@
 {
-  "updatedAt": "2026-07-01T07:11:50.291Z",
-  "count": 12,
+  "updatedAt": "2026-07-01T16:22:45.665Z",
+  "count": 16,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5102,
-      "title": "Fix CDP page target selection",
-      "url": "https://github.com/browser-use/browser-use/pull/5102",
-      "author": "davegoldblatt",
-      "at": "2026-06-30T17:48:14Z"
+      "number": 5115,
+      "title": "fix(browser): log response body instead of repr in version info debug",
+      "url": "https://github.com/browser-use/browser-use/pull/5115",
+      "author": "itxaiohanglover",
+      "at": "2026-07-01T14:52:30Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5101,
-      "title": "fix(security): block data:/blob: URL bypass when allowed_domains is configured",
-      "url": "https://github.com/browser-use/browser-use/pull/5101",
+      "number": 5114,
+      "title": "fix(browser): return Path from validate_user_data_dir when creating temp dir",
+      "url": "https://github.com/browser-use/browser-use/pull/5114",
       "author": "itxaiohanglover",
-      "at": "2026-06-30T15:42:38Z"
+      "at": "2026-07-01T14:51:35Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.3 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.3",
+      "author": "laithrw",
+      "at": "2026-07-01T15:06:07Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3714,
-      "title": "feat(triggers): resolve connection from user_id server-side in create()",
-      "url": "https://github.com/ComposioHQ/composio/pull/3714",
-      "author": "anshugarg15",
-      "at": "2026-06-30T07:37:34Z"
+      "number": 3720,
+      "title": "[codex] restore Security and Data docs",
+      "url": "https://github.com/ComposioHQ/composio/pull/3720",
+      "author": "abhishekpatil4",
+      "at": "2026-07-01T14:09:02Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3719,
+      "title": "feat(examples): add Dakera self-hosted persistent memory agent example",
+      "url": "https://github.com/ComposioHQ/composio/pull/3719",
+      "author": "ferhimedamine",
+      "at": "2026-07-01T09:41:36Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2405,
+      "title": "examples: add persistent memory cookbook with Dakera integration (31 tests)",
+      "url": "https://github.com/567-labs/instructor/pull/2405",
+      "author": "ferhimedamine",
+      "at": "2026-07-01T10:09:29Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2404,
+      "title": "feat: Add persistent memory cookbook with Dakera integration",
+      "url": "https://github.com/567-labs/instructor/issues/2404",
+      "author": "ferhimedamine",
+      "at": "2026-07-01T10:08:47Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38589,
+      "title": "[Feature]: Add Static Analyzer to detect Cross-Modal Leaks in Custom Tools (Defense-in-Depth)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38589",
+      "author": "ashp15205",
+      "at": "2026-07-01T15:46:16Z"
     },
     {
       "founder": "Harrison Chase",
@@ -47,70 +102,48 @@
       "at": "2026-06-30T10:37:12Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38561,
-      "title": "with_structured_output is not supported when reasoning effort is used",
-      "url": "https://github.com/langchain-ai/langchain/issues/38561",
-      "author": "spewwerrier",
-      "at": "2026-06-30T03:54:42Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95366,
+      "title": "instant validation server only",
+      "url": "https://github.com/vercel/next.js/pull/95366",
+      "author": "eps1lon",
+      "at": "2026-07-01T15:54:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95346,
-      "title": "example: Use a Redis cacheHandler w/o dependencies",
-      "url": "https://github.com/vercel/next.js/pull/95346",
-      "author": "icyJoseph",
-      "at": "2026-07-01T06:44:17Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95345,
-      "title": "[test] Remove eval catch-return-null",
-      "url": "https://github.com/vercel/next.js/pull/95345",
-      "author": "mischnic",
-      "at": "2026-07-01T06:33:22Z"
+      "number": 95365,
+      "title": "docs(errors): add instant-shell-link-data insight page and wire the overlay",
+      "url": "https://github.com/vercel/next.js/pull/95365",
+      "author": "aurorascharff",
+      "at": "2026-07-01T15:28:28Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47483,
-      "title": "docs: initial draft of pgcopydb for migration of data",
-      "url": "https://github.com/supabase/supabase/pull/47483",
-      "author": "encima",
-      "at": "2026-07-01T06:45:37Z"
+      "number": 47503,
+      "title": "feat(og-generator): internal OG/Thumb image generator (v1)",
+      "url": "https://github.com/supabase/supabase/pull/47503",
+      "author": "damnshaneisthatu",
+      "at": "2026-07-01T14:31:00Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47482,
-      "title": "fix: Minor fix on some of the stats on state of startups 2026",
-      "url": "https://github.com/supabase/supabase/pull/47482",
-      "author": "dshukertjr",
-      "at": "2026-07-01T06:02:00Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4119,
-      "title": "Dynamic batching hangs when invoked from a Modal web/function container",
-      "url": "https://github.com/modal-labs/modal-client/issues/4119",
-      "author": "mstykow",
-      "at": "2026-06-30T16:28:01Z"
+      "number": 47502,
+      "title": "feat(studio): chart bar links open unified logs when enabled",
+      "url": "https://github.com/supabase/supabase/pull/47502",
+      "author": "jordienr",
+      "at": "2026-07-01T14:21:10Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -122,6 +155,17 @@
       "url": "https://github.com/modal-labs/modal-client/issues/3917",
       "author": "ShivamB25",
       "at": "2026-02-13T13:58:39Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 2076,
+      "title": "`modal run -q` option does not do what it says",
+      "url": "https://github.com/modal-labs/modal-client/issues/2076",
+      "author": "zsiegel92",
+      "at": "2024-08-08T05:23:59Z"
     },
     {
       "founder": "Theo Browne",
