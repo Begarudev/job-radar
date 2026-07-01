@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T10:06:55.702Z",
+  "updatedAt": "2026-07-01T10:33:11.172Z",
   "count": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
-      "fetchedAt": "2026-06-30T10:06:55.692Z",
+      "fetchedAt": "2026-07-01T10:33:10.772Z",
       "company": "OpenAI",
       "tags": []
     }
