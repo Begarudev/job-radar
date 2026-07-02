@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-07-01T16:22:45.665Z",
-  "count": 16,
+  "updatedAt": "2026-07-02T06:40:59.358Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5115,
-      "title": "fix(browser): log response body instead of repr in version info debug",
-      "url": "https://github.com/browser-use/browser-use/pull/5115",
-      "author": "itxaiohanglover",
-      "at": "2026-07-01T14:52:30Z"
+      "number": 5121,
+      "title": "docs: add AgentCert Tripwire to community integrations",
+      "url": "https://github.com/browser-use/browser-use/pull/5121",
+      "author": "Kakarottoooo",
+      "at": "2026-07-01T22:12:17Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5114,
-      "title": "fix(browser): return Path from validate_user_data_dir when creating temp dir",
-      "url": "https://github.com/browser-use/browser-use/pull/5114",
-      "author": "itxaiohanglover",
-      "at": "2026-07-01T14:51:35Z"
+      "number": 5120,
+      "title": "fix(dom): use explicit None check for ax_node.name instead of truthiness",
+      "url": "https://github.com/browser-use/browser-use/pull/5120",
+      "author": "aqilaziz",
+      "at": "2026-07-01T22:02:21Z"
     },
     {
       "founder": "Magnus Müller",
@@ -47,15 +47,15 @@
       "at": "2026-07-01T14:09:02Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3719,
-      "title": "feat(examples): add Dakera self-hosted persistent memory agent example",
-      "url": "https://github.com/ComposioHQ/composio/pull/3719",
-      "author": "ferhimedamine",
-      "at": "2026-07-01T09:41:36Z"
+      "number": 2406,
+      "title": "fix(v2): derive Iterable name from union members instead of \"Union\"",
+      "url": "https://github.com/567-labs/instructor/pull/2406",
+      "author": "Sanjays2402",
+      "at": "2026-07-02T03:07:09Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,15 +69,15 @@
       "at": "2026-07-01T10:09:29Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2404,
-      "title": "feat: Add persistent memory cookbook with Dakera integration",
-      "url": "https://github.com/567-labs/instructor/issues/2404",
-      "author": "ferhimedamine",
-      "at": "2026-07-01T10:08:47Z"
+      "number": 38603,
+      "title": "Docstring inconsistency in BaseChatMessageHistory.add_message Raises section",
+      "url": "https://github.com/langchain-ai/langchain/issues/38603",
+      "author": "Traving-Yu",
+      "at": "2026-07-02T02:37:57Z"
     },
     {
       "founder": "Harrison Chase",
@@ -91,92 +91,59 @@
       "at": "2026-07-01T15:46:16Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38572,
-      "title": "Uzbek low-resource RAG evaluation",
-      "url": "https://github.com/langchain-ai/langchain/issues/38572",
-      "author": "rajantripathi",
-      "at": "2026-06-30T10:37:12Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95394,
+      "title": "Avoid unnecessary rendering for validation in dev",
+      "url": "https://github.com/vercel/next.js/pull/95394",
+      "author": "lubieowoce",
+      "at": "2026-07-02T05:47:06Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95366,
-      "title": "instant validation server only",
-      "url": "https://github.com/vercel/next.js/pull/95366",
+      "number": 95393,
+      "title": "Prefetch links nearest the top of the document first",
+      "url": "https://github.com/vercel/next.js/pull/95393",
+      "author": "acdlite",
+      "at": "2026-07-02T04:14:43Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.2.10 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.2.10",
       "author": "eps1lon",
-      "at": "2026-07-01T15:54:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95365,
-      "title": "docs(errors): add instant-shell-link-data insight page and wire the overlay",
-      "url": "https://github.com/vercel/next.js/pull/95365",
-      "author": "aurorascharff",
-      "at": "2026-07-01T15:28:28Z"
+      "at": "2026-07-01T20:13:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47503,
-      "title": "feat(og-generator): internal OG/Thumb image generator (v1)",
-      "url": "https://github.com/supabase/supabase/pull/47503",
-      "author": "damnshaneisthatu",
-      "at": "2026-07-01T14:31:00Z"
+      "number": 47517,
+      "title": "fix(docs): restore spacing between wordmark and DOCS label",
+      "url": "https://github.com/supabase/supabase/pull/47517",
+      "author": "dnywh",
+      "at": "2026-07-02T00:52:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47502,
-      "title": "feat(studio): chart bar links open unified logs when enabled",
-      "url": "https://github.com/supabase/supabase/pull/47502",
-      "author": "jordienr",
-      "at": "2026-07-01T14:21:10Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 3917,
-      "title": "Multipart upload completion fails on S3 503 SlowDown with no retry",
-      "url": "https://github.com/modal-labs/modal-client/issues/3917",
-      "author": "ShivamB25",
-      "at": "2026-02-13T13:58:39Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 2076,
-      "title": "`modal run -q` option does not do what it says",
-      "url": "https://github.com/modal-labs/modal-client/issues/2076",
-      "author": "zsiegel92",
-      "at": "2024-08-08T05:23:59Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2237,
-      "title": "feat: detect nub package manager",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2237",
-      "author": "colinhacks",
-      "at": "2026-07-01T01:54:34Z"
+      "number": 47516,
+      "title": "AI assistant crashes every time when doing Meta data query searching",
+      "url": "https://github.com/supabase/supabase/issues/47516",
+      "author": "PorterBates",
+      "at": "2026-07-01T22:49:48Z"
     }
   ]
 }
