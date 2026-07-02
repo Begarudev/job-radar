@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-07-02T06:40:59.358Z",
-  "count": 13,
+  "updatedAt": "2026-07-02T16:02:45.699Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5121,
-      "title": "docs: add AgentCert Tripwire to community integrations",
-      "url": "https://github.com/browser-use/browser-use/pull/5121",
-      "author": "Kakarottoooo",
-      "at": "2026-07-01T22:12:17Z"
+      "number": 5127,
+      "title": "fix: block javascript:, file:, chrome:, about: URIs in domain restrictions (#5099)",
+      "url": "https://github.com/browser-use/browser-use/pull/5127",
+      "author": "huyhoang171106",
+      "at": "2026-07-02T15:28:09Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5120,
-      "title": "fix(dom): use explicit None check for ax_node.name instead of truthiness",
-      "url": "https://github.com/browser-use/browser-use/pull/5120",
-      "author": "aqilaziz",
-      "at": "2026-07-01T22:02:21Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.3 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.3",
-      "author": "laithrw",
-      "at": "2026-07-01T15:06:07Z"
+      "kind": "issue",
+      "number": 5126,
+      "title": "bug: Agent history grows unbounded, causing LLM context overflow on long sessions",
+      "url": "https://github.com/browser-use/browser-use/issues/5126",
+      "author": "tcconnally",
+      "at": "2026-07-02T13:13:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3720,
-      "title": "[codex] restore Security and Data docs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3720",
-      "author": "abhishekpatil4",
-      "at": "2026-07-01T14:09:02Z"
+      "number": 3719,
+      "title": "feat(examples): add Dakera self-hosted persistent memory agent example",
+      "url": "https://github.com/ComposioHQ/composio/pull/3719",
+      "author": "ferhimedamine",
+      "at": "2026-07-01T09:41:36Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3718,
+      "title": "Example: Dakera self-hosted persistent memory for Composio agents",
+      "url": "https://github.com/ComposioHQ/composio/issues/3718",
+      "author": "ferhimedamine",
+      "at": "2026-07-01T09:40:49Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,15 +58,15 @@
       "at": "2026-07-02T03:07:09Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2405,
-      "title": "examples: add persistent memory cookbook with Dakera integration (31 tests)",
-      "url": "https://github.com/567-labs/instructor/pull/2405",
-      "author": "ferhimedamine",
-      "at": "2026-07-01T10:09:29Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38610,
+      "title": "[Bug]: ChatOpenRouter leaks httpx.AsyncClient instances causing Ephemeral Port Exhaustion",
+      "url": "https://github.com/langchain-ai/langchain/issues/38610",
+      "author": "QiuYucheng2003",
+      "at": "2026-07-02T11:28:25Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,37 +80,26 @@
       "at": "2026-07-02T02:37:57Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 38589,
-      "title": "[Feature]: Add Static Analyzer to detect Cross-Modal Leaks in Custom Tools (Defense-in-Depth)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38589",
-      "author": "ashp15205",
-      "at": "2026-07-01T15:46:16Z"
+      "number": 95406,
+      "title": "Custom htmlLimitedBots UA not in built-in HTML_LIMITED_BOT_UA_RE breaks PPR resume and drops all page metadata",
+      "url": "https://github.com/vercel/next.js/issues/95406",
+      "author": "gmen1057",
+      "at": "2026-07-02T11:02:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95394,
-      "title": "Avoid unnecessary rendering for validation in dev",
-      "url": "https://github.com/vercel/next.js/pull/95394",
-      "author": "lubieowoce",
-      "at": "2026-07-02T05:47:06Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95393,
-      "title": "Prefetch links nearest the top of the document first",
-      "url": "https://github.com/vercel/next.js/pull/95393",
-      "author": "acdlite",
-      "at": "2026-07-02T04:14:43Z"
+      "number": 95402,
+      "title": "fix(next-devtools): use null-prototype object for segment explorer trie children",
+      "url": "https://github.com/vercel/next.js/pull/95402",
+      "author": "tarunbtw",
+      "at": "2026-07-02T10:14:33Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -128,22 +117,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47517,
-      "title": "fix(docs): restore spacing between wordmark and DOCS label",
-      "url": "https://github.com/supabase/supabase/pull/47517",
-      "author": "dnywh",
-      "at": "2026-07-02T00:52:17Z"
+      "number": 47534,
+      "title": "docs(content-listings): add Next Steps to storage, functions, and realtime",
+      "url": "https://github.com/supabase/supabase/pull/47534",
+      "author": "nrichers",
+      "at": "2026-07-02T15:11:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47516,
-      "title": "AI assistant crashes every time when doing Meta data query searching",
-      "url": "https://github.com/supabase/supabase/issues/47516",
-      "author": "PorterBates",
-      "at": "2026-07-01T22:49:48Z"
+      "kind": "pr",
+      "number": 47533,
+      "title": "refactor(studio): import SQL editor store from source, delete facade + barrel",
+      "url": "https://github.com/supabase/supabase/pull/47533",
+      "author": "charislam",
+      "at": "2026-07-02T15:09:22Z"
     }
   ]
 }
