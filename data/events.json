@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-02T09:43:24.232Z",
-  "count": 1,
+  "updatedAt": "2026-07-03T09:42:07.625Z",
+  "count": 2,
   "events": [
     {
       "id": "openai-blog:https://openai.com/index/gpt-5-5-bio-bug-bounty",
@@ -10,8 +10,20 @@
       "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
       "url": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
       "publishedAt": "Thu, 23 Apr 2026 00:00:00 GMT",
-      "fetchedAt": "2026-07-02T09:43:23.788Z",
+      "fetchedAt": "2026-07-03T09:42:07.617Z",
       "company": "OpenAI",
+      "tags": []
+    },
+    {
+      "id": "runpod-blog:https://www.runpod.io/blog/flash-hack-day",
+      "source": "runpod-blog",
+      "kind": "hackathon",
+      "title": "Inside the Runpod Flash Hack Day",
+      "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
+      "url": "https://www.runpod.io/blog/flash-hack-day",
+      "publishedAt": "Thu, 02 Jul 2026 21:59:40 GMT",
+      "fetchedAt": "2026-07-03T09:42:07.309Z",
+      "company": "RunPod",
       "tags": []
     }
   ]
