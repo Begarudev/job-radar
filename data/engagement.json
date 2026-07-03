@@ -1,61 +1,50 @@
 {
-  "updatedAt": "2026-07-02T16:02:45.699Z",
+  "updatedAt": "2026-07-03T06:32:38.640Z",
   "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5127,
-      "title": "fix: block javascript:, file:, chrome:, about: URIs in domain restrictions (#5099)",
-      "url": "https://github.com/browser-use/browser-use/pull/5127",
-      "author": "huyhoang171106",
-      "at": "2026-07-02T15:28:09Z"
+      "kind": "issue",
+      "number": 5131,
+      "title": "Bug: The bash installation script for CLI cannot be accessed",
+      "url": "https://github.com/browser-use/browser-use/issues/5131",
+      "author": "MicoRobot",
+      "at": "2026-07-03T04:17:08Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5126,
-      "title": "bug: Agent history grows unbounded, causing LLM context overflow on long sessions",
-      "url": "https://github.com/browser-use/browser-use/issues/5126",
-      "author": "tcconnally",
-      "at": "2026-07-02T13:13:16Z"
+      "kind": "pr",
+      "number": 5130,
+      "title": "fix(dom): preserve empty accessibility names",
+      "url": "https://github.com/browser-use/browser-use/pull/5130",
+      "author": "sjsjsjjs534",
+      "at": "2026-07-03T02:56:05Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3719,
-      "title": "feat(examples): add Dakera self-hosted persistent memory agent example",
-      "url": "https://github.com/ComposioHQ/composio/pull/3719",
-      "author": "ferhimedamine",
-      "at": "2026-07-01T09:41:36Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3718,
-      "title": "Example: Dakera self-hosted persistent memory for Composio agents",
-      "url": "https://github.com/ComposioHQ/composio/issues/3718",
-      "author": "ferhimedamine",
-      "at": "2026-07-01T09:40:49Z"
+      "number": 3732,
+      "title": "dv example docs",
+      "url": "https://github.com/ComposioHQ/composio/pull/3732",
+      "author": "divyavenn",
+      "at": "2026-07-03T02:13:00Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2406,
-      "title": "fix(v2): derive Iterable name from union members instead of \"Union\"",
-      "url": "https://github.com/567-labs/instructor/pull/2406",
-      "author": "Sanjays2402",
-      "at": "2026-07-02T03:07:09Z"
+      "number": 2086,
+      "title": "feat(bedrock): add native structured outputs and strict tool use modes",
+      "url": "https://github.com/567-labs/instructor/pull/2086",
+      "author": "429er",
+      "at": "2026-02-16T21:38:01Z"
     },
     {
       "founder": "Harrison Chase",
@@ -83,56 +72,67 @@
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95445,
+      "title": "fix(webpack): bump enhanced-resolve to 5.18.4 for `#/` subpath imports",
+      "url": "https://github.com/vercel/next.js/pull/95445",
+      "author": "controversial",
+      "at": "2026-07-03T05:42:29Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95444,
+      "title": "Add experimental.lightningCssModules config option",
+      "url": "https://github.com/vercel/next.js/pull/95444",
+      "author": "UditDewan",
+      "at": "2026-07-03T04:12:51Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47552,
+      "title": "docs(wrappers): add doc link for MongoDB wrapper",
+      "url": "https://github.com/supabase/supabase/pull/47552",
+      "author": "burmecia",
+      "at": "2026-07-03T06:06:15Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47551,
+      "title": "Update README.md",
+      "url": "https://github.com/supabase/supabase/pull/47551",
+      "author": "nivaas219",
+      "at": "2026-07-03T05:23:45Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 95406,
-      "title": "Custom htmlLimitedBots UA not in built-in HTML_LIMITED_BOT_UA_RE breaks PPR resume and drops all page metadata",
-      "url": "https://github.com/vercel/next.js/issues/95406",
-      "author": "gmen1057",
-      "at": "2026-07-02T11:02:22Z"
+      "number": 4116,
+      "title": "modal.exception.DeserializationError occurs when accessing the Chinese URL",
+      "url": "https://github.com/modal-labs/modal-client/issues/4116",
+      "author": "HBcao233",
+      "at": "2026-06-05T11:37:09Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 95402,
-      "title": "fix(next-devtools): use null-prototype object for segment explorer trie children",
-      "url": "https://github.com/vercel/next.js/pull/95402",
-      "author": "tarunbtw",
-      "at": "2026-07-02T10:14:33Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.2.10 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.2.10",
-      "author": "eps1lon",
-      "at": "2026-07-01T20:13:48Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47534,
-      "title": "docs(content-listings): add Next Steps to storage, functions, and realtime",
-      "url": "https://github.com/supabase/supabase/pull/47534",
-      "author": "nrichers",
-      "at": "2026-07-02T15:11:17Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47533,
-      "title": "refactor(studio): import SQL editor store from source, delete facade + barrel",
-      "url": "https://github.com/supabase/supabase/pull/47533",
-      "author": "charislam",
-      "at": "2026-07-02T15:09:22Z"
+      "number": 2237,
+      "title": "feat: detect nub package manager",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2237",
+      "author": "colinhacks",
+      "at": "2026-07-01T01:54:34Z"
     }
   ]
 }
