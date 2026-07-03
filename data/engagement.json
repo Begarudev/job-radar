@@ -1,116 +1,127 @@
 {
-  "updatedAt": "2026-07-03T06:32:38.640Z",
-  "count": 12,
+  "updatedAt": "2026-07-03T15:50:57.658Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5131,
-      "title": "Bug: The bash installation script for CLI cannot be accessed",
-      "url": "https://github.com/browser-use/browser-use/issues/5131",
-      "author": "MicoRobot",
-      "at": "2026-07-03T04:17:08Z"
+      "kind": "pr",
+      "number": 5133,
+      "title": "Fix navigation readiness detection: per-target lifecycle event storage",
+      "url": "https://github.com/browser-use/browser-use/pull/5133",
+      "author": "sauravpanda",
+      "at": "2026-07-03T14:49:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5130,
-      "title": "fix(dom): preserve empty accessibility names",
-      "url": "https://github.com/browser-use/browser-use/pull/5130",
-      "author": "sjsjsjjs534",
-      "at": "2026-07-03T02:56:05Z"
+      "kind": "issue",
+      "number": 5132,
+      "title": "Bug: Remote browser downloads can complete without triggering click download completion callback, causing click action timeout",
+      "url": "https://github.com/browser-use/browser-use/issues/5132",
+      "author": "houying910523",
+      "at": "2026-07-03T14:01:50Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3732,
-      "title": "dv example docs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3732",
-      "author": "divyavenn",
-      "at": "2026-07-03T02:13:00Z"
+      "number": 3747,
+      "title": "chore(ci): cache turbo, bun, and uv and cancel superseded pr runs",
+      "url": "https://github.com/ComposioHQ/composio/pull/3747",
+      "author": "jkomyno",
+      "at": "2026-07-03T14:36:37Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3746,
+      "title": "Composio CLI tool-file-uploads path bypasses sensitive-file denylist, enabling credential exfiltration in agentic workflows",
+      "url": "https://github.com/ComposioHQ/composio/issues/3746",
+      "author": "geo-chen",
+      "at": "2026-07-03T14:25:42Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2086,
-      "title": "feat(bedrock): add native structured outputs and strict tool use modes",
-      "url": "https://github.com/567-labs/instructor/pull/2086",
-      "author": "429er",
-      "at": "2026-02-16T21:38:01Z"
+      "number": 2298,
+      "title": "feat: support mistralai v2",
+      "url": "https://github.com/567-labs/instructor/pull/2298",
+      "author": "Ian321",
+      "at": "2026-05-05T16:45:23Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38610,
-      "title": "[Bug]: ChatOpenRouter leaks httpx.AsyncClient instances causing Ephemeral Port Exhaustion",
-      "url": "https://github.com/langchain-ai/langchain/issues/38610",
-      "author": "QiuYucheng2003",
-      "at": "2026-07-02T11:28:25Z"
+      "number": 38644,
+      "title": "ChatAnthropic.bind_tools() crashes with KeyError: 'parameters' on advisor_ built-in tool",
+      "url": "https://github.com/langchain-ai/langchain/issues/38644",
+      "author": "corsettigyg",
+      "at": "2026-07-03T12:16:49Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38603,
-      "title": "Docstring inconsistency in BaseChatMessageHistory.add_message Raises section",
-      "url": "https://github.com/langchain-ai/langchain/issues/38603",
-      "author": "Traving-Yu",
-      "at": "2026-07-02T02:37:57Z"
+      "number": 38639,
+      "title": "ChatAnthropic streaming drops thinking field from empty thinking blocks (signature_delta-only), replay fails with 400 thinking.thinking: Fie",
+      "url": "https://github.com/langchain-ai/langchain/issues/38639",
+      "author": "Seo-yul",
+      "at": "2026-07-03T10:55:08Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95445,
-      "title": "fix(webpack): bump enhanced-resolve to 5.18.4 for `#/` subpath imports",
-      "url": "https://github.com/vercel/next.js/pull/95445",
-      "author": "controversial",
-      "at": "2026-07-03T05:42:29Z"
+      "number": 95459,
+      "title": "Fix next/font preload lookup for custom pageExtensions",
+      "url": "https://github.com/vercel/next.js/pull/95459",
+      "author": "prempareesh",
+      "at": "2026-07-03T15:41:41Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95444,
-      "title": "Add experimental.lightningCssModules config option",
-      "url": "https://github.com/vercel/next.js/pull/95444",
-      "author": "UditDewan",
-      "at": "2026-07-03T04:12:51Z"
+      "number": 95457,
+      "title": "fix: work around SWC compress bug",
+      "url": "https://github.com/vercel/next.js/pull/95457",
+      "author": "lubieowoce",
+      "at": "2026-07-03T15:07:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47552,
-      "title": "docs(wrappers): add doc link for MongoDB wrapper",
-      "url": "https://github.com/supabase/supabase/pull/47552",
-      "author": "burmecia",
-      "at": "2026-07-03T06:06:15Z"
+      "number": 47576,
+      "title": "fix: Rephrasing and improved output for framework quick starts instructions",
+      "url": "https://github.com/supabase/supabase/pull/47576",
+      "author": "jeremenichelli",
+      "at": "2026-07-03T15:12:46Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47551,
-      "title": "Update README.md",
-      "url": "https://github.com/supabase/supabase/pull/47551",
-      "author": "nivaas219",
-      "at": "2026-07-03T05:23:45Z"
+      "number": 47571,
+      "title": "Fix Studio contributor README links and Node version note",
+      "url": "https://github.com/supabase/supabase/pull/47571",
+      "author": "Kunal241207",
+      "at": "2026-07-03T12:38:42Z"
     },
     {
       "founder": "Erik Bernhardsson",
