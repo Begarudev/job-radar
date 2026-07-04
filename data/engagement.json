@@ -1,149 +1,149 @@
 {
-  "updatedAt": "2026-07-03T15:50:57.658Z",
+  "updatedAt": "2026-07-04T06:19:59.851Z",
   "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5133,
-      "title": "Fix navigation readiness detection: per-target lifecycle event storage",
-      "url": "https://github.com/browser-use/browser-use/pull/5133",
-      "author": "sauravpanda",
-      "at": "2026-07-03T14:49:14Z"
+      "kind": "issue",
+      "number": 5135,
+      "title": "Bug: redact_sensitive_string cascades when a secret value is substring of a placeholder tag",
+      "url": "https://github.com/browser-use/browser-use/issues/5135",
+      "author": "chirag127",
+      "at": "2026-07-04T06:06:49Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5132,
-      "title": "Bug: Remote browser downloads can complete without triggering click download completion callback, causing click action timeout",
-      "url": "https://github.com/browser-use/browser-use/issues/5132",
-      "author": "houying910523",
-      "at": "2026-07-03T14:01:50Z"
+      "kind": "pr",
+      "number": 5134,
+      "title": "Fix remote download completion callbacks",
+      "url": "https://github.com/browser-use/browser-use/pull/5134",
+      "author": "cyphercodes",
+      "at": "2026-07-04T03:58:14Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3747,
-      "title": "chore(ci): cache turbo, bun, and uv and cancel superseded pr runs",
-      "url": "https://github.com/ComposioHQ/composio/pull/3747",
+      "number": 3751,
+      "title": "chore(deps): resolve high prod audit advisories via in-range bumps",
+      "url": "https://github.com/ComposioHQ/composio/pull/3751",
       "author": "jkomyno",
-      "at": "2026-07-03T14:36:37Z"
+      "at": "2026-07-04T06:13:14Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3746,
-      "title": "Composio CLI tool-file-uploads path bypasses sensitive-file denylist, enabling credential exfiltration in agentic workflows",
-      "url": "https://github.com/ComposioHQ/composio/issues/3746",
-      "author": "geo-chen",
-      "at": "2026-07-03T14:25:42Z"
+      "kind": "pr",
+      "number": 3750,
+      "title": "test: add unit tests for the mimetypes utility",
+      "url": "https://github.com/ComposioHQ/composio/pull/3750",
+      "author": "eeshsaxena",
+      "at": "2026-07-04T03:39:49Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2298,
-      "title": "feat: support mistralai v2",
-      "url": "https://github.com/567-labs/instructor/pull/2298",
-      "author": "Ian321",
-      "at": "2026-05-05T16:45:23Z"
+      "number": 2409,
+      "title": "feat(bedrock): support Amazon Bedrock API key (bearer token) authentication",
+      "url": "https://github.com/567-labs/instructor/pull/2409",
+      "author": "Winne004",
+      "at": "2026-07-04T06:02:27Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2408,
+      "title": "feat(bedrock): support Amazon Bedrock API key (bearer token) authentication",
+      "url": "https://github.com/567-labs/instructor/issues/2408",
+      "author": "Winne004",
+      "at": "2026-07-03T17:20:22Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38644,
-      "title": "ChatAnthropic.bind_tools() crashes with KeyError: 'parameters' on advisor_ built-in tool",
-      "url": "https://github.com/langchain-ai/langchain/issues/38644",
-      "author": "corsettigyg",
-      "at": "2026-07-03T12:16:49Z"
+      "number": 38651,
+      "title": ":Feature: Support Anthropic mid-conversation system messages (MidConversationSystemBlockParam / role:system in messages) in ChatAnthropic",
+      "url": "https://github.com/langchain-ai/langchain/issues/38651",
+      "author": "Lambdua",
+      "at": "2026-07-04T02:39:18Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38639,
-      "title": "ChatAnthropic streaming drops thinking field from empty thinking blocks (signature_delta-only), replay fails with 400 thinking.thinking: Fie",
-      "url": "https://github.com/langchain-ai/langchain/issues/38639",
-      "author": "Seo-yul",
-      "at": "2026-07-03T10:55:08Z"
+      "number": 38648,
+      "title": "ChatFireworks._combine_llm_outputs raises TypeError on nested token_usage dicts (prompt_tokens_details) in batched generate()",
+      "url": "https://github.com/langchain-ai/langchain/issues/38648",
+      "author": "abcgco",
+      "at": "2026-07-03T19:02:26Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95459,
-      "title": "Fix next/font preload lookup for custom pageExtensions",
-      "url": "https://github.com/vercel/next.js/pull/95459",
-      "author": "prempareesh",
-      "at": "2026-07-03T15:41:41Z"
+      "number": 95483,
+      "title": "Support `output: export` in Cache Components",
+      "url": "https://github.com/vercel/next.js/pull/95483",
+      "author": "gaearon",
+      "at": "2026-07-04T04:50:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95457,
-      "title": "fix: work around SWC compress bug",
-      "url": "https://github.com/vercel/next.js/pull/95457",
-      "author": "lubieowoce",
-      "at": "2026-07-03T15:07:23Z"
+      "number": 95481,
+      "title": "docs: fix Agility CMS preview link punctuation",
+      "url": "https://github.com/vercel/next.js/pull/95481",
+      "author": "msh01",
+      "at": "2026-07-04T03:55:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47576,
-      "title": "fix: Rephrasing and improved output for framework quick starts instructions",
-      "url": "https://github.com/supabase/supabase/pull/47576",
-      "author": "jeremenichelli",
-      "at": "2026-07-03T15:12:46Z"
+      "number": 47599,
+      "title": "fix(self-hosted): scope log_min_messages=fatal to supabase_admin role",
+      "url": "https://github.com/supabase/supabase/pull/47599",
+      "author": "UditDewan",
+      "at": "2026-07-04T06:08:16Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47571,
-      "title": "Fix Studio contributor README links and Node version note",
-      "url": "https://github.com/supabase/supabase/pull/47571",
-      "author": "Kunal241207",
-      "at": "2026-07-03T12:38:42Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4116,
-      "title": "modal.exception.DeserializationError occurs when accessing the Chinese URL",
-      "url": "https://github.com/modal-labs/modal-client/issues/4116",
-      "author": "HBcao233",
-      "at": "2026-06-05T11:37:09Z"
+      "number": 47598,
+      "title": "fix(studio): remove empty heading in PITR restore form",
+      "url": "https://github.com/supabase/supabase/pull/47598",
+      "author": "UditDewan",
+      "at": "2026-07-04T05:50:15Z"
     },
     {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 2237,
-      "title": "feat: detect nub package manager",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2237",
-      "author": "colinhacks",
-      "at": "2026-07-01T01:54:34Z"
+      "number": 2238,
+      "title": "fix(cli): guard importAlias type before string operations",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2238",
+      "author": "okxint",
+      "at": "2026-07-04T05:31:25Z"
     }
   ]
 }
