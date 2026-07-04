@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-04T06:19:59.851Z",
+  "updatedAt": "2026-07-04T15:02:08.273Z",
   "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5136,
+      "title": "fix: prevent cascading redaction in redact_sensitive_string",
+      "url": "https://github.com/browser-use/browser-use/pull/5136",
+      "author": "rigen1048",
+      "at": "2026-07-04T09:28:55Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,28 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/issues/5135",
       "author": "chirag127",
       "at": "2026-07-04T06:06:49Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5134,
-      "title": "Fix remote download completion callbacks",
-      "url": "https://github.com/browser-use/browser-use/pull/5134",
-      "author": "cyphercodes",
-      "at": "2026-07-04T03:58:14Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3751,
-      "title": "chore(deps): resolve high prod audit advisories via in-range bumps",
-      "url": "https://github.com/ComposioHQ/composio/pull/3751",
-      "author": "jkomyno",
-      "at": "2026-07-04T06:13:14Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -73,66 +62,77 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38651,
-      "title": ":Feature: Support Anthropic mid-conversation system messages (MidConversationSystemBlockParam / role:system in messages) in ChatAnthropic",
-      "url": "https://github.com/langchain-ai/langchain/issues/38651",
-      "author": "Lambdua",
-      "at": "2026-07-04T02:39:18Z"
+      "number": 38659,
+      "title": "ChatGroq._combine_llm_outputs mutates per-generation token_usage in place and mishandles None values (silent clobber / TypeError)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38659",
+      "author": "abcgco",
+      "at": "2026-07-04T13:28:40Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38648,
-      "title": "ChatFireworks._combine_llm_outputs raises TypeError on nested token_usage dicts (prompt_tokens_details) in batched generate()",
-      "url": "https://github.com/langchain-ai/langchain/issues/38648",
-      "author": "abcgco",
-      "at": "2026-07-03T19:02:26Z"
+      "kind": "pr",
+      "number": 38658,
+      "title": "feat(text-splitters): replace `mypy` by `ty` for type checking",
+      "url": "https://github.com/langchain-ai/langchain/pull/38658",
+      "author": "cbornet",
+      "at": "2026-07-04T12:09:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95483,
-      "title": "Support `output: export` in Cache Components",
-      "url": "https://github.com/vercel/next.js/pull/95483",
+      "number": 95486,
+      "title": "Cancel a superseded Server Components HMR refresh's server-side work",
+      "url": "https://github.com/vercel/next.js/pull/95486",
+      "author": "unstubbable",
+      "at": "2026-07-04T14:49:54Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95485,
+      "title": "Support `output: 'export'` in Cache Components",
+      "url": "https://github.com/vercel/next.js/pull/95485",
       "author": "gaearon",
-      "at": "2026-07-04T04:50:58Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95481,
-      "title": "docs: fix Agility CMS preview link punctuation",
-      "url": "https://github.com/vercel/next.js/pull/95481",
-      "author": "msh01",
-      "at": "2026-07-04T03:55:25Z"
+      "at": "2026-07-04T13:02:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47599,
-      "title": "fix(self-hosted): scope log_min_messages=fatal to supabase_admin role",
-      "url": "https://github.com/supabase/supabase/pull/47599",
-      "author": "UditDewan",
-      "at": "2026-07-04T06:08:16Z"
+      "number": 47604,
+      "title": "fix(studio): keep table editor scrollbars visible and draggable on macOS",
+      "url": "https://github.com/supabase/supabase/pull/47604",
+      "author": "herley-shaori",
+      "at": "2026-07-04T14:21:29Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47598,
-      "title": "fix(studio): remove empty heading in PITR restore form",
-      "url": "https://github.com/supabase/supabase/pull/47598",
-      "author": "UditDewan",
-      "at": "2026-07-04T05:50:15Z"
+      "number": 47602,
+      "title": "test(self-hosted): add an e2e test for exposed schemas in data api ui",
+      "url": "https://github.com/supabase/supabase/pull/47602",
+      "author": "aantti",
+      "at": "2026-07-04T10:51:13Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1609,
+      "title": "test: cover cosine similarity and MMR selection helpers",
+      "url": "https://github.com/julep-ai/julep/pull/1609",
+      "author": "eeshsaxena",
+      "at": "2026-07-04T08:15:20Z"
     },
     {
       "founder": "Theo Browne",
