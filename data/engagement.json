@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-04T15:02:08.273Z",
-  "count": 13,
+  "updatedAt": "2026-07-05T06:40:38.744Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5136,
-      "title": "fix: prevent cascading redaction in redact_sensitive_string",
-      "url": "https://github.com/browser-use/browser-use/pull/5136",
-      "author": "rigen1048",
-      "at": "2026-07-04T09:28:55Z"
+      "kind": "issue",
+      "number": 5138,
+      "title": "Documentation:",
+      "url": "https://github.com/browser-use/browser-use/issues/5138",
+      "author": "Xander-26Code",
+      "at": "2026-07-05T01:33:58Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 5135,
-      "title": "Bug: redact_sensitive_string cascades when a secret value is substring of a placeholder tag",
-      "url": "https://github.com/browser-use/browser-use/issues/5135",
-      "author": "chirag127",
-      "at": "2026-07-04T06:06:49Z"
+      "number": 5137,
+      "title": "Proposal: add structured action evidence for no-op and changed browser actions",
+      "url": "https://github.com/browser-use/browser-use/issues/5137",
+      "author": "EndeavorYen",
+      "at": "2026-07-04T17:12:26Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3750,
-      "title": "test: add unit tests for the mimetypes utility",
-      "url": "https://github.com/ComposioHQ/composio/pull/3750",
-      "author": "eeshsaxena",
-      "at": "2026-07-04T03:39:49Z"
+      "number": 3755,
+      "title": "Fix CLI file-upload path bypassing sensitive-file denylist (GHSA-hp3h-89pf-5q58)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3755",
+      "author": "tsushanth",
+      "at": "2026-07-05T03:17:59Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 2409,
-      "title": "feat(bedrock): support Amazon Bedrock API key (bearer token) authentication",
-      "url": "https://github.com/567-labs/instructor/pull/2409",
-      "author": "Winne004",
-      "at": "2026-07-04T06:02:27Z"
+      "number": 3754,
+      "title": "fix(py): handle list-valued JSON Schema type in tool signatures",
+      "url": "https://github.com/ComposioHQ/composio/pull/3754",
+      "author": "anxkhn",
+      "at": "2026-07-04T22:15:22Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2408,
-      "title": "feat(bedrock): support Amazon Bedrock API key (bearer token) authentication",
-      "url": "https://github.com/567-labs/instructor/issues/2408",
-      "author": "Winne004",
-      "at": "2026-07-03T17:20:22Z"
+      "number": 38661,
+      "title": "`ChatAnthropic`: support a callable / token-provider for `api_key` (auto-refreshing credentials, e.g. Azure Entra ID) like `ChatOpenAI` does",
+      "url": "https://github.com/langchain-ai/langchain/issues/38661",
+      "author": "koulakhilesh",
+      "at": "2026-07-04T19:32:13Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,81 +69,48 @@
       "at": "2026-07-04T13:28:40Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 38658,
-      "title": "feat(text-splitters): replace `mypy` by `ty` for type checking",
-      "url": "https://github.com/langchain-ai/langchain/pull/38658",
-      "author": "cbornet",
-      "at": "2026-07-04T12:09:58Z"
+      "number": 95498,
+      "title": "fix parent-relative import.meta.glob patterns",
+      "url": "https://github.com/vercel/next.js/pull/95498",
+      "author": "chitwitgit",
+      "at": "2026-07-05T04:51:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95486,
-      "title": "Cancel a superseded Server Components HMR refresh's server-side work",
-      "url": "https://github.com/vercel/next.js/pull/95486",
-      "author": "unstubbable",
-      "at": "2026-07-04T14:49:54Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95485,
-      "title": "Support `output: 'export'` in Cache Components",
-      "url": "https://github.com/vercel/next.js/pull/95485",
-      "author": "gaearon",
-      "at": "2026-07-04T13:02:10Z"
+      "number": 95497,
+      "title": "turbo-persistence: skip directory fsync on Windows",
+      "url": "https://github.com/vercel/next.js/pull/95497",
+      "author": "chippleh1392",
+      "at": "2026-07-05T04:18:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47604,
-      "title": "fix(studio): keep table editor scrollbars visible and draggable on macOS",
-      "url": "https://github.com/supabase/supabase/pull/47604",
-      "author": "herley-shaori",
-      "at": "2026-07-04T14:21:29Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47602,
-      "title": "test(self-hosted): add an e2e test for exposed schemas in data api ui",
-      "url": "https://github.com/supabase/supabase/pull/47602",
-      "author": "aantti",
-      "at": "2026-07-04T10:51:13Z"
+      "kind": "issue",
+      "number": 47612,
+      "title": "Left navigation menu invisible in Brave Browser at 100% zoom (only visible at 200%)",
+      "url": "https://github.com/supabase/supabase/issues/47612",
+      "author": "alexIslander",
+      "at": "2026-07-05T04:43:15Z"
     },
     {
       "founder": "Diwank Tomer",
       "company": "Julep AI",
       "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1609,
-      "title": "test: cover cosine similarity and MMR selection helpers",
-      "url": "https://github.com/julep-ai/julep/pull/1609",
-      "author": "eeshsaxena",
-      "at": "2026-07-04T08:15:20Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2238,
-      "title": "fix(cli): guard importAlias type before string operations",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2238",
-      "author": "okxint",
-      "at": "2026-07-04T05:31:25Z"
+      "kind": "issue",
+      "number": 1610,
+      "title": "Julep 3: ground-up rewrite now on main",
+      "url": "https://github.com/julep-ai/julep/issues/1610",
+      "author": "creatorrr",
+      "at": "2026-07-05T00:20:54Z"
     }
   ]
 }
