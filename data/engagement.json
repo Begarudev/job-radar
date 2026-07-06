@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-05T15:09:17.419Z",
+  "updatedAt": "2026-07-06T07:12:32.396Z",
   "count": 11,
   "signals": [
     {
@@ -7,55 +7,77 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5140,
-      "title": "Add arXiv browser integration example",
-      "url": "https://github.com/browser-use/browser-use/pull/5140",
-      "author": "pikaqiu2333",
-      "at": "2026-07-05T08:15:24Z"
+      "number": 5143,
+      "title": "docs: clarify source checkout quickstart install",
+      "url": "https://github.com/browser-use/browser-use/pull/5143",
+      "author": "roian6",
+      "at": "2026-07-06T00:28:16Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5138,
-      "title": "Documentation:",
-      "url": "https://github.com/browser-use/browser-use/issues/5138",
-      "author": "Xander-26Code",
-      "at": "2026-07-05T01:33:58Z"
+      "kind": "pr",
+      "number": 5142,
+      "title": "fix(dom): preserve empty accessibility names",
+      "url": "https://github.com/browser-use/browser-use/pull/5142",
+      "author": "KXHXK",
+      "at": "2026-07-05T17:36:44Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3755,
-      "title": "Fix CLI file-upload path bypassing sensitive-file denylist (GHSA-hp3h-89pf-5q58)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3755",
-      "author": "tsushanth",
-      "at": "2026-07-05T03:17:59Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3754,
-      "title": "fix(py): handle list-valued JSON Schema type in tool signatures",
-      "url": "https://github.com/ComposioHQ/composio/pull/3754",
+      "number": 3759,
+      "title": "fix(py): resolve toolkit versions case-insensitively",
+      "url": "https://github.com/ComposioHQ/composio/pull/3759",
       "author": "anxkhn",
-      "at": "2026-07-04T22:15:22Z"
+      "at": "2026-07-06T05:43:23Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3758,
+      "title": "fix(cli): point CLI install URL at the next branch",
+      "url": "https://github.com/ComposioHQ/composio/pull/3758",
+      "author": "anxkhn",
+      "at": "2026-07-05T22:55:22Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2411,
-      "title": "Add provider capability matrix for streaming, vision, tool calling, and other feature support",
-      "url": "https://github.com/567-labs/instructor/pull/2411",
-      "author": "manishmandia133",
-      "at": "2026-07-05T14:52:18Z"
+      "number": 2413,
+      "title": "fix(schema): don't mark default_factory fields as required in generate_openai_schema",
+      "url": "https://github.com/567-labs/instructor/pull/2413",
+      "author": "JoshKappler",
+      "at": "2026-07-06T01:49:21Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2412,
+      "title": "fix: build proper model instances for Optional[BaseModel] fields during partial streaming",
+      "url": "https://github.com/567-labs/instructor/pull/2412",
+      "author": "shadowmodder",
+      "at": "2026-07-05T20:32:31Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38682,
+      "title": "Bug: streaming tool call fires prematurely when first SSE chunk has empty args",
+      "url": "https://github.com/langchain-ai/langchain/issues/38682",
+      "author": "shadowmodder",
+      "at": "2026-07-05T21:05:33Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +91,37 @@
       "at": "2026-07-05T14:31:40Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38669,
-      "title": "Documentation: Clear Explanation of what a Reducer is Required in the Documentation",
-      "url": "https://github.com/langchain-ai/langchain/issues/38669",
-      "author": "asaadjaber",
-      "at": "2026-07-05T11:44:17Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95509,
+      "title": "docs: document metadata pagination field",
+      "url": "https://github.com/vercel/next.js/pull/95509",
+      "author": "biubiukam",
+      "at": "2026-07-06T07:04:34Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95501,
-      "title": "Enable Server Components HMR cancellation by default",
-      "url": "https://github.com/vercel/next.js/pull/95501",
-      "author": "unstubbable",
-      "at": "2026-07-05T08:45:39Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95500,
-      "title": "fix(turbopack): support parent-directory traversal in import.meta.glob",
-      "url": "https://github.com/vercel/next.js/pull/95500",
-      "author": "sammyZi",
-      "at": "2026-07-05T07:20:01Z"
+      "number": 95507,
+      "title": "chore(deps): bump sharp@0.35.3",
+      "url": "https://github.com/vercel/next.js/pull/95507",
+      "author": "styfle",
+      "at": "2026-07-06T02:30:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47616,
-      "title": "github auto migration failed since v2.108 update due new config.toml key [local_smtp] not recognized",
-      "url": "https://github.com/supabase/supabase/issues/47616",
-      "author": "ntvinh1602",
-      "at": "2026-07-05T10:11:01Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1610,
-      "title": "Julep 3: ground-up rewrite now on main",
-      "url": "https://github.com/julep-ai/julep/issues/1610",
-      "author": "creatorrr",
-      "at": "2026-07-05T00:20:54Z"
+      "kind": "pr",
+      "number": 47623,
+      "title": "Vercel project connect layout",
+      "url": "https://github.com/supabase/supabase/pull/47623",
+      "author": "SaxonF",
+      "at": "2026-07-06T00:47:51Z"
     }
   ]
 }
