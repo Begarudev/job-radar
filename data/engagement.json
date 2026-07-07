@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T06:46:19.139Z",
+  "updatedAt": "2026-07-07T16:26:29.414Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5155,
-      "title": "fix(example): make news monitor file handling explicit",
-      "url": "https://github.com/browser-use/browser-use/pull/5155",
-      "author": "Ghraven",
-      "at": "2026-07-07T03:11:53Z"
+      "number": 5163,
+      "title": "fix(utils): prevent cascading redaction inside placeholders",
+      "url": "https://github.com/browser-use/browser-use/pull/5163",
+      "author": "asif786ka",
+      "at": "2026-07-07T16:20:36Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5152,
-      "title": "Fix occlusion check probing the wrong coordinate space in iframes",
-      "url": "https://github.com/browser-use/browser-use/pull/5152",
-      "author": "sauravpanda",
-      "at": "2026-07-07T01:37:51Z"
+      "number": 5159,
+      "title": "perf(dom): speed up paint-order filtering",
+      "url": "https://github.com/browser-use/browser-use/pull/5159",
+      "author": "dexhunter",
+      "at": "2026-07-07T11:55:48Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -47,81 +47,81 @@
       "at": "2026-07-06T18:47:57Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38692,
-      "title": "Adding in Concentrate AI Compatibility",
-      "url": "https://github.com/langchain-ai/langchain/issues/38692",
-      "author": "AdityaPawarr7",
-      "at": "2026-07-06T17:11:22Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2306,
+      "title": "feat(minimax): add MiniMax provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2306",
+      "author": "Bhavyashah20",
+      "at": "2026-05-14T20:24:08Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38688,
-      "title": "New Relic NRQL toolkit / agent integration",
-      "url": "https://github.com/langchain-ai/langchain/issues/38688",
-      "author": "mohammadn0man",
-      "at": "2026-07-06T08:53:42Z"
+      "number": 38702,
+      "title": "Related to #31887 (custom header pattern support)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38702",
+      "author": "dlwldn30",
+      "at": "2026-07-07T12:42:48Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 95551,
-      "title": "next/link app-router fragment handling in production can append duplicate hashes and restore stale fragments",
-      "url": "https://github.com/vercel/next.js/issues/95551",
-      "author": "timonrey",
-      "at": "2026-07-07T06:41:37Z"
+      "number": 38700,
+      "title": "Bug: get_num_tokens_from_messages raises NotImplementedError for OpenAI o1 and o3 models",
+      "url": "https://github.com/langchain-ai/langchain/issues/38700",
+      "author": "Shinu-Cherian",
+      "at": "2026-07-07T11:51:43Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95550,
-      "title": "dpl test failures",
-      "url": "https://github.com/vercel/next.js/pull/95550",
-      "author": "mischnic",
-      "at": "2026-07-07T06:07:17Z"
+      "number": 95579,
+      "title": "Turbopack: order CSS modules by chunk-group co-occurrence in linearize",
+      "url": "https://github.com/vercel/next.js/pull/95579",
+      "author": "sokra",
+      "at": "2026-07-07T15:38:58Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95578,
+      "title": "turbo-tasks-backend: add persistence delete/tombstone plumbing for GC",
+      "url": "https://github.com/vercel/next.js/pull/95578",
+      "author": "lukesandberg",
+      "at": "2026-07-07T15:21:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47668,
-      "title": "use card bg",
-      "url": "https://github.com/supabase/supabase/pull/47668",
-      "author": "SaxonF",
-      "at": "2026-07-07T05:44:44Z"
+      "number": 47702,
+      "title": "feat(studio): database activity prototype",
+      "url": "https://github.com/supabase/supabase/pull/47702",
+      "author": "kemaldotearth",
+      "at": "2026-07-07T16:19:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47667,
-      "title": "fix(studio): DOM-nesting hydration errors, ghost deleted-snippet nav, and migrations query 400s",
-      "url": "https://github.com/supabase/supabase/pull/47667",
-      "author": "alaister",
-      "at": "2026-07-07T01:38:20Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1612,
-      "title": "fix: P4-2",
-      "url": "https://github.com/julep-ai/julep/pull/1612",
-      "author": "IshaanXCoder",
-      "at": "2026-07-06T10:17:18Z"
+      "number": 47701,
+      "title": "Add Shane Adams to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/47701",
+      "author": "shane-at-supabase",
+      "at": "2026-07-07T16:19:01Z"
     }
   ]
 }
