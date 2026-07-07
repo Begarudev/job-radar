@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-07-06T16:49:40.444Z",
-  "count": 12,
+  "updatedAt": "2026-07-07T06:46:19.139Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5145,
-      "title": "Add structured action evidence models",
-      "url": "https://github.com/browser-use/browser-use/pull/5145",
-      "author": "revanthkumar96",
-      "at": "2026-07-06T16:24:45Z"
+      "number": 5155,
+      "title": "fix(example): make news monitor file handling explicit",
+      "url": "https://github.com/browser-use/browser-use/pull/5155",
+      "author": "Ghraven",
+      "at": "2026-07-07T03:11:53Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5144,
-      "title": "fix(utils): preserve sensitive redaction priority",
-      "url": "https://github.com/browser-use/browser-use/pull/5144",
-      "author": "Jupiter363",
-      "at": "2026-07-06T07:17:31Z"
+      "number": 5152,
+      "title": "Fix occlusion check probing the wrong coordinate space in iframes",
+      "url": "https://github.com/browser-use/browser-use/pull/5152",
+      "author": "sauravpanda",
+      "at": "2026-07-07T01:37:51Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3763,
-      "title": "fix(cli): enforce sensitive-file upload denylist (GHSA-hp3h-89pf-5q58)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3763",
-      "author": "jkomyno",
-      "at": "2026-07-06T12:17:31Z"
+      "number": 3765,
+      "title": "fix LLMs.txt and docs discovery for agents",
+      "url": "https://github.com/ComposioHQ/composio/pull/3765",
+      "author": "divyavenn",
+      "at": "2026-07-06T20:33:10Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 2413,
-      "title": "fix(schema): don't mark default_factory fields as required in generate_openai_schema",
-      "url": "https://github.com/567-labs/instructor/pull/2413",
-      "author": "JoshKappler",
-      "at": "2026-07-06T01:49:21Z"
+      "number": 3764,
+      "title": "docs: prettier redesign — example callouts, chapter-aware nav, UI polish",
+      "url": "https://github.com/ComposioHQ/composio/pull/3764",
+      "author": "divyavenn",
+      "at": "2026-07-06T18:47:57Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2412,
-      "title": "fix: build proper model instances for Optional[BaseModel] fields during partial streaming",
-      "url": "https://github.com/567-labs/instructor/pull/2412",
-      "author": "shadowmodder",
-      "at": "2026-07-05T20:32:31Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38692,
+      "title": "Adding in Concentrate AI Compatibility",
+      "url": "https://github.com/langchain-ai/langchain/issues/38692",
+      "author": "AdityaPawarr7",
+      "at": "2026-07-06T17:11:22Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +69,48 @@
       "at": "2026-07-06T08:53:42Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38682,
-      "title": "Bug: streaming tool call fires prematurely when first SSE chunk has empty args",
-      "url": "https://github.com/langchain-ai/langchain/issues/38682",
-      "author": "shadowmodder",
-      "at": "2026-07-05T21:05:33Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 95530,
-      "title": "next experimental-analyze fails with experimental.cssChunking: \"graph\" config error",
-      "url": "https://github.com/vercel/next.js/issues/95530",
-      "author": "DaanRoet",
-      "at": "2026-07-06T16:31:57Z"
+      "number": 95551,
+      "title": "next/link app-router fragment handling in production can append duplicate hashes and restore stale fragments",
+      "url": "https://github.com/vercel/next.js/issues/95551",
+      "author": "timonrey",
+      "at": "2026-07-07T06:41:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95529,
-      "title": "Turbopack: preserve import `with` clauses when direct-binding",
-      "url": "https://github.com/vercel/next.js/pull/95529",
-      "author": "jimmyhmiller",
-      "at": "2026-07-06T16:14:18Z"
+      "number": 95550,
+      "title": "dpl test failures",
+      "url": "https://github.com/vercel/next.js/pull/95550",
+      "author": "mischnic",
+      "at": "2026-07-07T06:07:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47660,
-      "title": "fix(studio): warning colours broken in light mode after colour migration",
-      "url": "https://github.com/supabase/supabase/pull/47660",
-      "author": "dnywh",
-      "at": "2026-07-06T16:40:37Z"
+      "number": 47668,
+      "title": "use card bg",
+      "url": "https://github.com/supabase/supabase/pull/47668",
+      "author": "SaxonF",
+      "at": "2026-07-07T05:44:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47659,
-      "title": "feat(studio): add Database Upgrades filter to Unified Logs",
-      "url": "https://github.com/supabase/supabase/pull/47659",
-      "author": "jordienr",
-      "at": "2026-07-06T15:44:41Z"
+      "number": 47667,
+      "title": "fix(studio): DOM-nesting hydration errors, ghost deleted-snippet nav, and migrations query 400s",
+      "url": "https://github.com/supabase/supabase/pull/47667",
+      "author": "alaister",
+      "at": "2026-07-07T01:38:20Z"
     },
     {
       "founder": "Diwank Tomer",
