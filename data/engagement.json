@@ -1,127 +1,138 @@
 {
-  "updatedAt": "2026-07-07T16:26:29.414Z",
-  "count": 11,
+  "updatedAt": "2026-07-08T05:50:52.493Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5163,
-      "title": "fix(utils): prevent cascading redaction inside placeholders",
-      "url": "https://github.com/browser-use/browser-use/pull/5163",
-      "author": "asif786ka",
-      "at": "2026-07-07T16:20:36Z"
+      "number": 5172,
+      "title": "fix(beta): fail invalid structured terminal results",
+      "url": "https://github.com/browser-use/browser-use/pull/5172",
+      "author": "sjsjsjjs534",
+      "at": "2026-07-08T02:36:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5159,
-      "title": "perf(dom): speed up paint-order filtering",
-      "url": "https://github.com/browser-use/browser-use/pull/5159",
-      "author": "dexhunter",
-      "at": "2026-07-07T11:55:48Z"
+      "number": 5166,
+      "title": "chore: add .gitguardian.yaml to ignore public PostHog telemetry key",
+      "url": "https://github.com/browser-use/browser-use/pull/5166",
+      "author": "rigen1048",
+      "at": "2026-07-07T21:06:56Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3765,
-      "title": "fix LLMs.txt and docs discovery for agents",
-      "url": "https://github.com/ComposioHQ/composio/pull/3765",
-      "author": "divyavenn",
-      "at": "2026-07-06T20:33:10Z"
+      "number": 3768,
+      "title": "docs: move standup bot example code to its own repo",
+      "url": "https://github.com/ComposioHQ/composio/pull/3768",
+      "author": "sarahsimionescu",
+      "at": "2026-07-07T23:59:43Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3764,
-      "title": "docs: prettier redesign — example callouts, chapter-aware nav, UI polish",
-      "url": "https://github.com/ComposioHQ/composio/pull/3764",
-      "author": "divyavenn",
-      "at": "2026-07-06T18:47:57Z"
+      "kind": "issue",
+      "number": 3753,
+      "title": "Add Corsair plugin to Composio SDK",
+      "url": "https://github.com/ComposioHQ/composio/issues/3753",
+      "author": "adityalowanshi",
+      "at": "2026-07-04T18:20:47Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2306,
-      "title": "feat(minimax): add MiniMax provider support",
-      "url": "https://github.com/567-labs/instructor/pull/2306",
-      "author": "Bhavyashah20",
-      "at": "2026-05-14T20:24:08Z"
+      "number": 2415,
+      "title": "fix(openai): derive input_audio format from media type",
+      "url": "https://github.com/567-labs/instructor/pull/2415",
+      "author": "vineethsaivs",
+      "at": "2026-07-07T18:59:34Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38702,
-      "title": "Related to #31887 (custom header pattern support)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38702",
-      "author": "dlwldn30",
-      "at": "2026-07-07T12:42:48Z"
+      "number": 38708,
+      "title": "feat(agents): add middleware to deduplicate parallel tool calls",
+      "url": "https://github.com/langchain-ai/langchain/issues/38708",
+      "author": "zamaniali1995",
+      "at": "2026-07-07T20:05:39Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38700,
-      "title": "Bug: get_num_tokens_from_messages raises NotImplementedError for OpenAI o1 and o3 models",
-      "url": "https://github.com/langchain-ai/langchain/issues/38700",
-      "author": "Shinu-Cherian",
-      "at": "2026-07-07T11:51:43Z"
+      "kind": "pr",
+      "number": 38707,
+      "title": "chore(standard-tests): fix some typings detected by ty",
+      "url": "https://github.com/langchain-ai/langchain/pull/38707",
+      "author": "cbornet",
+      "at": "2026-07-07T17:51:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95579,
-      "title": "Turbopack: order CSS modules by chunk-group co-occurrence in linearize",
-      "url": "https://github.com/vercel/next.js/pull/95579",
-      "author": "sokra",
-      "at": "2026-07-07T15:38:58Z"
+      "number": 95598,
+      "title": "fix(standalone): prevent middleware loop and header leak on rewrites",
+      "url": "https://github.com/vercel/next.js/pull/95598",
+      "author": "ayush23chaudhary",
+      "at": "2026-07-08T04:11:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95578,
-      "title": "turbo-tasks-backend: add persistence delete/tombstone plumbing for GC",
-      "url": "https://github.com/vercel/next.js/pull/95578",
-      "author": "lukesandberg",
-      "at": "2026-07-07T15:21:41Z"
+      "number": 95597,
+      "title": "Reword link-prefetch insight to \"legacy full prefetch\" and cross-link runtime/shell errors",
+      "url": "https://github.com/vercel/next.js/pull/95597",
+      "author": "aurorascharff",
+      "at": "2026-07-08T02:28:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47702,
-      "title": "feat(studio): database activity prototype",
-      "url": "https://github.com/supabase/supabase/pull/47702",
-      "author": "kemaldotearth",
-      "at": "2026-07-07T16:19:44Z"
+      "number": 47722,
+      "title": "Studio light background",
+      "url": "https://github.com/supabase/supabase/pull/47722",
+      "author": "SaxonF",
+      "at": "2026-07-08T04:36:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47701,
-      "title": "Add Shane Adams to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/47701",
-      "author": "shane-at-supabase",
-      "at": "2026-07-07T16:19:01Z"
+      "number": 47721,
+      "title": "feat(studio): report server-side errors to Sentry on the TanStack build",
+      "url": "https://github.com/supabase/supabase/pull/47721",
+      "author": "alaister",
+      "at": "2026-07-08T04:33:29Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2237,
+      "title": "feat: detect nub package manager",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2237",
+      "author": "colinhacks",
+      "at": "2026-07-01T01:54:34Z"
     }
   ]
 }
