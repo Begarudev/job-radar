@@ -1,149 +1,149 @@
 {
-  "updatedAt": "2026-07-08T15:59:35.466Z",
+  "updatedAt": "2026-07-09T06:45:21.110Z",
   "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5173,
-      "title": "fix: dont send default params in gemini genconfig",
-      "url": "https://github.com/browser-use/browser-use/pull/5173",
-      "author": "markmcd",
-      "at": "2026-07-08T09:48:16Z"
+      "kind": "issue",
+      "number": 5180,
+      "title": "The vulnerability I submitted according to your security policy has not received a response for a long time",
+      "url": "https://github.com/browser-use/browser-use/issues/5180",
+      "author": "August829",
+      "at": "2026-07-09T06:41:45Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5172,
-      "title": "fix(beta): fail invalid structured terminal results",
-      "url": "https://github.com/browser-use/browser-use/pull/5172",
-      "author": "sjsjsjjs534",
-      "at": "2026-07-08T02:36:00Z"
+      "number": 5179,
+      "title": "Add MiniMax chat provider",
+      "url": "https://github.com/browser-use/browser-use/pull/5179",
+      "author": "octo-patch",
+      "at": "2026-07-09T06:07:19Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3772,
-      "title": "[Bug]: Google Ads tools don't derive customer_id from the connected account (falls back to user_id when omitted)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3772",
-      "author": "jkomyno",
-      "at": "2026-07-08T13:27:44Z"
+      "number": 3777,
+      "title": "[Bug]: Tool-router session.search omits Google Ads tools that exist in catalog and are executable",
+      "url": "https://github.com/ComposioHQ/composio/issues/3777",
+      "author": "jaijuneja",
+      "at": "2026-07-09T03:20:57Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3771,
-      "title": "fix(docs): make favicon eligible for Google search results",
-      "url": "https://github.com/ComposioHQ/composio/pull/3771",
-      "author": "jjprodguy-composio",
-      "at": "2026-07-08T13:19:57Z"
+      "kind": "issue",
+      "number": 3776,
+      "title": "[Bug]: Tool Router: session.search silently omits no-auth toolkits when the session also enables an auth-based toolkit",
+      "url": "https://github.com/ComposioHQ/composio/issues/3776",
+      "author": "jaijuneja",
+      "at": "2026-07-09T00:45:26Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2417,
-      "title": "`client.create()` mutates the caller's `messages` list (and sometimes message dicts) in place — affects far more than OpenAI TOOLS/JSON_SCHE",
-      "url": "https://github.com/567-labs/instructor/issues/2417",
+      "kind": "pr",
+      "number": 2420,
+      "title": "fix(json stream): emit all objects in a chunk, not just the first",
+      "url": "https://github.com/567-labs/instructor/pull/2420",
+      "author": "Diwak4r",
+      "at": "2026-07-08T17:56:57Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2419,
+      "title": "fix(v2): stop Mistral/Cohere/Writer/xAI/OpenRouter from mutating caller's messages",
+      "url": "https://github.com/567-labs/instructor/pull/2419",
       "author": "mikko-lab",
-      "at": "2026-07-08T15:56:14Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2416,
-      "title": "[Docs]: Incorrect documentation for google.genai with vertex",
-      "url": "https://github.com/567-labs/instructor/issues/2416",
-      "author": "sakshamgoyal-01",
-      "at": "2026-07-08T15:43:46Z"
+      "at": "2026-07-08T16:54:22Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38720,
-      "title": "_resolve_schemas processes a repeated state schema at its FIRST position, so the explicit state_schema can lose field conflicts to middlewar",
-      "url": "https://github.com/langchain-ai/langchain/issues/38720",
-      "author": "alex-feel",
-      "at": "2026-07-08T13:46:51Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38719,
-      "title": "Structured output with a raw JSON-schema dict is never validated, making ToolStrategy's handle_errors retry unreachable for dict schemas",
-      "url": "https://github.com/langchain-ai/langchain/issues/38719",
-      "author": "alex-feel",
-      "at": "2026-07-08T13:43:03Z"
+      "number": 38727,
+      "title": "Add langchain-paypack as Community Integration - AI Agent Payment Tool (x402/AP2)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38727",
+      "author": "rhcjw",
+      "at": "2026-07-08T19:00:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95609,
-      "title": "fix(create-next-app): pin both axes on Tailwind template logos to silence aspect-ratio warning",
-      "url": "https://github.com/vercel/next.js/pull/95609",
-      "author": "aurorascharff",
-      "at": "2026-07-08T15:17:31Z"
+      "number": 95634,
+      "title": "feat(draft-mode): allow overriding cookie attributes in draftMode().enable()",
+      "url": "https://github.com/vercel/next.js/pull/95634",
+      "author": "nielpal99",
+      "at": "2026-07-09T06:35:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95608,
-      "title": "Preserve basePath in redirect destinations",
-      "url": "https://github.com/vercel/next.js/pull/95608",
-      "author": "gaojude",
-      "at": "2026-07-08T14:32:12Z"
+      "number": 95631,
+      "title": "fix(cms-contentful): await draftMode() and use Promise<> params type",
+      "url": "https://github.com/vercel/next.js/pull/95631",
+      "author": "manoraj",
+      "at": "2026-07-09T04:25:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47744,
-      "title": "feat: add click Autocapture for posthog client on docs project",
-      "url": "https://github.com/supabase/supabase/pull/47744",
-      "author": "jeremenichelli",
-      "at": "2026-07-08T15:56:45Z"
+      "number": 47760,
+      "title": "Add create org CTA for authorize route if no org found",
+      "url": "https://github.com/supabase/supabase/pull/47760",
+      "author": "joshenlim",
+      "at": "2026-07-09T06:44:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47743,
-      "title": "feat(studio): user journeys prototype",
-      "url": "https://github.com/supabase/supabase/pull/47743",
-      "author": "kemaldotearth",
-      "at": "2026-07-08T15:52:48Z"
+      "number": 47759,
+      "title": "Fix observability custom reports menu item",
+      "url": "https://github.com/supabase/supabase/pull/47759",
+      "author": "joshenlim",
+      "at": "2026-07-09T06:36:03Z"
     },
     {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2237,
-      "title": "feat: detect nub package manager",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2237",
-      "author": "colinhacks",
-      "at": "2026-07-01T01:54:34Z"
+      "kind": "issue",
+      "number": 2226,
+      "title": "bug: installing with bun fails \"check:unsafe\"",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2226",
+      "author": "maxwoolfdev",
+      "at": "2026-04-11T20:15:49Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2223,
+      "title": "feat: Core Tooling & Scaffold Consistency Audit",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2223",
+      "author": "alton47",
+      "at": "2026-03-26T13:18:55Z"
     }
   ]
 }
