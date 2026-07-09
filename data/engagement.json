@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-09T06:45:21.110Z",
-  "count": 13,
+  "updatedAt": "2026-07-09T16:24:33.434Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -28,100 +28,111 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3777,
-      "title": "[Bug]: Tool-router session.search omits Google Ads tools that exist in catalog and are executable",
-      "url": "https://github.com/ComposioHQ/composio/issues/3777",
-      "author": "jaijuneja",
-      "at": "2026-07-09T03:20:57Z"
+      "kind": "pr",
+      "number": 3782,
+      "title": "docs: hide deprecated API endpoints from the reference",
+      "url": "https://github.com/ComposioHQ/composio/pull/3782",
+      "author": "lingala-composio",
+      "at": "2026-07-09T14:12:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3781,
+      "title": "docs: clarify file URL TTL and cleanup",
+      "url": "https://github.com/ComposioHQ/composio/pull/3781",
+      "author": "abhishekpatil4",
+      "at": "2026-07-09T12:20:05Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 3776,
-      "title": "[Bug]: Tool Router: session.search silently omits no-auth toolkits when the session also enables an auth-based toolkit",
-      "url": "https://github.com/ComposioHQ/composio/issues/3776",
-      "author": "jaijuneja",
-      "at": "2026-07-09T00:45:26Z"
+      "number": 2422,
+      "title": "Thread-unsafe lazy loading in ModeRegistry.get_handlers() causes RegistryError under concurrency",
+      "url": "https://github.com/567-labs/instructor/issues/2422",
+      "author": "guyhorowitz",
+      "at": "2026-07-09T12:56:53Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2420,
-      "title": "fix(json stream): emit all objects in a chunk, not just the first",
-      "url": "https://github.com/567-labs/instructor/pull/2420",
-      "author": "Diwak4r",
-      "at": "2026-07-08T17:56:57Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2419,
-      "title": "fix(v2): stop Mistral/Cohere/Writer/xAI/OpenRouter from mutating caller's messages",
-      "url": "https://github.com/567-labs/instructor/pull/2419",
-      "author": "mikko-lab",
-      "at": "2026-07-08T16:54:22Z"
+      "number": 2421,
+      "title": "fix(openai): stop mutating caller's messages list in place (issue #2417)",
+      "url": "https://github.com/567-labs/instructor/pull/2421",
+      "author": "gautamkishore",
+      "at": "2026-07-09T08:33:46Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38727,
-      "title": "Add langchain-paypack as Community Integration - AI Agent Payment Tool (x402/AP2)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38727",
-      "author": "rhcjw",
-      "at": "2026-07-08T19:00:20Z"
+      "number": 38744,
+      "title": "[提案] U/D/A/H 场域诊断框架 — 基于 LangChain Docs Q&A 数据集的验证",
+      "url": "https://github.com/langchain-ai/langchain/issues/38744",
+      "author": "luoxuejian000",
+      "at": "2026-07-09T15:17:20Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 38742,
+      "title": "feat(anthropic,fireworks,openai): support langsmith gateway through env var",
+      "url": "https://github.com/langchain-ai/langchain/pull/38742",
+      "author": "ccurme",
+      "at": "2026-07-09T14:49:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95634,
-      "title": "feat(draft-mode): allow overriding cookie attributes in draftMode().enable()",
-      "url": "https://github.com/vercel/next.js/pull/95634",
-      "author": "nielpal99",
-      "at": "2026-07-09T06:35:58Z"
+      "number": 95640,
+      "title": "skill(next-instant-navigation-optimizer): add Partial Prefetching support",
+      "url": "https://github.com/vercel/next.js/pull/95640",
+      "author": "gaojude",
+      "at": "2026-07-09T14:32:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95631,
-      "title": "fix(cms-contentful): await draftMode() and use Promise<> params type",
-      "url": "https://github.com/vercel/next.js/pull/95631",
-      "author": "manoraj",
-      "at": "2026-07-09T04:25:08Z"
+      "number": 95639,
+      "title": "Add experimental TypeScript CLI backend",
+      "url": "https://github.com/vercel/next.js/pull/95639",
+      "author": "timneutkens",
+      "at": "2026-07-09T14:14:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47760,
-      "title": "Add create org CTA for authorize route if no org found",
-      "url": "https://github.com/supabase/supabase/pull/47760",
-      "author": "joshenlim",
-      "at": "2026-07-09T06:44:20Z"
+      "number": 47786,
+      "title": "fix: correct dead web/ paths and .PHONY typo in root Makefile",
+      "url": "https://github.com/supabase/supabase/pull/47786",
+      "author": "mohithshuka",
+      "at": "2026-07-09T16:16:52Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47759,
-      "title": "Fix observability custom reports menu item",
-      "url": "https://github.com/supabase/supabase/pull/47759",
-      "author": "joshenlim",
-      "at": "2026-07-09T06:36:03Z"
+      "number": 47783,
+      "title": "feat(studio): scoped access token prototype",
+      "url": "https://github.com/supabase/supabase/pull/47783",
+      "author": "kemaldotearth",
+      "at": "2026-07-09T14:57:15Z"
     },
     {
       "founder": "Theo Browne",
