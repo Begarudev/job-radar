@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T06:45:48.515Z",
-  "count": 14,
+  "updatedAt": "2026-07-10T16:21:44.169Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -25,15 +25,15 @@
       "at": "2026-07-10T02:15:55Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3790,
-      "title": "feat(examples): make validation provider agnostic",
-      "url": "https://github.com/ComposioHQ/composio/pull/3790",
-      "author": "jkomyno",
-      "at": "2026-07-09T22:53:12Z"
+      "number": 2425,
+      "title": "fix(v2): make ModeRegistry.get_handlers() thread-safe with double-checked locking",
+      "url": "https://github.com/567-labs/instructor/pull/2425",
+      "author": "nexiouscaliver",
+      "at": "2026-07-10T15:18:46Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +47,70 @@
       "at": "2026-07-09T19:00:47Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2423,
-      "title": "feat(sarvam): add Sarvam provider support",
-      "url": "https://github.com/567-labs/instructor/pull/2423",
-      "author": "EshwarCVS",
-      "at": "2026-07-09T18:18:10Z"
+      "number": 38781,
+      "title": "feat(langchain): `ToolErrorMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38781",
+      "author": "ccurme",
+      "at": "2026-07-10T14:43:34Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38768,
-      "title": "feat(middleware): AskQuestionMiddleware for structured HITL questions",
-      "url": "https://github.com/langchain-ai/langchain/issues/38768",
-      "author": "aamar-shahzad",
-      "at": "2026-07-10T03:15:27Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38765,
-      "title": "fix(anthropic): preserve empty thinking field in signature_delta streaming",
-      "url": "https://github.com/langchain-ai/langchain/pull/38765",
-      "author": "Functionhx",
-      "at": "2026-07-10T02:25:27Z"
+      "number": 38780,
+      "title": "`_parse_input` silently drops required fields resolved via `validation_alias` in `args_schema`",
+      "url": "https://github.com/langchain-ai/langchain/issues/38780",
+      "author": "charan16",
+      "at": "2026-07-10T14:12:41Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95672,
-      "title": "[turbopack] Simplify service worker e2e tests",
-      "url": "https://github.com/vercel/next.js/pull/95672",
-      "author": "sampoder",
-      "at": "2026-07-10T06:02:42Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95670,
-      "title": "test: unflake \"static prefetch - missing suspense around search params\"",
-      "url": "https://github.com/vercel/next.js/pull/95670",
+      "number": 95684,
+      "title": "fix: do not run onStage listeners for stages that were aborted",
+      "url": "https://github.com/vercel/next.js/pull/95684",
       "author": "lubieowoce",
-      "at": "2026-07-10T01:38:24Z"
+      "at": "2026-07-10T16:13:21Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95682,
+      "title": "Replay same-document traversals that happen before hydration",
+      "url": "https://github.com/vercel/next.js/pull/95682",
+      "author": "gaearon",
+      "at": "2026-07-10T15:05:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47802,
-      "title": "fix(telemetry): dedupe funnel toast error events",
-      "url": "https://github.com/supabase/supabase/pull/47802",
-      "author": "pamelachia",
-      "at": "2026-07-10T06:02:40Z"
+      "number": 47827,
+      "title": "Fix R2NP disk size multiplier in FE copy",
+      "url": "https://github.com/supabase/supabase/pull/47827",
+      "author": "noahmoss",
+      "at": "2026-07-10T16:02:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47801,
-      "title": "Browser compatibility for colours",
-      "url": "https://github.com/supabase/supabase/pull/47801",
-      "author": "SaxonF",
-      "at": "2026-07-10T03:20:17Z"
+      "number": 47826,
+      "title": "fix: ensure sidebar has valid html",
+      "url": "https://github.com/supabase/supabase/pull/47826",
+      "author": "djhi",
+      "at": "2026-07-10T15:46:57Z"
     },
     {
       "founder": "Paul Copplestone",
