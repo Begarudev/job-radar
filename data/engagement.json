@@ -1,160 +1,160 @@
 {
-  "updatedAt": "2026-07-09T16:24:33.434Z",
+  "updatedAt": "2026-07-10T06:45:48.515Z",
   "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5180,
-      "title": "The vulnerability I submitted according to your security policy has not received a response for a long time",
-      "url": "https://github.com/browser-use/browser-use/issues/5180",
-      "author": "August829",
-      "at": "2026-07-09T06:41:45Z"
+      "kind": "pr",
+      "number": 5185,
+      "title": "feat(llm): add OrcaRouter as an OpenAI-compatible provider",
+      "url": "https://github.com/browser-use/browser-use/pull/5185",
+      "author": "jinhaosong-source",
+      "at": "2026-07-10T02:58:35Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5179,
-      "title": "Add MiniMax chat provider",
-      "url": "https://github.com/browser-use/browser-use/pull/5179",
-      "author": "octo-patch",
-      "at": "2026-07-09T06:07:19Z"
+      "number": 5184,
+      "title": "Expose recorded video paths in history",
+      "url": "https://github.com/browser-use/browser-use/pull/5184",
+      "author": "lisa0314",
+      "at": "2026-07-10T02:15:55Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3782,
-      "title": "docs: hide deprecated API endpoints from the reference",
-      "url": "https://github.com/ComposioHQ/composio/pull/3782",
-      "author": "lingala-composio",
-      "at": "2026-07-09T14:12:16Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3781,
-      "title": "docs: clarify file URL TTL and cleanup",
-      "url": "https://github.com/ComposioHQ/composio/pull/3781",
-      "author": "abhishekpatil4",
-      "at": "2026-07-09T12:20:05Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2422,
-      "title": "Thread-unsafe lazy loading in ModeRegistry.get_handlers() causes RegistryError under concurrency",
-      "url": "https://github.com/567-labs/instructor/issues/2422",
-      "author": "guyhorowitz",
-      "at": "2026-07-09T12:56:53Z"
+      "number": 3790,
+      "title": "feat(examples): make validation provider agnostic",
+      "url": "https://github.com/ComposioHQ/composio/pull/3790",
+      "author": "jkomyno",
+      "at": "2026-07-09T22:53:12Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2421,
-      "title": "fix(openai): stop mutating caller's messages list in place (issue #2417)",
-      "url": "https://github.com/567-labs/instructor/pull/2421",
-      "author": "gautamkishore",
-      "at": "2026-07-09T08:33:46Z"
+      "number": 2424,
+      "title": "[security] Fix first-JSON injection in extract_json_from_codeblock",
+      "url": "https://github.com/567-labs/instructor/pull/2424",
+      "author": "AUTHENSOR",
+      "at": "2026-07-09T19:00:47Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2423,
+      "title": "feat(sarvam): add Sarvam provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2423",
+      "author": "EshwarCVS",
+      "at": "2026-07-09T18:18:10Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38744,
-      "title": "[提案] U/D/A/H 场域诊断框架 — 基于 LangChain Docs Q&A 数据集的验证",
-      "url": "https://github.com/langchain-ai/langchain/issues/38744",
-      "author": "luoxuejian000",
-      "at": "2026-07-09T15:17:20Z"
+      "number": 38768,
+      "title": "feat(middleware): AskQuestionMiddleware for structured HITL questions",
+      "url": "https://github.com/langchain-ai/langchain/issues/38768",
+      "author": "aamar-shahzad",
+      "at": "2026-07-10T03:15:27Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38742,
-      "title": "feat(anthropic,fireworks,openai): support langsmith gateway through env var",
-      "url": "https://github.com/langchain-ai/langchain/pull/38742",
-      "author": "ccurme",
-      "at": "2026-07-09T14:49:04Z"
+      "number": 38765,
+      "title": "fix(anthropic): preserve empty thinking field in signature_delta streaming",
+      "url": "https://github.com/langchain-ai/langchain/pull/38765",
+      "author": "Functionhx",
+      "at": "2026-07-10T02:25:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95640,
-      "title": "skill(next-instant-navigation-optimizer): add Partial Prefetching support",
-      "url": "https://github.com/vercel/next.js/pull/95640",
-      "author": "gaojude",
-      "at": "2026-07-09T14:32:59Z"
+      "number": 95672,
+      "title": "[turbopack] Simplify service worker e2e tests",
+      "url": "https://github.com/vercel/next.js/pull/95672",
+      "author": "sampoder",
+      "at": "2026-07-10T06:02:42Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95639,
-      "title": "Add experimental TypeScript CLI backend",
-      "url": "https://github.com/vercel/next.js/pull/95639",
-      "author": "timneutkens",
-      "at": "2026-07-09T14:14:14Z"
+      "number": 95670,
+      "title": "test: unflake \"static prefetch - missing suspense around search params\"",
+      "url": "https://github.com/vercel/next.js/pull/95670",
+      "author": "lubieowoce",
+      "at": "2026-07-10T01:38:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47786,
-      "title": "fix: correct dead web/ paths and .PHONY typo in root Makefile",
-      "url": "https://github.com/supabase/supabase/pull/47786",
-      "author": "mohithshuka",
-      "at": "2026-07-09T16:16:52Z"
+      "number": 47802,
+      "title": "fix(telemetry): dedupe funnel toast error events",
+      "url": "https://github.com/supabase/supabase/pull/47802",
+      "author": "pamelachia",
+      "at": "2026-07-10T06:02:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47783,
-      "title": "feat(studio): scoped access token prototype",
-      "url": "https://github.com/supabase/supabase/pull/47783",
-      "author": "kemaldotearth",
-      "at": "2026-07-09T14:57:15Z"
+      "number": 47801,
+      "title": "Browser compatibility for colours",
+      "url": "https://github.com/supabase/supabase/pull/47801",
+      "author": "SaxonF",
+      "at": "2026-07-10T03:20:17Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2226,
-      "title": "bug: installing with bun fails \"check:unsafe\"",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2226",
-      "author": "maxwoolfdev",
-      "at": "2026-04-11T20:15:49Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "release",
+      "number": 0,
+      "title": "Developer Update - July 2026 released",
+      "url": "https://github.com/supabase/supabase/releases/tag/v1.26.07",
+      "author": "ana1337x",
+      "at": "2026-07-09T21:13:24Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 2223,
-      "title": "feat: Core Tooling & Scaffold Consistency Audit",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2223",
-      "author": "alton47",
-      "at": "2026-03-26T13:18:55Z"
+      "number": 4121,
+      "title": "Bug: `modal shell` does not set HTTP/2 keepalive",
+      "url": "https://github.com/modal-labs/modal-client/issues/4121",
+      "author": "greg-mitchell",
+      "at": "2026-07-09T17:58:58Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 2076,
+      "title": "`modal run -q` option does not do what it says",
+      "url": "https://github.com/modal-labs/modal-client/issues/2076",
+      "author": "zsiegel92",
+      "at": "2024-08-08T05:23:59Z"
     }
   ]
 }
