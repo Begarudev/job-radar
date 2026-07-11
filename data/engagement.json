@@ -1,28 +1,61 @@
 {
-  "updatedAt": "2026-07-10T16:21:44.169Z",
-  "count": 13,
+  "updatedAt": "2026-07-11T05:40:36.919Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5185,
-      "title": "feat(llm): add OrcaRouter as an OpenAI-compatible provider",
-      "url": "https://github.com/browser-use/browser-use/pull/5185",
-      "author": "jinhaosong-source",
-      "at": "2026-07-10T02:58:35Z"
+      "number": 5192,
+      "title": "fix(example): read scheduled messages as utf-8",
+      "url": "https://github.com/browser-use/browser-use/pull/5192",
+      "author": "Ghraven",
+      "at": "2026-07-11T05:13:22Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5184,
-      "title": "Expose recorded video paths in history",
-      "url": "https://github.com/browser-use/browser-use/pull/5184",
-      "author": "lisa0314",
-      "at": "2026-07-10T02:15:55Z"
+      "number": 5191,
+      "title": "fix(browser): fan out lifecycle events for HAR recording",
+      "url": "https://github.com/browser-use/browser-use/pull/5191",
+      "author": "r266-tech",
+      "at": "2026-07-11T01:03:37Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.4 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.4",
+      "author": "laithrw",
+      "at": "2026-07-11T00:47:15Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3807,
+      "title": "feat(cli): set up agent plugins automatically",
+      "url": "https://github.com/ComposioHQ/composio/pull/3807",
+      "author": "KJ-11",
+      "at": "2026-07-10T22:36:47Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3806,
+      "title": "feat(sdk): surface API deprecations via a generic response interceptor",
+      "url": "https://github.com/ComposioHQ/composio/pull/3806",
+      "author": "lingala-composio",
+      "at": "2026-07-10T18:12:44Z"
     },
     {
       "founder": "Jason Liu",
@@ -36,114 +69,59 @@
       "at": "2026-07-10T15:18:46Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2424,
-      "title": "[security] Fix first-JSON injection in extract_json_from_codeblock",
-      "url": "https://github.com/567-labs/instructor/pull/2424",
-      "author": "AUTHENSOR",
-      "at": "2026-07-09T19:00:47Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38781,
-      "title": "feat(langchain): `ToolErrorMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38781",
-      "author": "ccurme",
-      "at": "2026-07-10T14:43:34Z"
+      "number": 38784,
+      "title": "feat(langchain): expose provider package via `get_provider_package`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38784",
+      "author": "mdrxy",
+      "at": "2026-07-10T18:28:20Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 38780,
-      "title": "`_parse_input` silently drops required fields resolved via `validation_alias` in `args_schema`",
-      "url": "https://github.com/langchain-ai/langchain/issues/38780",
-      "author": "charan16",
-      "at": "2026-07-10T14:12:41Z"
+      "number": 95698,
+      "title": "Turbopack bundling issue (webpack behaviour is correct, turbopack does not tree shake correctly)",
+      "url": "https://github.com/vercel/next.js/issues/95698",
+      "author": "akshatmittal",
+      "at": "2026-07-11T00:29:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95684,
-      "title": "fix: do not run onStage listeners for stages that were aborted",
-      "url": "https://github.com/vercel/next.js/pull/95684",
-      "author": "lubieowoce",
-      "at": "2026-07-10T16:13:21Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95682,
-      "title": "Replay same-document traversals that happen before hydration",
-      "url": "https://github.com/vercel/next.js/pull/95682",
-      "author": "gaearon",
-      "at": "2026-07-10T15:05:07Z"
+      "number": 95697,
+      "title": "Update font data",
+      "url": "https://github.com/vercel/next.js/pull/95697",
+      "author": "vercel-release-bot",
+      "at": "2026-07-11T00:28:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47827,
-      "title": "Fix R2NP disk size multiplier in FE copy",
-      "url": "https://github.com/supabase/supabase/pull/47827",
-      "author": "noahmoss",
-      "at": "2026-07-10T16:02:34Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47826,
-      "title": "fix: ensure sidebar has valid html",
-      "url": "https://github.com/supabase/supabase/pull/47826",
-      "author": "djhi",
-      "at": "2026-07-10T15:46:57Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "release",
-      "number": 0,
-      "title": "Developer Update - July 2026 released",
-      "url": "https://github.com/supabase/supabase/releases/tag/v1.26.07",
-      "author": "ana1337x",
-      "at": "2026-07-09T21:13:24Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4121,
-      "title": "Bug: `modal shell` does not set HTTP/2 keepalive",
-      "url": "https://github.com/modal-labs/modal-client/issues/4121",
-      "author": "greg-mitchell",
-      "at": "2026-07-09T17:58:58Z"
+      "number": 47842,
+      "title": "Log in error",
+      "url": "https://github.com/supabase/supabase/issues/47842",
+      "author": "en4tainmentsl-coder",
+      "at": "2026-07-11T05:08:45Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 2076,
-      "title": "`modal run -q` option does not do what it says",
-      "url": "https://github.com/modal-labs/modal-client/issues/2076",
-      "author": "zsiegel92",
-      "at": "2024-08-08T05:23:59Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47837,
+      "title": "refactor(sql-editor): own shared editor refs in SQLEditorContext (decompose 3/N)",
+      "url": "https://github.com/supabase/supabase/pull/47837",
+      "author": "charislam",
+      "at": "2026-07-10T19:25:00Z"
     }
   ]
 }
