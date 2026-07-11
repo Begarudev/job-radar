@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T05:40:36.919Z",
+  "updatedAt": "2026-07-11T14:48:40.262Z",
   "count": 11,
   "signals": [
     {
@@ -39,23 +39,23 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3807,
-      "title": "feat(cli): set up agent plugins automatically",
-      "url": "https://github.com/ComposioHQ/composio/pull/3807",
-      "author": "KJ-11",
-      "at": "2026-07-10T22:36:47Z"
+      "kind": "issue",
+      "number": 3808,
+      "title": "[Bug]: Title: connectedAccounts.get still returns masked credentials even after disabling masking in dashboard settings",
+      "url": "https://github.com/ComposioHQ/composio/issues/3808",
+      "author": "iaminnasr",
+      "at": "2026-07-11T12:29:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3806,
-      "title": "feat(sdk): surface API deprecations via a generic response interceptor",
-      "url": "https://github.com/ComposioHQ/composio/pull/3806",
-      "author": "lingala-composio",
-      "at": "2026-07-10T18:12:44Z"
+      "number": 3807,
+      "title": "feat(cli): set up agent plugins automatically",
+      "url": "https://github.com/ComposioHQ/composio/pull/3807",
+      "author": "KJ-11",
+      "at": "2026-07-10T22:36:47Z"
     },
     {
       "founder": "Jason Liu",
@@ -105,23 +105,23 @@
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 47842,
-      "title": "Log in error",
-      "url": "https://github.com/supabase/supabase/issues/47842",
-      "author": "en4tainmentsl-coder",
-      "at": "2026-07-11T05:08:45Z"
+      "kind": "pr",
+      "number": 47848,
+      "title": "feat(self-hosted): use the latest tag in setup.sh to clone",
+      "url": "https://github.com/supabase/supabase/pull/47848",
+      "author": "aantti",
+      "at": "2026-07-11T11:30:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47837,
-      "title": "refactor(sql-editor): own shared editor refs in SQLEditorContext (decompose 3/N)",
-      "url": "https://github.com/supabase/supabase/pull/47837",
-      "author": "charislam",
-      "at": "2026-07-10T19:25:00Z"
+      "number": 47847,
+      "title": "chore: remove obsolete root Makefile",
+      "url": "https://github.com/supabase/supabase/pull/47847",
+      "author": "himanshu-2l",
+      "at": "2026-07-11T10:46:47Z"
     }
   ]
 }
