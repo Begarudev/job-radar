@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-07-12T05:57:51.575Z",
-  "count": 12,
+  "updatedAt": "2026-07-12T14:52:04.655Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5198,
-      "title": "fix(config): treat empty boolean env vars as unset instead of True",
-      "url": "https://github.com/browser-use/browser-use/pull/5198",
+      "number": 5205,
+      "title": "fix(agent): give each MessageManager its own state (mutable default arg)",
+      "url": "https://github.com/browser-use/browser-use/pull/5205",
       "author": "abhay-codes07",
-      "at": "2026-07-12T05:49:20Z"
+      "at": "2026-07-12T12:24:03Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5197,
-      "title": "Update README.md",
-      "url": "https://github.com/browser-use/browser-use/pull/5197",
-      "author": "ShawnPana",
-      "at": "2026-07-12T03:57:13Z"
+      "number": 5204,
+      "title": "fix(registry): do not expose domain-restricted actions on an empty URL",
+      "url": "https://github.com/browser-use/browser-use/pull/5204",
+      "author": "abhay-codes07",
+      "at": "2026-07-12T09:15:30Z"
     },
     {
       "founder": "Magnus Müller",
@@ -80,59 +80,48 @@
       "at": "2026-07-12T01:13:06Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 38806,
-      "title": "feat(core): add shared gateway URL mapping",
-      "url": "https://github.com/langchain-ai/langchain/pull/38806",
-      "author": "jkennedyvz",
-      "at": "2026-07-11T19:59:32Z"
+      "number": 95723,
+      "title": "docs: clarify client cache behavior for dynamic routes",
+      "url": "https://github.com/vercel/next.js/pull/95723",
+      "author": "SparshGarg999",
+      "at": "2026-07-12T13:30:39Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95713,
-      "title": "fix(next-dev): don't let an app dir without real routes override pages/404",
-      "url": "https://github.com/vercel/next.js/pull/95713",
-      "author": "thsid",
-      "at": "2026-07-12T01:50:24Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95712,
-      "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95712",
-      "author": "vercel-release-bot",
-      "at": "2026-07-12T00:30:26Z"
+      "number": 95722,
+      "title": "fix(examples): support https and gravatar in cms-wordpress remotePatterns",
+      "url": "https://github.com/vercel/next.js/pull/95722",
+      "author": "SparshGarg999",
+      "at": "2026-07-12T13:30:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47858,
-      "title": "fix(studio): added bottom margin to schema graph's Minimap that was previously colliding with SchemaGraphLegend",
-      "url": "https://github.com/supabase/supabase/pull/47858",
-      "author": "YuDavidCao",
-      "at": "2026-07-12T02:41:14Z"
+      "number": 47861,
+      "title": "fix: selfhost edge URLs",
+      "url": "https://github.com/supabase/supabase/pull/47861",
+      "author": "7ttp",
+      "at": "2026-07-12T14:49:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 47857,
-      "title": "SchemaGraph's Minimap component currently collide with the SchemaGraphLegend component",
-      "url": "https://github.com/supabase/supabase/issues/47857",
-      "author": "YuDavidCao",
-      "at": "2026-07-12T02:40:27Z"
+      "number": 47860,
+      "title": "Log bloat with \"has a collation version mismatch\" warnings on template1 following DB upgrade",
+      "url": "https://github.com/supabase/supabase/issues/47860",
+      "author": "sunit-salesforce",
+      "at": "2026-07-12T13:27:36Z"
     }
   ]
 }
