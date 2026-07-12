@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-07-11T14:48:40.262Z",
-  "count": 11,
+  "updatedAt": "2026-07-12T05:57:51.575Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5192,
-      "title": "fix(example): read scheduled messages as utf-8",
-      "url": "https://github.com/browser-use/browser-use/pull/5192",
-      "author": "Ghraven",
-      "at": "2026-07-11T05:13:22Z"
+      "number": 5198,
+      "title": "fix(config): treat empty boolean env vars as unset instead of True",
+      "url": "https://github.com/browser-use/browser-use/pull/5198",
+      "author": "abhay-codes07",
+      "at": "2026-07-12T05:49:20Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5191,
-      "title": "fix(browser): fan out lifecycle events for HAR recording",
-      "url": "https://github.com/browser-use/browser-use/pull/5191",
-      "author": "r266-tech",
-      "at": "2026-07-11T01:03:37Z"
+      "number": 5197,
+      "title": "Update README.md",
+      "url": "https://github.com/browser-use/browser-use/pull/5197",
+      "author": "ShawnPana",
+      "at": "2026-07-12T03:57:13Z"
     },
     {
       "founder": "Magnus Müller",
@@ -33,7 +33,7 @@
       "title": "0.13.4 released",
       "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.4",
       "author": "laithrw",
-      "at": "2026-07-11T00:47:15Z"
+      "at": "2026-07-11T18:50:05Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -47,81 +47,92 @@
       "at": "2026-07-11T12:29:52Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3807,
-      "title": "feat(cli): set up agent plugins automatically",
-      "url": "https://github.com/ComposioHQ/composio/pull/3807",
-      "author": "KJ-11",
-      "at": "2026-07-10T22:36:47Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2431,
+      "title": "CitationMixin crashes with regex.error when a quote contains regex metacharacters",
+      "url": "https://github.com/567-labs/instructor/issues/2431",
+      "author": "RohitMudili",
+      "at": "2026-07-11T20:46:41Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2425,
-      "title": "fix(v2): make ModeRegistry.get_handlers() thread-safe with double-checked locking",
-      "url": "https://github.com/567-labs/instructor/pull/2425",
-      "author": "nexiouscaliver",
-      "at": "2026-07-10T15:18:46Z"
+      "number": 2430,
+      "title": "fix(citations): escape substring quotes before fuzzy span matching",
+      "url": "https://github.com/567-labs/instructor/pull/2430",
+      "author": "RohitMudili",
+      "at": "2026-07-11T20:43:53Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38784,
-      "title": "feat(langchain): expose provider package via `get_provider_package`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38784",
-      "author": "mdrxy",
-      "at": "2026-07-10T18:28:20Z"
+      "number": 38808,
+      "title": "feat(anthropic,fireworks,openai): use LangSmith gateway keys",
+      "url": "https://github.com/langchain-ai/langchain/pull/38808",
+      "author": "langchain-infra",
+      "at": "2026-07-12T01:13:06Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 95698,
-      "title": "Turbopack bundling issue (webpack behaviour is correct, turbopack does not tree shake correctly)",
-      "url": "https://github.com/vercel/next.js/issues/95698",
-      "author": "akshatmittal",
-      "at": "2026-07-11T00:29:33Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 38806,
+      "title": "feat(core): add shared gateway URL mapping",
+      "url": "https://github.com/langchain-ai/langchain/pull/38806",
+      "author": "jkennedyvz",
+      "at": "2026-07-11T19:59:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95697,
+      "number": 95713,
+      "title": "fix(next-dev): don't let an app dir without real routes override pages/404",
+      "url": "https://github.com/vercel/next.js/pull/95713",
+      "author": "thsid",
+      "at": "2026-07-12T01:50:24Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95712,
       "title": "Update font data",
-      "url": "https://github.com/vercel/next.js/pull/95697",
+      "url": "https://github.com/vercel/next.js/pull/95712",
       "author": "vercel-release-bot",
-      "at": "2026-07-11T00:28:24Z"
+      "at": "2026-07-12T00:30:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47848,
-      "title": "feat(self-hosted): use the latest tag in setup.sh to clone",
-      "url": "https://github.com/supabase/supabase/pull/47848",
-      "author": "aantti",
-      "at": "2026-07-11T11:30:20Z"
+      "number": 47858,
+      "title": "fix(studio): added bottom margin to schema graph's Minimap that was previously colliding with SchemaGraphLegend",
+      "url": "https://github.com/supabase/supabase/pull/47858",
+      "author": "YuDavidCao",
+      "at": "2026-07-12T02:41:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47847,
-      "title": "chore: remove obsolete root Makefile",
-      "url": "https://github.com/supabase/supabase/pull/47847",
-      "author": "himanshu-2l",
-      "at": "2026-07-11T10:46:47Z"
+      "kind": "issue",
+      "number": 47857,
+      "title": "SchemaGraph's Minimap component currently collide with the SchemaGraphLegend component",
+      "url": "https://github.com/supabase/supabase/issues/47857",
+      "author": "YuDavidCao",
+      "at": "2026-07-12T02:40:27Z"
     }
   ]
 }
