@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T14:52:04.655Z",
+  "updatedAt": "2026-07-13T06:18:16.219Z",
   "count": 11,
   "signals": [
     {
@@ -7,121 +7,121 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5205,
-      "title": "fix(agent): give each MessageManager its own state (mutable default arg)",
-      "url": "https://github.com/browser-use/browser-use/pull/5205",
-      "author": "abhay-codes07",
-      "at": "2026-07-12T12:24:03Z"
+      "number": 5207,
+      "title": "Preserve empty accessibility names in load_from_enhanced_dom_tree",
+      "url": "https://github.com/browser-use/browser-use/pull/5207",
+      "author": "bglglzd",
+      "at": "2026-07-13T03:11:13Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5204,
-      "title": "fix(registry): do not expose domain-restricted actions on an empty URL",
-      "url": "https://github.com/browser-use/browser-use/pull/5204",
-      "author": "abhay-codes07",
-      "at": "2026-07-12T09:15:30Z"
+      "number": 5206,
+      "title": "Tidy implementation detail in browser-use (#5188)",
+      "url": "https://github.com/browser-use/browser-use/pull/5206",
+      "author": "bglglzd",
+      "at": "2026-07-12T15:38:04Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.4 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.4",
-      "author": "laithrw",
-      "at": "2026-07-11T18:50:05Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3810,
+      "title": "fix(py): block SSRF in URL file uploads",
+      "url": "https://github.com/ComposioHQ/composio/pull/3810",
+      "author": "GautamSharma99",
+      "at": "2026-07-13T05:44:54Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3808,
-      "title": "[Bug]: Title: connectedAccounts.get still returns masked credentials even after disabling masking in dashboard settings",
-      "url": "https://github.com/ComposioHQ/composio/issues/3808",
-      "author": "iaminnasr",
-      "at": "2026-07-11T12:29:52Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2431,
-      "title": "CitationMixin crashes with regex.error when a quote contains regex metacharacters",
-      "url": "https://github.com/567-labs/instructor/issues/2431",
-      "author": "RohitMudili",
-      "at": "2026-07-11T20:46:41Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2430,
-      "title": "fix(citations): escape substring quotes before fuzzy span matching",
-      "url": "https://github.com/567-labs/instructor/pull/2430",
-      "author": "RohitMudili",
-      "at": "2026-07-11T20:43:53Z"
+      "number": 3809,
+      "title": "Basecamp toolkit: all project-scoped endpoints 404 — URLs built with wrong account context (account name instead of numeric ID / wrong defau",
+      "url": "https://github.com/ComposioHQ/composio/issues/3809",
+      "author": "diyaidev",
+      "at": "2026-07-12T17:51:17Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38808,
-      "title": "feat(anthropic,fireworks,openai): use LangSmith gateway keys",
-      "url": "https://github.com/langchain-ai/langchain/pull/38808",
-      "author": "langchain-infra",
-      "at": "2026-07-12T01:13:06Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95723,
-      "title": "docs: clarify client cache behavior for dynamic routes",
-      "url": "https://github.com/vercel/next.js/pull/95723",
-      "author": "SparshGarg999",
-      "at": "2026-07-12T13:30:39Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95722,
-      "title": "fix(examples): support https and gravatar in cms-wordpress remotePatterns",
-      "url": "https://github.com/vercel/next.js/pull/95722",
-      "author": "SparshGarg999",
-      "at": "2026-07-12T13:30:35Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47861,
-      "title": "fix: selfhost edge URLs",
-      "url": "https://github.com/supabase/supabase/pull/47861",
-      "author": "7ttp",
-      "at": "2026-07-12T14:49:14Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 47860,
-      "title": "Log bloat with \"has a collation version mismatch\" warnings on template1 following DB upgrade",
-      "url": "https://github.com/supabase/supabase/issues/47860",
-      "author": "sunit-salesforce",
-      "at": "2026-07-12T13:27:36Z"
+      "number": 38814,
+      "title": "SSRF via recursive sitemap fetch in `SitemapLoader` — `restrict_to_same_domain` is not enforced on nested `<sitemap>` entries",
+      "url": "https://github.com/langchain-ai/langchain/issues/38814",
+      "author": "geo-chen",
+      "at": "2026-07-12T15:49:44Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38780,
+      "title": "`_parse_input` silently drops required fields resolved via `validation_alias` in `args_schema`",
+      "url": "https://github.com/langchain-ai/langchain/issues/38780",
+      "author": "charan16",
+      "at": "2026-07-10T14:12:41Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95730,
+      "title": "Turbopack: send the current HMR hash in sync messages",
+      "url": "https://github.com/vercel/next.js/pull/95730",
+      "author": "martijnwalraven",
+      "at": "2026-07-13T04:39:08Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95727,
+      "title": "Turbopack: resolve loader source map sources against the compilation root",
+      "url": "https://github.com/vercel/next.js/pull/95727",
+      "author": "martijnwalraven",
+      "at": "2026-07-13T03:16:10Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47864,
+      "title": "feat(www): add \"Supabase Pipelines is now in Public Alpha\" blog post",
+      "url": "https://github.com/supabase/supabase/pull/47864",
+      "author": "ana1337x",
+      "at": "2026-07-13T02:55:31Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47862,
+      "title": "Small behavior fix in supabase (#47860)",
+      "url": "https://github.com/supabase/supabase/pull/47862",
+      "author": "bglglzd",
+      "at": "2026-07-12T15:27:51Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "issue",
+      "number": 1614,
+      "title": "Integration: verifiable execution receipts for Julep v3 workflow steps",
+      "url": "https://github.com/julep-ai/julep/issues/1614",
+      "author": "arian-gogani",
+      "at": "2026-07-13T02:02:50Z"
     }
   ]
 }
