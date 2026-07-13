@@ -1,50 +1,72 @@
 {
-  "updatedAt": "2026-07-13T06:18:16.219Z",
-  "count": 11,
+  "updatedAt": "2026-07-13T16:27:42.147Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5207,
+      "number": 5217,
       "title": "Preserve empty accessibility names in load_from_enhanced_dom_tree",
-      "url": "https://github.com/browser-use/browser-use/pull/5207",
+      "url": "https://github.com/browser-use/browser-use/pull/5217",
       "author": "bglglzd",
-      "at": "2026-07-13T03:11:13Z"
+      "at": "2026-07-13T13:02:55Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5206,
-      "title": "Tidy implementation detail in browser-use (#5188)",
-      "url": "https://github.com/browser-use/browser-use/pull/5206",
-      "author": "bglglzd",
-      "at": "2026-07-12T15:38:04Z"
+      "kind": "issue",
+      "number": 5216,
+      "title": "docs: telemetry page says \"anonymous usage data\" but the agent event sends the task, visited URLs, and result",
+      "url": "https://github.com/browser-use/browser-use/issues/5216",
+      "author": "kobihikri",
+      "at": "2026-07-13T12:39:10Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3810,
-      "title": "fix(py): block SSRF in URL file uploads",
-      "url": "https://github.com/ComposioHQ/composio/pull/3810",
-      "author": "GautamSharma99",
-      "at": "2026-07-13T05:44:54Z"
+      "number": 3822,
+      "title": "fix(py): handle list-valued JSON Schema type in openapi signatures",
+      "url": "https://github.com/ComposioHQ/composio/pull/3822",
+      "author": "anxkhn",
+      "at": "2026-07-13T14:10:04Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3809,
-      "title": "Basecamp toolkit: all project-scoped endpoints 404 — URLs built with wrong account context (account name instead of numeric ID / wrong defau",
-      "url": "https://github.com/ComposioHQ/composio/issues/3809",
-      "author": "diyaidev",
-      "at": "2026-07-12T17:51:17Z"
+      "number": 3820,
+      "title": "Publish @composio/experimental with the /eve export (Eve provider from #3800)",
+      "url": "https://github.com/ComposioHQ/composio/issues/3820",
+      "author": "Jamie-Ellis",
+      "at": "2026-07-13T13:42:54Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2436,
+      "title": "docs: add DaoXE OpenAI-compatible gateway integration",
+      "url": "https://github.com/567-labs/instructor/pull/2436",
+      "author": "seven7763",
+      "at": "2026-07-13T14:38:10Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2435,
+      "title": "feat(requesty): add Requesty provider",
+      "url": "https://github.com/567-labs/instructor/pull/2435",
+      "author": "Thibaultjaigu",
+      "at": "2026-07-13T09:14:42Z"
     },
     {
       "founder": "Harrison Chase",
@@ -61,56 +83,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 38781,
+      "title": "feat(langchain): `ToolErrorMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38781",
+      "author": "ccurme",
+      "at": "2026-07-10T14:43:34Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95738,
+      "title": "Respect NEXT_HASH_SALT for server side assetsHashes",
+      "url": "https://github.com/vercel/next.js/pull/95738",
+      "author": "mischnic",
+      "at": "2026-07-13T13:55:20Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95732,
+      "title": "Turbopack: loader change invalidation",
+      "url": "https://github.com/vercel/next.js/pull/95732",
+      "author": "mischnic",
+      "at": "2026-07-13T07:27:31Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47891,
+      "title": "prototype(studio): user journey tab",
+      "url": "https://github.com/supabase/supabase/pull/47891",
+      "author": "kemaldotearth",
+      "at": "2026-07-13T15:58:18Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47890,
+      "title": "fix(ui-patterns): fix chart y-axis label clipping",
+      "url": "https://github.com/supabase/supabase/pull/47890",
+      "author": "jordienr",
+      "at": "2026-07-13T15:45:40Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "issue",
-      "number": 38780,
-      "title": "`_parse_input` silently drops required fields resolved via `validation_alias` in `args_schema`",
-      "url": "https://github.com/langchain-ai/langchain/issues/38780",
-      "author": "charan16",
-      "at": "2026-07-10T14:12:41Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95730,
-      "title": "Turbopack: send the current HMR hash in sync messages",
-      "url": "https://github.com/vercel/next.js/pull/95730",
-      "author": "martijnwalraven",
-      "at": "2026-07-13T04:39:08Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95727,
-      "title": "Turbopack: resolve loader source map sources against the compilation root",
-      "url": "https://github.com/vercel/next.js/pull/95727",
-      "author": "martijnwalraven",
-      "at": "2026-07-13T03:16:10Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47864,
-      "title": "feat(www): add \"Supabase Pipelines is now in Public Alpha\" blog post",
-      "url": "https://github.com/supabase/supabase/pull/47864",
-      "author": "ana1337x",
-      "at": "2026-07-13T02:55:31Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47862,
-      "title": "Small behavior fix in supabase (#47860)",
-      "url": "https://github.com/supabase/supabase/pull/47862",
-      "author": "bglglzd",
-      "at": "2026-07-12T15:27:51Z"
+      "number": 1615,
+      "title": "Cross-tenant IDOR in GET /executions/{execution_id} returns any developer's execution (input/output/task_token)",
+      "url": "https://github.com/julep-ai/julep/issues/1615",
+      "author": "geo-chen",
+      "at": "2026-07-13T12:55:08Z"
     },
     {
       "founder": "Diwank Tomer",
