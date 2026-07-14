@@ -1,138 +1,105 @@
 {
-  "updatedAt": "2026-07-14T05:29:57.886Z",
-  "count": 14,
+  "updatedAt": "2026-07-14T15:20:51.178Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5222,
-      "title": "Preserve select overflow indicator in DOM serializer",
-      "url": "https://github.com/browser-use/browser-use/pull/5222",
-      "author": "MindSyncHub",
-      "at": "2026-07-14T02:05:14Z"
+      "number": 5224,
+      "title": "docs(telemetry): document what AgentTelemetryEvent actually sends",
+      "url": "https://github.com/browser-use/browser-use/pull/5224",
+      "author": "ErenAta16",
+      "at": "2026-07-14T13:04:35Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5221,
-      "title": "docs(examples): add browser-use-proxyhat to community integrations",
-      "url": "https://github.com/browser-use/browser-use/pull/5221",
-      "author": "proxybrad",
-      "at": "2026-07-13T23:05:16Z"
+      "number": 5223,
+      "title": "fix(browser): prevent stale sessions during target attach/detach races",
+      "url": "https://github.com/browser-use/browser-use/pull/5223",
+      "author": "254808127",
+      "at": "2026-07-14T10:00:29Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3828,
-      "title": "feat(cli): harden browserless agent onboarding",
-      "url": "https://github.com/ComposioHQ/composio/pull/3828",
-      "author": "KJ-11",
-      "at": "2026-07-13T21:19:36Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3827,
-      "title": "[do not merge until v1] feat(core)!: remove bare session aliases",
-      "url": "https://github.com/ComposioHQ/composio/pull/3827",
-      "author": "jkomyno",
-      "at": "2026-07-13T21:04:43Z"
+      "kind": "issue",
+      "number": 3836,
+      "title": "Docs: Gemini Python example pairs composio_google (vertexai types) with the google-genai client - tools are silently dropped from the reques",
+      "url": "https://github.com/ComposioHQ/composio/issues/3836",
+      "author": "AdityaPainuli",
+      "at": "2026-07-14T11:56:08Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2439,
-      "title": "fix(registry): lock ModeRegistry lazy-load resolution against concurrent first access",
-      "url": "https://github.com/567-labs/instructor/pull/2439",
-      "author": "ErenAta16",
-      "at": "2026-07-14T00:53:30Z"
+      "number": 2441,
+      "title": "fix(cli): read OpenAI FileObject via attribute access, not subscript",
+      "url": "https://github.com/567-labs/instructor/pull/2441",
+      "author": "chuenchen309",
+      "at": "2026-07-14T13:32:15Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2438,
-      "title": "fix(core): deep-copy messages in prepare_request to prevent caller mutation",
-      "url": "https://github.com/567-labs/instructor/pull/2438",
-      "author": "truecallerabreham",
-      "at": "2026-07-13T19:58:20Z"
+      "number": 2440,
+      "title": "fix(v2): handle consecutive None-content messages in merge_consecutive_messages",
+      "url": "https://github.com/567-labs/instructor/pull/2440",
+      "author": "chuenchen309",
+      "at": "2026-07-14T13:25:55Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38823,
-      "title": "feat(fireworks): add prompt caching middleware",
-      "url": "https://github.com/langchain-ai/langchain/pull/38823",
-      "author": "mdrxy",
-      "at": "2026-07-13T18:32:03Z"
+      "kind": "issue",
+      "number": 38843,
+      "title": "Agent Performance Degradation and Infinite Reasoning Loop with enable_thinking=true",
+      "url": "https://github.com/langchain-ai/langchain/issues/38843",
+      "author": "IcanDoItL",
+      "at": "2026-07-14T12:40:32Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38784,
-      "title": "feat(langchain): expose provider package via `get_provider_package`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38784",
-      "author": "mdrxy",
-      "at": "2026-07-10T18:28:20Z"
+      "kind": "issue",
+      "number": 38842,
+      "title": "Add TokenBudgetMiddleware for token-usage budgets in agents",
+      "url": "https://github.com/langchain-ai/langchain/issues/38842",
+      "author": "Juyotal",
+      "at": "2026-07-14T12:12:40Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95751,
-      "title": "Add experimental.staticWorkerMaxOldSpaceSize to cap build worker heap",
-      "url": "https://github.com/vercel/next.js/pull/95751",
-      "author": "1chooo",
-      "at": "2026-07-13T23:45:59Z"
+      "number": 95779,
+      "title": "Turbopack(napi v3): a second round of nitpick fixes on #95412",
+      "url": "https://github.com/vercel/next.js/pull/95779",
+      "author": "jimmyhmiller",
+      "at": "2026-07-14T15:13:40Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95748,
-      "title": "Fast Refresh for modules with top-level await",
-      "url": "https://github.com/vercel/next.js/pull/95748",
-      "author": "rnbrady",
-      "at": "2026-07-13T22:39:17Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47901,
-      "title": "fix(www): add missing partner slug redirects",
-      "url": "https://github.com/supabase/supabase/pull/47901",
-      "author": "seanoliver",
-      "at": "2026-07-14T04:52:36Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 47899,
-      "title": "Update managing-environments.mdx",
-      "url": "https://github.com/supabase/supabase/pull/47899",
-      "author": "jonotko",
-      "at": "2026-07-13T22:42:07Z"
+      "number": 95777,
+      "title": "Add OSC 9;4 terminal progress bar to next build",
+      "url": "https://github.com/vercel/next.js/pull/95777",
+      "author": "andrewimm",
+      "at": "2026-07-14T14:27:59Z"
     },
     {
       "founder": "Diwank Tomer",
@@ -150,11 +117,11 @@
       "company": "Julep AI",
       "repo": "julep-ai/julep",
       "kind": "issue",
-      "number": 1615,
-      "title": "Cross-tenant IDOR in GET /executions/{execution_id} returns any developer's execution (input/output/task_token)",
-      "url": "https://github.com/julep-ai/julep/issues/1615",
-      "author": "geo-chen",
-      "at": "2026-07-13T12:55:08Z"
+      "number": 1614,
+      "title": "Integration: verifiable execution receipts for Julep v3 workflow steps",
+      "url": "https://github.com/julep-ai/julep/issues/1614",
+      "author": "arian-gogani",
+      "at": "2026-07-13T02:02:50Z"
     }
   ]
 }
