@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T16:27:42.147Z",
+  "updatedAt": "2026-07-14T05:29:57.886Z",
   "count": 14,
   "signals": [
     {
@@ -7,132 +7,143 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5217,
-      "title": "Preserve empty accessibility names in load_from_enhanced_dom_tree",
-      "url": "https://github.com/browser-use/browser-use/pull/5217",
-      "author": "bglglzd",
-      "at": "2026-07-13T13:02:55Z"
+      "number": 5222,
+      "title": "Preserve select overflow indicator in DOM serializer",
+      "url": "https://github.com/browser-use/browser-use/pull/5222",
+      "author": "MindSyncHub",
+      "at": "2026-07-14T02:05:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5216,
-      "title": "docs: telemetry page says \"anonymous usage data\" but the agent event sends the task, visited URLs, and result",
-      "url": "https://github.com/browser-use/browser-use/issues/5216",
-      "author": "kobihikri",
-      "at": "2026-07-13T12:39:10Z"
+      "kind": "pr",
+      "number": 5221,
+      "title": "docs(examples): add browser-use-proxyhat to community integrations",
+      "url": "https://github.com/browser-use/browser-use/pull/5221",
+      "author": "proxybrad",
+      "at": "2026-07-13T23:05:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3822,
-      "title": "fix(py): handle list-valued JSON Schema type in openapi signatures",
-      "url": "https://github.com/ComposioHQ/composio/pull/3822",
-      "author": "anxkhn",
-      "at": "2026-07-13T14:10:04Z"
+      "number": 3828,
+      "title": "feat(cli): harden browserless agent onboarding",
+      "url": "https://github.com/ComposioHQ/composio/pull/3828",
+      "author": "KJ-11",
+      "at": "2026-07-13T21:19:36Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3820,
-      "title": "Publish @composio/experimental with the /eve export (Eve provider from #3800)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3820",
-      "author": "Jamie-Ellis",
-      "at": "2026-07-13T13:42:54Z"
+      "kind": "pr",
+      "number": 3827,
+      "title": "[do not merge until v1] feat(core)!: remove bare session aliases",
+      "url": "https://github.com/ComposioHQ/composio/pull/3827",
+      "author": "jkomyno",
+      "at": "2026-07-13T21:04:43Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2436,
-      "title": "docs: add DaoXE OpenAI-compatible gateway integration",
-      "url": "https://github.com/567-labs/instructor/pull/2436",
-      "author": "seven7763",
-      "at": "2026-07-13T14:38:10Z"
+      "number": 2439,
+      "title": "fix(registry): lock ModeRegistry lazy-load resolution against concurrent first access",
+      "url": "https://github.com/567-labs/instructor/pull/2439",
+      "author": "ErenAta16",
+      "at": "2026-07-14T00:53:30Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2435,
-      "title": "feat(requesty): add Requesty provider",
-      "url": "https://github.com/567-labs/instructor/pull/2435",
-      "author": "Thibaultjaigu",
-      "at": "2026-07-13T09:14:42Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38814,
-      "title": "SSRF via recursive sitemap fetch in `SitemapLoader` — `restrict_to_same_domain` is not enforced on nested `<sitemap>` entries",
-      "url": "https://github.com/langchain-ai/langchain/issues/38814",
-      "author": "geo-chen",
-      "at": "2026-07-12T15:49:44Z"
+      "number": 2438,
+      "title": "fix(core): deep-copy messages in prepare_request to prevent caller mutation",
+      "url": "https://github.com/567-labs/instructor/pull/2438",
+      "author": "truecallerabreham",
+      "at": "2026-07-13T19:58:20Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 38781,
-      "title": "feat(langchain): `ToolErrorMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38781",
-      "author": "ccurme",
-      "at": "2026-07-10T14:43:34Z"
+      "number": 38823,
+      "title": "feat(fireworks): add prompt caching middleware",
+      "url": "https://github.com/langchain-ai/langchain/pull/38823",
+      "author": "mdrxy",
+      "at": "2026-07-13T18:32:03Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 38784,
+      "title": "feat(langchain): expose provider package via `get_provider_package`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38784",
+      "author": "mdrxy",
+      "at": "2026-07-10T18:28:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95738,
-      "title": "Respect NEXT_HASH_SALT for server side assetsHashes",
-      "url": "https://github.com/vercel/next.js/pull/95738",
-      "author": "mischnic",
-      "at": "2026-07-13T13:55:20Z"
+      "number": 95751,
+      "title": "Add experimental.staticWorkerMaxOldSpaceSize to cap build worker heap",
+      "url": "https://github.com/vercel/next.js/pull/95751",
+      "author": "1chooo",
+      "at": "2026-07-13T23:45:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95732,
-      "title": "Turbopack: loader change invalidation",
-      "url": "https://github.com/vercel/next.js/pull/95732",
-      "author": "mischnic",
-      "at": "2026-07-13T07:27:31Z"
+      "number": 95748,
+      "title": "Fast Refresh for modules with top-level await",
+      "url": "https://github.com/vercel/next.js/pull/95748",
+      "author": "rnbrady",
+      "at": "2026-07-13T22:39:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47891,
-      "title": "prototype(studio): user journey tab",
-      "url": "https://github.com/supabase/supabase/pull/47891",
-      "author": "kemaldotearth",
-      "at": "2026-07-13T15:58:18Z"
+      "number": 47901,
+      "title": "fix(www): add missing partner slug redirects",
+      "url": "https://github.com/supabase/supabase/pull/47901",
+      "author": "seanoliver",
+      "at": "2026-07-14T04:52:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47890,
-      "title": "fix(ui-patterns): fix chart y-axis label clipping",
-      "url": "https://github.com/supabase/supabase/pull/47890",
-      "author": "jordienr",
-      "at": "2026-07-13T15:45:40Z"
+      "number": 47899,
+      "title": "Update managing-environments.mdx",
+      "url": "https://github.com/supabase/supabase/pull/47899",
+      "author": "jonotko",
+      "at": "2026-07-13T22:42:07Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1616,
+      "title": "[codex] Add Temporal application deployment platform",
+      "url": "https://github.com/julep-ai/julep/pull/1616",
+      "author": "creatorrr",
+      "at": "2026-07-14T05:18:09Z"
     },
     {
       "founder": "Diwank Tomer",
@@ -144,17 +155,6 @@
       "url": "https://github.com/julep-ai/julep/issues/1615",
       "author": "geo-chen",
       "at": "2026-07-13T12:55:08Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1614,
-      "title": "Integration: verifiable execution receipts for Julep v3 workflow steps",
-      "url": "https://github.com/julep-ai/julep/issues/1614",
-      "author": "arian-gogani",
-      "at": "2026-07-13T02:02:50Z"
     }
   ]
 }
