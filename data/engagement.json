@@ -1,116 +1,138 @@
 {
-  "updatedAt": "2026-07-14T15:20:51.178Z",
-  "count": 11,
+  "updatedAt": "2026-07-15T05:30:35.263Z",
+  "count": 15,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5224,
-      "title": "docs(telemetry): document what AgentTelemetryEvent actually sends",
-      "url": "https://github.com/browser-use/browser-use/pull/5224",
-      "author": "ErenAta16",
-      "at": "2026-07-14T13:04:35Z"
+      "number": 5230,
+      "title": "fix(browser): restore session handlers after event bus reset",
+      "url": "https://github.com/browser-use/browser-use/pull/5230",
+      "author": "lisa0314",
+      "at": "2026-07-15T02:10:49Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5223,
-      "title": "fix(browser): prevent stale sessions during target attach/detach races",
-      "url": "https://github.com/browser-use/browser-use/pull/5223",
-      "author": "254808127",
-      "at": "2026-07-14T10:00:29Z"
+      "number": 5229,
+      "title": "quickstart + sync skill",
+      "url": "https://github.com/browser-use/browser-use/pull/5229",
+      "author": "laithrw",
+      "at": "2026-07-15T00:20:56Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3836,
-      "title": "Docs: Gemini Python example pairs composio_google (vertexai types) with the google-genai client - tools are silently dropped from the reques",
-      "url": "https://github.com/ComposioHQ/composio/issues/3836",
-      "author": "AdityaPainuli",
-      "at": "2026-07-14T11:56:08Z"
+      "number": 3846,
+      "title": "Signed receipts for Composio tool calls (verifiable audit trail)",
+      "url": "https://github.com/ComposioHQ/composio/issues/3846",
+      "author": "arian-gogani",
+      "at": "2026-07-15T04:46:58Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3843,
+      "title": "fix(py): make initiate() deprecation warn-once guard thread-safe",
+      "url": "https://github.com/ComposioHQ/composio/pull/3843",
+      "author": "anxkhn",
+      "at": "2026-07-14T19:30:47Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2444,
+      "title": "Example idea: structured scientific evidence via BGPT + Instructor schemas",
+      "url": "https://github.com/567-labs/instructor/issues/2444",
+      "author": "connerlambden",
+      "at": "2026-07-14T22:23:21Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2441,
-      "title": "fix(cli): read OpenAI FileObject via attribute access, not subscript",
-      "url": "https://github.com/567-labs/instructor/pull/2441",
+      "number": 2443,
+      "title": "fix: declare regex as a core dependency (CitationMixin crashes with ModuleNotFoundError)",
+      "url": "https://github.com/567-labs/instructor/pull/2443",
       "author": "chuenchen309",
-      "at": "2026-07-14T13:32:15Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2440,
-      "title": "fix(v2): handle consecutive None-content messages in merge_consecutive_messages",
-      "url": "https://github.com/567-labs/instructor/pull/2440",
-      "author": "chuenchen309",
-      "at": "2026-07-14T13:25:55Z"
+      "at": "2026-07-14T17:40:10Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38843,
-      "title": "Agent Performance Degradation and Infinite Reasoning Loop with enable_thinking=true",
-      "url": "https://github.com/langchain-ai/langchain/issues/38843",
-      "author": "IcanDoItL",
-      "at": "2026-07-14T12:40:32Z"
+      "number": 38850,
+      "title": "AddableDict silently drops data on type-incompatible merge (langchain_core.runnables.utils)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38850",
+      "author": "Shital24650",
+      "at": "2026-07-14T17:38:11Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38842,
-      "title": "Add TokenBudgetMiddleware for token-usage budgets in agents",
-      "url": "https://github.com/langchain-ai/langchain/issues/38842",
-      "author": "Juyotal",
-      "at": "2026-07-14T12:12:40Z"
+      "kind": "pr",
+      "number": 38845,
+      "title": "fix(langchain): only retry retryable exceptions in `ToolRetryMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38845",
+      "author": "ccurme",
+      "at": "2026-07-14T15:40:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95779,
-      "title": "Turbopack(napi v3): a second round of nitpick fixes on #95412",
-      "url": "https://github.com/vercel/next.js/pull/95779",
-      "author": "jimmyhmiller",
-      "at": "2026-07-14T15:13:40Z"
+      "number": 95807,
+      "title": "Add more realistic bench fixtures",
+      "url": "https://github.com/vercel/next.js/pull/95807",
+      "author": "gaearon",
+      "at": "2026-07-15T04:48:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95777,
-      "title": "Add OSC 9;4 terminal progress bar to next build",
-      "url": "https://github.com/vercel/next.js/pull/95777",
-      "author": "andrewimm",
-      "at": "2026-07-14T14:27:59Z"
+      "number": 95805,
+      "title": "Fix ?dpl=undefined chunk URLs when deployment id is missing at manifest eval time",
+      "url": "https://github.com/vercel/next.js/pull/95805",
+      "author": "UditDewan",
+      "at": "2026-07-15T02:19:24Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 1616,
-      "title": "[codex] Add Temporal application deployment platform",
-      "url": "https://github.com/julep-ai/julep/pull/1616",
-      "author": "creatorrr",
-      "at": "2026-07-14T05:18:09Z"
+      "number": 47947,
+      "title": "Remove skills page from ui library",
+      "url": "https://github.com/supabase/supabase/pull/47947",
+      "author": "SaxonF",
+      "at": "2026-07-15T02:04:12Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 47943,
+      "title": "fix(studio): use wildcard route for support assistant",
+      "url": "https://github.com/supabase/supabase/pull/47943",
+      "author": "ShiroKSH",
+      "at": "2026-07-14T22:10:40Z"
     },
     {
       "founder": "Diwank Tomer",
@@ -122,6 +144,28 @@
       "url": "https://github.com/julep-ai/julep/issues/1614",
       "author": "arian-gogani",
       "at": "2026-07-13T02:02:50Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2239,
+      "title": "fix(biome): explicitly ignore generated/ directory in biome config",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2239",
+      "author": "gonzoblasco",
+      "at": "2026-07-15T04:07:06Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2226,
+      "title": "bug: installing with bun fails \"check:unsafe\"",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2226",
+      "author": "maxwoolfdev",
+      "at": "2026-04-11T20:15:49Z"
     }
   ]
 }
