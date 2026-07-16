@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-07-15T15:23:36.446Z",
-  "count": 15,
+  "updatedAt": "2026-07-16T05:40:03.686Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5234,
-      "title": "fix: Complementary tool: BGPT for papers when browser agents need scientific evidence",
-      "url": "https://github.com/browser-use/browser-use/pull/5234",
-      "author": "Phoenix1454",
-      "at": "2026-07-15T09:00:11Z"
+      "number": 5240,
+      "title": "fix(llm): read structured output from tool calls for Groq tool-calling models",
+      "url": "https://github.com/browser-use/browser-use/pull/5240",
+      "author": "VenkateswarluNagineni",
+      "at": "2026-07-16T00:31:33Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5233,
-      "title": "Fix ChatAnthropicBedrock.ainvoke() IndexError on an empty response.content list",
-      "url": "https://github.com/browser-use/browser-use/pull/5233",
-      "author": "chuenchen309",
-      "at": "2026-07-15T07:08:24Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3848,
-      "title": "docs: fuzzy search, category filter & a11y for /toolkits (#3441)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3848",
-      "author": "vinaypokharkar",
-      "at": "2026-07-15T12:04:06Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3847,
-      "title": "Docs: LangGraph Python install command is missing langchain - example fails on its first import",
-      "url": "https://github.com/ComposioHQ/composio/issues/3847",
-      "author": "AdityaPainuli",
-      "at": "2026-07-15T12:01:51Z"
+      "number": 5239,
+      "title": "Read-only MCP tools have no annotations and are cancelled by Codex exec",
+      "url": "https://github.com/browser-use/browser-use/issues/5239",
+      "author": "victorgulchenko",
+      "at": "2026-07-15T22:42:43Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3855,
+      "title": "docs: docs-site infra/tooling from #3732 — infra-only slice",
+      "url": "https://github.com/ComposioHQ/composio/pull/3855",
+      "author": "sarahsimionescu",
+      "at": "2026-07-16T05:19:21Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3854,
+      "title": "docs: FunnelWatch example project from #3732 — example-only slice",
+      "url": "https://github.com/ComposioHQ/composio/pull/3854",
+      "author": "sarahsimionescu",
+      "at": "2026-07-16T05:19:18Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2449,
+      "title": "fix(v2): extract PEP 604 union members in iterable responses",
+      "url": "https://github.com/567-labs/instructor/pull/2449",
+      "author": "santhreal",
+      "at": "2026-07-15T23:13:15Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,92 +69,81 @@
       "at": "2026-07-15T12:17:50Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2447,
-      "title": "fix(bedrock): forward default model from provider",
-      "url": "https://github.com/567-labs/instructor/pull/2447",
-      "author": "ShiroKSH",
-      "at": "2026-07-15T10:33:01Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38869,
+      "title": "ChatOpenAI (Responses API) mutates model_kwargs[\"text\"] in place: one JSON mode call permanently forces JSON mode on later plain calls",
+      "url": "https://github.com/langchain-ai/langchain/issues/38869",
+      "author": "Harshxth",
+      "at": "2026-07-16T00:41:41Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38855,
-      "title": "feat(huggingface): support Intel XPU devices in HuggingFacePipeline.from_model_id",
-      "url": "https://github.com/langchain-ai/langchain/issues/38855",
-      "author": "wanhakim",
-      "at": "2026-07-15T07:59:08Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38850,
-      "title": "AddableDict silently drops data on type-incompatible merge (langchain_core.runnables.utils)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38850",
-      "author": "Shital24650",
-      "at": "2026-07-14T17:38:11Z"
+      "number": 38867,
+      "title": "SummarizationMiddleware deletes conversation history when the summary model call fails, inserting the error text as the summary",
+      "url": "https://github.com/langchain-ai/langchain/issues/38867",
+      "author": "Harshxth",
+      "at": "2026-07-16T00:07:45Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95820,
-      "title": "fix(font): allow axes with discrete variable font weights",
-      "url": "https://github.com/vercel/next.js/pull/95820",
-      "author": "biubiukam",
-      "at": "2026-07-15T14:50:37Z"
+      "number": 95839,
+      "title": "[turbopack] Reduce macOS HMR file watcher latency",
+      "url": "https://github.com/vercel/next.js/pull/95839",
+      "author": "marcoshernanz",
+      "at": "2026-07-16T04:12:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95819,
-      "title": "docs: use a valid src in Image example",
-      "url": "https://github.com/vercel/next.js/pull/95819",
-      "author": "JucieltonSantos",
-      "at": "2026-07-15T14:01:07Z"
+      "number": 95838,
+      "title": "[Not for merge] Turbowiki: a Turbopack-based Wiki-to-HTML compiler",
+      "url": "https://github.com/vercel/next.js/pull/95838",
+      "author": "gaearon",
+      "at": "2026-07-16T02:52:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47974,
-      "title": "Apply max width for ai assistant panel when maximized",
-      "url": "https://github.com/supabase/supabase/pull/47974",
-      "author": "joshenlim",
-      "at": "2026-07-15T14:58:54Z"
+      "number": 47989,
+      "title": "Landing page agent focus",
+      "url": "https://github.com/supabase/supabase/pull/47989",
+      "author": "SaxonF",
+      "at": "2026-07-16T03:30:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 47973,
-      "title": "chore: Server monaco editor from Cloudflare",
-      "url": "https://github.com/supabase/supabase/pull/47973",
-      "author": "ivasilov",
-      "at": "2026-07-15T14:56:59Z"
+      "number": 47988,
+      "title": "feat(ui-library): add Magic Link auth block",
+      "url": "https://github.com/supabase/supabase/pull/47988",
+      "author": "mmaxence",
+      "at": "2026-07-16T01:50:56Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1614,
-      "title": "Integration: verifiable execution receipts for Julep v3 workflow steps",
-      "url": "https://github.com/julep-ai/julep/issues/1614",
-      "author": "arian-gogani",
-      "at": "2026-07-13T02:02:50Z"
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2240,
+      "title": "fix(prettier): add .prettierignore to exclude generated Prisma client",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2240",
+      "author": "gonzoblasco",
+      "at": "2026-07-15T16:32:51Z"
     },
     {
       "founder": "Theo Browne",
@@ -155,17 +155,6 @@
       "url": "https://github.com/t3-oss/create-t3-app/pull/2239",
       "author": "gonzoblasco",
       "at": "2026-07-15T04:07:06Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2226,
-      "title": "bug: installing with bun fails \"check:unsafe\"",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2226",
-      "author": "maxwoolfdev",
-      "at": "2026-04-11T20:15:49Z"
     }
   ]
 }
