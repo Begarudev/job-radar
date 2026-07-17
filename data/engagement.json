@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T05:42:04.192Z",
+  "updatedAt": "2026-07-17T15:09:53.090Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5241,
-      "title": "fix: neutralize structural delimiter tags in page content (indirect prompt injection)",
-      "url": "https://github.com/browser-use/browser-use/pull/5241",
-      "author": "AUTHENSOR",
-      "at": "2026-07-16T06:33:11Z"
+      "number": 5247,
+      "title": "Strip URL wrapper punctuation",
+      "url": "https://github.com/browser-use/browser-use/pull/5247",
+      "author": "adity982",
+      "at": "2026-07-17T07:09:08Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5240,
-      "title": "fix(llm): read structured output from tool calls for Groq tool-calling models",
-      "url": "https://github.com/browser-use/browser-use/pull/5240",
-      "author": "VenkateswarluNagineni",
-      "at": "2026-07-16T00:31:33Z"
+      "number": 5246,
+      "title": "fix(mcp): mark read-only MCP tools with readOnlyHint annotations",
+      "url": "https://github.com/browser-use/browser-use/pull/5246",
+      "author": "ayaangazali",
+      "at": "2026-07-17T05:53:33Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,99 +40,99 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3868,
-      "title": "cli: onboarding from #3773 — scratch files removed",
-      "url": "https://github.com/ComposioHQ/composio/pull/3868",
-      "author": "sarahsimionescu",
-      "at": "2026-07-16T20:26:11Z"
+      "number": 3876,
+      "title": "test: add unit tests for the schema_converter boolean-schema filter",
+      "url": "https://github.com/ComposioHQ/composio/pull/3876",
+      "author": "eeshsaxena",
+      "at": "2026-07-17T14:15:07Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3875,
+      "title": "docs(auth): OAuth callback identity verification",
+      "url": "https://github.com/ComposioHQ/composio/pull/3875",
+      "author": "anshugarg15",
+      "at": "2026-07-17T10:02:07Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2451,
-      "title": "fix(openai): copy schema before strict mutation to prevent lru_cache poisoning",
-      "url": "https://github.com/567-labs/instructor/pull/2451",
-      "author": "RudraDudhat2509",
-      "at": "2026-07-16T14:41:49Z"
+      "number": 2453,
+      "title": "fix(mistral): raise retryable error and reask correctly when response has no tool_calls",
+      "url": "https://github.com/567-labs/instructor/pull/2453",
+      "author": "sohumt123",
+      "at": "2026-07-17T06:34:06Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2450,
-      "title": "fix(openai): lru_cache poisoning when strict=True — schema persists across calls",
-      "url": "https://github.com/567-labs/instructor/issues/2450",
-      "author": "RudraDudhat2509",
-      "at": "2026-07-16T14:41:35Z"
+      "kind": "pr",
+      "number": 2452,
+      "title": "fix(partial): don't fail final stream validation on explicit nulls for required nullable fields",
+      "url": "https://github.com/567-labs/instructor/pull/2452",
+      "author": "sohumt123",
+      "at": "2026-07-17T06:22:31Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38896,
-      "title": "Feature: Add Responses API support to ChatOpenRouter (use_responses_api=True)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38896",
-      "author": "kevaldekivadiya2415",
-      "at": "2026-07-17T04:30:11Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38893,
-      "title": "`ModelRetryMiddleware` converts non-retryable exceptions into an error `AIMessage` — `ToolRetryMiddleware` propagates them since #38845",
-      "url": "https://github.com/langchain-ai/langchain/issues/38893",
-      "author": "Yigtwxx",
-      "at": "2026-07-16T21:38:18Z"
+      "kind": "pr",
+      "number": 38910,
+      "title": "feat(langchain): expose toggle to trace inputs on `AgentMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38910",
+      "author": "ccurme",
+      "at": "2026-07-17T15:05:01Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95883,
-      "title": "Add cached notFound revalidate regression test",
-      "url": "https://github.com/vercel/next.js/pull/95883",
-      "author": "devjiwonchoi",
-      "at": "2026-07-16T23:36:58Z"
+      "number": 95897,
+      "title": "Replace Request Insights span recorder with request sessions",
+      "url": "https://github.com/vercel/next.js/pull/95897",
+      "author": "timneutkens",
+      "at": "2026-07-17T12:44:21Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95882,
-      "title": "Match the test job summary style to the PR test report comment",
-      "url": "https://github.com/vercel/next.js/pull/95882",
-      "author": "eps1lon",
-      "at": "2026-07-16T23:13:22Z"
+      "number": 95896,
+      "title": "docs: reframe prefetching around automatic vs. controllable behavior",
+      "url": "https://github.com/vercel/next.js/pull/95896",
+      "author": "aurorascharff",
+      "at": "2026-07-17T11:31:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48022,
-      "title": "fix(ui): resolve sidebar visibility in Brave browser",
-      "url": "https://github.com/supabase/supabase/pull/48022",
-      "author": "aniruddh209",
-      "at": "2026-07-17T04:01:44Z"
+      "number": 48040,
+      "title": "fix(studio): chip away explicit-tabindex ratchet debt",
+      "url": "https://github.com/supabase/supabase/pull/48040",
+      "author": "dnywh",
+      "at": "2026-07-17T14:57:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48021,
-      "title": "docs: add workaround to avoid noisy logs when PostgREST is disabled",
-      "url": "https://github.com/supabase/supabase/pull/48021",
-      "author": "laurenceisla",
-      "at": "2026-07-17T01:39:20Z"
+      "number": 48039,
+      "title": "Improve features search with relevance-based ranking",
+      "url": "https://github.com/supabase/supabase/pull/48039",
+      "author": "fsansalvadore",
+      "at": "2026-07-17T14:53:23Z"
     }
   ]
 }
