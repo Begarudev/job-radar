@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-16T15:29:01.771Z",
-  "count": 13,
+  "updatedAt": "2026-07-17T05:42:04.192Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -25,26 +25,26 @@
       "at": "2026-07-16T00:31:33Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3860,
-      "title": "[Bug]: GOOGLEDRIVE_CREATE_FOLDER drops the Google Drive `fields` parameter, so webViewLink can never be returned",
-      "url": "https://github.com/ComposioHQ/composio/issues/3860",
-      "author": "theguylivnat",
-      "at": "2026-07-16T09:25:09Z"
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.6 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.6",
+      "author": "gregpr07",
+      "at": "2026-07-17T05:29:18Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3859,
-      "title": "refactor(cli): enforce Effect platform boundaries",
-      "url": "https://github.com/ComposioHQ/composio/pull/3859",
-      "author": "jkomyno",
-      "at": "2026-07-16T09:12:52Z"
+      "number": 3868,
+      "title": "cli: onboarding from #3773 — scratch files removed",
+      "url": "https://github.com/ComposioHQ/composio/pull/3868",
+      "author": "sarahsimionescu",
+      "at": "2026-07-16T20:26:11Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,77 +73,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38875,
-      "title": "docs: Layerup Security integration docs describe a service that no longer exists",
-      "url": "https://github.com/langchain-ai/langchain/issues/38875",
-      "author": "JamsheedMistri",
-      "at": "2026-07-16T07:10:57Z"
+      "number": 38896,
+      "title": "Feature: Add Responses API support to ChatOpenRouter (use_responses_api=True)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38896",
+      "author": "kevaldekivadiya2415",
+      "at": "2026-07-17T04:30:11Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38872,
-      "title": "docs: Document multimodal input formats in ModelProfile to resolve TODOs",
-      "url": "https://github.com/langchain-ai/langchain/issues/38872",
-      "author": "wasim-builds",
-      "at": "2026-07-16T05:45:12Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 95867,
-      "title": "cacheComponents: runtime ISR revalidation fails with a message-less StaticGenBailoutError — the real reason only reaches console.error, so e",
-      "url": "https://github.com/vercel/next.js/issues/95867",
-      "author": "filiptrivan",
-      "at": "2026-07-16T15:21:21Z"
+      "number": 38893,
+      "title": "`ModelRetryMiddleware` converts non-retryable exceptions into an error `AIMessage` — `ToolRetryMiddleware` propagates them since #38845",
+      "url": "https://github.com/langchain-ai/langchain/issues/38893",
+      "author": "Yigtwxx",
+      "at": "2026-07-16T21:38:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95865,
-      "title": "Back/forward set the Nav Inspector back to pending",
-      "url": "https://github.com/vercel/next.js/pull/95865",
-      "author": "acdlite",
-      "at": "2026-07-16T15:20:44Z"
+      "number": 95883,
+      "title": "Add cached notFound revalidate regression test",
+      "url": "https://github.com/vercel/next.js/pull/95883",
+      "author": "devjiwonchoi",
+      "at": "2026-07-16T23:36:58Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95882,
+      "title": "Match the test job summary style to the PR test report comment",
+      "url": "https://github.com/vercel/next.js/pull/95882",
+      "author": "eps1lon",
+      "at": "2026-07-16T23:13:22Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48010,
-      "title": "feat: Add terraform federated content and data",
-      "url": "https://github.com/supabase/supabase/pull/48010",
-      "author": "jeremenichelli",
-      "at": "2026-07-16T15:21:25Z"
+      "number": 48022,
+      "title": "fix(ui): resolve sidebar visibility in Brave browser",
+      "url": "https://github.com/supabase/supabase/pull/48022",
+      "author": "aniruddh209",
+      "at": "2026-07-17T04:01:44Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48009,
-      "title": "fix(reports): chart click selects bucket range, fix logs datepicker crash",
-      "url": "https://github.com/supabase/supabase/pull/48009",
-      "author": "jordienr",
-      "at": "2026-07-16T15:10:21Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2240,
-      "title": "fix(prettier): add .prettierignore to exclude generated Prisma client",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2240",
-      "author": "gonzoblasco",
-      "at": "2026-07-15T16:32:51Z"
+      "number": 48021,
+      "title": "docs: add workaround to avoid noisy logs when PostgREST is disabled",
+      "url": "https://github.com/supabase/supabase/pull/48021",
+      "author": "laurenceisla",
+      "at": "2026-07-17T01:39:20Z"
     }
   ]
 }
