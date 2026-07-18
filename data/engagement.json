@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-18T05:25:30.415Z",
-  "count": 12,
+  "updatedAt": "2026-07-18T14:47:24.396Z",
+  "count": 9,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5250,
+      "title": "New files from Fly.io Launch",
+      "url": "https://github.com/browser-use/browser-use/pull/5250",
+      "author": "Stevenbots274",
+      "at": "2026-07-18T06:09:06Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,48 +25,26 @@
       "at": "2026-07-18T02:51:56Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5248,
-      "title": "redact_sensitive_string: placeholder tags get re-redacted when a secret value contains the substring 'secret' (cascade leak)",
-      "url": "https://github.com/browser-use/browser-use/issues/5248",
-      "author": "truongsontung",
-      "at": "2026-07-18T02:49:36Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.6 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.6",
-      "author": "gregpr07",
-      "at": "2026-07-17T05:29:18Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3886,
-      "title": "fix(cli): address bugbot review findings from the guardrails stack",
-      "url": "https://github.com/ComposioHQ/composio/pull/3886",
-      "author": "jkomyno",
-      "at": "2026-07-17T17:54:58Z"
+      "number": 3889,
+      "title": "fix(py/triggers): disconnect pusher connection on subscribe() timeout",
+      "url": "https://github.com/ComposioHQ/composio/pull/3889",
+      "author": "sergioperezcheco",
+      "at": "2026-07-18T14:40:49Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3885,
-      "title": "refactor(cli): activate the try/catch and env ban and pin the boundary ratchet",
-      "url": "https://github.com/ComposioHQ/composio/pull/3885",
-      "author": "jkomyno",
-      "at": "2026-07-17T16:16:46Z"
+      "number": 2457,
+      "title": "fix(v2): isolate kwargs for retry to prevent cache key divergence (#2454)",
+      "url": "https://github.com/567-labs/instructor/pull/2457",
+      "author": "feiiiiii5",
+      "at": "2026-07-18T10:38:04Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,70 +58,48 @@
       "at": "2026-07-17T23:52:35Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2455,
-      "title": "fix(cache): isolate retry-loop kwargs so cache store key matches lookup key",
-      "url": "https://github.com/567-labs/instructor/pull/2455",
-      "author": "ErenAta16",
-      "at": "2026-07-17T20:50:41Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38910,
-      "title": "feat(langchain): expose toggle to trace inputs on `AgentMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/38910",
-      "author": "ccurme",
-      "at": "2026-07-17T15:05:01Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38904,
-      "title": "Bug: test_stream_error_callback fails due to a bug in the testing code",
-      "url": "https://github.com/langchain-ai/langchain/issues/38904",
-      "author": "Tanmay9223",
-      "at": "2026-07-17T07:35:31Z"
+      "number": 38937,
+      "title": "Add OpenRouter Document Rerank Integration",
+      "url": "https://github.com/langchain-ai/langchain/issues/38937",
+      "author": "Umar4880",
+      "at": "2026-07-18T13:41:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95915,
-      "title": "test(instant-validation): failing fixtures for navigation signals in a parent layout",
-      "url": "https://github.com/vercel/next.js/pull/95915",
+      "number": 95922,
+      "title": "Add next/nav-link for active-aware navigation links",
+      "url": "https://github.com/vercel/next.js/pull/95922",
       "author": "aurorascharff",
-      "at": "2026-07-18T00:03:39Z"
+      "at": "2026-07-18T13:03:56Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95914,
-      "title": "expand error handling docs",
-      "url": "https://github.com/vercel/next.js/pull/95914",
-      "author": "aurorascharff",
-      "at": "2026-07-18T00:01:49Z"
+      "number": 95920,
+      "title": "fix: wire experimental.webVitalsAttribution into useReportWebVitals",
+      "url": "https://github.com/vercel/next.js/pull/95920",
+      "author": "dayongkr",
+      "at": "2026-07-18T11:22:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48053,
-      "title": "fix(pg-meta): widen IQueryModifier.toSql to match the class impl",
-      "url": "https://github.com/supabase/supabase/pull/48053",
-      "author": "sivaprasath550",
-      "at": "2026-07-17T21:03:22Z"
+      "kind": "issue",
+      "number": 48055,
+      "title": "Unable to run any queries in the SQL Editor",
+      "url": "https://github.com/supabase/supabase/issues/48055",
+      "author": "iDesigns-dev",
+      "at": "2026-07-18T06:04:59Z"
     }
   ]
 }
