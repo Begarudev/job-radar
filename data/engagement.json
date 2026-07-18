@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T15:09:53.090Z",
+  "updatedAt": "2026-07-18T05:25:30.415Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5247,
-      "title": "Strip URL wrapper punctuation",
-      "url": "https://github.com/browser-use/browser-use/pull/5247",
-      "author": "adity982",
-      "at": "2026-07-17T07:09:08Z"
+      "number": 5249,
+      "title": "fix: prevent redact_sensitive_string placeholder cascade re-redaction (issue #5248)",
+      "url": "https://github.com/browser-use/browser-use/pull/5249",
+      "author": "truongsontung",
+      "at": "2026-07-18T02:51:56Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5246,
-      "title": "fix(mcp): mark read-only MCP tools with readOnlyHint annotations",
-      "url": "https://github.com/browser-use/browser-use/pull/5246",
-      "author": "ayaangazali",
-      "at": "2026-07-17T05:53:33Z"
+      "kind": "issue",
+      "number": 5248,
+      "title": "redact_sensitive_string: placeholder tags get re-redacted when a secret value contains the substring 'secret' (cascade leak)",
+      "url": "https://github.com/browser-use/browser-use/issues/5248",
+      "author": "truongsontung",
+      "at": "2026-07-18T02:49:36Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,44 +40,44 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3876,
-      "title": "test: add unit tests for the schema_converter boolean-schema filter",
-      "url": "https://github.com/ComposioHQ/composio/pull/3876",
-      "author": "eeshsaxena",
-      "at": "2026-07-17T14:15:07Z"
+      "number": 3886,
+      "title": "fix(cli): address bugbot review findings from the guardrails stack",
+      "url": "https://github.com/ComposioHQ/composio/pull/3886",
+      "author": "jkomyno",
+      "at": "2026-07-17T17:54:58Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3875,
-      "title": "docs(auth): OAuth callback identity verification",
-      "url": "https://github.com/ComposioHQ/composio/pull/3875",
-      "author": "anshugarg15",
-      "at": "2026-07-17T10:02:07Z"
+      "number": 3885,
+      "title": "refactor(cli): activate the try/catch and env ban and pin the boundary ratchet",
+      "url": "https://github.com/ComposioHQ/composio/pull/3885",
+      "author": "jkomyno",
+      "at": "2026-07-17T16:16:46Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2453,
-      "title": "fix(mistral): raise retryable error and reask correctly when response has no tool_calls",
-      "url": "https://github.com/567-labs/instructor/pull/2453",
-      "author": "sohumt123",
-      "at": "2026-07-17T06:34:06Z"
+      "number": 2456,
+      "title": "fix: extract_json_from_stream corrupts output on balanced-but-non-JSON braces before the payload",
+      "url": "https://github.com/567-labs/instructor/pull/2456",
+      "author": "ErenAta16",
+      "at": "2026-07-17T23:52:35Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2452,
-      "title": "fix(partial): don't fail final stream validation on explicit nulls for required nullable fields",
-      "url": "https://github.com/567-labs/instructor/pull/2452",
-      "author": "sohumt123",
-      "at": "2026-07-17T06:22:31Z"
+      "number": 2455,
+      "title": "fix(cache): isolate retry-loop kwargs so cache store key matches lookup key",
+      "url": "https://github.com/567-labs/instructor/pull/2455",
+      "author": "ErenAta16",
+      "at": "2026-07-17T20:50:41Z"
     },
     {
       "founder": "Harrison Chase",
@@ -91,48 +91,48 @@
       "at": "2026-07-17T15:05:01Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95897,
-      "title": "Replace Request Insights span recorder with request sessions",
-      "url": "https://github.com/vercel/next.js/pull/95897",
-      "author": "timneutkens",
-      "at": "2026-07-17T12:44:21Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38904,
+      "title": "Bug: test_stream_error_callback fails due to a bug in the testing code",
+      "url": "https://github.com/langchain-ai/langchain/issues/38904",
+      "author": "Tanmay9223",
+      "at": "2026-07-17T07:35:31Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95896,
-      "title": "docs: reframe prefetching around automatic vs. controllable behavior",
-      "url": "https://github.com/vercel/next.js/pull/95896",
+      "number": 95915,
+      "title": "test(instant-validation): failing fixtures for navigation signals in a parent layout",
+      "url": "https://github.com/vercel/next.js/pull/95915",
       "author": "aurorascharff",
-      "at": "2026-07-17T11:31:34Z"
+      "at": "2026-07-18T00:03:39Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95914,
+      "title": "expand error handling docs",
+      "url": "https://github.com/vercel/next.js/pull/95914",
+      "author": "aurorascharff",
+      "at": "2026-07-18T00:01:49Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48040,
-      "title": "fix(studio): chip away explicit-tabindex ratchet debt",
-      "url": "https://github.com/supabase/supabase/pull/48040",
-      "author": "dnywh",
-      "at": "2026-07-17T14:57:34Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48039,
-      "title": "Improve features search with relevance-based ranking",
-      "url": "https://github.com/supabase/supabase/pull/48039",
-      "author": "fsansalvadore",
-      "at": "2026-07-17T14:53:23Z"
+      "number": 48053,
+      "title": "fix(pg-meta): widen IQueryModifier.toSql to match the class impl",
+      "url": "https://github.com/supabase/supabase/pull/48053",
+      "author": "sivaprasath550",
+      "at": "2026-07-17T21:03:22Z"
     }
   ]
 }
