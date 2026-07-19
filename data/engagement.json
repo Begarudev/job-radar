@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-19T05:52:15.539Z",
+  "updatedAt": "2026-07-19T14:50:50.648Z",
   "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5254,
+      "title": "fix: preserve empty accessibility names by using explicit None check",
+      "url": "https://github.com/browser-use/browser-use/pull/5254",
+      "author": "truongsontung",
+      "at": "2026-07-19T08:49:59Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/5253",
       "author": "coleski",
       "at": "2026-07-18T17:47:28Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5252,
-      "title": "Bug: MCP server reports tool execution failures with isError=false",
-      "url": "https://github.com/browser-use/browser-use/issues/5252",
-      "author": "coleski",
-      "at": "2026-07-18T17:37:30Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -51,6 +51,17 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
+      "number": 2463,
+      "title": "fix(citations): honor the errs tolerance cap in CitationMixin fuzzy span matching",
+      "url": "https://github.com/567-labs/instructor/pull/2463",
+      "author": "lntutor",
+      "at": "2026-07-19T13:17:16Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
       "number": 2462,
       "title": "fix: add threading lock for _processing_models set in partial.py",
       "url": "https://github.com/567-labs/instructor/pull/2462",
@@ -58,26 +69,26 @@
       "at": "2026-07-18T18:15:17Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2461,
-      "title": "Thread-unsafe _processing_models set in partial.py",
-      "url": "https://github.com/567-labs/instructor/issues/2461",
-      "author": "truecallerabreham",
-      "at": "2026-07-18T18:10:45Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38950,
-      "title": "feat(openrouter): implement missing Rerank component for existing partner package",
-      "url": "https://github.com/langchain-ai/langchain/issues/38950",
-      "author": "Umar4880",
-      "at": "2026-07-19T00:58:38Z"
+      "number": 38958,
+      "title": "Bugs: _TracerCore copy, tool list mutation, log stream error handling, Anthropic merge corruption",
+      "url": "https://github.com/langchain-ai/langchain/issues/38958",
+      "author": "Amandeepsingh132",
+      "at": "2026-07-19T07:49:33Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95934,
+      "title": "Turbopack: stop copying sourcesContent into every serialized source map",
+      "url": "https://github.com/vercel/next.js/pull/95934",
+      "author": "gaearon",
+      "at": "2026-07-19T13:37:34Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -91,37 +102,26 @@
       "at": "2026-07-19T04:01:12Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95930,
-      "title": "Return plain text 404 for non-document requests to unknown paths",
-      "url": "https://github.com/vercel/next.js/pull/95930",
-      "author": "gaearon",
-      "at": "2026-07-18T23:34:27Z"
-    },
-    {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48071,
-      "title": "MarketingForm: grouped checkbox validation does not match the documented contract in the schema",
-      "url": "https://github.com/supabase/supabase/issues/48071",
-      "author": "jashkarangiya",
-      "at": "2026-07-19T05:48:39Z"
+      "kind": "pr",
+      "number": 48076,
+      "title": "fix(pg-meta): widen IQueryModifier.toSql signature",
+      "url": "https://github.com/supabase/supabase/pull/48076",
+      "author": "Avaneesh635",
+      "at": "2026-07-19T08:32:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48068,
-      "title": "fix(studio): honor OPENAI_BASE_URL in the AI Assistant model client",
-      "url": "https://github.com/supabase/supabase/pull/48068",
-      "author": "kimdzhekhon",
-      "at": "2026-07-19T02:32:25Z"
+      "number": 48075,
+      "title": "fix(studio): properly clear storage policy expressions when emptied in editor",
+      "url": "https://github.com/supabase/supabase/pull/48075",
+      "author": "pascalarth-max",
+      "at": "2026-07-19T07:14:42Z"
     }
   ]
 }
