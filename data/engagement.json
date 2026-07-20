@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-07-19T14:50:50.648Z",
-  "count": 11,
+  "updatedAt": "2026-07-20T06:18:01.770Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5254,
-      "title": "fix: preserve empty accessibility names by using explicit None check",
-      "url": "https://github.com/browser-use/browser-use/pull/5254",
-      "author": "truongsontung",
-      "at": "2026-07-19T08:49:59Z"
+      "number": 5256,
+      "title": "fix(mcp): return isError=true for failed tool executions in MCP server",
+      "url": "https://github.com/browser-use/browser-use/pull/5256",
+      "author": "PiedPiper911",
+      "at": "2026-07-20T04:56:51Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5253,
-      "title": "fix(mcp): mark tool execution failures as errors",
-      "url": "https://github.com/browser-use/browser-use/pull/5253",
-      "author": "coleski",
-      "at": "2026-07-18T17:47:28Z"
+      "number": 5255,
+      "title": "chore: relax provider SDK dependency pins",
+      "url": "https://github.com/browser-use/browser-use/pull/5255",
+      "author": "kjankov",
+      "at": "2026-07-19T16:23:48Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3891,
-      "title": "docs: add provider integration guides",
-      "url": "https://github.com/ComposioHQ/composio/pull/3891",
-      "author": "Rohithmatham12",
-      "at": "2026-07-19T04:00:07Z"
+      "number": 3885,
+      "title": "refactor(cli): activate the try/catch and env ban and pin the boundary ratchet",
+      "url": "https://github.com/ComposioHQ/composio/pull/3885",
+      "author": "jkomyno",
+      "at": "2026-07-17T16:16:46Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3890,
-      "title": "fix(py/triggers): stop() deadlock + subscribe() timeout connection leak",
-      "url": "https://github.com/ComposioHQ/composio/pull/3890",
-      "author": "sergioperezcheco",
-      "at": "2026-07-18T23:22:16Z"
+      "number": 3882,
+      "title": "refactor(cli): seal the CommandDescriptor seam and drop zod for Schema",
+      "url": "https://github.com/ComposioHQ/composio/pull/3882",
+      "author": "jkomyno",
+      "at": "2026-07-17T16:16:18Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2463,
-      "title": "fix(citations): honor the errs tolerance cap in CitationMixin fuzzy span matching",
-      "url": "https://github.com/567-labs/instructor/pull/2463",
+      "number": 2468,
+      "title": "docs(examples): add product fact provenance workflow",
+      "url": "https://github.com/567-labs/instructor/pull/2468",
+      "author": "wWzZb",
+      "at": "2026-07-20T02:30:26Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2467,
+      "title": "fix: avoid mutating Gemini generation config",
+      "url": "https://github.com/567-labs/instructor/pull/2467",
       "author": "lntutor",
-      "at": "2026-07-19T13:17:16Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2462,
-      "title": "fix: add threading lock for _processing_models set in partial.py",
-      "url": "https://github.com/567-labs/instructor/pull/2462",
-      "author": "truecallerabreham",
-      "at": "2026-07-18T18:15:17Z"
+      "at": "2026-07-19T15:03:01Z"
     },
     {
       "founder": "Harrison Chase",
@@ -84,44 +84,33 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95934,
-      "title": "Turbopack: stop copying sourcesContent into every serialized source map",
-      "url": "https://github.com/vercel/next.js/pull/95934",
+      "number": 95948,
+      "title": "[Not for merge] Consume the Flight render in-process and inline hydration data",
+      "url": "https://github.com/vercel/next.js/pull/95948",
       "author": "gaearon",
-      "at": "2026-07-19T13:37:34Z"
+      "at": "2026-07-20T02:55:03Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95931,
-      "title": "Add e2e test for stale use cache content served to cookieless requests in dev",
-      "url": "https://github.com/vercel/next.js/pull/95931",
-      "author": "gaojude",
-      "at": "2026-07-19T04:01:12Z"
+      "number": 95946,
+      "title": "[sourcemaps] Use file: sourcemaps for Turbopack to improve dev performance",
+      "url": "https://github.com/vercel/next.js/pull/95946",
+      "author": "gaearon",
+      "at": "2026-07-20T01:55:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48076,
-      "title": "fix(pg-meta): widen IQueryModifier.toSql signature",
-      "url": "https://github.com/supabase/supabase/pull/48076",
-      "author": "Avaneesh635",
-      "at": "2026-07-19T08:32:54Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48075,
-      "title": "fix(studio): properly clear storage policy expressions when emptied in editor",
-      "url": "https://github.com/supabase/supabase/pull/48075",
-      "author": "pascalarth-max",
-      "at": "2026-07-19T07:14:42Z"
+      "number": 48085,
+      "title": "Fix punctuation in README.md checklist",
+      "url": "https://github.com/supabase/supabase/pull/48085",
+      "author": "Tusar-05",
+      "at": "2026-07-19T20:20:39Z"
     }
   ]
 }
