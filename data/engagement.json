@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-07-20T06:18:01.770Z",
-  "count": 10,
+  "updatedAt": "2026-07-20T15:47:23.220Z",
+  "count": 15,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5256,
-      "title": "fix(mcp): return isError=true for failed tool executions in MCP server",
-      "url": "https://github.com/browser-use/browser-use/pull/5256",
-      "author": "PiedPiper911",
-      "at": "2026-07-20T04:56:51Z"
+      "number": 5261,
+      "title": "fix: prevent cascade re-redaction in redact_sensitive_string (fixes #5135, #5248)",
+      "url": "https://github.com/browser-use/browser-use/pull/5261",
+      "author": "AdarshJ173",
+      "at": "2026-07-20T15:19:36Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5255,
-      "title": "chore: relax provider SDK dependency pins",
-      "url": "https://github.com/browser-use/browser-use/pull/5255",
-      "author": "kjankov",
-      "at": "2026-07-19T16:23:48Z"
+      "number": 5260,
+      "title": "fix: prevent redact_sensitive_string cascade corruption (fixes #5135)",
+      "url": "https://github.com/browser-use/browser-use/pull/5260",
+      "author": "AdarshJ173",
+      "at": "2026-07-20T14:54:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3894,
+      "title": "CLI silently selects the wrong connected account; account selection is hidden and unavailable to proxy",
+      "url": "https://github.com/ComposioHQ/composio/issues/3894",
+      "author": "alt-glitch",
+      "at": "2026-07-20T13:32:45Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3885,
-      "title": "refactor(cli): activate the try/catch and env ban and pin the boundary ratchet",
-      "url": "https://github.com/ComposioHQ/composio/pull/3885",
-      "author": "jkomyno",
-      "at": "2026-07-17T16:16:46Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3882,
-      "title": "refactor(cli): seal the CommandDescriptor seam and drop zod for Schema",
-      "url": "https://github.com/ComposioHQ/composio/pull/3882",
-      "author": "jkomyno",
-      "at": "2026-07-17T16:16:18Z"
+      "number": 3893,
+      "title": "docs(examples): add local sandbox on Tenki example",
+      "url": "https://github.com/ComposioHQ/composio/pull/3893",
+      "author": "AlexanderArmua",
+      "at": "2026-07-20T12:47:49Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2468,
-      "title": "docs(examples): add product fact provenance workflow",
-      "url": "https://github.com/567-labs/instructor/pull/2468",
-      "author": "wWzZb",
-      "at": "2026-07-20T02:30:26Z"
+      "number": 2472,
+      "title": "fix(cache): isolate retry kwargs so store key matches lookup",
+      "url": "https://github.com/567-labs/instructor/pull/2472",
+      "author": "Solaris-star",
+      "at": "2026-07-20T08:29:00Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2467,
-      "title": "fix: avoid mutating Gemini generation config",
-      "url": "https://github.com/567-labs/instructor/pull/2467",
-      "author": "lntutor",
-      "at": "2026-07-19T15:03:01Z"
+      "number": 2471,
+      "title": "fix(citation): tolerate validation_context without a 'context' key",
+      "url": "https://github.com/567-labs/instructor/pull/2471",
+      "author": "Solaris-star",
+      "at": "2026-07-20T08:26:09Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,37 +80,92 @@
       "at": "2026-07-19T07:49:33Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95948,
-      "title": "[Not for merge] Consume the Flight render in-process and inline hydration data",
-      "url": "https://github.com/vercel/next.js/pull/95948",
-      "author": "gaearon",
-      "at": "2026-07-20T02:55:03Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38950,
+      "title": "feat(openrouter): implement missing Rerank component for existing partner package",
+      "url": "https://github.com/langchain-ai/langchain/issues/38950",
+      "author": "Umar4880",
+      "at": "2026-07-19T00:58:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95946,
-      "title": "[sourcemaps] Use file: sourcemaps for Turbopack to improve dev performance",
-      "url": "https://github.com/vercel/next.js/pull/95946",
-      "author": "gaearon",
-      "at": "2026-07-20T01:55:06Z"
+      "number": 95964,
+      "title": "Track whether runtime data is accessed during prefetch",
+      "url": "https://github.com/vercel/next.js/pull/95964",
+      "author": "acdlite",
+      "at": "2026-07-20T15:45:59Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 95963,
+      "title": "Add shell offset to static segment prefetches",
+      "url": "https://github.com/vercel/next.js/pull/95963",
+      "author": "acdlite",
+      "at": "2026-07-20T15:45:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48085,
-      "title": "Fix punctuation in README.md checklist",
-      "url": "https://github.com/supabase/supabase/pull/48085",
-      "author": "Tusar-05",
-      "at": "2026-07-19T20:20:39Z"
+      "number": 48102,
+      "title": "fix(assistant): SQL approval buttons do nothing",
+      "url": "https://github.com/supabase/supabase/pull/48102",
+      "author": "awaseem",
+      "at": "2026-07-20T15:16:43Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48101,
+      "title": "fix(studio): untangle nested buttons in editor tabs",
+      "url": "https://github.com/supabase/supabase/pull/48101",
+      "author": "dnywh",
+      "at": "2026-07-20T15:14:22Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4123,
+      "title": "Setup OIDC flow for npm modal pkg",
+      "url": "https://github.com/modal-labs/modal-client/issues/4123",
+      "author": "wardpeet",
+      "at": "2026-07-20T14:37:41Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4122,
+      "title": "Proposal: portable failure passports for replaying distributed executions",
+      "url": "https://github.com/modal-labs/modal-client/issues/4122",
+      "author": "RitwijParmar",
+      "at": "2026-07-20T07:40:30Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2241,
+      "title": "feat: Add optional AI coding assistant presets",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2241",
+      "author": "thepropotato",
+      "at": "2026-07-20T13:46:30Z"
     }
   ]
 }
