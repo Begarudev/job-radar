@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-07-20T15:47:23.220Z",
-  "count": 15,
+  "updatedAt": "2026-07-21T05:50:11.199Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5261,
-      "title": "fix: prevent cascade re-redaction in redact_sensitive_string (fixes #5135, #5248)",
-      "url": "https://github.com/browser-use/browser-use/pull/5261",
-      "author": "AdarshJ173",
-      "at": "2026-07-20T15:19:36Z"
+      "number": 5263,
+      "title": "fix(browser): stop double-attaching pre-existing targets at session startup",
+      "url": "https://github.com/browser-use/browser-use/pull/5263",
+      "author": "dev-synthia",
+      "at": "2026-07-20T22:05:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5260,
-      "title": "fix: prevent redact_sensitive_string cascade corruption (fixes #5135)",
-      "url": "https://github.com/browser-use/browser-use/pull/5260",
-      "author": "AdarshJ173",
-      "at": "2026-07-20T14:54:53Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3894,
-      "title": "CLI silently selects the wrong connected account; account selection is hidden and unavailable to proxy",
-      "url": "https://github.com/ComposioHQ/composio/issues/3894",
-      "author": "alt-glitch",
-      "at": "2026-07-20T13:32:45Z"
+      "number": 5262,
+      "title": "fix(browser): apply storage_state cookies when passed as an in-memory dict",
+      "url": "https://github.com/browser-use/browser-use/pull/5262",
+      "author": "ayaangazali",
+      "at": "2026-07-20T18:22:21Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3893,
-      "title": "docs(examples): add local sandbox on Tenki example",
-      "url": "https://github.com/ComposioHQ/composio/pull/3893",
-      "author": "AlexanderArmua",
-      "at": "2026-07-20T12:47:49Z"
+      "number": 3897,
+      "title": "fix(cli): stabilize multi-account selection",
+      "url": "https://github.com/ComposioHQ/composio/pull/3897",
+      "author": "CryogenicPlanet",
+      "at": "2026-07-20T20:23:30Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2473,
+      "title": "fix(batch): accept empty structured results",
+      "url": "https://github.com/567-labs/instructor/pull/2473",
+      "author": "hsusul",
+      "at": "2026-07-20T20:46:49Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +58,70 @@
       "at": "2026-07-20T08:29:00Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2471,
-      "title": "fix(citation): tolerate validation_context without a 'context' key",
-      "url": "https://github.com/567-labs/instructor/pull/2471",
-      "author": "Solaris-star",
-      "at": "2026-07-20T08:26:09Z"
+      "number": 38986,
+      "title": "release(fireworks): 1.5.0",
+      "url": "https://github.com/langchain-ai/langchain/pull/38986",
+      "author": "imnishitha",
+      "at": "2026-07-21T02:46:58Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38958,
-      "title": "Bugs: _TracerCore copy, tool list mutation, log stream error handling, Anthropic merge corruption",
-      "url": "https://github.com/langchain-ai/langchain/issues/38958",
-      "author": "Amandeepsingh132",
-      "at": "2026-07-19T07:49:33Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38950,
-      "title": "feat(openrouter): implement missing Rerank component for existing partner package",
-      "url": "https://github.com/langchain-ai/langchain/issues/38950",
-      "author": "Umar4880",
-      "at": "2026-07-19T00:58:38Z"
+      "kind": "pr",
+      "number": 38985,
+      "title": "release(anthropic): 1.5.0",
+      "url": "https://github.com/langchain-ai/langchain/pull/38985",
+      "author": "imnishitha",
+      "at": "2026-07-20T21:18:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95964,
-      "title": "Track whether runtime data is accessed during prefetch",
-      "url": "https://github.com/vercel/next.js/pull/95964",
-      "author": "acdlite",
-      "at": "2026-07-20T15:45:59Z"
+      "number": 95995,
+      "title": "fix tests: update remaining stale inline snapshots for single Learn more link",
+      "url": "https://github.com/vercel/next.js/pull/95995",
+      "author": "deepshekhardas",
+      "at": "2026-07-21T04:28:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95963,
-      "title": "Add shell offset to static segment prefetches",
-      "url": "https://github.com/vercel/next.js/pull/95963",
-      "author": "acdlite",
-      "at": "2026-07-20T15:45:54Z"
+      "number": 95994,
+      "title": "[turbopack] Tree-shake CJS exports that use the `Object.defineProperty` syntax",
+      "url": "https://github.com/vercel/next.js/pull/95994",
+      "author": "sampoder",
+      "at": "2026-07-21T04:05:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48102,
-      "title": "fix(assistant): SQL approval buttons do nothing",
-      "url": "https://github.com/supabase/supabase/pull/48102",
-      "author": "awaseem",
-      "at": "2026-07-20T15:16:43Z"
+      "number": 48134,
+      "title": "Save local development",
+      "url": "https://github.com/supabase/supabase/pull/48134",
+      "author": "AlazabDev",
+      "at": "2026-07-21T05:48:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48101,
-      "title": "fix(studio): untangle nested buttons in editor tabs",
-      "url": "https://github.com/supabase/supabase/pull/48101",
-      "author": "dnywh",
-      "at": "2026-07-20T15:14:22Z"
+      "kind": "issue",
+      "number": 48133,
+      "title": "Billing Cycle",
+      "url": "https://github.com/supabase/supabase/issues/48133",
+      "author": "lucianonicolasfalcone-ux",
+      "at": "2026-07-21T05:35:57Z"
     },
     {
       "founder": "Erik Bernhardsson",
