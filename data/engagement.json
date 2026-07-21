@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-07-21T05:50:11.199Z",
-  "count": 14,
+  "updatedAt": "2026-07-21T15:39:46.516Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5263,
-      "title": "fix(browser): stop double-attaching pre-existing targets at session startup",
-      "url": "https://github.com/browser-use/browser-use/pull/5263",
-      "author": "dev-synthia",
-      "at": "2026-07-20T22:05:14Z"
+      "number": 5266,
+      "title": "fix(dom): preserve explicitly empty accessibility name in DOMInteractedElement",
+      "url": "https://github.com/browser-use/browser-use/pull/5266",
+      "author": "sergioperezcheco",
+      "at": "2026-07-21T13:44:50Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5262,
-      "title": "fix(browser): apply storage_state cookies when passed as an in-memory dict",
-      "url": "https://github.com/browser-use/browser-use/pull/5262",
-      "author": "ayaangazali",
-      "at": "2026-07-20T18:22:21Z"
+      "number": 5265,
+      "title": "fix(utils): rank .devN releases below pre-releases in version-check fallback",
+      "url": "https://github.com/browser-use/browser-use/pull/5265",
+      "author": "sergioperezcheco",
+      "at": "2026-07-21T12:50:04Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3897,
-      "title": "fix(cli): stabilize multi-account selection",
-      "url": "https://github.com/ComposioHQ/composio/pull/3897",
-      "author": "CryogenicPlanet",
-      "at": "2026-07-20T20:23:30Z"
+      "number": 3901,
+      "title": "refactor(cli): migrate to Effect v4 beta",
+      "url": "https://github.com/ComposioHQ/composio/pull/3901",
+      "author": "jkomyno",
+      "at": "2026-07-21T12:04:33Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3900,
+      "title": "fix(core): secure Tool Router session URL uploads",
+      "url": "https://github.com/ComposioHQ/composio/pull/3900",
+      "author": "shreysingla11",
+      "at": "2026-07-21T11:16:35Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,15 +58,15 @@
       "at": "2026-07-20T20:46:49Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2472,
-      "title": "fix(cache): isolate retry kwargs so store key matches lookup",
-      "url": "https://github.com/567-labs/instructor/pull/2472",
-      "author": "Solaris-star",
-      "at": "2026-07-20T08:29:00Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 38989,
+      "title": "core: `get_usage_metadata_callback` keeps tracking after the `with` block raises",
+      "url": "https://github.com/langchain-ai/langchain/issues/38989",
+      "author": "belljun3395",
+      "at": "2026-07-21T07:58:54Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +80,48 @@
       "at": "2026-07-21T02:46:58Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 38985,
-      "title": "release(anthropic): 1.5.0",
-      "url": "https://github.com/langchain-ai/langchain/pull/38985",
-      "author": "imnishitha",
-      "at": "2026-07-20T21:18:13Z"
+      "number": 96005,
+      "title": "Per-route prerender-manifest.json",
+      "url": "https://github.com/vercel/next.js/pull/96005",
+      "author": "mischnic",
+      "at": "2026-07-21T15:07:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 95995,
-      "title": "fix tests: update remaining stale inline snapshots for single Learn more link",
-      "url": "https://github.com/vercel/next.js/pull/95995",
-      "author": "deepshekhardas",
-      "at": "2026-07-21T04:28:13Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 95994,
-      "title": "[turbopack] Tree-shake CJS exports that use the `Object.defineProperty` syntax",
-      "url": "https://github.com/vercel/next.js/pull/95994",
-      "author": "sampoder",
-      "at": "2026-07-21T04:05:12Z"
+      "number": 96004,
+      "title": "Move preview props into separate manifest",
+      "url": "https://github.com/vercel/next.js/pull/96004",
+      "author": "mischnic",
+      "at": "2026-07-21T15:07:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48134,
-      "title": "Save local development",
-      "url": "https://github.com/supabase/supabase/pull/48134",
-      "author": "AlazabDev",
-      "at": "2026-07-21T05:48:04Z"
+      "number": 48154,
+      "title": "feat(pipelines): Adjust blog post naming",
+      "url": "https://github.com/supabase/supabase/pull/48154",
+      "author": "iambriccardo",
+      "at": "2026-07-21T15:29:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48133,
-      "title": "Billing Cycle",
-      "url": "https://github.com/supabase/supabase/issues/48133",
-      "author": "lucianonicolasfalcone-ux",
-      "at": "2026-07-21T05:35:57Z"
+      "kind": "pr",
+      "number": 48153,
+      "title": "feat(self-hosted): envoy is the default api gateway",
+      "url": "https://github.com/supabase/supabase/pull/48153",
+      "author": "aantti",
+      "at": "2026-07-21T15:22:58Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -133,28 +133,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4123",
       "author": "wardpeet",
       "at": "2026-07-20T14:37:41Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4122,
-      "title": "Proposal: portable failure passports for replaying distributed executions",
-      "url": "https://github.com/modal-labs/modal-client/issues/4122",
-      "author": "RitwijParmar",
-      "at": "2026-07-20T07:40:30Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2241,
-      "title": "feat: Add optional AI coding assistant presets",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2241",
-      "author": "thepropotato",
-      "at": "2026-07-20T13:46:30Z"
     }
   ]
 }
