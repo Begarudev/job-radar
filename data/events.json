@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T09:09:25.477Z",
+  "updatedAt": "2026-07-22T09:09:16.331Z",
   "count": 2,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "Details about the OpenAI Bio Bounty program",
       "url": "https://openai.com/index/bio-bug-bounty",
       "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "fetchedAt": "2026-07-21T09:09:25.469Z",
+      "fetchedAt": "2026-07-22T09:09:16.323Z",
       "company": "OpenAI",
       "tags": []
     },
@@ -22,7 +22,7 @@
       "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
       "url": "https://www.runpod.io/blog/flash-hack-day",
       "publishedAt": "Sat, 18 Jul 2026 19:42:15 GMT",
-      "fetchedAt": "2026-07-21T09:09:25.260Z",
+      "fetchedAt": "2026-07-22T09:09:16.122Z",
       "company": "RunPod",
       "tags": []
     }
