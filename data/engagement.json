@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-21T15:39:46.516Z",
+  "updatedAt": "2026-07-22T05:50:12.131Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5268,
+      "title": "fix: dispatch TabCreatedEvent for window.open()/target=_blank popups",
+      "url": "https://github.com/browser-use/browser-use/pull/5268",
+      "author": "akshaykumaran705",
+      "at": "2026-07-22T00:24:24Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,48 +25,37 @@
       "at": "2026-07-21T13:44:50Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5265,
-      "title": "fix(utils): rank .devN releases below pre-releases in version-check fallback",
-      "url": "https://github.com/browser-use/browser-use/pull/5265",
-      "author": "sergioperezcheco",
-      "at": "2026-07-21T12:50:04Z"
+      "number": 3904,
+      "title": "feat(docs): attribute dashboard sign-ups with UTM params on all docs links",
+      "url": "https://github.com/ComposioHQ/composio/pull/3904",
+      "author": "sarahsimionescu",
+      "at": "2026-07-21T23:05:35Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3901,
-      "title": "refactor(cli): migrate to Effect v4 beta",
-      "url": "https://github.com/ComposioHQ/composio/pull/3901",
-      "author": "jkomyno",
-      "at": "2026-07-21T12:04:33Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3900,
-      "title": "fix(core): secure Tool Router session URL uploads",
-      "url": "https://github.com/ComposioHQ/composio/pull/3900",
-      "author": "shreysingla11",
-      "at": "2026-07-21T11:16:35Z"
+      "number": 3903,
+      "title": "feat(cli): add `composio onboard` — guided first-run to first execute",
+      "url": "https://github.com/ComposioHQ/composio/pull/3903",
+      "author": "KJ-11",
+      "at": "2026-07-21T21:55:08Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2473,
-      "title": "fix(batch): accept empty structured results",
-      "url": "https://github.com/567-labs/instructor/pull/2473",
-      "author": "hsusul",
-      "at": "2026-07-20T20:46:49Z"
+      "number": 2423,
+      "title": "feat(sarvam): add Sarvam provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2423",
+      "author": "EshwarCVS",
+      "at": "2026-07-09T18:18:10Z"
     },
     {
       "founder": "Harrison Chase",
@@ -72,67 +72,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 38986,
-      "title": "release(fireworks): 1.5.0",
-      "url": "https://github.com/langchain-ai/langchain/pull/38986",
-      "author": "imnishitha",
-      "at": "2026-07-21T02:46:58Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96005,
-      "title": "Per-route prerender-manifest.json",
-      "url": "https://github.com/vercel/next.js/pull/96005",
-      "author": "mischnic",
-      "at": "2026-07-21T15:07:38Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96004,
-      "title": "Move preview props into separate manifest",
-      "url": "https://github.com/vercel/next.js/pull/96004",
-      "author": "mischnic",
-      "at": "2026-07-21T15:07:36Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48154,
-      "title": "feat(pipelines): Adjust blog post naming",
-      "url": "https://github.com/supabase/supabase/pull/48154",
-      "author": "iambriccardo",
-      "at": "2026-07-21T15:29:34Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48153,
-      "title": "feat(self-hosted): envoy is the default api gateway",
-      "url": "https://github.com/supabase/supabase/pull/48153",
-      "author": "aantti",
-      "at": "2026-07-21T15:22:58Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4123,
-      "title": "Setup OIDC flow for npm modal pkg",
-      "url": "https://github.com/modal-labs/modal-client/issues/4123",
-      "author": "wardpeet",
-      "at": "2026-07-20T14:37:41Z"
+      "number": 38977,
+      "title": "anthropic: Streaming with adaptive thinking + display: \"omitted\" produces un-replayable history (400 thinking.thinking: Field required)",
+      "url": "https://github.com/langchain-ai/langchain/issues/38977",
+      "author": "ArnaVin",
+      "at": "2026-07-20T19:49:01Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96043,
+      "title": "turbo-tasks-backend: add TaskAccess (MaybeCreate/MustExist) to task lookups",
+      "url": "https://github.com/vercel/next.js/pull/96043",
+      "author": "lukesandberg",
+      "at": "2026-07-22T05:05:25Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 96042,
+      "title": "Turbopack: client chunks attributed by static import() closure, not by render — dynamic imports never leave the eager script set",
+      "url": "https://github.com/vercel/next.js/issues/96042",
+      "author": "sbfs-co",
+      "at": "2026-07-22T04:51:44Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.2.11 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.2.11",
+      "author": "eps1lon",
+      "at": "2026-07-21T16:58:28Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48172,
+      "title": "Add Francisco Ulate to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/48172",
+      "author": "Darkfra10",
+      "at": "2026-07-22T02:42:51Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48170,
+      "title": "fix(eslint): promote require-explicit-tabindex to error",
+      "url": "https://github.com/supabase/supabase/pull/48170",
+      "author": "dnywh",
+      "at": "2026-07-21T20:51:23Z"
     }
   ]
 }
