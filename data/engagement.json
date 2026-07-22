@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-22T05:50:12.131Z",
-  "count": 12,
+  "updatedAt": "2026-07-22T15:29:59.820Z",
+  "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5270,
+      "title": "fix(dom): preserve empty string ax_name in load_from_enhanced_dom_tree",
+      "url": "https://github.com/browser-use/browser-use/pull/5270",
+      "author": "Diwak4r",
+      "at": "2026-07-22T14:15:45Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,26 @@
       "at": "2026-07-22T00:24:24Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5266,
-      "title": "fix(dom): preserve explicitly empty accessibility name in DOMInteractedElement",
-      "url": "https://github.com/browser-use/browser-use/pull/5266",
-      "author": "sergioperezcheco",
-      "at": "2026-07-21T13:44:50Z"
+      "number": 3910,
+      "title": "docs(webhooks): render the webhook payload reference (PLEN-2793)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3910",
+      "author": "anshugarg15",
+      "at": "2026-07-22T12:11:47Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3904,
-      "title": "feat(docs): attribute dashboard sign-ups with UTM params on all docs links",
-      "url": "https://github.com/ComposioHQ/composio/pull/3904",
-      "author": "sarahsimionescu",
-      "at": "2026-07-21T23:05:35Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3903,
-      "title": "feat(cli): add `composio onboard` — guided first-run to first execute",
-      "url": "https://github.com/ComposioHQ/composio/pull/3903",
-      "author": "KJ-11",
-      "at": "2026-07-21T21:55:08Z"
+      "number": 3909,
+      "title": "security: fix 3 CodeQL alerts (2026-07-22)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3909",
+      "author": "groovyBugify",
+      "at": "2026-07-22T10:13:45Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,44 +62,44 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 38989,
-      "title": "core: `get_usage_metadata_callback` keeps tracking after the `with` block raises",
-      "url": "https://github.com/langchain-ai/langchain/issues/38989",
-      "author": "belljun3395",
-      "at": "2026-07-21T07:58:54Z"
+      "number": 38950,
+      "title": "feat(openrouter): implement missing Rerank component for existing partner package",
+      "url": "https://github.com/langchain-ai/langchain/issues/38950",
+      "author": "Umar4880",
+      "at": "2026-07-19T00:58:38Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 38977,
-      "title": "anthropic: Streaming with adaptive thinking + display: \"omitted\" produces un-replayable history (400 thinking.thinking: Field required)",
-      "url": "https://github.com/langchain-ai/langchain/issues/38977",
-      "author": "ArnaVin",
-      "at": "2026-07-20T19:49:01Z"
+      "kind": "pr",
+      "number": 38910,
+      "title": "feat(langchain): expose toggle to trace inputs on `AgentMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/38910",
+      "author": "ccurme",
+      "at": "2026-07-17T15:05:01Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96043,
-      "title": "turbo-tasks-backend: add TaskAccess (MaybeCreate/MustExist) to task lookups",
-      "url": "https://github.com/vercel/next.js/pull/96043",
-      "author": "lukesandberg",
-      "at": "2026-07-22T05:05:25Z"
+      "number": 96060,
+      "title": "Replace vendored `http-proxy` with `httpxy`",
+      "url": "https://github.com/vercel/next.js/pull/96060",
+      "author": "eps1lon",
+      "at": "2026-07-22T15:26:54Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96042,
-      "title": "Turbopack: client chunks attributed by static import() closure, not by render — dynamic imports never leave the eager script set",
-      "url": "https://github.com/vercel/next.js/issues/96042",
-      "author": "sbfs-co",
-      "at": "2026-07-22T04:51:44Z"
+      "kind": "pr",
+      "number": 96059,
+      "title": "Update vendored `@mswjs/interceptors` to 0.41.9",
+      "url": "https://github.com/vercel/next.js/pull/96059",
+      "author": "eps1lon",
+      "at": "2026-07-22T15:26:47Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -117,22 +117,33 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48172,
-      "title": "Add Francisco Ulate to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/48172",
-      "author": "Darkfra10",
-      "at": "2026-07-22T02:42:51Z"
+      "number": 48200,
+      "title": "[FE-3724] feat(studio): add enable cleanup button to cron jobs page",
+      "url": "https://github.com/supabase/supabase/pull/48200",
+      "author": "alaister",
+      "at": "2026-07-22T14:51:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48170,
-      "title": "fix(eslint): promote require-explicit-tabindex to error",
-      "url": "https://github.com/supabase/supabase/pull/48170",
-      "author": "dnywh",
-      "at": "2026-07-21T20:51:23Z"
+      "number": 48199,
+      "title": "chore: refactor database advisors and database wrapper federated content",
+      "url": "https://github.com/supabase/supabase/pull/48199",
+      "author": "jeremenichelli",
+      "at": "2026-07-22T14:40:58Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1617,
+      "title": "[codex] Prepare Julep 3.0.0rc4 and refresh documentation",
+      "url": "https://github.com/julep-ai/julep/pull/1617",
+      "author": "creatorrr",
+      "at": "2026-07-22T07:53:47Z"
     }
   ]
 }
