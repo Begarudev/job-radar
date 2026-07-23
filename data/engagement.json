@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T05:53:31.077Z",
+  "updatedAt": "2026-07-23T15:52:18.001Z",
   "count": 12,
   "signals": [
     {
@@ -29,110 +29,110 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3918,
-      "title": "CLI: `composio listen` crashes at realtime init in all published binaries (darwin-arm64 + linux-x64): \"Object is not a constructor\" loading ",
-      "url": "https://github.com/ComposioHQ/composio/issues/3918",
-      "author": "bill-starfoundry",
-      "at": "2026-07-23T04:56:20Z"
+      "number": 3925,
+      "title": "[Bug]: CLI error diagnostics are dropped when a referenced .map source map is malformed",
+      "url": "https://github.com/ComposioHQ/composio/issues/3925",
+      "author": "graysoncooper",
+      "at": "2026-07-23T15:45:10Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 3917,
-      "title": "Google Docs tabs: no read/write support in GOOGLEDOCS_* actions",
-      "url": "https://github.com/ComposioHQ/composio/issues/3917",
-      "author": "tylew",
-      "at": "2026-07-23T03:32:12Z"
+      "number": 3924,
+      "title": "[Feature]: Add OnlineMeetingTranscript.Read.All scope to Microsoft Teams integration",
+      "url": "https://github.com/ComposioHQ/composio/issues/3924",
+      "author": "priyansh-shadow26",
+      "at": "2026-07-23T11:42:58Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2475,
-      "title": "docs(vertex): move model= from genai.Client() to from_genai()",
-      "url": "https://github.com/567-labs/instructor/pull/2475",
-      "author": "Goutham-Annem",
-      "at": "2026-07-23T05:38:41Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2474,
-      "title": "fix(retry): attach _total_usage to successful retry responses",
-      "url": "https://github.com/567-labs/instructor/pull/2474",
-      "author": "Goutham-Annem",
-      "at": "2026-07-23T05:34:44Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96087,
-      "title": "Turbopack: Refactor watcher event handling and batching logic",
-      "url": "https://github.com/vercel/next.js/pull/96087",
-      "author": "bgw",
-      "at": "2026-07-23T01:22:25Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96086,
-      "title": "[turbopack] On-demand memory report for the dev server",
-      "url": "https://github.com/vercel/next.js/pull/96086",
-      "author": "lukesandberg",
-      "at": "2026-07-22T23:22:29Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 48229,
-      "title": "chore: opportunity for monorepo-wide dead code cleanup with knip",
-      "url": "https://github.com/supabase/supabase/issues/48229",
-      "author": "YuDavidCao",
-      "at": "2026-07-23T04:37:17Z"
+      "number": 2477,
+      "title": "bug: Anthropic does not disable parallel tool calling",
+      "url": "https://github.com/567-labs/instructor/issues/2477",
+      "author": "gabrgiov",
+      "at": "2026-07-23T14:39:05Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2476,
+      "title": "fix: build partial model instances for incomplete list[BaseModel] items during streaming",
+      "url": "https://github.com/567-labs/instructor/pull/2476",
+      "author": "manjunathbhaskar",
+      "at": "2026-07-23T09:14:11Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39039,
+      "title": "langchain-openai: Responses API streaming silently drops response.failed/error events. A failed stream is indistinguishable from a successfu",
+      "url": "https://github.com/langchain-ai/langchain/issues/39039",
+      "author": "GoodWorkRic",
+      "at": "2026-07-23T12:58:30Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96098,
+      "title": "Remove inert experimental.viewTransition flag",
+      "url": "https://github.com/vercel/next.js/pull/96098",
+      "author": "aurorascharff",
+      "at": "2026-07-23T14:53:19Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96096,
+      "title": "Restore partial fallback shell upgrade coverage",
+      "url": "https://github.com/vercel/next.js/pull/96096",
+      "author": "devjiwonchoi",
+      "at": "2026-07-23T14:33:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48228,
-      "title": "[FE-2271] fix: correct stale email confirmation dashboard paths",
-      "url": "https://github.com/supabase/supabase/pull/48228",
-      "author": "alaister",
-      "at": "2026-07-23T03:34:05Z"
+      "number": 48257,
+      "title": "docs(troubleshooting): troubleshooting guide so users can amend their failed migrations",
+      "url": "https://github.com/supabase/supabase/pull/48257",
+      "author": "aaronByrne1",
+      "at": "2026-07-23T15:46:40Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 1618,
-      "title": "[codex] Add local execution and adoption APIs",
-      "url": "https://github.com/julep-ai/julep/pull/1618",
-      "author": "creatorrr",
-      "at": "2026-07-23T05:43:45Z"
+      "number": 48256,
+      "title": "fix(studio): remove marketplaceIntegrations flag, make new integrations layout permanent",
+      "url": "https://github.com/supabase/supabase/pull/48256",
+      "author": "fsansalvadore",
+      "at": "2026-07-23T15:22:05Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1617,
-      "title": "[codex] Prepare Julep 3.0.0rc4 and refresh documentation",
-      "url": "https://github.com/julep-ai/julep/pull/1617",
-      "author": "creatorrr",
-      "at": "2026-07-22T07:53:47Z"
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4124,
+      "title": "JS/TS SDK can't run on Cloudflare Workers (edge runtime): gRPC-over-HTTP/2 transport is unsupported",
+      "url": "https://github.com/modal-labs/modal-client/issues/4124",
+      "author": "0x0f0f0f",
+      "at": "2026-07-23T09:35:24Z"
     }
   ]
 }
