@@ -1,50 +1,28 @@
 {
-  "updatedAt": "2026-07-24T05:49:40.954Z",
-  "count": 12,
+  "updatedAt": "2026-07-24T15:21:54.033Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5289,
-      "title": "fix: resolve modern custom action annotations",
-      "url": "https://github.com/browser-use/browser-use/pull/5289",
-      "author": "GautamSharma99",
-      "at": "2026-07-23T17:12:57Z"
+      "number": 5295,
+      "title": "Add MCP Toplist rank badge",
+      "url": "https://github.com/browser-use/browser-use/pull/5295",
+      "author": "chrstphe",
+      "at": "2026-07-24T10:35:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5288,
-      "title": "fix: preserve domain policy semantics for large lists",
-      "url": "https://github.com/browser-use/browser-use/pull/5288",
-      "author": "GautamSharma99",
-      "at": "2026-07-23T17:07:53Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3932,
-      "title": "composio --install-skill` fails with HTTP 404 — release @composio/cli@0.3.0 does not exist",
-      "url": "https://github.com/ComposioHQ/composio/issues/3932",
-      "author": "gustavoilhamorais",
-      "at": "2026-07-24T01:19:42Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3930,
-      "title": "Reddit OAuth: client_id rejected as invalid only for authenticated grant attempts (not anonymous)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3930",
-      "author": "ajass",
-      "at": "2026-07-24T00:14:06Z"
+      "number": 5294,
+      "title": "fix(deepseek): integrate ChatDeepSeek model and enhance functionality",
+      "url": "https://github.com/browser-use/browser-use/pull/5294",
+      "author": "zxjlm",
+      "at": "2026-07-24T08:43:20Z"
     },
     {
       "founder": "Jason Liu",
@@ -72,67 +50,78 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39047,
-      "title": "core: index() with key_encoder=\"sha256\"/\"sha512\"/\"blake2b\" produces non-UUID document IDs, breaking Qdrant",
-      "url": "https://github.com/langchain-ai/langchain/issues/39047",
-      "author": "vxa8502",
-      "at": "2026-07-23T23:14:04Z"
+      "kind": "pr",
+      "number": 39053,
+      "title": "feat(standard-tests): replace mypy by ty for type checking",
+      "url": "https://github.com/langchain-ai/langchain/pull/39053",
+      "author": "cbornet",
+      "at": "2026-07-24T11:04:19Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39039,
-      "title": "langchain-openai: Responses API streaming silently drops response.failed/error events. A failed stream is indistinguishable from a successfu",
-      "url": "https://github.com/langchain-ai/langchain/issues/39039",
-      "author": "GoodWorkRic",
-      "at": "2026-07-23T12:58:30Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96129,
-      "title": "Pre-hydration sidebar state with Cache Components and Partial Prefetching",
-      "url": "https://github.com/vercel/next.js/issues/96129",
-      "author": "Chibuike-web",
-      "at": "2026-07-24T05:43:48Z"
+      "number": 39052,
+      "title": "QdrantVectorStore.as_retriever(search_type=\"mmr\") inverts lambda_mult semantics",
+      "url": "https://github.com/langchain-ai/langchain/issues/39052",
+      "author": "het-patel-9104",
+      "at": "2026-07-24T10:25:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96125,
-      "title": "chore: remove obsolete isTurbotrace flag",
-      "url": "https://github.com/vercel/next.js/pull/96125",
-      "author": "MaNaN1803",
-      "at": "2026-07-24T04:11:39Z"
+      "number": 96153,
+      "title": "Run Cache Components dev validation on a worker thread",
+      "url": "https://github.com/vercel/next.js/pull/96153",
+      "author": "unstubbable",
+      "at": "2026-07-24T15:05:43Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96152,
+      "title": "Add a benchmark for dev Cache Components validation on a worker thread",
+      "url": "https://github.com/vercel/next.js/pull/96152",
+      "author": "unstubbable",
+      "at": "2026-07-24T15:05:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48283,
-      "title": "Subtle bug in Remix guide",
-      "url": "https://github.com/supabase/supabase/pull/48283",
-      "author": "yallalingyaradetti92",
-      "at": "2026-07-24T04:18:31Z"
+      "number": 48306,
+      "title": "feat: Add an activity graph in the user details sheet",
+      "url": "https://github.com/supabase/supabase/pull/48306",
+      "author": "ivasilov",
+      "at": "2026-07-24T14:36:09Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48305,
+      "title": "feat(studio): log_sql content shape + remap content.sql to unchecked_sql",
+      "url": "https://github.com/supabase/supabase/pull/48305",
+      "author": "charislam",
+      "at": "2026-07-24T14:17:44Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "issue",
-      "number": 4124,
-      "title": "JS/TS SDK can't run on Cloudflare Workers (edge runtime): gRPC-over-HTTP/2 transport is unsupported",
-      "url": "https://github.com/modal-labs/modal-client/issues/4124",
-      "author": "0x0f0f0f",
-      "at": "2026-07-23T09:35:24Z"
+      "number": 1621,
+      "title": "[Feature] Deterministic governance for task steps — tool-call authorization, PII scanning, cost budgets, and step-level audit trail",
+      "url": "https://github.com/julep-ai/julep/issues/1621",
+      "author": "nagasatish007",
+      "at": "2026-07-24T08:10:01Z"
     }
   ]
 }
