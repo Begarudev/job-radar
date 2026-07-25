@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-07-25T05:42:29.121Z",
-  "count": 13,
+  "updatedAt": "2026-07-25T14:58:28.759Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5303,
-      "title": "fix(utils): resolve redact cascade bug, Windows path tests, and audit remediation",
-      "url": "https://github.com/browser-use/browser-use/pull/5303",
-      "author": "Ranga-Prasath-22",
-      "at": "2026-07-25T02:00:55Z"
+      "number": 5306,
+      "title": "fix(tokens): subtract cache-creation tokens from uncached_prompt_tokens to prevent double-counting",
+      "url": "https://github.com/browser-use/browser-use/pull/5306",
+      "author": "feiiiiii5",
+      "at": "2026-07-25T05:47:09Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 5301,
-      "title": "Add REFUTE scientific critique + calibration benchmark",
-      "url": "https://github.com/browser-use/browser-use/issues/5301",
-      "author": "connerlambden",
-      "at": "2026-07-24T23:26:46Z"
+      "number": 5305,
+      "title": "bug(tokens): cache-creation tokens double-counted in cost calculation",
+      "url": "https://github.com/browser-use/browser-use/issues/5305",
+      "author": "feiiiiii5",
+      "at": "2026-07-25T05:46:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 3948,
+      "title": "Bug report",
+      "url": "https://github.com/ComposioHQ/composio/issues/3948",
+      "author": "pawelszczabel",
+      "at": "2026-07-25T13:38:40Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +47,15 @@
       "at": "2026-07-24T21:09:33Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3944,
-      "title": "feat(cli): add composio version --check for machine-readable update status",
-      "url": "https://github.com/ComposioHQ/composio/pull/3944",
-      "author": "KJ-11",
-      "at": "2026-07-24T19:59:40Z"
+      "number": 2486,
+      "title": "fix(anthropic): return tool_result for every tool_use on reask",
+      "url": "https://github.com/567-labs/instructor/pull/2486",
+      "author": "Solaris-star",
+      "at": "2026-07-25T11:42:13Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,28 +69,6 @@
       "at": "2026-07-25T05:42:09Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2484,
-      "title": "fix(v2): retain legacy function_call in dump_message when content is empty",
-      "url": "https://github.com/567-labs/instructor/pull/2484",
-      "author": "cognis-digital",
-      "at": "2026-07-25T04:22:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39063,
-      "title": "feat: add langchain-moonshot partner package",
-      "url": "https://github.com/langchain-ai/langchain/issues/39063",
-      "author": "saikijoshuke",
-      "at": "2026-07-25T05:23:16Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
@@ -91,59 +80,59 @@
       "at": "2026-07-24T19:15:04Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96199,
-      "title": "feat(utils): add truncateMiddle helper function to shared lib utils",
-      "url": "https://github.com/vercel/next.js/pull/96199",
-      "author": "mahenoorsalat",
-      "at": "2026-07-25T03:38:05Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39052,
+      "title": "QdrantVectorStore.as_retriever(search_type=\"mmr\") inverts lambda_mult semantics",
+      "url": "https://github.com/langchain-ai/langchain/issues/39052",
+      "author": "het-patel-9104",
+      "at": "2026-07-24T10:25:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96198,
-      "title": "[sourcemaps] Reuse source map payloads and consumers across stack frames",
-      "url": "https://github.com/vercel/next.js/pull/96198",
+      "number": 96222,
+      "title": "[test] Unflake a prefetch-related race",
+      "url": "https://github.com/vercel/next.js/pull/96222",
       "author": "gaearon",
-      "at": "2026-07-25T02:33:40Z"
+      "at": "2026-07-25T14:21:46Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96221,
+      "title": "Fix dev overlay symbolication for project paths needing percent-encoding",
+      "url": "https://github.com/vercel/next.js/pull/96221",
+      "author": "gaearon",
+      "at": "2026-07-25T13:59:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48325,
-      "title": "fix(www): fix duplicate row level security key",
-      "url": "https://github.com/supabase/supabase/pull/48325",
-      "author": "YuDavidCao",
-      "at": "2026-07-25T03:25:16Z"
+      "number": 48329,
+      "title": "fix(auth): allow newlines in SMS OTP template for WebOTP compliance",
+      "url": "https://github.com/supabase/supabase/pull/48329",
+      "author": "prathamesh04",
+      "at": "2026-07-25T14:57:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48324,
-      "title": "web: Encountered two children with the same key, `row-level-security`.",
-      "url": "https://github.com/supabase/supabase/issues/48324",
-      "author": "YuDavidCao",
-      "at": "2026-07-25T03:24:38Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1621,
-      "title": "[Feature] Deterministic governance for task steps — tool-call authorization, PII scanning, cost budgets, and step-level audit trail",
-      "url": "https://github.com/julep-ai/julep/issues/1621",
-      "author": "nagasatish007",
-      "at": "2026-07-24T08:10:01Z"
+      "kind": "pr",
+      "number": 48327,
+      "title": "fix(studio): truncate extension description to prevent overlap with toggle",
+      "url": "https://github.com/supabase/supabase/pull/48327",
+      "author": "mohithshuka",
+      "at": "2026-07-25T13:33:20Z"
     }
   ]
 }
