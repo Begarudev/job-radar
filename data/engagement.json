@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:58:28.759Z",
+  "updatedAt": "2026-07-26T06:05:19.607Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5306,
-      "title": "fix(tokens): subtract cache-creation tokens from uncached_prompt_tokens to prevent double-counting",
-      "url": "https://github.com/browser-use/browser-use/pull/5306",
-      "author": "feiiiiii5",
-      "at": "2026-07-25T05:47:09Z"
+      "number": 5308,
+      "title": "Release 0.13.7 with Browser Harness 0.1.8",
+      "url": "https://github.com/browser-use/browser-use/pull/5308",
+      "author": "laithrw",
+      "at": "2026-07-26T03:17:48Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5305,
-      "title": "bug(tokens): cache-creation tokens double-counted in cost calculation",
-      "url": "https://github.com/browser-use/browser-use/issues/5305",
-      "author": "feiiiiii5",
-      "at": "2026-07-25T05:46:53Z"
+      "kind": "pr",
+      "number": 5307,
+      "title": "Agent modular refactor",
+      "url": "https://github.com/browser-use/browser-use/pull/5307",
+      "author": "MingXu-123",
+      "at": "2026-07-25T15:25:01Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,11 +40,11 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3945,
-      "title": "feat(cli): make headless composio login agent-friendly (PRDE-1138)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3945",
+      "number": 3927,
+      "title": "feat(cli): send telemetry direct to PostHog; stitch install→Apollo identity",
+      "url": "https://github.com/ComposioHQ/composio/pull/3927",
       "author": "KJ-11",
-      "at": "2026-07-24T21:09:33Z"
+      "at": "2026-07-23T19:46:12Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,23 +61,12 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2485,
-      "title": "fix(anthropic): handle_reask drops tool_result for all but the last tool_use block in PARALLEL_TOOLS mode",
-      "url": "https://github.com/567-labs/instructor/issues/2485",
-      "author": "manishmandia133",
-      "at": "2026-07-25T05:42:09Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39057,
-      "title": "fix(core): memoize `convert_to_openai_tool` per tool instance",
-      "url": "https://github.com/langchain-ai/langchain/pull/39057",
-      "author": "imnishitha",
-      "at": "2026-07-24T19:15:04Z"
+      "number": 2306,
+      "title": "feat(minimax): add MiniMax provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2306",
+      "author": "Bhavyashah20",
+      "at": "2026-05-14T20:24:08Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,44 +84,55 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96222,
-      "title": "[test] Unflake a prefetch-related race",
-      "url": "https://github.com/vercel/next.js/pull/96222",
-      "author": "gaearon",
-      "at": "2026-07-25T14:21:46Z"
+      "number": 96239,
+      "title": "Add experimental concurrent TypeScript build flag",
+      "url": "https://github.com/vercel/next.js/pull/96239",
+      "author": "coreycoto",
+      "at": "2026-07-26T03:25:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96221,
-      "title": "Fix dev overlay symbolication for project paths needing percent-encoding",
-      "url": "https://github.com/vercel/next.js/pull/96221",
+      "number": 96236,
+      "title": "[CI] Make next-stats benchmarks use the locally built SWC binaries again",
+      "url": "https://github.com/vercel/next.js/pull/96236",
       "author": "gaearon",
-      "at": "2026-07-25T13:59:17Z"
+      "at": "2026-07-26T00:09:08Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.2.12 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.2.12",
+      "author": "lukesandberg",
+      "at": "2026-07-25T23:55:42Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48329,
-      "title": "fix(auth): allow newlines in SMS OTP template for WebOTP compliance",
-      "url": "https://github.com/supabase/supabase/pull/48329",
-      "author": "prathamesh04",
-      "at": "2026-07-25T14:57:20Z"
+      "kind": "issue",
+      "number": 48334,
+      "title": "Branching: create_branch fails MIGRATIONS_FAILED when project history starts with a repair-marked (squashed) baseline",
+      "url": "https://github.com/supabase/supabase/issues/48334",
+      "author": "sjohns21",
+      "at": "2026-07-26T05:39:19Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48327,
-      "title": "fix(studio): truncate extension description to prevent overlap with toggle",
-      "url": "https://github.com/supabase/supabase/pull/48327",
-      "author": "mohithshuka",
-      "at": "2026-07-25T13:33:20Z"
+      "kind": "issue",
+      "number": 48333,
+      "title": "Sign in using GitHub (OAuth) not working - directed to a 2FA page when 2FA was never set up?",
+      "url": "https://github.com/supabase/supabase/issues/48333",
+      "author": "CooperCooperCooper",
+      "at": "2026-07-26T00:52:16Z"
     }
   ]
 }
