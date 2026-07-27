@@ -1,61 +1,83 @@
 {
-  "updatedAt": "2026-07-26T15:01:19.583Z",
-  "count": 11,
+  "updatedAt": "2026-07-27T06:30:15.909Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5308,
-      "title": "Release 0.13.7 with Browser Harness 0.1.8",
-      "url": "https://github.com/browser-use/browser-use/pull/5308",
-      "author": "laithrw",
-      "at": "2026-07-26T03:17:48Z"
+      "number": 5310,
+      "title": "fix: preserve empty accessibility names with explicit None check",
+      "url": "https://github.com/browser-use/browser-use/pull/5310",
+      "author": "Iliamgeladze1998",
+      "at": "2026-07-27T00:28:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5307,
-      "title": "Agent modular refactor",
-      "url": "https://github.com/browser-use/browser-use/pull/5307",
-      "author": "MingXu-123",
-      "at": "2026-07-25T15:25:01Z"
+      "number": 5309,
+      "title": "Use UTF-8 for agent file writes",
+      "url": "https://github.com/browser-use/browser-use/pull/5309",
+      "author": "Ghraven",
+      "at": "2026-07-26T22:50:55Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3952,
+      "title": "fix(cli): make version update checks reliable",
+      "url": "https://github.com/ComposioHQ/composio/pull/3952",
+      "author": "jkomyno",
+      "at": "2026-07-27T06:26:22Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 3951,
+      "title": "fix(install): stop swallowing the CLI's PATH guidance",
+      "url": "https://github.com/ComposioHQ/composio/pull/3951",
+      "author": "jkomyno",
+      "at": "2026-07-27T05:58:42Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2491,
+      "title": "fix(logging): redact common credential aliases",
+      "url": "https://github.com/567-labs/instructor/pull/2491",
+      "author": "liu66-qing",
+      "at": "2026-07-26T18:06:42Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 3930,
-      "title": "Reddit OAuth: client_id rejected as invalid only for authenticated grant attempts (not anonymous)",
-      "url": "https://github.com/ComposioHQ/composio/issues/3930",
-      "author": "ajass",
-      "at": "2026-07-24T00:14:06Z"
+      "number": 2490,
+      "title": "Debug request logging exposes common OAuth and Google API credentials",
+      "url": "https://github.com/567-labs/instructor/issues/2490",
+      "author": "liu66-qing",
+      "at": "2026-07-26T18:05:32Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2489,
-      "title": "fix(dsl): isolate partial recursion guards",
-      "url": "https://github.com/567-labs/instructor/pull/2489",
-      "author": "lntutor",
-      "at": "2026-07-26T12:15:12Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2488,
-      "title": "fix(dsl): handle citation contexts without source text",
-      "url": "https://github.com/567-labs/instructor/pull/2488",
-      "author": "lntutor",
-      "at": "2026-07-26T12:10:20Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39075,
+      "title": "Runnable.__or__/__ror__ never return NotImplemented — behavior appears correct but is undocumented and untested",
+      "url": "https://github.com/langchain-ai/langchain/issues/39075",
+      "author": "carrot-dev01",
+      "at": "2026-07-26T18:10:36Z"
     },
     {
       "founder": "Harrison Chase",
@@ -73,55 +95,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96242,
-      "title": "Keep the dev server alive when its stdout pipe breaks",
-      "url": "https://github.com/vercel/next.js/pull/96242",
-      "author": "petehunt",
-      "at": "2026-07-26T13:26:05Z"
+      "number": 96257,
+      "title": "chore(docs): add trivial change",
+      "url": "https://github.com/vercel/next.js/pull/96257",
+      "author": "PascalNehlsen",
+      "at": "2026-07-27T05:12:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 96241,
-      "title": "networkHostname should be in allowedDevOrigins by default",
-      "url": "https://github.com/vercel/next.js/issues/96241",
-      "author": "mhverbakel",
-      "at": "2026-07-26T12:50:42Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.2.12 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.2.12",
-      "author": "lukesandberg",
-      "at": "2026-07-25T23:55:42Z"
+      "number": 96254,
+      "title": "[Bug] Turbopack dev: static class field arrow functions lose this binding — var _this = void 0",
+      "url": "https://github.com/vercel/next.js/issues/96254",
+      "author": "imsyf",
+      "at": "2026-07-27T03:42:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48338,
-      "title": "fix: make high availability in project creation form public",
-      "url": "https://github.com/supabase/supabase/pull/48338",
-      "author": "soedirgo",
-      "at": "2026-07-26T12:24:05Z"
+      "kind": "issue",
+      "number": 48343,
+      "title": "Fresh preview branch: migration recorded as applied in schema_migrations, but an ADD COLUMN ... REFERENCES auth.users(id) never actually cre",
+      "url": "https://github.com/supabase/supabase/issues/48343",
+      "author": "ara-2789",
+      "at": "2026-07-27T05:11:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48337,
-      "title": "fix(pg-meta): avoid Cartesian product on composite foreign keys in tables introspection",
-      "url": "https://github.com/supabase/supabase/pull/48337",
-      "author": "AyushDubey23",
-      "at": "2026-07-26T10:21:57Z"
+      "kind": "issue",
+      "number": 48340,
+      "title": "Turnstile Secret update",
+      "url": "https://github.com/supabase/supabase/issues/48340",
+      "author": "JORO-NIMO",
+      "at": "2026-07-26T23:27:47Z"
     }
   ]
 }
