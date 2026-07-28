@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T16:13:05.659Z",
+  "updatedAt": "2026-07-28T05:45:42.371Z",
   "count": 13,
   "signals": [
     {
@@ -7,44 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5311,
-      "title": "Use timezone-aware UTC timestamps",
-      "url": "https://github.com/browser-use/browser-use/pull/5311",
-      "author": "Ghraven",
-      "at": "2026-07-27T14:49:08Z"
+      "number": 5316,
+      "title": "feat(security): add context sanitization and DLP policy engine",
+      "url": "https://github.com/browser-use/browser-use/pull/5316",
+      "author": "glatinone",
+      "at": "2026-07-28T03:54:50Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5310,
-      "title": "fix: preserve empty accessibility names with explicit None check",
-      "url": "https://github.com/browser-use/browser-use/pull/5310",
-      "author": "Iliamgeladze1998",
-      "at": "2026-07-27T00:28:14Z"
+      "number": 5315,
+      "title": "fix: migrate uv dev-dependencies to dependency-groups and normalize test localhost bind",
+      "url": "https://github.com/browser-use/browser-use/pull/5315",
+      "author": "aoright",
+      "at": "2026-07-28T03:45:40Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.7 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.7",
+      "author": "laithrw",
+      "at": "2026-07-27T17:10:13Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3956,
-      "title": "chore(docs): migrate the docs site to Fumadocs 11",
-      "url": "https://github.com/ComposioHQ/composio/pull/3956",
-      "author": "jkomyno",
-      "at": "2026-07-27T10:52:54Z"
+      "number": 3961,
+      "title": "feat(cli): silent self-update via background staging (PRDE-1157)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3961",
+      "author": "KJ-11",
+      "at": "2026-07-28T01:16:55Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3954,
-      "title": "fix(cli): fall back to raw location when a source map is malformed",
-      "url": "https://github.com/ComposioHQ/composio/pull/3954",
-      "author": "sergioperezcheco",
-      "at": "2026-07-27T08:51:29Z"
+      "number": 3960,
+      "title": "chore(cli): decommission npm + Homebrew install channels (PRDE-1155, PRDE-1156)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3960",
+      "author": "KJ-11",
+      "at": "2026-07-28T00:56:43Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +69,70 @@
       "at": "2026-07-27T11:08:13Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2491,
-      "title": "fix(logging): redact common credential aliases",
-      "url": "https://github.com/567-labs/instructor/pull/2491",
-      "author": "liu66-qing",
-      "at": "2026-07-26T18:06:42Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39100,
+      "title": "ChatAnthropic: SystemMessage v1 content blocks are forwarded verbatim, so create_text_block()'s id causes 400 \"system.0.id: Extra inputs are",
+      "url": "https://github.com/langchain-ai/langchain/issues/39100",
+      "author": "jmbledsoe",
+      "at": "2026-07-28T02:29:34Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39087,
-      "title": "bug(indexing): InMemoryRecordManager.update() calls get_time() per document causing inconsistent timestamps",
-      "url": "https://github.com/langchain-ai/langchain/issues/39087",
-      "author": "abhyuday1203",
-      "at": "2026-07-27T09:49:37Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39075,
-      "title": "Runnable.__or__/__ror__ never return NotImplemented — behavior appears correct but is undocumented and untested",
-      "url": "https://github.com/langchain-ai/langchain/issues/39075",
-      "author": "carrot-dev01",
-      "at": "2026-07-26T18:10:36Z"
+      "number": 39099,
+      "title": "Tool silently exposes no arguments when args_schema is incomplete",
+      "url": "https://github.com/langchain-ai/langchain/issues/39099",
+      "author": "jgabriellacerda",
+      "at": "2026-07-27T22:17:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96268,
-      "title": "fix: account for custom pageExtensions in no-html-link-for-pages ESLint rule",
-      "url": "https://github.com/vercel/next.js/pull/96268",
-      "author": "islamhafez0",
-      "at": "2026-07-27T14:44:53Z"
+      "number": 96288,
+      "title": "Fix Turbopack polling watcher write-time invalidation",
+      "url": "https://github.com/vercel/next.js/pull/96288",
+      "author": "shravan2x",
+      "at": "2026-07-28T05:18:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96267,
-      "title": "Use a safe clock for Request Insights bookkeeping",
-      "url": "https://github.com/vercel/next.js/pull/96267",
-      "author": "DavidIlie",
-      "at": "2026-07-27T13:37:47Z"
+      "number": 96286,
+      "title": "Add browserOnly for client-only rendering",
+      "url": "https://github.com/vercel/next.js/pull/96286",
+      "author": "devjiwonchoi",
+      "at": "2026-07-28T04:11:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48364,
-      "title": "fix(docs): accept a GitHub token for docs content reads",
-      "url": "https://github.com/supabase/supabase/pull/48364",
-      "author": "barryroodt",
-      "at": "2026-07-27T15:40:34Z"
+      "number": 48379,
+      "title": "fix(docs): give GlassPanel a visible hover fill",
+      "url": "https://github.com/supabase/supabase/pull/48379",
+      "author": "dnywh",
+      "at": "2026-07-28T04:46:52Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48362,
-      "title": "fix(studio): prevent extension description from overflowing into enabled toggle",
-      "url": "https://github.com/supabase/supabase/pull/48362",
-      "author": "mohithshuka",
-      "at": "2026-07-27T15:11:12Z"
+      "number": 48378,
+      "title": "feat: table for collecting interfaces feedback",
+      "url": "https://github.com/supabase/supabase/pull/48378",
+      "author": "kanadgupta",
+      "at": "2026-07-28T04:41:19Z"
     },
     {
       "founder": "Theo Browne",
