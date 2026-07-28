@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T05:45:42.371Z",
+  "updatedAt": "2026-07-28T16:03:14.551Z",
   "count": 13,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5316,
-      "title": "feat(security): add context sanitization and DLP policy engine",
-      "url": "https://github.com/browser-use/browser-use/pull/5316",
-      "author": "glatinone",
-      "at": "2026-07-28T03:54:50Z"
+      "number": 5319,
+      "title": "fix: exclude cached tokens from new_prompt_tokens",
+      "url": "https://github.com/browser-use/browser-use/pull/5319",
+      "author": "eeshsaxena",
+      "at": "2026-07-28T13:55:52Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5315,
-      "title": "fix: migrate uv dev-dependencies to dependency-groups and normalize test localhost bind",
-      "url": "https://github.com/browser-use/browser-use/pull/5315",
-      "author": "aoright",
-      "at": "2026-07-28T03:45:40Z"
+      "number": 5318,
+      "title": "fix(tools): restore SearchGoogleAction back-compat alias",
+      "url": "https://github.com/browser-use/browser-use/pull/5318",
+      "author": "LHMQ878",
+      "at": "2026-07-28T09:08:06Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,44 +40,55 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3961,
-      "title": "feat(cli): silent self-update via background staging (PRDE-1157)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3961",
-      "author": "KJ-11",
-      "at": "2026-07-28T01:16:55Z"
+      "number": 3970,
+      "title": "fix(python): add __str__ method to ComposioError for clean error message string representation",
+      "url": "https://github.com/ComposioHQ/composio/pull/3970",
+      "author": "amir-rezaei",
+      "at": "2026-07-28T13:23:05Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3960,
-      "title": "chore(cli): decommission npm + Homebrew install channels (PRDE-1155, PRDE-1156)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3960",
-      "author": "KJ-11",
-      "at": "2026-07-28T00:56:43Z"
+      "number": 3968,
+      "title": "refactor(core): forbid explicit any and type JSON Schema recursively",
+      "url": "https://github.com/ComposioHQ/composio/pull/3968",
+      "author": "jkomyno",
+      "at": "2026-07-28T12:59:50Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2461,
+      "title": "Thread-unsafe _processing_models set in partial.py",
+      "url": "https://github.com/567-labs/instructor/issues/2461",
+      "author": "truecallerabreham",
+      "at": "2026-07-18T18:10:45Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2492,
-      "title": "fix: prevent CitationMixin crash when validation_context is missing 'context' key (#2459)",
-      "url": "https://github.com/567-labs/instructor/pull/2492",
-      "author": "shahriar654",
-      "at": "2026-07-27T11:08:13Z"
+      "number": 2168,
+      "title": "feat(batch): support for mistral api",
+      "url": "https://github.com/567-labs/instructor/pull/2168",
+      "author": "vcharvet",
+      "at": "2026-03-17T17:00:30Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39100,
-      "title": "ChatAnthropic: SystemMessage v1 content blocks are forwarded verbatim, so create_text_block()'s id causes 400 \"system.0.id: Extra inputs are",
-      "url": "https://github.com/langchain-ai/langchain/issues/39100",
-      "author": "jmbledsoe",
-      "at": "2026-07-28T02:29:34Z"
+      "number": 39106,
+      "title": "bug(indexing): list_keys(before=...) excludes records with timestamp equal to `before`, causing incomplete cleanup on low-resolution clocks",
+      "url": "https://github.com/langchain-ai/langchain/issues/39106",
+      "author": "eslam-ahmed43",
+      "at": "2026-07-28T09:44:46Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,55 +106,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96288,
-      "title": "Fix Turbopack polling watcher write-time invalidation",
-      "url": "https://github.com/vercel/next.js/pull/96288",
-      "author": "shravan2x",
-      "at": "2026-07-28T05:18:17Z"
+      "number": 96299,
+      "title": "Update skills for Partial Prefetching",
+      "url": "https://github.com/vercel/next.js/pull/96299",
+      "author": "aurorascharff",
+      "at": "2026-07-28T15:42:49Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96286,
-      "title": "Add browserOnly for client-only rendering",
-      "url": "https://github.com/vercel/next.js/pull/96286",
-      "author": "devjiwonchoi",
-      "at": "2026-07-28T04:11:12Z"
+      "number": 96298,
+      "title": "[ci] Install Node.js from the official tarball in the native-builder image",
+      "url": "https://github.com/vercel/next.js/pull/96298",
+      "author": "eps1lon",
+      "at": "2026-07-28T15:17:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48379,
-      "title": "fix(docs): give GlassPanel a visible hover fill",
-      "url": "https://github.com/supabase/supabase/pull/48379",
-      "author": "dnywh",
-      "at": "2026-07-28T04:46:52Z"
+      "number": 48401,
+      "title": "feat(studio): log date range domain + session logRange state",
+      "url": "https://github.com/supabase/supabase/pull/48401",
+      "author": "charislam",
+      "at": "2026-07-28T15:51:54Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "pr",
-      "number": 48378,
-      "title": "feat: table for collecting interfaces feedback",
-      "url": "https://github.com/supabase/supabase/pull/48378",
-      "author": "kanadgupta",
-      "at": "2026-07-28T04:41:19Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2242,
-      "title": "feat: document the Auth.js Email (magic link) provider + local email testing",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2242",
-      "author": "tsokolovs",
-      "at": "2026-07-27T08:23:06Z"
+      "number": 1625,
+      "title": "feat(skills): dotctx agent skills with progressive disclosure",
+      "url": "https://github.com/julep-ai/julep/pull/1625",
+      "author": "creatorrr",
+      "at": "2026-07-28T15:55:28Z"
     }
   ]
 }
