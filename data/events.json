@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T10:26:07.889Z",
+  "updatedAt": "2026-07-28T09:17:21.942Z",
   "count": 3,
   "events": [
     {
@@ -10,8 +10,20 @@
       "description": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub&#8217;s bug bounty program appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
       "publishedAt": "Wed, 22 Jul 2026 16:00:00 +0000",
-      "fetchedAt": "2026-07-27T10:26:07.667Z",
+      "fetchedAt": "2026-07-28T09:17:21.736Z",
       "company": "GitHub",
+      "tags": []
+    },
+    {
+      "id": "runpod-blog:https://www.runpod.io/blog/flash-hack-day",
+      "source": "runpod-blog",
+      "kind": "hackathon",
+      "title": "Inside the Runpod Flash Hack Day",
+      "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
+      "url": "https://www.runpod.io/blog/flash-hack-day",
+      "publishedAt": "Tue, 28 Jul 2026 00:04:02 GMT",
+      "fetchedAt": "2026-07-28T09:17:21.940Z",
+      "company": "RunPod",
       "tags": []
     },
     {
@@ -22,20 +34,8 @@
       "description": "Details about the OpenAI Bio Bounty program",
       "url": "https://openai.com/index/bio-bug-bounty",
       "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "fetchedAt": "2026-07-27T10:26:07.722Z",
+      "fetchedAt": "2026-07-28T09:17:21.791Z",
       "company": "OpenAI",
-      "tags": []
-    },
-    {
-      "id": "runpod-blog:https://www.runpod.io/blog/flash-hack-day",
-      "source": "runpod-blog",
-      "kind": "hackathon",
-      "title": "Inside the Runpod Flash Hack Day",
-      "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
-      "url": "https://www.runpod.io/blog/flash-hack-day",
-      "publishedAt": "Sat, 18 Jul 2026 19:42:15 GMT",
-      "fetchedAt": "2026-07-27T10:26:07.887Z",
-      "company": "RunPod",
       "tags": []
     }
   ]
