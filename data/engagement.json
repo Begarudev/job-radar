@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T16:03:14.551Z",
+  "updatedAt": "2026-07-29T05:51:49.841Z",
   "count": 13,
   "signals": [
     {
@@ -7,66 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5319,
-      "title": "fix: exclude cached tokens from new_prompt_tokens",
-      "url": "https://github.com/browser-use/browser-use/pull/5319",
-      "author": "eeshsaxena",
-      "at": "2026-07-28T13:55:52Z"
+      "number": 5324,
+      "title": "feat(agent): support agent.pause() within tool calls",
+      "url": "https://github.com/browser-use/browser-use/pull/5324",
+      "author": "shotsan",
+      "at": "2026-07-28T23:00:06Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5318,
-      "title": "fix(tools): restore SearchGoogleAction back-compat alias",
-      "url": "https://github.com/browser-use/browser-use/pull/5318",
-      "author": "LHMQ878",
-      "at": "2026-07-28T09:08:06Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.7 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.7",
-      "author": "laithrw",
-      "at": "2026-07-27T17:10:13Z"
+      "number": 5323,
+      "title": "Update Cerebras model IDs and default",
+      "url": "https://github.com/browser-use/browser-use/pull/5323",
+      "author": "ryanl-cerebras",
+      "at": "2026-07-28T22:08:36Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3970,
-      "title": "fix(python): add __str__ method to ComposioError for clean error message string representation",
-      "url": "https://github.com/ComposioHQ/composio/pull/3970",
-      "author": "amir-rezaei",
-      "at": "2026-07-28T13:23:05Z"
+      "number": 3975,
+      "title": "docs: document Custom MCP",
+      "url": "https://github.com/ComposioHQ/composio/pull/3975",
+      "author": "shamsharoon",
+      "at": "2026-07-28T20:37:47Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3968,
-      "title": "refactor(core): forbid explicit any and type JSON Schema recursively",
-      "url": "https://github.com/ComposioHQ/composio/pull/3968",
-      "author": "jkomyno",
-      "at": "2026-07-28T12:59:50Z"
+      "kind": "issue",
+      "number": 3974,
+      "title": "INSTAGRAM_SEND_TEXT_MESSAGE consistently fails while message retrieval works",
+      "url": "https://github.com/ComposioHQ/composio/issues/3974",
+      "author": "El-Lebaba",
+      "at": "2026-07-28T16:50:45Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2461,
-      "title": "Thread-unsafe _processing_models set in partial.py",
-      "url": "https://github.com/567-labs/instructor/issues/2461",
-      "author": "truecallerabreham",
-      "at": "2026-07-18T18:10:45Z"
+      "number": 2493,
+      "title": "Retry usage accumulation drops newer billable token fields (Anthropic stale, OpenAI overwritten with None)",
+      "url": "https://github.com/567-labs/instructor/issues/2493",
+      "author": "ErenAta16",
+      "at": "2026-07-28T16:26:08Z"
     },
     {
       "founder": "Jason Liu",
@@ -84,6 +73,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 39113,
+      "title": "ChatOpenAI (Responses API): create_text_block()'s lc_ id on a synthetic AIMessage causes 400 \"Expected an ID that begins with 'msg'\"",
+      "url": "https://github.com/langchain-ai/langchain/issues/39113",
+      "author": "jmbledsoe",
+      "at": "2026-07-28T21:08:55Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 39106,
       "title": "bug(indexing): list_keys(before=...) excludes records with timestamp equal to `before`, causing incomplete cleanup on low-resolution clocks",
       "url": "https://github.com/langchain-ai/langchain/issues/39106",
@@ -91,48 +91,48 @@
       "at": "2026-07-28T09:44:46Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 39099,
-      "title": "Tool silently exposes no arguments when args_schema is incomplete",
-      "url": "https://github.com/langchain-ai/langchain/issues/39099",
-      "author": "jgabriellacerda",
-      "at": "2026-07-27T22:17:46Z"
+      "number": 96331,
+      "title": "Server Action passed as an argument fails when called after navigation",
+      "url": "https://github.com/vercel/next.js/issues/96331",
+      "author": "hi-ogawa",
+      "at": "2026-07-29T05:40:01Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96299,
-      "title": "Update skills for Partial Prefetching",
-      "url": "https://github.com/vercel/next.js/pull/96299",
-      "author": "aurorascharff",
-      "at": "2026-07-28T15:42:49Z"
+      "number": 96330,
+      "title": "Force no-store on prerendered responses that carry a Set-Cookie header",
+      "url": "https://github.com/vercel/next.js/pull/96330",
+      "author": "lazerg",
+      "at": "2026-07-29T04:09:16Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96298,
-      "title": "[ci] Install Node.js from the official tarball in the native-builder image",
-      "url": "https://github.com/vercel/next.js/pull/96298",
-      "author": "eps1lon",
-      "at": "2026-07-28T15:17:08Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 48427,
+      "title": "Subject: Production project(s) missing from dashboard urgent, possible data loss ⚠️",
+      "url": "https://github.com/supabase/supabase/issues/48427",
+      "author": "safwandeveloper",
+      "at": "2026-07-29T05:02:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48401,
-      "title": "feat(studio): log date range domain + session logRange state",
-      "url": "https://github.com/supabase/supabase/pull/48401",
-      "author": "charislam",
-      "at": "2026-07-28T15:51:54Z"
+      "number": 48426,
+      "title": "docs(cli): make getting-started platform tabs consistent",
+      "url": "https://github.com/supabase/supabase/pull/48426",
+      "author": "kanadgupta",
+      "at": "2026-07-29T04:46:26Z"
     },
     {
       "founder": "Diwank Tomer",
@@ -140,7 +140,7 @@
       "repo": "julep-ai/julep",
       "kind": "pr",
       "number": 1625,
-      "title": "feat(skills): dotctx agent skills with progressive disclosure",
+      "title": "feat: dotctx skills and embedded execution surface",
       "url": "https://github.com/julep-ai/julep/pull/1625",
       "author": "creatorrr",
       "at": "2026-07-28T15:55:28Z"
