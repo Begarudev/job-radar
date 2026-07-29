@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-29T05:51:49.841Z",
-  "count": 13,
+  "updatedAt": "2026-07-29T15:47:34.998Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5325,
+      "title": "feat(llm): add Atlas Cloud provider",
+      "url": "https://github.com/browser-use/browser-use/pull/5325",
+      "author": "binyangzhu000-sudo",
+      "at": "2026-07-29T10:04:40Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-07-28T23:00:06Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5323,
-      "title": "Update Cerebras model IDs and default",
-      "url": "https://github.com/browser-use/browser-use/pull/5323",
-      "author": "ryanl-cerebras",
-      "at": "2026-07-28T22:08:36Z"
+      "number": 3980,
+      "title": "docs: add TikTok OAuth troubleshooting FAQ",
+      "url": "https://github.com/ComposioHQ/composio/pull/3980",
+      "author": "abhishekpatil4",
+      "at": "2026-07-29T13:17:56Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +47,15 @@
       "at": "2026-07-28T20:37:47Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3974,
-      "title": "INSTAGRAM_SEND_TEXT_MESSAGE consistently fails while message retrieval works",
-      "url": "https://github.com/ComposioHQ/composio/issues/3974",
-      "author": "El-Lebaba",
-      "at": "2026-07-28T16:50:45Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2497,
+      "title": "fix(v2): accumulate all billable usage fields across retries (#2493)",
+      "url": "https://github.com/567-labs/instructor/pull/2497",
+      "author": "mbsdeepak",
+      "at": "2026-07-29T07:04:58Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,15 +69,15 @@
       "at": "2026-07-28T16:26:08Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2168,
-      "title": "feat(batch): support for mistral api",
-      "url": "https://github.com/567-labs/instructor/pull/2168",
-      "author": "vcharvet",
-      "at": "2026-03-17T17:00:30Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39121,
+      "title": "bug(langchain): ModelRetryMiddleware and ModelFallbackMiddleware swallow GraphBubbleUp exceptions",
+      "url": "https://github.com/langchain-ai/langchain/issues/39121",
+      "author": "Saniyagupte",
+      "at": "2026-07-29T13:08:41Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,70 +91,48 @@
       "at": "2026-07-28T21:08:55Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39106,
-      "title": "bug(indexing): list_keys(before=...) excludes records with timestamp equal to `before`, causing incomplete cleanup on low-resolution clocks",
-      "url": "https://github.com/langchain-ai/langchain/issues/39106",
-      "author": "eslam-ahmed43",
-      "at": "2026-07-28T09:44:46Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96331,
-      "title": "Server Action passed as an argument fails when called after navigation",
-      "url": "https://github.com/vercel/next.js/issues/96331",
-      "author": "hi-ogawa",
-      "at": "2026-07-29T05:40:01Z"
+      "kind": "pr",
+      "number": 96341,
+      "title": "docs: update SPA SWR examples",
+      "url": "https://github.com/vercel/next.js/pull/96341",
+      "author": "aurorascharff",
+      "at": "2026-07-29T15:21:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96330,
-      "title": "Force no-store on prerendered responses that carry a Set-Cookie header",
-      "url": "https://github.com/vercel/next.js/pull/96330",
-      "author": "lazerg",
-      "at": "2026-07-29T04:09:16Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48427,
-      "title": "Subject: Production project(s) missing from dashboard urgent, possible data loss ⚠️",
-      "url": "https://github.com/supabase/supabase/issues/48427",
-      "author": "safwandeveloper",
-      "at": "2026-07-29T05:02:59Z"
+      "number": 96340,
+      "title": "[Cache Components] Only consider rendered parallel slots for instant insights validation",
+      "url": "https://github.com/vercel/next.js/pull/96340",
+      "author": "gnoff",
+      "at": "2026-07-29T14:34:19Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48426,
-      "title": "docs(cli): make getting-started platform tabs consistent",
-      "url": "https://github.com/supabase/supabase/pull/48426",
-      "author": "kanadgupta",
-      "at": "2026-07-29T04:46:26Z"
+      "number": 48447,
+      "title": "chore: update lite-studio to Node 22",
+      "url": "https://github.com/supabase/supabase/pull/48447",
+      "author": "Nameless-Monster-Nerd",
+      "at": "2026-07-29T15:40:23Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 1625,
-      "title": "feat: dotctx skills and embedded execution surface",
-      "url": "https://github.com/julep-ai/julep/pull/1625",
-      "author": "creatorrr",
-      "at": "2026-07-28T15:55:28Z"
+      "number": 48446,
+      "title": "www: polish navigation dropdown layout and motion, fix panel-switch flash",
+      "url": "https://github.com/supabase/supabase/pull/48446",
+      "author": "faradayfury",
+      "at": "2026-07-29T15:39:43Z"
     }
   ]
 }
