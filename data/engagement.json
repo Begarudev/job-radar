@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T05:40:33.142Z",
+  "updatedAt": "2026-07-30T15:48:39.556Z",
   "count": 12,
   "signals": [
     {
@@ -7,121 +7,121 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 5327,
-      "title": "[Proposal] OpenEval Import/Export Support",
-      "url": "https://github.com/browser-use/browser-use/issues/5327",
-      "author": "adhabnr-ux",
-      "at": "2026-07-30T03:14:51Z"
+      "number": 5331,
+      "title": "Broken (404's) profile sh link",
+      "url": "https://github.com/browser-use/browser-use/issues/5331",
+      "author": "davidalejandroaguilar",
+      "at": "2026-07-30T15:10:43Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5326,
-      "title": "Bump aiohttp and pypdf security pins",
-      "url": "https://github.com/browser-use/browser-use/pull/5326",
-      "author": "sauravpanda",
-      "at": "2026-07-29T16:12:26Z"
+      "number": 5330,
+      "title": "Recover Anthropic tool arguments when the model serializes its call as text",
+      "url": "https://github.com/browser-use/browser-use/pull/5330",
+      "author": "ElayGelbart",
+      "at": "2026-07-30T15:03:39Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3985,
-      "title": "docs: use support@composio.dev on Composio Connect",
-      "url": "https://github.com/ComposioHQ/composio/pull/3985",
-      "author": "palash-c",
-      "at": "2026-07-30T04:27:29Z"
+      "number": 3994,
+      "title": "feat(release): add protected SDK release coordinator",
+      "url": "https://github.com/ComposioHQ/composio/pull/3994",
+      "author": "jkomyno",
+      "at": "2026-07-30T15:44:31Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3984,
-      "title": "docs(openai): document using OpenAI-compatible gateways (#3602)",
-      "url": "https://github.com/ComposioHQ/composio/pull/3984",
-      "author": "nehraa",
-      "at": "2026-07-30T02:17:29Z"
+      "number": 3993,
+      "title": "fix(cli): make GitHub releases the version authority",
+      "url": "https://github.com/ComposioHQ/composio/pull/3993",
+      "author": "jkomyno",
+      "at": "2026-07-30T14:26:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2497,
-      "title": "fix(v2): accumulate all billable usage fields across retries (#2493)",
-      "url": "https://github.com/567-labs/instructor/pull/2497",
-      "author": "mbsdeepak",
-      "at": "2026-07-29T07:04:58Z"
+      "number": 2498,
+      "title": "fix(openai): add reask fallback when RESPONSES_TOOLS output has no tool calls",
+      "url": "https://github.com/567-labs/instructor/pull/2498",
+      "author": "Kropiunig",
+      "at": "2026-07-30T11:27:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39128,
-      "title": "RecursiveJsonSplitter - add optional `length_function` parameter to override chunk size measurement fn",
-      "url": "https://github.com/langchain-ai/langchain/issues/39128",
-      "author": "chadsr",
-      "at": "2026-07-29T23:47:56Z"
+      "number": 39138,
+      "title": "bug(core): `tool_example_to_messages` silently truncates mismatched tool outputs",
+      "url": "https://github.com/langchain-ai/langchain/issues/39138",
+      "author": "LunarCache",
+      "at": "2026-07-30T08:08:55Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39127,
-      "title": "RecursiveJsonSplitter produces chunks exceeding max_chunk_size for nested JSON",
-      "url": "https://github.com/langchain-ai/langchain/issues/39127",
-      "author": "chadsr",
-      "at": "2026-07-29T21:20:24Z"
+      "number": 39134,
+      "title": "tests: Add unit test coverage for string formatting edge cases in utils",
+      "url": "https://github.com/langchain-ai/langchain/issues/39134",
+      "author": "user901-67",
+      "at": "2026-07-30T07:31:07Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96372,
-      "title": "fix: Route group layout leaks into root not-found page",
-      "url": "https://github.com/vercel/next.js/pull/96372",
-      "author": "icyJoseph",
-      "at": "2026-07-30T05:17:53Z"
+      "number": 96386,
+      "title": "[turbotrace] bump test version of sharp",
+      "url": "https://github.com/vercel/next.js/pull/96386",
+      "author": "styfle",
+      "at": "2026-07-30T12:27:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96367,
-      "title": "Allow DOM-capable bots to use PPR streaming",
-      "url": "https://github.com/vercel/next.js/pull/96367",
-      "author": "ztanner",
-      "at": "2026-07-29T23:08:35Z"
+      "number": 96384,
+      "title": "fix: serialize prerender manifest updates in dev to prevent corruption",
+      "url": "https://github.com/vercel/next.js/pull/96384",
+      "author": "LouisTsang-jk",
+      "at": "2026-07-30T10:07:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48475,
-      "title": "feat(www): markdown copy/ask affordances",
-      "url": "https://github.com/supabase/supabase/pull/48475",
-      "author": "pamelachia",
-      "at": "2026-07-30T05:11:01Z"
+      "number": 48499,
+      "title": "docs(self-hosted): update nav and minor corrections",
+      "url": "https://github.com/supabase/supabase/pull/48499",
+      "author": "aantti",
+      "at": "2026-07-30T15:26:30Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48474,
-      "title": "recover failed Vercel deploy connections",
-      "url": "https://github.com/supabase/supabase/pull/48474",
-      "author": "dnywh",
-      "at": "2026-07-30T04:23:40Z"
+      "number": 48498,
+      "title": "chore(self-hosted): remove em-dashes",
+      "url": "https://github.com/supabase/supabase/pull/48498",
+      "author": "aantti",
+      "at": "2026-07-30T15:24:07Z"
     },
     {
       "founder": "Theo Browne",
