@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-30T06:22:07.192Z",
-  "count": 3,
+  "updatedAt": "2026-07-30T10:21:02.350Z",
+  "count": 2,
   "postings": [
     {
       "id": "hn:48765345",
@@ -10,7 +10,7 @@
       "body": "DrSwarm | Founding Engineer (Full-Stack) | REMOTE (US or LATAM; must overlap with US Pacific hours) | Full-time or Contract to Full-time DrSwarm is building AI-driven workflow automation for healthcare clinics &#x2F; health systems (scheduling, RCM&#x2F;billing workflows, patient ops). This is a true 0→1 role: ship fast, talk to customers, own systems end-to-end. You will: - Build product end-to-end (Next.js + Django) - Ship integrations + workflow automation (APIs, webhooks, background jobs, queues) - Own reliability (logs&#x2F;metrics, retries, failure modes) and pragmatic security (HIPAA-aware) Stack: Next.js, React&#x2F;TypeScript, Django&#x2F;Python, Postgres, Celery&#x2F;Redis, Docker, AWS&#x2F;DigitalOcean, LLM APIs.\nLooking for: Strong full-stack builder.  Good to work with.  Can talk to customers &#x2F; users &#x2F; salespeople.  Uses AI to generate 90%+ of their code, interested in AI + Healthcare. Comp: Market with mix of base + bonus + meaningful equity Process: 30m intro → 60m technical&#x2F;product deep dive → short paid work trial → \nreferences. Contact: jobs@drswarm.com (include “HN Founding Engineer” in subject) + GitHub&#x2F;LinkedIn + 2–3 projects you’re proud of.",
       "remote": true,
       "postedAt": "2026-07-02T18:14:57.000Z",
-      "fetchedAt": "2026-07-30T06:22:07.165Z",
+      "fetchedAt": "2026-07-30T10:20:03.196Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react, next, python",
@@ -38,7 +38,7 @@
       "body": "Rivet | Fullstack engineer | Remote (US) |  https:&#x2F;&#x2F;rivet.app  Your favorite artist is on Rivet. Chance the Rapper, Major Lazer, John Legend, and more engage their fans with our AI marketing platform. We boost D2C revenue for brand and creator teams by growing their communities and powering their direct-to-fan marketing and sales across all channels. I&#x27;m a founding engineer, and we&#x27;re expanding to an eng team of four. We&#x27;re looking for scrappy and adaptable fullstack devs with demonstrated early-stage startup experience. Our main web app stack includes Express &#x2F; React on Typescript, Postgres, hosted on AWS. We&#x27;re pre-seed, VC-backed, and have gone from pre-revenue to profitable in the past 2 years. If interested, apply here and mention Hacker News!  https:&#x2F;&#x2F;rivetapp.notion.site&#x2F;Full-Stack-Engineer-29cddd02b55... ",
       "remote": true,
       "postedAt": "2026-07-06T15:33:02.000Z",
-      "fetchedAt": "2026-07-30T06:22:07.165Z",
+      "fetchedAt": "2026-07-30T10:20:03.196Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, react",
@@ -51,43 +51,6 @@
         "stack:typescript",
         "stack:react",
         "signal:postgres",
-        "remote"
-      ],
-      "score": 6
-    },
-    {
-      "id": "remoteok:1135638",
-      "source": "remoteok",
-      "title": "LLM Engineer Freelancer",
-      "company": "Monterail",
-      "url": "https://remoteOK.com/remote-jobs/remote-llm-engineer-freelancer-monterail-1135638",
-      "body": "We're building a network of  LLM Engineers  who can design, build, and integrate practical AI features into existing products. We're looking for people to collaborate with on a freelance basis - part-time or full-time, depending on project needs.  This role is focused on delivery, not ML research. What matters most is your engineering foundation and your ability to integrate AI into real production systems using Python, Node.js, or Ruby codebases.   Requirements     What we're looking for      Strong software engineering background - Python, Node.js, or Ruby  Hands-on experience integrating LLM APIs into production systems (OpenAI, Anthropic, or similar)  Ability to design pragmatic AI solutions within existing architectures  Experience building RAG pipelines, embeddings, and vector search  Understanding of cost, latency, and reliability constraints of AI systems  Ability to work independently with clients and set realistic expectations  Background in big data or data pipelines is a big plus  English B2/C1  Availability part-time or full-time (B2B contract)     What You'll Do     Add AI functionality into existing Python, Node.js, and Ruby codebases  Build LLM-powered features: chat, summaries, classification, smart search, document Q&amp;A  Design lightweight RAG pipelines using embeddings and vector search  Work with vector DBs (pgvector, Pinecone, Qdrant)  Implement safe, reliable LLM endpoints (OpenAI, Anthropic, Azure)  Work directly with clients to shape AI features and reduce manual effort  Advise clients when NOT to use AI and navigate trade-offs around latency, accuracy, and cost      What do we mean by freelance?       Read more at Monterail Tech Network    Please mention the word **WINNERS** and tag RMjAuMTE5Ljk1LjE2 when applying to show you read the job post completely (#RMjAuMTE5Ljk1LjE2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "location": "KrakÃ³w, KrakÃ³w, Woj. MaÅopolskie, Polska",
-      "remote": true,
-      "postedAt": "2026-07-28T13:19:20+00:00",
-      "fetchedAt": "2026-07-30T06:22:06.879Z",
-      "reasons": [
-        "core stack: python, node",
-        "strong fit: rag, vector, embeddings, llm, pgvector",
-        "bonus: anthropic, openai",
-        "remote-friendly"
-      ],
-      "tags": [
-        "design",
-        "python",
-        "dev",
-        "javascript",
-        "node",
-        "node.js",
-        "ruby",
-        "sys admin",
-        "stack:python",
-        "stack:node",
-        "signal:rag",
-        "signal:vector",
-        "signal:embeddings",
-        "signal:llm",
-        "signal:pgvector",
         "remote"
       ],
       "score": 6
