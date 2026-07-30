@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-07-29T15:47:34.998Z",
+  "updatedAt": "2026-07-30T05:40:33.142Z",
   "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5325,
-      "title": "feat(llm): add Atlas Cloud provider",
-      "url": "https://github.com/browser-use/browser-use/pull/5325",
-      "author": "binyangzhu000-sudo",
-      "at": "2026-07-29T10:04:40Z"
+      "kind": "issue",
+      "number": 5327,
+      "title": "[Proposal] OpenEval Import/Export Support",
+      "url": "https://github.com/browser-use/browser-use/issues/5327",
+      "author": "adhabnr-ux",
+      "at": "2026-07-30T03:14:51Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5324,
-      "title": "feat(agent): support agent.pause() within tool calls",
-      "url": "https://github.com/browser-use/browser-use/pull/5324",
-      "author": "shotsan",
-      "at": "2026-07-28T23:00:06Z"
+      "number": 5326,
+      "title": "Bump aiohttp and pypdf security pins",
+      "url": "https://github.com/browser-use/browser-use/pull/5326",
+      "author": "sauravpanda",
+      "at": "2026-07-29T16:12:26Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3980,
-      "title": "docs: add TikTok OAuth troubleshooting FAQ",
-      "url": "https://github.com/ComposioHQ/composio/pull/3980",
-      "author": "abhishekpatil4",
-      "at": "2026-07-29T13:17:56Z"
+      "number": 3985,
+      "title": "docs: use support@composio.dev on Composio Connect",
+      "url": "https://github.com/ComposioHQ/composio/pull/3985",
+      "author": "palash-c",
+      "at": "2026-07-30T04:27:29Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3975,
-      "title": "docs: document Custom MCP",
-      "url": "https://github.com/ComposioHQ/composio/pull/3975",
-      "author": "shamsharoon",
-      "at": "2026-07-28T20:37:47Z"
+      "number": 3984,
+      "title": "docs(openai): document using OpenAI-compatible gateways (#3602)",
+      "url": "https://github.com/ComposioHQ/composio/pull/3984",
+      "author": "nehraa",
+      "at": "2026-07-30T02:17:29Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +58,81 @@
       "at": "2026-07-29T07:04:58Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2493,
-      "title": "Retry usage accumulation drops newer billable token fields (Anthropic stale, OpenAI overwritten with None)",
-      "url": "https://github.com/567-labs/instructor/issues/2493",
-      "author": "ErenAta16",
-      "at": "2026-07-28T16:26:08Z"
+      "number": 39128,
+      "title": "RecursiveJsonSplitter - add optional `length_function` parameter to override chunk size measurement fn",
+      "url": "https://github.com/langchain-ai/langchain/issues/39128",
+      "author": "chadsr",
+      "at": "2026-07-29T23:47:56Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39121,
-      "title": "bug(langchain): ModelRetryMiddleware and ModelFallbackMiddleware swallow GraphBubbleUp exceptions",
-      "url": "https://github.com/langchain-ai/langchain/issues/39121",
-      "author": "Saniyagupte",
-      "at": "2026-07-29T13:08:41Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39113,
-      "title": "ChatOpenAI (Responses API): create_text_block()'s lc_ id on a synthetic AIMessage causes 400 \"Expected an ID that begins with 'msg'\"",
-      "url": "https://github.com/langchain-ai/langchain/issues/39113",
-      "author": "jmbledsoe",
-      "at": "2026-07-28T21:08:55Z"
+      "number": 39127,
+      "title": "RecursiveJsonSplitter produces chunks exceeding max_chunk_size for nested JSON",
+      "url": "https://github.com/langchain-ai/langchain/issues/39127",
+      "author": "chadsr",
+      "at": "2026-07-29T21:20:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96341,
-      "title": "docs: update SPA SWR examples",
-      "url": "https://github.com/vercel/next.js/pull/96341",
-      "author": "aurorascharff",
-      "at": "2026-07-29T15:21:13Z"
+      "number": 96372,
+      "title": "fix: Route group layout leaks into root not-found page",
+      "url": "https://github.com/vercel/next.js/pull/96372",
+      "author": "icyJoseph",
+      "at": "2026-07-30T05:17:53Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96340,
-      "title": "[Cache Components] Only consider rendered parallel slots for instant insights validation",
-      "url": "https://github.com/vercel/next.js/pull/96340",
-      "author": "gnoff",
-      "at": "2026-07-29T14:34:19Z"
+      "number": 96367,
+      "title": "Allow DOM-capable bots to use PPR streaming",
+      "url": "https://github.com/vercel/next.js/pull/96367",
+      "author": "ztanner",
+      "at": "2026-07-29T23:08:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48447,
-      "title": "chore: update lite-studio to Node 22",
-      "url": "https://github.com/supabase/supabase/pull/48447",
-      "author": "Nameless-Monster-Nerd",
-      "at": "2026-07-29T15:40:23Z"
+      "number": 48475,
+      "title": "feat(www): markdown copy/ask affordances",
+      "url": "https://github.com/supabase/supabase/pull/48475",
+      "author": "pamelachia",
+      "at": "2026-07-30T05:11:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48446,
-      "title": "www: polish navigation dropdown layout and motion, fix panel-switch flash",
-      "url": "https://github.com/supabase/supabase/pull/48446",
-      "author": "faradayfury",
-      "at": "2026-07-29T15:39:43Z"
+      "number": 48474,
+      "title": "recover failed Vercel deploy connections",
+      "url": "https://github.com/supabase/supabase/pull/48474",
+      "author": "dnywh",
+      "at": "2026-07-30T04:23:40Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2240,
+      "title": "fix(prettier): add .prettierignore to exclude generated Prisma client",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2240",
+      "author": "gonzoblasco",
+      "at": "2026-07-15T16:32:51Z"
     }
   ]
 }
