@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-07-30T15:48:39.556Z",
-  "count": 12,
+  "updatedAt": "2026-07-31T06:13:23.910Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 5331,
-      "title": "Broken (404's) profile sh link",
-      "url": "https://github.com/browser-use/browser-use/issues/5331",
-      "author": "davidalejandroaguilar",
-      "at": "2026-07-30T15:10:43Z"
+      "number": 5333,
+      "title": "Support mcp 2.x (Python SDK): hard pin mcp==1.26.0 blocks 2.0.0",
+      "url": "https://github.com/browser-use/browser-use/issues/5333",
+      "author": "ProgrammerPlus1998",
+      "at": "2026-07-31T04:26:05Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5330,
-      "title": "Recover Anthropic tool arguments when the model serializes its call as text",
-      "url": "https://github.com/browser-use/browser-use/pull/5330",
-      "author": "ElayGelbart",
-      "at": "2026-07-30T15:03:39Z"
+      "number": 5332,
+      "title": "docs: replace broken profile sync link",
+      "url": "https://github.com/browser-use/browser-use/pull/5332",
+      "author": "Hardik180704",
+      "at": "2026-07-30T18:38:17Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3994,
-      "title": "feat(release): add protected SDK release coordinator",
-      "url": "https://github.com/ComposioHQ/composio/pull/3994",
-      "author": "jkomyno",
-      "at": "2026-07-30T15:44:31Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 3993,
-      "title": "fix(cli): make GitHub releases the version authority",
-      "url": "https://github.com/ComposioHQ/composio/pull/3993",
-      "author": "jkomyno",
-      "at": "2026-07-30T14:26:32Z"
+      "kind": "issue",
+      "number": 3998,
+      "title": "[CLI] `composio upgrade` always fails on Linux with ETXTBSY — it copies the new binary over its own running executable",
+      "url": "https://github.com/ComposioHQ/composio/issues/3998",
+      "author": "amplogik",
+      "at": "2026-07-30T19:52:14Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,77 +51,99 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39138,
-      "title": "bug(core): `tool_example_to_messages` silently truncates mismatched tool outputs",
-      "url": "https://github.com/langchain-ai/langchain/issues/39138",
+      "number": 39163,
+      "title": "bug(core): `atrace_as_chain_group` leaves runs pending on task cancellation",
+      "url": "https://github.com/langchain-ai/langchain/issues/39163",
       "author": "LunarCache",
-      "at": "2026-07-30T08:08:55Z"
+      "at": "2026-07-31T00:45:33Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39134,
-      "title": "tests: Add unit test coverage for string formatting edge cases in utils",
-      "url": "https://github.com/langchain-ai/langchain/issues/39134",
-      "author": "user901-67",
-      "at": "2026-07-30T07:31:07Z"
+      "number": 39157,
+      "title": "`Serializable` repr/serialization will change with next pydantic release",
+      "url": "https://github.com/langchain-ai/langchain/issues/39157",
+      "author": "Viicos",
+      "at": "2026-07-30T18:13:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96386,
-      "title": "[turbotrace] bump test version of sharp",
-      "url": "https://github.com/vercel/next.js/pull/96386",
-      "author": "styfle",
-      "at": "2026-07-30T12:27:13Z"
+      "number": 96415,
+      "title": "CJS scope hoisting: enable as default",
+      "url": "https://github.com/vercel/next.js/pull/96415",
+      "author": "sampoder",
+      "at": "2026-07-31T06:01:21Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96384,
-      "title": "fix: serialize prerender manifest updates in dev to prevent corruption",
-      "url": "https://github.com/vercel/next.js/pull/96384",
-      "author": "LouisTsang-jk",
-      "at": "2026-07-30T10:07:54Z"
+      "number": 96414,
+      "title": "fix: propagate waitUntil from edge runtime to waitUntil adapter",
+      "url": "https://github.com/vercel/next.js/pull/96414",
+      "author": "deepshekhardas",
+      "at": "2026-07-31T05:37:21Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48499,
-      "title": "docs(self-hosted): update nav and minor corrections",
-      "url": "https://github.com/supabase/supabase/pull/48499",
-      "author": "aantti",
-      "at": "2026-07-30T15:26:30Z"
+      "number": 48523,
+      "title": "docs(csharp): update C# reference docs to SDK 1.5",
+      "url": "https://github.com/supabase/supabase/pull/48523",
+      "author": "Tr00d",
+      "at": "2026-07-31T06:02:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48498,
-      "title": "chore(self-hosted): remove em-dashes",
-      "url": "https://github.com/supabase/supabase/pull/48498",
-      "author": "aantti",
-      "at": "2026-07-30T15:24:07Z"
+      "number": 48522,
+      "title": "fix(studio): confirm before discarding dirty replication destination forms",
+      "url": "https://github.com/supabase/supabase/pull/48522",
+      "author": "dnywh",
+      "at": "2026-07-31T05:37:32Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4125,
+      "title": "Cancelling a generator input kills the container instead of the input",
+      "url": "https://github.com/modal-labs/modal-client/issues/4125",
+      "author": "noonhub",
+      "at": "2026-07-31T04:15:35Z"
     },
     {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 2240,
-      "title": "fix(prettier): add .prettierignore to exclude generated Prisma client",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2240",
+      "number": 2244,
+      "title": "fix(cli): use correct table prefix placeholder for Better Auth + Drizzle + PostgreSQL",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2244",
       "author": "gonzoblasco",
-      "at": "2026-07-15T16:32:51Z"
+      "at": "2026-07-30T18:47:28Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2243,
+      "title": "fix(www): add accessible label to clipboard copy button",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2243",
+      "author": "gonzoblasco",
+      "at": "2026-07-30T18:41:11Z"
     }
   ]
 }
