@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-31T06:13:23.910Z",
+  "updatedAt": "2026-07-31T15:59:38.009Z",
   "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5334,
+      "title": "feat(mcp): migrate MCP integration to mcp 2.x",
+      "url": "https://github.com/browser-use/browser-use/pull/5334",
+      "author": "ProgrammerPlus1998",
+      "at": "2026-07-31T10:45:50Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,103 +25,92 @@
       "at": "2026-07-31T04:26:05Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5332,
-      "title": "docs: replace broken profile sync link",
-      "url": "https://github.com/browser-use/browser-use/pull/5332",
-      "author": "Hardik180704",
-      "at": "2026-07-30T18:38:17Z"
+      "number": 4011,
+      "title": "feat(cli): add explicit shell setup to install",
+      "url": "https://github.com/ComposioHQ/composio/pull/4011",
+      "author": "jkomyno",
+      "at": "2026-07-31T13:24:46Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 3998,
-      "title": "[CLI] `composio upgrade` always fails on Linux with ETXTBSY — it copies the new binary over its own running executable",
-      "url": "https://github.com/ComposioHQ/composio/issues/3998",
-      "author": "amplogik",
-      "at": "2026-07-30T19:52:14Z"
+      "kind": "pr",
+      "number": 4010,
+      "title": "fix(ci): align workflow Node.js version with package engines",
+      "url": "https://github.com/ComposioHQ/composio/pull/4010",
+      "author": "MGPOCKY",
+      "at": "2026-07-31T10:36:06Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2498,
-      "title": "fix(openai): add reask fallback when RESPONSES_TOOLS output has no tool calls",
-      "url": "https://github.com/567-labs/instructor/pull/2498",
-      "author": "Kropiunig",
-      "at": "2026-07-30T11:27:51Z"
+      "number": 39170,
+      "title": "fix(core): type text stream projections",
+      "url": "https://github.com/langchain-ai/langchain/pull/39170",
+      "author": "nick-hollon-lc",
+      "at": "2026-07-31T13:48:34Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39163,
-      "title": "bug(core): `atrace_as_chain_group` leaves runs pending on task cancellation",
-      "url": "https://github.com/langchain-ai/langchain/issues/39163",
-      "author": "LunarCache",
-      "at": "2026-07-31T00:45:33Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39157,
-      "title": "`Serializable` repr/serialization will change with next pydantic release",
-      "url": "https://github.com/langchain-ai/langchain/issues/39157",
-      "author": "Viicos",
-      "at": "2026-07-30T18:13:14Z"
+      "number": 39169,
+      "title": "StructuredPrompt mutates caller-provided structured_output_kwargs",
+      "url": "https://github.com/langchain-ai/langchain/issues/39169",
+      "author": "zyz619963502zyz",
+      "at": "2026-07-31T13:15:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96415,
-      "title": "CJS scope hoisting: enable as default",
-      "url": "https://github.com/vercel/next.js/pull/96415",
-      "author": "sampoder",
-      "at": "2026-07-31T06:01:21Z"
+      "number": 96428,
+      "title": "test: stabilize after() deploy revalidation checks",
+      "url": "https://github.com/vercel/next.js/pull/96428",
+      "author": "ztanner",
+      "at": "2026-07-31T15:57:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96414,
-      "title": "fix: propagate waitUntil from edge runtime to waitUntil adapter",
-      "url": "https://github.com/vercel/next.js/pull/96414",
+      "number": 96427,
+      "title": "fix: upgrade axios to 1.8.2 (CVE-2025-27152)",
+      "url": "https://github.com/vercel/next.js/pull/96427",
       "author": "deepshekhardas",
-      "at": "2026-07-31T05:37:21Z"
+      "at": "2026-07-31T14:03:13Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 48544,
+      "title": "MCP login for Claude Code not working",
+      "url": "https://github.com/supabase/supabase/issues/48544",
+      "author": "dmsakamoto",
+      "at": "2026-07-31T14:56:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48523,
-      "title": "docs(csharp): update C# reference docs to SDK 1.5",
-      "url": "https://github.com/supabase/supabase/pull/48523",
-      "author": "Tr00d",
-      "at": "2026-07-31T06:02:23Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48522,
-      "title": "fix(studio): confirm before discarding dirty replication destination forms",
-      "url": "https://github.com/supabase/supabase/pull/48522",
-      "author": "dnywh",
-      "at": "2026-07-31T05:37:32Z"
+      "number": 48543,
+      "title": "Scoped PAT: apply `flex-row-reverse` form layout",
+      "url": "https://github.com/supabase/supabase/pull/48543",
+      "author": "djhi",
+      "at": "2026-07-31T14:35:51Z"
     },
     {
       "founder": "Erik Bernhardsson",
