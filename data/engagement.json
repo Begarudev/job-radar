@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-01T05:54:06.110Z",
-  "count": 12,
+  "updatedAt": "2026-08-01T14:56:13.687Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5339,
+      "title": "[Security] Critical RCE: Unsandboxed exec() in MCP handler allows arbitrary code execution",
+      "url": "https://github.com/browser-use/browser-use/issues/5339",
+      "author": "Correctover",
+      "at": "2026-08-01T09:06:25Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,37 @@
       "at": "2026-08-01T05:05:44Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5337,
-      "title": "test(ci): Windows path execution tests for skill install docs",
-      "url": "https://github.com/browser-use/browser-use/pull/5337",
-      "author": "Ranga-Prasath-22",
-      "at": "2026-07-31T16:17:48Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4013,
-      "title": "YOUTUBE_UPDATE_VIDEO silently destroys embeddable / publicStatsViewable when changing privacy_status",
-      "url": "https://github.com/ComposioHQ/composio/issues/4013",
-      "author": "nathanpelton",
-      "at": "2026-07-31T18:14:33Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4011,
-      "title": "feat(cli): add explicit shell setup to install",
-      "url": "https://github.com/ComposioHQ/composio/pull/4011",
+      "number": 4016,
+      "title": "fix(cli): replace the running binary atomically",
+      "url": "https://github.com/ComposioHQ/composio/pull/4016",
       "author": "jkomyno",
-      "at": "2026-07-31T13:24:46Z"
+      "at": "2026-08-01T14:21:01Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4015,
+      "title": "feat(cli): rewrite installer for POSIX shell",
+      "url": "https://github.com/ComposioHQ/composio/pull/4015",
+      "author": "jkomyno",
+      "at": "2026-08-01T10:47:17Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2500,
+      "title": "fix: accumulate nested provider usage fields",
+      "url": "https://github.com/567-labs/instructor/pull/2500",
+      "author": "mikemikimike",
+      "at": "2026-08-01T11:13:10Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,59 +69,48 @@
       "at": "2026-07-31T16:46:48Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39182,
-      "title": "Add langchain-docuweave partner package: layout-aware PDF loader with section hierarchy",
-      "url": "https://github.com/langchain-ai/langchain/issues/39182",
-      "author": "VenkateswaraRao18",
-      "at": "2026-08-01T03:40:07Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39169,
-      "title": "StructuredPrompt mutates caller-provided structured_output_kwargs",
-      "url": "https://github.com/langchain-ai/langchain/issues/39169",
-      "author": "zyz619963502zyz",
-      "at": "2026-07-31T13:15:15Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96464,
+      "title": "fix(router): align has/missing header matching behavior with Vercel router",
+      "url": "https://github.com/vercel/next.js/pull/96464",
+      "author": "deepshekhardas",
+      "at": "2026-08-01T06:08:54Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96459,
-      "title": "Show Server Action execution in Request Insights",
-      "url": "https://github.com/vercel/next.js/pull/96459",
-      "author": "DavidIlie",
-      "at": "2026-08-01T00:41:41Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96458,
-      "title": "Add OpenTelemetry span for Server Action execution",
-      "url": "https://github.com/vercel/next.js/pull/96458",
-      "author": "DavidIlie",
-      "at": "2026-08-01T00:41:30Z"
+      "number": 96463,
+      "title": "fix: handle file:// URLs from import.meta.resolve in cache handler path (fixes #73796)",
+      "url": "https://github.com/vercel/next.js/pull/96463",
+      "author": "deepshekhardas",
+      "at": "2026-08-01T06:08:51Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48560,
-      "title": "fix(www): restore redirects for old CLI guide URLs shadowed by the cli catch-all",
-      "url": "https://github.com/supabase/supabase/pull/48560",
+      "number": 48564,
+      "title": "Add Elastic Tile to Supabase Metrics API page",
+      "url": "https://github.com/supabase/supabase/pull/48564",
+      "author": "ishleenk17",
+      "at": "2026-08-01T09:16:13Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48563,
+      "title": "docs: point renamed Storage reference links at their file-buckets pages",
+      "url": "https://github.com/supabase/supabase/pull/48563",
       "author": "ayaangazali",
-      "at": "2026-08-01T01:38:50Z"
+      "at": "2026-08-01T07:16:11Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -122,17 +122,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4126",
       "author": "hn-bfai",
       "at": "2026-08-01T00:46:06Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2239,
-      "title": "fix(biome): ignore generated/ and bump minimum version to ^2.5.3",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2239",
-      "author": "gonzoblasco",
-      "at": "2026-07-15T04:07:06Z"
     }
   ]
 }
