@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T14:56:13.687Z",
+  "updatedAt": "2026-08-02T05:57:12.399Z",
   "count": 11,
   "signals": [
     {
@@ -18,11 +18,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5338,
-      "title": "ci: add name to test discovery step for readability",
-      "url": "https://github.com/browser-use/browser-use/pull/5338",
-      "author": "MGPOCKY",
-      "at": "2026-08-01T05:05:44Z"
+      "number": 5336,
+      "title": "fix(utils): harden URL and version parsing",
+      "url": "https://github.com/browser-use/browser-use/pull/5336",
+      "author": "Ranga-Prasath-22",
+      "at": "2026-07-31T16:17:48Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4017,
+      "title": "[Bug]: Slack DM thread replies are never delivered — SLACK_DIRECT_MESSAGE_RECEIVED drops threaded messages and SLACK_CHANNEL_MESSAGE_RECEIVE",
+      "url": "https://github.com/ComposioHQ/composio/issues/4017",
+      "author": "pranayperiwal",
+      "at": "2026-08-01T17:21:34Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,92 +47,81 @@
       "at": "2026-08-01T14:21:01Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4015,
-      "title": "feat(cli): rewrite installer for POSIX shell",
-      "url": "https://github.com/ComposioHQ/composio/pull/4015",
-      "author": "jkomyno",
-      "at": "2026-08-01T10:47:17Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2500,
-      "title": "fix: accumulate nested provider usage fields",
-      "url": "https://github.com/567-labs/instructor/pull/2500",
-      "author": "mikemikimike",
-      "at": "2026-08-01T11:13:10Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2499,
-      "title": "fix: accumulate newer billable token fields in usage tracking",
-      "url": "https://github.com/567-labs/instructor/pull/2499",
-      "author": "rkfshakti",
-      "at": "2026-07-31T16:46:48Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96464,
-      "title": "fix(router): align has/missing header matching behavior with Vercel router",
-      "url": "https://github.com/vercel/next.js/pull/96464",
-      "author": "deepshekhardas",
-      "at": "2026-08-01T06:08:54Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96463,
-      "title": "fix: handle file:// URLs from import.meta.resolve in cache handler path (fixes #73796)",
-      "url": "https://github.com/vercel/next.js/pull/96463",
-      "author": "deepshekhardas",
-      "at": "2026-08-01T06:08:51Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48564,
-      "title": "Add Elastic Tile to Supabase Metrics API page",
-      "url": "https://github.com/supabase/supabase/pull/48564",
-      "author": "ishleenk17",
-      "at": "2026-08-01T09:16:13Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48563,
-      "title": "docs: point renamed Storage reference links at their file-buckets pages",
-      "url": "https://github.com/supabase/supabase/pull/48563",
-      "author": "ayaangazali",
-      "at": "2026-08-01T07:16:11Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4126,
-      "title": "\"Deployment skipped: no changes detected\" doesn't work in some circumstances",
-      "url": "https://github.com/modal-labs/modal-client/issues/4126",
-      "author": "hn-bfai",
-      "at": "2026-08-01T00:46:06Z"
+      "number": 2493,
+      "title": "Retry usage accumulation drops newer billable token fields (Anthropic stale, OpenAI overwritten with None)",
+      "url": "https://github.com/567-labs/instructor/issues/2493",
+      "author": "ErenAta16",
+      "at": "2026-07-28T16:26:08Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2436,
+      "title": "docs: add DaoXE OpenAI-compatible gateway integration",
+      "url": "https://github.com/567-labs/instructor/pull/2436",
+      "author": "seven7763",
+      "at": "2026-07-13T14:38:10Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39192,
+      "title": "RecursiveJsonSplitter.split_json silently returns [] for non-dict top-level input instead of raising",
+      "url": "https://github.com/langchain-ai/langchain/issues/39192",
+      "author": "Soban-2004",
+      "at": "2026-08-01T21:41:31Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96490,
+      "title": "fix: update remaining stale inline snapshots for single Learn more link",
+      "url": "https://github.com/vercel/next.js/pull/96490",
+      "author": "deepshekhardas",
+      "at": "2026-08-02T03:13:20Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96489,
+      "title": "fix: ignore stray parent lockfiles in find-root",
+      "url": "https://github.com/vercel/next.js/pull/96489",
+      "author": "deepshekhardas",
+      "at": "2026-08-02T03:12:53Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48609,
+      "title": "fix(pr-44775): bump npm_and_yarn group across 5 directories with 4 updates",
+      "url": "https://github.com/supabase/supabase/pull/48609",
+      "author": "deepshekhardas",
+      "at": "2026-08-02T03:17:09Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48608,
+      "title": "fix(pr-44755): bump npm_and_yarn group across 10 directories with 2 updates",
+      "url": "https://github.com/supabase/supabase/pull/48608",
+      "author": "deepshekhardas",
+      "at": "2026-08-02T03:17:09Z"
     }
   ]
 }
