@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-02T05:57:12.399Z",
-  "count": 11,
+  "updatedAt": "2026-08-02T14:58:10.607Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5339,
-      "title": "[Security] Critical RCE: Unsandboxed exec() in MCP handler allows arbitrary code execution",
-      "url": "https://github.com/browser-use/browser-use/issues/5339",
-      "author": "Correctover",
-      "at": "2026-08-01T09:06:25Z"
+      "kind": "pr",
+      "number": 5330,
+      "title": "Recover Anthropic tool arguments when the model serializes its call as text",
+      "url": "https://github.com/browser-use/browser-use/pull/5330",
+      "author": "ElayGelbart",
+      "at": "2026-07-30T15:03:39Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5336,
-      "title": "fix(utils): harden URL and version parsing",
-      "url": "https://github.com/browser-use/browser-use/pull/5336",
-      "author": "Ranga-Prasath-22",
-      "at": "2026-07-31T16:17:48Z"
+      "kind": "issue",
+      "number": 5321,
+      "title": "Usage model reports 1-hour cache tokens the serializer can never produce",
+      "url": "https://github.com/browser-use/browser-use/issues/5321",
+      "author": "Tanisha-Katara",
+      "at": "2026-07-28T19:04:13Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,33 +40,33 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4016,
-      "title": "fix(cli): replace the running binary atomically",
-      "url": "https://github.com/ComposioHQ/composio/pull/4016",
+      "number": 4015,
+      "title": "feat(cli): rewrite installer for POSIX shell",
+      "url": "https://github.com/ComposioHQ/composio/pull/4015",
       "author": "jkomyno",
-      "at": "2026-08-01T14:21:01Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2493,
-      "title": "Retry usage accumulation drops newer billable token fields (Anthropic stale, OpenAI overwritten with None)",
-      "url": "https://github.com/567-labs/instructor/issues/2493",
-      "author": "ErenAta16",
-      "at": "2026-07-28T16:26:08Z"
+      "at": "2026-08-01T10:47:17Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2436,
-      "title": "docs: add DaoXE OpenAI-compatible gateway integration",
-      "url": "https://github.com/567-labs/instructor/pull/2436",
-      "author": "seven7763",
-      "at": "2026-07-13T14:38:10Z"
+      "number": 2501,
+      "title": "fix(v2): keep raw Iterable typehint for PARALLEL_TOOLS",
+      "url": "https://github.com/567-labs/instructor/pull/2501",
+      "author": "RezaRahemtola",
+      "at": "2026-08-02T14:45:51Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2500,
+      "title": "fix: accumulate nested provider usage fields",
+      "url": "https://github.com/567-labs/instructor/pull/2500",
+      "author": "mikemikimike",
+      "at": "2026-08-01T11:13:10Z"
     },
     {
       "founder": "Harrison Chase",
@@ -84,44 +84,55 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96490,
-      "title": "fix: update remaining stale inline snapshots for single Learn more link",
-      "url": "https://github.com/vercel/next.js/pull/96490",
-      "author": "deepshekhardas",
-      "at": "2026-08-02T03:13:20Z"
+      "number": 96497,
+      "title": "Enable TypeScript CLI by default",
+      "url": "https://github.com/vercel/next.js/pull/96497",
+      "author": "timneutkens",
+      "at": "2026-08-02T11:30:50Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96489,
-      "title": "fix: ignore stray parent lockfiles in find-root",
-      "url": "https://github.com/vercel/next.js/pull/96489",
-      "author": "deepshekhardas",
-      "at": "2026-08-02T03:12:53Z"
+      "kind": "issue",
+      "number": 96496,
+      "title": "Server Action POSTs to an arbitrary URL supplied by a non-Next history.pushState/replaceState call",
+      "url": "https://github.com/vercel/next.js/issues/96496",
+      "author": "FahadAlazemi",
+      "at": "2026-08-02T10:25:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48609,
-      "title": "fix(pr-44775): bump npm_and_yarn group across 5 directories with 4 updates",
-      "url": "https://github.com/supabase/supabase/pull/48609",
-      "author": "deepshekhardas",
-      "at": "2026-08-02T03:17:09Z"
+      "number": 48613,
+      "title": "fix(docs): fix broken high availability badge link",
+      "url": "https://github.com/supabase/supabase/pull/48613",
+      "author": "yamin-H",
+      "at": "2026-08-02T14:26:49Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 48612,
+      "title": "Account recovery",
+      "url": "https://github.com/supabase/supabase/issues/48612",
+      "author": "ayodelesamod112",
+      "at": "2026-08-02T13:22:00Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "pr",
-      "number": 48608,
-      "title": "fix(pr-44755): bump npm_and_yarn group across 10 directories with 2 updates",
-      "url": "https://github.com/supabase/supabase/pull/48608",
-      "author": "deepshekhardas",
-      "at": "2026-08-02T03:17:09Z"
+      "number": 1627,
+      "title": "feat: add named OrcaRouter provider to the multi-provider LLM caller",
+      "url": "https://github.com/julep-ai/julep/pull/1627",
+      "author": "jinhaosong-source",
+      "at": "2026-08-02T10:04:17Z"
     }
   ]
 }
