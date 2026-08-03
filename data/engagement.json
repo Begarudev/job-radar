@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T14:58:10.607Z",
+  "updatedAt": "2026-08-03T06:22:24.885Z",
   "count": 12,
   "signals": [
     {
@@ -7,132 +7,132 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5330,
-      "title": "Recover Anthropic tool arguments when the model serializes its call as text",
-      "url": "https://github.com/browser-use/browser-use/pull/5330",
-      "author": "ElayGelbart",
-      "at": "2026-07-30T15:03:39Z"
+      "number": 5349,
+      "title": "fix(utils): avoid callback errors for cancelled tasks",
+      "url": "https://github.com/browser-use/browser-use/pull/5349",
+      "author": "cosin2077",
+      "at": "2026-08-03T03:34:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5321,
-      "title": "Usage model reports 1-hour cache tokens the serializer can never produce",
-      "url": "https://github.com/browser-use/browser-use/issues/5321",
-      "author": "Tanisha-Katara",
-      "at": "2026-07-28T19:04:13Z"
+      "kind": "pr",
+      "number": 5348,
+      "title": "fix(llm): preserve zero max_retries for Anthropic Bedrock",
+      "url": "https://github.com/browser-use/browser-use/pull/5348",
+      "author": "cosin2077",
+      "at": "2026-08-03T03:34:02Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4017,
-      "title": "[Bug]: Slack DM thread replies are never delivered — SLACK_DIRECT_MESSAGE_RECEIVED drops threaded messages and SLACK_CHANNEL_MESSAGE_RECEIVE",
-      "url": "https://github.com/ComposioHQ/composio/issues/4017",
-      "author": "pranayperiwal",
-      "at": "2026-08-01T17:21:34Z"
+      "number": 4023,
+      "title": "[Bug]: pydantic-generated schema silently strips content of nested object fields with no declared properties (breaks METABASE_POST_API_CARD)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4023",
+      "author": "eldelosdatos",
+      "at": "2026-08-03T05:48:57Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4015,
-      "title": "feat(cli): rewrite installer for POSIX shell",
-      "url": "https://github.com/ComposioHQ/composio/pull/4015",
-      "author": "jkomyno",
-      "at": "2026-08-01T10:47:17Z"
+      "kind": "issue",
+      "number": 4022,
+      "title": "Schema Generator Bug: Missing `type: \"object\"` on nested properties breaks Google Gemini API (HTTP 400)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4022",
+      "author": "andrea-kingautomation",
+      "at": "2026-08-03T02:53:06Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2501,
-      "title": "fix(v2): keep raw Iterable typehint for PARALLEL_TOOLS",
-      "url": "https://github.com/567-labs/instructor/pull/2501",
-      "author": "RezaRahemtola",
-      "at": "2026-08-02T14:45:51Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2500,
-      "title": "fix: accumulate nested provider usage fields",
-      "url": "https://github.com/567-labs/instructor/pull/2500",
-      "author": "mikemikimike",
-      "at": "2026-08-01T11:13:10Z"
+      "number": 2506,
+      "title": "docs: note OpenAI client base_url for multi-model gateways",
+      "url": "https://github.com/567-labs/instructor/pull/2506",
+      "author": "seven7763",
+      "at": "2026-08-03T01:56:03Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39192,
-      "title": "RecursiveJsonSplitter.split_json silently returns [] for non-dict top-level input instead of raising",
-      "url": "https://github.com/langchain-ai/langchain/issues/39192",
-      "author": "Soban-2004",
-      "at": "2026-08-01T21:41:31Z"
+      "number": 39211,
+      "title": "bug(core): `ContextThreadPoolExecutor.map` rejects generator inputs",
+      "url": "https://github.com/langchain-ai/langchain/issues/39211",
+      "author": "LunarCache",
+      "at": "2026-08-03T01:10:47Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96497,
-      "title": "Enable TypeScript CLI by default",
-      "url": "https://github.com/vercel/next.js/pull/96497",
-      "author": "timneutkens",
-      "at": "2026-08-02T11:30:50Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39210,
+      "title": "Feature Idea: Deterministic arbitration/escrow for agent economies (LangGraph/LangChain)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39210",
+      "author": "Specshub",
+      "at": "2026-08-03T00:06:08Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 96496,
-      "title": "Server Action POSTs to an arbitrary URL supplied by a non-Next history.pushState/replaceState call",
-      "url": "https://github.com/vercel/next.js/issues/96496",
-      "author": "FahadAlazemi",
-      "at": "2026-08-02T10:25:41Z"
+      "number": 96508,
+      "title": "Inline `\"use server\"` function fails when returned from file-level `\"use server\"` function",
+      "url": "https://github.com/vercel/next.js/issues/96508",
+      "author": "hi-ogawa",
+      "at": "2026-08-03T01:53:33Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96506,
+      "title": "turbo-tasks: explicit GC root anchoring + cross-session orphan reclamation",
+      "url": "https://github.com/vercel/next.js/pull/96506",
+      "author": "lukesandberg",
+      "at": "2026-08-02T23:40:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48613,
-      "title": "fix(docs): fix broken high availability badge link",
-      "url": "https://github.com/supabase/supabase/pull/48613",
-      "author": "yamin-H",
-      "at": "2026-08-02T14:26:49Z"
+      "number": 48635,
+      "title": "fix(studio): preserve FGA OR-groups and correct MCP tool map for scoped tokens",
+      "url": "https://github.com/supabase/supabase/pull/48635",
+      "author": "w3b6x9",
+      "at": "2026-08-03T05:42:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48634,
+      "title": "docs(examples): point dead reference links at their current pages",
+      "url": "https://github.com/supabase/supabase/pull/48634",
+      "author": "ayaangazali",
+      "at": "2026-08-03T04:33:30Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 48612,
-      "title": "Account recovery",
-      "url": "https://github.com/supabase/supabase/issues/48612",
-      "author": "ayodelesamod112",
-      "at": "2026-08-02T13:22:00Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1627,
-      "title": "feat: add named OrcaRouter provider to the multi-provider LLM caller",
-      "url": "https://github.com/julep-ai/julep/pull/1627",
-      "author": "jinhaosong-source",
-      "at": "2026-08-02T10:04:17Z"
+      "number": 4126,
+      "title": "\"Deployment skipped: no changes detected\" doesn't work in some circumstances",
+      "url": "https://github.com/modal-labs/modal-client/issues/4126",
+      "author": "hn-bfai",
+      "at": "2026-08-01T00:46:06Z"
     }
   ]
 }
