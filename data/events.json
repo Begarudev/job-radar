@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T08:54:37.109Z",
+  "updatedAt": "2026-08-03T10:13:08.162Z",
   "count": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub&#8217;s bug bounty program appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
       "publishedAt": "Wed, 22 Jul 2026 16:00:00 +0000",
-      "fetchedAt": "2026-08-02T08:54:32.606Z",
+      "fetchedAt": "2026-08-03T10:13:07.746Z",
       "company": "GitHub",
       "tags": []
     },
@@ -22,7 +22,7 @@
       "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
       "url": "https://www.runpod.io/blog/flash-hack-day",
       "publishedAt": "Tue, 28 Jul 2026 06:00:49 GMT",
-      "fetchedAt": "2026-08-02T08:54:32.831Z",
+      "fetchedAt": "2026-08-03T10:13:07.747Z",
       "company": "RunPod",
       "tags": []
     },
@@ -34,7 +34,7 @@
       "description": "Details about the OpenAI Bio Bounty program",
       "url": "https://openai.com/index/bio-bug-bounty",
       "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "fetchedAt": "2026-08-02T08:54:32.671Z",
+      "fetchedAt": "2026-08-03T10:13:07.721Z",
       "company": "OpenAI",
       "tags": []
     }
