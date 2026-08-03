@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-08-03T06:22:24.885Z",
-  "count": 12,
+  "updatedAt": "2026-08-03T16:19:11.861Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5349,
-      "title": "fix(utils): avoid callback errors for cancelled tasks",
-      "url": "https://github.com/browser-use/browser-use/pull/5349",
-      "author": "cosin2077",
-      "at": "2026-08-03T03:34:02Z"
+      "number": 5371,
+      "title": "fix: report actual wait duration instead of the requested one",
+      "url": "https://github.com/browser-use/browser-use/pull/5371",
+      "author": "Diwak4r",
+      "at": "2026-08-03T16:15:47Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5348,
-      "title": "fix(llm): preserve zero max_retries for Anthropic Bedrock",
-      "url": "https://github.com/browser-use/browser-use/pull/5348",
-      "author": "cosin2077",
-      "at": "2026-08-03T03:34:02Z"
+      "number": 5370,
+      "title": "fix: surface coordinate click failures and guard the highlight task",
+      "url": "https://github.com/browser-use/browser-use/pull/5370",
+      "author": "Diwak4r",
+      "at": "2026-08-03T16:12:49Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4023,
-      "title": "[Bug]: pydantic-generated schema silently strips content of nested object fields with no declared properties (breaks METABASE_POST_API_CARD)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4023",
-      "author": "eldelosdatos",
-      "at": "2026-08-03T05:48:57Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4022,
-      "title": "Schema Generator Bug: Missing `type: \"object\"` on nested properties breaks Google Gemini API (HTTP 400)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4022",
-      "author": "andrea-kingautomation",
-      "at": "2026-08-03T02:53:06Z"
+      "kind": "pr",
+      "number": 4043,
+      "title": "fix(telemetry): redact secrets inside JSON payloads",
+      "url": "https://github.com/ComposioHQ/composio/pull/4043",
+      "author": "LHMQ878",
+      "at": "2026-08-03T14:47:40Z"
     },
     {
       "founder": "Jason Liu",
@@ -83,45 +72,45 @@
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96508,
-      "title": "Inline `\"use server\"` function fails when returned from file-level `\"use server\"` function",
-      "url": "https://github.com/vercel/next.js/issues/96508",
-      "author": "hi-ogawa",
-      "at": "2026-08-03T01:53:33Z"
+      "kind": "pr",
+      "number": 96535,
+      "title": "Reload a stale dev document after a back navigation",
+      "url": "https://github.com/vercel/next.js/pull/96535",
+      "author": "sokra",
+      "at": "2026-08-03T15:48:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96506,
-      "title": "turbo-tasks: explicit GC root anchoring + cross-session orphan reclamation",
-      "url": "https://github.com/vercel/next.js/pull/96506",
-      "author": "lukesandberg",
-      "at": "2026-08-02T23:40:12Z"
+      "kind": "issue",
+      "number": 96533,
+      "title": "ISR revalidation retains RSC segment data via CachedParams WeakMap (external/arrayBuffers growth, amplified on Node 22)",
+      "url": "https://github.com/vercel/next.js/issues/96533",
+      "author": "udohsolomon",
+      "at": "2026-08-03T15:04:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48635,
-      "title": "fix(studio): preserve FGA OR-groups and correct MCP tool map for scoped tokens",
-      "url": "https://github.com/supabase/supabase/pull/48635",
-      "author": "w3b6x9",
-      "at": "2026-08-03T05:42:05Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48634,
-      "title": "docs(examples): point dead reference links at their current pages",
-      "url": "https://github.com/supabase/supabase/pull/48634",
+      "number": 48656,
+      "title": "fix(studio): point storage reference links at their file-buckets pages",
+      "url": "https://github.com/supabase/supabase/pull/48656",
       "author": "ayaangazali",
-      "at": "2026-08-03T04:33:30Z"
+      "at": "2026-08-03T15:49:35Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 48655,
+      "title": "docs: point explain and rpc reference links at their current pages",
+      "url": "https://github.com/supabase/supabase/pull/48655",
+      "author": "ayaangazali",
+      "at": "2026-08-03T15:39:41Z"
     },
     {
       "founder": "Erik Bernhardsson",
