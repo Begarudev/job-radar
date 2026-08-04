@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T05:45:49.813Z",
+  "updatedAt": "2026-08-04T16:09:05.983Z",
   "count": 10,
   "signals": [
     {
@@ -7,77 +7,77 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5385,
-      "title": "fix(tokens): normalize cache tokens per adapter and fix new_prompt_tokens",
-      "url": "https://github.com/browser-use/browser-use/pull/5385",
-      "author": "eeshsaxena",
-      "at": "2026-08-04T05:23:08Z"
+      "number": 5387,
+      "title": "feat(tools): add a pre-action governance hook",
+      "url": "https://github.com/browser-use/browser-use/pull/5387",
+      "author": "Soundcreates",
+      "at": "2026-08-04T12:37:44Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5384,
-      "title": "fix: reject embedded-wildcard domain patterns like www*.com",
-      "url": "https://github.com/browser-use/browser-use/pull/5384",
-      "author": "eeshsaxena",
-      "at": "2026-08-04T04:44:39Z"
+      "number": 5386,
+      "title": "perf: remove discarded DOM readiness probe",
+      "url": "https://github.com/browser-use/browser-use/pull/5386",
+      "author": "daleselaji-dev",
+      "at": "2026-08-04T05:51:32Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4043,
-      "title": "fix(telemetry): redact secrets inside JSON payloads",
-      "url": "https://github.com/ComposioHQ/composio/pull/4043",
-      "author": "LHMQ878",
-      "at": "2026-08-03T14:47:40Z"
+      "number": 4056,
+      "title": "perf(cli): resolve toolkits from local knowledge, not the catalog",
+      "url": "https://github.com/ComposioHQ/composio/pull/4056",
+      "author": "jkomyno",
+      "at": "2026-08-04T14:28:11Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4055,
+      "title": "chore(cli): bake the toolkit slug catalog into the CLI",
+      "url": "https://github.com/ComposioHQ/composio/pull/4055",
+      "author": "jkomyno",
+      "at": "2026-08-04T14:27:52Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39224,
-      "title": "feat(langchain): add LangSmith provider to `init_chat_model`",
-      "url": "https://github.com/langchain-ai/langchain/pull/39224",
-      "author": "ccurme",
-      "at": "2026-08-03T17:10:59Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39211,
-      "title": "bug(core): `ContextThreadPoolExecutor.map` rejects generator inputs",
-      "url": "https://github.com/langchain-ai/langchain/issues/39211",
-      "author": "LunarCache",
-      "at": "2026-08-03T01:10:47Z"
+      "number": 39245,
+      "title": "fix(langchain): prevent middleware model calls from leaking into the parent stream",
+      "url": "https://github.com/langchain-ai/langchain/pull/39245",
+      "author": "imnishitha",
+      "at": "2026-08-04T15:36:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96595,
-      "title": "[Turbopack] Dead-code elimination drops code after `if (x)` when `x` comes from an un-awaited async tail call",
-      "url": "https://github.com/vercel/next.js/issues/96595",
-      "author": "waleedlatif1",
-      "at": "2026-08-04T05:40:29Z"
+      "kind": "pr",
+      "number": 96639,
+      "title": "Turbopack: skip symlinks to directories when collecting traced includes",
+      "url": "https://github.com/vercel/next.js/pull/96639",
+      "author": "lazerg",
+      "at": "2026-08-04T15:23:21Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96594,
-      "title": "Next 16.3 regression: htmlLimitedBots matching browser UAs makes cacheable PPR pages private/no-store",
-      "url": "https://github.com/vercel/next.js/issues/96594",
-      "author": "mdotk",
-      "at": "2026-08-04T05:39:13Z"
+      "kind": "pr",
+      "number": 96638,
+      "title": "fix(dev-overlay): fix devtools indicator dragging on touch devices",
+      "url": "https://github.com/vercel/next.js/pull/96638",
+      "author": "klmkyo",
+      "at": "2026-08-04T14:56:18Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -95,22 +95,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48676,
-      "title": "fix(studio): account for SQL result column headers",
-      "url": "https://github.com/supabase/supabase/pull/48676",
-      "author": "eejihoon",
-      "at": "2026-08-04T04:42:55Z"
+      "number": 48707,
+      "title": "chore(self-hosted): update 2026-08-04 - 0.7.2",
+      "url": "https://github.com/supabase/supabase/pull/48707",
+      "author": "aantti",
+      "at": "2026-08-04T15:50:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48675,
-      "title": "Adding new joiner Shardul Borhade in human.txt",
-      "url": "https://github.com/supabase/supabase/pull/48675",
-      "author": "shardulborhade-ctrl",
-      "at": "2026-08-04T04:42:48Z"
+      "number": 48706,
+      "title": "feat(sql-editor): roll out manual saving by default",
+      "url": "https://github.com/supabase/supabase/pull/48706",
+      "author": "charislam",
+      "at": "2026-08-04T15:37:59Z"
     }
   ]
 }
