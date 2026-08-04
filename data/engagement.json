@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-03T16:19:11.861Z",
-  "count": 11,
+  "updatedAt": "2026-08-04T05:45:49.813Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5371,
-      "title": "fix: report actual wait duration instead of the requested one",
-      "url": "https://github.com/browser-use/browser-use/pull/5371",
-      "author": "Diwak4r",
-      "at": "2026-08-03T16:15:47Z"
+      "number": 5385,
+      "title": "fix(tokens): normalize cache tokens per adapter and fix new_prompt_tokens",
+      "url": "https://github.com/browser-use/browser-use/pull/5385",
+      "author": "eeshsaxena",
+      "at": "2026-08-04T05:23:08Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5370,
-      "title": "fix: surface coordinate click failures and guard the highlight task",
-      "url": "https://github.com/browser-use/browser-use/pull/5370",
-      "author": "Diwak4r",
-      "at": "2026-08-03T16:12:49Z"
+      "number": 5384,
+      "title": "fix: reject embedded-wildcard domain patterns like www*.com",
+      "url": "https://github.com/browser-use/browser-use/pull/5384",
+      "author": "eeshsaxena",
+      "at": "2026-08-04T04:44:39Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +36,15 @@
       "at": "2026-08-03T14:47:40Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2506,
-      "title": "docs: note OpenAI client base_url for multi-model gateways",
-      "url": "https://github.com/567-labs/instructor/pull/2506",
-      "author": "seven7763",
-      "at": "2026-08-03T01:56:03Z"
+      "number": 39224,
+      "title": "feat(langchain): add LangSmith provider to `init_chat_model`",
+      "url": "https://github.com/langchain-ai/langchain/pull/39224",
+      "author": "ccurme",
+      "at": "2026-08-03T17:10:59Z"
     },
     {
       "founder": "Harrison Chase",
@@ -58,70 +58,59 @@
       "at": "2026-08-03T01:10:47Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39210,
-      "title": "Feature Idea: Deterministic arbitration/escrow for agent economies (LangGraph/LangChain)",
-      "url": "https://github.com/langchain-ai/langchain/issues/39210",
-      "author": "Specshub",
-      "at": "2026-08-03T00:06:08Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96535,
-      "title": "Reload a stale dev document after a back navigation",
-      "url": "https://github.com/vercel/next.js/pull/96535",
-      "author": "sokra",
-      "at": "2026-08-03T15:48:27Z"
+      "kind": "issue",
+      "number": 96595,
+      "title": "[Turbopack] Dead-code elimination drops code after `if (x)` when `x` comes from an un-awaited async tail call",
+      "url": "https://github.com/vercel/next.js/issues/96595",
+      "author": "waleedlatif1",
+      "at": "2026-08-04T05:40:29Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 96533,
-      "title": "ISR revalidation retains RSC segment data via CachedParams WeakMap (external/arrayBuffers growth, amplified on Node 22)",
-      "url": "https://github.com/vercel/next.js/issues/96533",
-      "author": "udohsolomon",
-      "at": "2026-08-03T15:04:47Z"
+      "number": 96594,
+      "title": "Next 16.3 regression: htmlLimitedBots matching browser UAs makes cacheable PPR pages private/no-store",
+      "url": "https://github.com/vercel/next.js/issues/96594",
+      "author": "mdotk",
+      "at": "2026-08-04T05:39:13Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": " released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0",
+      "author": "timneutkens",
+      "at": "2026-08-03T21:03:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48656,
-      "title": "fix(studio): point storage reference links at their file-buckets pages",
-      "url": "https://github.com/supabase/supabase/pull/48656",
-      "author": "ayaangazali",
-      "at": "2026-08-03T15:49:35Z"
+      "number": 48676,
+      "title": "fix(studio): account for SQL result column headers",
+      "url": "https://github.com/supabase/supabase/pull/48676",
+      "author": "eejihoon",
+      "at": "2026-08-04T04:42:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48655,
-      "title": "docs: point explain and rpc reference links at their current pages",
-      "url": "https://github.com/supabase/supabase/pull/48655",
-      "author": "ayaangazali",
-      "at": "2026-08-03T15:39:41Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4126,
-      "title": "\"Deployment skipped: no changes detected\" doesn't work in some circumstances",
-      "url": "https://github.com/modal-labs/modal-client/issues/4126",
-      "author": "hn-bfai",
-      "at": "2026-08-01T00:46:06Z"
+      "number": 48675,
+      "title": "Adding new joiner Shardul Borhade in human.txt",
+      "url": "https://github.com/supabase/supabase/pull/48675",
+      "author": "shardulborhade-ctrl",
+      "at": "2026-08-04T04:42:48Z"
     }
   ]
 }
