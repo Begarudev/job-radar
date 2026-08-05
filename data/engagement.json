@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T05:45:08.636Z",
+  "updatedAt": "2026-08-05T15:59:04.114Z",
   "count": 11,
   "signals": [
     {
@@ -7,110 +7,110 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5398,
-      "title": "fix: preserve CHROME_DEFAULT_ARGS order when ignore_default_args is a list",
-      "url": "https://github.com/browser-use/browser-use/pull/5398",
-      "author": "michaelxer",
-      "at": "2026-08-05T05:10:20Z"
+      "number": 5400,
+      "title": "fix: stop restoring deleted storage-state cookies",
+      "url": "https://github.com/browser-use/browser-use/pull/5400",
+      "author": "ump45nose",
+      "at": "2026-08-05T15:27:52Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5399,
+      "title": "fix(browser): preserve default argument order when filtering",
+      "url": "https://github.com/browser-use/browser-use/pull/5399",
+      "author": "ump45nose",
+      "at": "2026-08-05T10:27:32Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4065,
+      "title": "fix: keep content of free-form object schemas in the zod and effect converters",
+      "url": "https://github.com/ComposioHQ/composio/pull/4065",
+      "author": "Shailendra005",
+      "at": "2026-08-05T12:03:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 5397,
-      "title": "Bug: ...BrowserProfile.get_args() loses default argument ordering when ignore_default_args is a list",
-      "url": "https://github.com/browser-use/browser-use/issues/5397",
-      "author": "rift11first-cyber",
-      "at": "2026-08-05T04:25:01Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4060,
-      "title": "fix: add timeout to version check fetch and use semver.gt for comparison",
-      "url": "https://github.com/ComposioHQ/composio/pull/4060",
-      "author": "PiedPiper911",
-      "at": "2026-08-05T02:09:16Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4059,
-      "title": "docs: rewrite AI guardrails as descriptive notes; un-flag canonical direct-execution pages",
-      "url": "https://github.com/ComposioHQ/composio/pull/4059",
-      "author": "soumya1971",
-      "at": "2026-08-05T01:19:20Z"
+      "number": 4064,
+      "title": "[Bug]: free-form `{\"type\": \"object\"}` fields reject all content in both JSON Schema converters",
+      "url": "https://github.com/ComposioHQ/composio/issues/4064",
+      "author": "Shailendra005",
+      "at": "2026-08-05T12:03:02Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39252,
-      "title": "feat(langchain): filter internal middleware model calls from `messages` projection",
-      "url": "https://github.com/langchain-ai/langchain/pull/39252",
+      "number": 39265,
+      "title": "fix(langchain): persist `ClearToolUsesEdit` clears via `after_model`",
+      "url": "https://github.com/langchain-ai/langchain/pull/39265",
       "author": "imnishitha",
-      "at": "2026-08-05T05:02:34Z"
+      "at": "2026-08-05T15:54:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39249,
-      "title": "Reasoning tokens not reported in `usage_metadata`",
-      "url": "https://github.com/langchain-ai/langchain/issues/39249",
-      "author": "philemon-otera",
-      "at": "2026-08-05T00:32:02Z"
+      "kind": "pr",
+      "number": 39264,
+      "title": "fix(langchain): redact `PIIMiddleware` tool-call args in state hooks",
+      "url": "https://github.com/langchain-ai/langchain/pull/39264",
+      "author": "imnishitha",
+      "at": "2026-08-05T15:44:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96696,
-      "title": "docs (Skills): stop assuming app/ at the root and port 3000",
-      "url": "https://github.com/vercel/next.js/pull/96696",
-      "author": "aurorascharff",
-      "at": "2026-08-05T00:48:43Z"
+      "number": 96727,
+      "title": "Reuse completed cache entries for the rest of a request",
+      "url": "https://github.com/vercel/next.js/pull/96727",
+      "author": "unstubbable",
+      "at": "2026-08-05T15:22:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96695,
-      "title": "Serialize prerender manifest updates in dev",
-      "url": "https://github.com/vercel/next.js/pull/96695",
-      "author": "lazerg",
-      "at": "2026-08-05T00:19:14Z"
+      "number": 96726,
+      "title": "Discard only cache entries that predate a tag revalidation",
+      "url": "https://github.com/vercel/next.js/pull/96726",
+      "author": "unstubbable",
+      "at": "2026-08-05T15:20:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48730,
-      "title": "chore(library): move ui library app",
-      "url": "https://github.com/supabase/supabase/pull/48730",
-      "author": "SaxonF",
-      "at": "2026-08-05T03:03:23Z"
+      "number": 48762,
+      "title": "Revert \"refactor(studio): static tab kind registry and tab id codec (PR 1/9)\"",
+      "url": "https://github.com/supabase/supabase/pull/48762",
+      "author": "charislam",
+      "at": "2026-08-05T15:53:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48729,
-      "title": "Add Matt Smiley to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/48729",
-      "author": "matt-brews-sencha",
-      "at": "2026-08-05T01:05:52Z"
+      "number": 48761,
+      "title": "docs(www): point anchor fragments at their current heading ids",
+      "url": "https://github.com/supabase/supabase/pull/48761",
+      "author": "ayaangazali",
+      "at": "2026-08-05T15:47:28Z"
     },
     {
       "founder": "Theo Browne",
