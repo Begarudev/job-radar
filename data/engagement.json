@@ -1,116 +1,127 @@
 {
-  "updatedAt": "2026-08-04T16:09:05.983Z",
-  "count": 10,
+  "updatedAt": "2026-08-05T05:45:08.636Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5387,
-      "title": "feat(tools): add a pre-action governance hook",
-      "url": "https://github.com/browser-use/browser-use/pull/5387",
-      "author": "Soundcreates",
-      "at": "2026-08-04T12:37:44Z"
+      "number": 5398,
+      "title": "fix: preserve CHROME_DEFAULT_ARGS order when ignore_default_args is a list",
+      "url": "https://github.com/browser-use/browser-use/pull/5398",
+      "author": "michaelxer",
+      "at": "2026-08-05T05:10:20Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5386,
-      "title": "perf: remove discarded DOM readiness probe",
-      "url": "https://github.com/browser-use/browser-use/pull/5386",
-      "author": "daleselaji-dev",
-      "at": "2026-08-04T05:51:32Z"
+      "kind": "issue",
+      "number": 5397,
+      "title": "Bug: ...BrowserProfile.get_args() loses default argument ordering when ignore_default_args is a list",
+      "url": "https://github.com/browser-use/browser-use/issues/5397",
+      "author": "rift11first-cyber",
+      "at": "2026-08-05T04:25:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4056,
-      "title": "perf(cli): resolve toolkits from local knowledge, not the catalog",
-      "url": "https://github.com/ComposioHQ/composio/pull/4056",
-      "author": "jkomyno",
-      "at": "2026-08-04T14:28:11Z"
+      "number": 4060,
+      "title": "fix: add timeout to version check fetch and use semver.gt for comparison",
+      "url": "https://github.com/ComposioHQ/composio/pull/4060",
+      "author": "PiedPiper911",
+      "at": "2026-08-05T02:09:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4055,
-      "title": "chore(cli): bake the toolkit slug catalog into the CLI",
-      "url": "https://github.com/ComposioHQ/composio/pull/4055",
-      "author": "jkomyno",
-      "at": "2026-08-04T14:27:52Z"
+      "number": 4059,
+      "title": "docs: rewrite AI guardrails as descriptive notes; un-flag canonical direct-execution pages",
+      "url": "https://github.com/ComposioHQ/composio/pull/4059",
+      "author": "soumya1971",
+      "at": "2026-08-05T01:19:20Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39245,
-      "title": "fix(langchain): prevent middleware model calls from leaking into the parent stream",
-      "url": "https://github.com/langchain-ai/langchain/pull/39245",
+      "number": 39252,
+      "title": "feat(langchain): filter internal middleware model calls from `messages` projection",
+      "url": "https://github.com/langchain-ai/langchain/pull/39252",
       "author": "imnishitha",
-      "at": "2026-08-04T15:36:52Z"
+      "at": "2026-08-05T05:02:34Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39249,
+      "title": "Reasoning tokens not reported in `usage_metadata`",
+      "url": "https://github.com/langchain-ai/langchain/issues/39249",
+      "author": "philemon-otera",
+      "at": "2026-08-05T00:32:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96639,
-      "title": "Turbopack: skip symlinks to directories when collecting traced includes",
-      "url": "https://github.com/vercel/next.js/pull/96639",
+      "number": 96696,
+      "title": "docs (Skills): stop assuming app/ at the root and port 3000",
+      "url": "https://github.com/vercel/next.js/pull/96696",
+      "author": "aurorascharff",
+      "at": "2026-08-05T00:48:43Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 96695,
+      "title": "Serialize prerender manifest updates in dev",
+      "url": "https://github.com/vercel/next.js/pull/96695",
       "author": "lazerg",
-      "at": "2026-08-04T15:23:21Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96638,
-      "title": "fix(dev-overlay): fix devtools indicator dragging on touch devices",
-      "url": "https://github.com/vercel/next.js/pull/96638",
-      "author": "klmkyo",
-      "at": "2026-08-04T14:56:18Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": " released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.0",
-      "author": "timneutkens",
-      "at": "2026-08-03T21:03:18Z"
+      "at": "2026-08-05T00:19:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48707,
-      "title": "chore(self-hosted): update 2026-08-04 - 0.7.2",
-      "url": "https://github.com/supabase/supabase/pull/48707",
-      "author": "aantti",
-      "at": "2026-08-04T15:50:55Z"
+      "number": 48730,
+      "title": "chore(library): move ui library app",
+      "url": "https://github.com/supabase/supabase/pull/48730",
+      "author": "SaxonF",
+      "at": "2026-08-05T03:03:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48706,
-      "title": "feat(sql-editor): roll out manual saving by default",
-      "url": "https://github.com/supabase/supabase/pull/48706",
-      "author": "charislam",
-      "at": "2026-08-04T15:37:59Z"
+      "number": 48729,
+      "title": "Add Matt Smiley to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/48729",
+      "author": "matt-brews-sencha",
+      "at": "2026-08-05T01:05:52Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2113,
+      "title": "docs(vi): Add Vietnamese documentation for create-t3-app",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2113",
+      "author": "cobeo2004",
+      "at": "2025-04-22T12:00:38Z"
     }
   ]
 }
