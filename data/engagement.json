@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T15:59:04.114Z",
+  "updatedAt": "2026-08-06T05:48:02.637Z",
   "count": 11,
   "signals": [
     {
@@ -7,121 +7,121 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5400,
-      "title": "fix: stop restoring deleted storage-state cookies",
-      "url": "https://github.com/browser-use/browser-use/pull/5400",
-      "author": "ump45nose",
-      "at": "2026-08-05T15:27:52Z"
+      "number": 5402,
+      "title": "fix: relax openai version pin",
+      "url": "https://github.com/browser-use/browser-use/pull/5402",
+      "author": "shotsan",
+      "at": "2026-08-05T19:25:42Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5399,
-      "title": "fix(browser): preserve default argument order when filtering",
-      "url": "https://github.com/browser-use/browser-use/pull/5399",
-      "author": "ump45nose",
-      "at": "2026-08-05T10:27:32Z"
+      "number": 5401,
+      "title": "fix(agent): honor zero message compaction threshold",
+      "url": "https://github.com/browser-use/browser-use/pull/5401",
+      "author": "wesleyzhangwq",
+      "at": "2026-08-05T18:01:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4065,
-      "title": "fix: keep content of free-form object schemas in the zod and effect converters",
-      "url": "https://github.com/ComposioHQ/composio/pull/4065",
-      "author": "Shailendra005",
-      "at": "2026-08-05T12:03:53Z"
+      "number": 4077,
+      "title": "fix(claude-agent-sdk): preserve root schema constraints",
+      "url": "https://github.com/ComposioHQ/composio/pull/4077",
+      "author": "jkomyno",
+      "at": "2026-08-06T03:50:58Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4076,
+      "title": "docs: add Skills page",
+      "url": "https://github.com/ComposioHQ/composio/pull/4076",
+      "author": "palash-c",
+      "at": "2026-08-06T03:33:53Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 4064,
-      "title": "[Bug]: free-form `{\"type\": \"object\"}` fields reject all content in both JSON Schema converters",
-      "url": "https://github.com/ComposioHQ/composio/issues/4064",
-      "author": "Shailendra005",
-      "at": "2026-08-05T12:03:02Z"
+      "number": 39294,
+      "title": "AzureChatOpenAI creates a brand-new httpx.Client/AsyncClient on every instantiation instead of reusing the cached default client",
+      "url": "https://github.com/langchain-ai/langchain/issues/39294",
+      "author": "Namraa310806",
+      "at": "2026-08-06T02:52:06Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39265,
-      "title": "fix(langchain): persist `ClearToolUsesEdit` clears via `after_model`",
-      "url": "https://github.com/langchain-ai/langchain/pull/39265",
+      "number": 39293,
+      "title": "fix(anthropic): fix `KeyError` on rename in Claude file-tool middleware",
+      "url": "https://github.com/langchain-ai/langchain/pull/39293",
       "author": "imnishitha",
-      "at": "2026-08-05T15:54:37Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39264,
-      "title": "fix(langchain): redact `PIIMiddleware` tool-call args in state hooks",
-      "url": "https://github.com/langchain-ai/langchain/pull/39264",
-      "author": "imnishitha",
-      "at": "2026-08-05T15:44:15Z"
+      "at": "2026-08-06T01:27:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96727,
-      "title": "Reuse completed cache entries for the rest of a request",
-      "url": "https://github.com/vercel/next.js/pull/96727",
-      "author": "unstubbable",
-      "at": "2026-08-05T15:22:12Z"
+      "number": 96800,
+      "title": "Fix request context retention in cookies/headers/draftMode",
+      "url": "https://github.com/vercel/next.js/pull/96800",
+      "author": "marcoshernanz",
+      "at": "2026-08-06T05:35:16Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96726,
-      "title": "Discard only cache entries that predate a tag revalidation",
-      "url": "https://github.com/vercel/next.js/pull/96726",
-      "author": "unstubbable",
-      "at": "2026-08-05T15:20:56Z"
+      "number": 96799,
+      "title": "fix(segment-cache): normalize repeated slashes in route cache key pathname",
+      "url": "https://github.com/vercel/next.js/pull/96799",
+      "author": "marcoshernanz",
+      "at": "2026-08-06T05:17:13Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48762,
-      "title": "Revert \"refactor(studio): static tab kind registry and tab id codec (PR 1/9)\"",
-      "url": "https://github.com/supabase/supabase/pull/48762",
-      "author": "charislam",
-      "at": "2026-08-05T15:53:37Z"
+      "number": 48787,
+      "title": "fix inconsistent product menu dividers",
+      "url": "https://github.com/supabase/supabase/pull/48787",
+      "author": "dnywh",
+      "at": "2026-08-06T05:47:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48761,
-      "title": "docs(www): point anchor fragments at their current heading ids",
-      "url": "https://github.com/supabase/supabase/pull/48761",
-      "author": "ayaangazali",
-      "at": "2026-08-05T15:47:28Z"
+      "kind": "issue",
+      "number": 48786,
+      "title": "Bug: PKCE flow_state never persisted — all new sign-ins fail with flow_state_not_found",
+      "url": "https://github.com/supabase/supabase/issues/48786",
+      "author": "FinSightAI",
+      "at": "2026-08-06T04:01:58Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "pr",
-      "number": 2113,
-      "title": "docs(vi): Add Vietnamese documentation for create-t3-app",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2113",
-      "author": "cobeo2004",
-      "at": "2025-04-22T12:00:38Z"
+      "number": 1628,
+      "title": "fix(ctx): clear error for tool binding without a ':' separator",
+      "url": "https://github.com/julep-ai/julep/pull/1628",
+      "author": "eeshsaxena",
+      "at": "2026-08-05T18:53:57Z"
     }
   ]
 }
