@@ -1,116 +1,127 @@
 {
-  "updatedAt": "2026-08-06T05:48:02.637Z",
-  "count": 11,
+  "updatedAt": "2026-08-06T16:05:47.632Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5402,
-      "title": "fix: relax openai version pin",
-      "url": "https://github.com/browser-use/browser-use/pull/5402",
-      "author": "shotsan",
-      "at": "2026-08-05T19:25:42Z"
+      "number": 5404,
+      "title": "fix(actor): preserve mouse position for button events",
+      "url": "https://github.com/browser-use/browser-use/pull/5404",
+      "author": "lisa0314",
+      "at": "2026-08-06T09:54:52Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5401,
-      "title": "fix(agent): honor zero message compaction threshold",
-      "url": "https://github.com/browser-use/browser-use/pull/5401",
-      "author": "wesleyzhangwq",
-      "at": "2026-08-05T18:01:01Z"
+      "number": 5403,
+      "title": "feat: add hover action for CSS :hover / JS mouseenter reveal (#4964)",
+      "url": "https://github.com/browser-use/browser-use/pull/5403",
+      "author": "ademicho123",
+      "at": "2026-08-06T07:29:50Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4077,
-      "title": "fix(claude-agent-sdk): preserve root schema constraints",
-      "url": "https://github.com/ComposioHQ/composio/pull/4077",
+      "number": 4082,
+      "title": "docs: link standup bot example repository",
+      "url": "https://github.com/ComposioHQ/composio/pull/4082",
       "author": "jkomyno",
-      "at": "2026-08-06T03:50:58Z"
+      "at": "2026-08-06T15:17:25Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4076,
-      "title": "docs: add Skills page",
-      "url": "https://github.com/ComposioHQ/composio/pull/4076",
-      "author": "palash-c",
-      "at": "2026-08-06T03:33:53Z"
+      "number": 4081,
+      "title": "fix(json-schema): preserve free-form and dynamic-key object content across SDKs",
+      "url": "https://github.com/ComposioHQ/composio/pull/4081",
+      "author": "jkomyno",
+      "at": "2026-08-06T15:11:34Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39294,
-      "title": "AzureChatOpenAI creates a brand-new httpx.Client/AsyncClient on every instantiation instead of reusing the cached default client",
-      "url": "https://github.com/langchain-ai/langchain/issues/39294",
-      "author": "Namraa310806",
-      "at": "2026-08-06T02:52:06Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2507,
+      "title": "fix: add request timeouts to multimodal URL fetches",
+      "url": "https://github.com/567-labs/instructor/pull/2507",
+      "author": "bunlongheng",
+      "at": "2026-08-06T15:14:39Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39293,
-      "title": "fix(anthropic): fix `KeyError` on rename in Claude file-tool middleware",
-      "url": "https://github.com/langchain-ai/langchain/pull/39293",
-      "author": "imnishitha",
-      "at": "2026-08-06T01:27:10Z"
+      "number": 39303,
+      "title": "fix(core): correct operator validation error wording",
+      "url": "https://github.com/langchain-ai/langchain/pull/39303",
+      "author": "iroiro147",
+      "at": "2026-08-06T15:32:23Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 39300,
+      "title": "fix(openai): handle `ContextWindowExceededError`",
+      "url": "https://github.com/langchain-ai/langchain/pull/39300",
+      "author": "ccurme",
+      "at": "2026-08-06T13:00:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96800,
-      "title": "Fix request context retention in cookies/headers/draftMode",
-      "url": "https://github.com/vercel/next.js/pull/96800",
-      "author": "marcoshernanz",
-      "at": "2026-08-06T05:35:16Z"
+      "number": 96838,
+      "title": "Record Request Insights response delivery lifecycle",
+      "url": "https://github.com/vercel/next.js/pull/96838",
+      "author": "DavidIlie",
+      "at": "2026-08-06T15:53:07Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96799,
-      "title": "fix(segment-cache): normalize repeated slashes in route cache key pathname",
-      "url": "https://github.com/vercel/next.js/pull/96799",
+      "number": 96837,
+      "title": "fix(webpack): stop splicing compilation.warnings during iteration in WellKnownErrorsPlugin",
+      "url": "https://github.com/vercel/next.js/pull/96837",
       "author": "marcoshernanz",
-      "at": "2026-08-06T05:17:13Z"
+      "at": "2026-08-06T15:37:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48787,
-      "title": "fix inconsistent product menu dividers",
-      "url": "https://github.com/supabase/supabase/pull/48787",
-      "author": "dnywh",
-      "at": "2026-08-06T05:47:06Z"
+      "number": 48809,
+      "title": "fix(studio): model scoped pat permissions as OR-of-AND alternatives - smaller version",
+      "url": "https://github.com/supabase/supabase/pull/48809",
+      "author": "kemaldotearth",
+      "at": "2026-08-06T16:00:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48786,
-      "title": "Bug: PKCE flow_state never persisted — all new sign-ins fail with flow_state_not_found",
-      "url": "https://github.com/supabase/supabase/issues/48786",
-      "author": "FinSightAI",
-      "at": "2026-08-06T04:01:58Z"
+      "kind": "pr",
+      "number": 48808,
+      "title": "docs: add Django quickstart guide",
+      "url": "https://github.com/supabase/supabase/pull/48808",
+      "author": "HITESH-S-P",
+      "at": "2026-08-06T15:55:26Z"
     },
     {
       "founder": "Diwank Tomer",
