@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-08-06T16:05:47.632Z",
-  "count": 12,
+  "updatedAt": "2026-08-07T04:54:08.519Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5404,
-      "title": "fix(actor): preserve mouse position for button events",
-      "url": "https://github.com/browser-use/browser-use/pull/5404",
-      "author": "lisa0314",
-      "at": "2026-08-06T09:54:52Z"
+      "number": 5408,
+      "title": "Pull",
+      "url": "https://github.com/browser-use/browser-use/pull/5408",
+      "author": "dnzengou",
+      "at": "2026-08-06T22:15:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5403,
-      "title": "feat: add hover action for CSS :hover / JS mouseenter reveal (#4964)",
-      "url": "https://github.com/browser-use/browser-use/pull/5403",
-      "author": "ademicho123",
-      "at": "2026-08-06T07:29:50Z"
+      "number": 5406,
+      "title": "fix: escape search text in find_text JS fallback",
+      "url": "https://github.com/browser-use/browser-use/pull/5406",
+      "author": "RezaRahemtola",
+      "at": "2026-08-06T18:22:39Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4082,
-      "title": "docs: link standup bot example repository",
-      "url": "https://github.com/ComposioHQ/composio/pull/4082",
-      "author": "jkomyno",
-      "at": "2026-08-06T15:17:25Z"
+      "number": 4085,
+      "title": "docs: restructure onboarding around user intent",
+      "url": "https://github.com/ComposioHQ/composio/pull/4085",
+      "author": "KJ-11",
+      "at": "2026-08-06T23:35:48Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4081,
-      "title": "fix(json-schema): preserve free-form and dynamic-key object content across SDKs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4081",
-      "author": "jkomyno",
-      "at": "2026-08-06T15:11:34Z"
+      "number": 4084,
+      "title": "feat(skills): publish the Composio agent skill",
+      "url": "https://github.com/ComposioHQ/composio/pull/4084",
+      "author": "KJ-11",
+      "at": "2026-08-06T22:58:14Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2508,
+      "title": "fix(openai): route streaming retries through the streaming parser in TOOLS/JSON/MD_JSON",
+      "url": "https://github.com/567-labs/instructor/pull/2508",
+      "author": "RezaRahemtola",
+      "at": "2026-08-06T23:28:24Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,78 +72,78 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39303,
-      "title": "fix(core): correct operator validation error wording",
-      "url": "https://github.com/langchain-ai/langchain/pull/39303",
-      "author": "iroiro147",
-      "at": "2026-08-06T15:32:23Z"
+      "kind": "issue",
+      "number": 39316,
+      "title": "Add authgent as an OAuth/delegation example for multi-agent workflows",
+      "url": "https://github.com/langchain-ai/langchain/issues/39316",
+      "author": "Dhruvagnihotri",
+      "at": "2026-08-07T01:57:12Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39300,
-      "title": "fix(openai): handle `ContextWindowExceededError`",
-      "url": "https://github.com/langchain-ai/langchain/pull/39300",
-      "author": "ccurme",
-      "at": "2026-08-06T13:00:38Z"
+      "number": 39313,
+      "title": "fix(langchain): allow overriding forced tool_choice for ToolStrategy [closes #36120]",
+      "url": "https://github.com/langchain-ai/langchain/pull/39313",
+      "author": "imnishitha",
+      "at": "2026-08-06T21:49:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96838,
-      "title": "Record Request Insights response delivery lifecycle",
-      "url": "https://github.com/vercel/next.js/pull/96838",
-      "author": "DavidIlie",
-      "at": "2026-08-06T15:53:07Z"
+      "number": 96878,
+      "title": "Unify how a response's shell and full payloads are written",
+      "url": "https://github.com/vercel/next.js/pull/96878",
+      "author": "acdlite",
+      "at": "2026-08-07T02:11:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96837,
-      "title": "fix(webpack): stop splicing compilation.warnings during iteration in WellKnownErrorsPlugin",
-      "url": "https://github.com/vercel/next.js/pull/96837",
-      "author": "marcoshernanz",
-      "at": "2026-08-06T15:37:45Z"
+      "number": 96877,
+      "title": "Convert per-segment prefetches to NavigationFlightResponse format",
+      "url": "https://github.com/vercel/next.js/pull/96877",
+      "author": "acdlite",
+      "at": "2026-08-07T02:11:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48809,
-      "title": "fix(studio): model scoped pat permissions as OR-of-AND alternatives - smaller version",
-      "url": "https://github.com/supabase/supabase/pull/48809",
-      "author": "kemaldotearth",
-      "at": "2026-08-06T16:00:17Z"
+      "number": 48833,
+      "title": "docs: fix DEFFERED and indentity typos in database guides",
+      "url": "https://github.com/supabase/supabase/pull/48833",
+      "author": "paul-madut",
+      "at": "2026-08-07T04:52:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48808,
-      "title": "docs: add Django quickstart guide",
-      "url": "https://github.com/supabase/supabase/pull/48808",
-      "author": "HITESH-S-P",
-      "at": "2026-08-06T15:55:26Z"
+      "number": 48832,
+      "title": "fix mobile Auth user details inspector",
+      "url": "https://github.com/supabase/supabase/pull/48832",
+      "author": "dnywh",
+      "at": "2026-08-07T04:12:45Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1628,
-      "title": "fix(ctx): clear error for tool binding without a ':' separator",
-      "url": "https://github.com/julep-ai/julep/pull/1628",
-      "author": "eeshsaxena",
-      "at": "2026-08-05T18:53:57Z"
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4127,
+      "title": "JS SDK incorrectly decodes WorkspaceBillingSummaryResponse, reports incorrect cost data (stale bindings)",
+      "url": "https://github.com/modal-labs/modal-client/issues/4127",
+      "author": "RJFelix",
+      "at": "2026-08-07T01:32:33Z"
     }
   ]
 }
