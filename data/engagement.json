@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-08-07T04:54:08.519Z",
-  "count": 13,
+  "updatedAt": "2026-08-07T14:49:10.809Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5408,
-      "title": "Pull",
-      "url": "https://github.com/browser-use/browser-use/pull/5408",
-      "author": "dnzengou",
-      "at": "2026-08-06T22:15:02Z"
+      "kind": "issue",
+      "number": 5411,
+      "title": "Feature Request: Add Creduent OWASP AISVS action reversibility guard for browser actions",
+      "url": "https://github.com/browser-use/browser-use/issues/5411",
+      "author": "cyberfascinate",
+      "at": "2026-08-07T13:51:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5406,
-      "title": "fix: escape search text in find_text JS fallback",
-      "url": "https://github.com/browser-use/browser-use/pull/5406",
-      "author": "RezaRahemtola",
-      "at": "2026-08-06T18:22:39Z"
+      "number": 5410,
+      "title": "fix(tools): scroll no longer reports success when every attempt fails",
+      "url": "https://github.com/browser-use/browser-use/pull/5410",
+      "author": "Surendhiransh",
+      "at": "2026-08-07T10:26:23Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4085,
-      "title": "docs: restructure onboarding around user intent",
-      "url": "https://github.com/ComposioHQ/composio/pull/4085",
-      "author": "KJ-11",
-      "at": "2026-08-06T23:35:48Z"
+      "number": 4094,
+      "title": "fix(py): preserve provider tool arguments",
+      "url": "https://github.com/ComposioHQ/composio/pull/4094",
+      "author": "jkomyno",
+      "at": "2026-08-07T12:47:14Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4084,
-      "title": "feat(skills): publish the Composio agent skill",
-      "url": "https://github.com/ComposioHQ/composio/pull/4084",
-      "author": "KJ-11",
-      "at": "2026-08-06T22:58:14Z"
+      "number": 4093,
+      "title": "fix(providers): correct CrewAI tool argument handling",
+      "url": "https://github.com/ComposioHQ/composio/pull/4093",
+      "author": "adityachawla005",
+      "at": "2026-08-07T07:52:30Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,70 +69,59 @@
       "at": "2026-08-06T15:14:39Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39316,
-      "title": "Add authgent as an OAuth/delegation example for multi-agent workflows",
-      "url": "https://github.com/langchain-ai/langchain/issues/39316",
-      "author": "Dhruvagnihotri",
-      "at": "2026-08-07T01:57:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 39313,
-      "title": "fix(langchain): allow overriding forced tool_choice for ToolStrategy [closes #36120]",
-      "url": "https://github.com/langchain-ai/langchain/pull/39313",
-      "author": "imnishitha",
-      "at": "2026-08-06T21:49:13Z"
+      "number": 96920,
+      "title": "Turbopack: implement Eq, Decode, Encode for ConstantValue",
+      "url": "https://github.com/vercel/next.js/pull/96920",
+      "author": "mischnic",
+      "at": "2026-08-07T14:39:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96878,
-      "title": "Unify how a response's shell and full payloads are written",
-      "url": "https://github.com/vercel/next.js/pull/96878",
-      "author": "acdlite",
-      "at": "2026-08-07T02:11:52Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96877,
-      "title": "Convert per-segment prefetches to NavigationFlightResponse format",
-      "url": "https://github.com/vercel/next.js/pull/96877",
-      "author": "acdlite",
-      "at": "2026-08-07T02:11:47Z"
+      "number": 96919,
+      "title": "sebbie/mirror oidc read token",
+      "url": "https://github.com/vercel/next.js/pull/96919",
+      "author": "eps1lon",
+      "at": "2026-08-07T14:36:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48833,
-      "title": "docs: fix DEFFERED and indentity typos in database guides",
-      "url": "https://github.com/supabase/supabase/pull/48833",
-      "author": "paul-madut",
-      "at": "2026-08-07T04:52:10Z"
+      "number": 48851,
+      "title": "test(studio): add unit tests for Message.utils and FeedbackDropdown.utils",
+      "url": "https://github.com/supabase/supabase/pull/48851",
+      "author": "suletetes",
+      "at": "2026-08-07T14:08:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48832,
-      "title": "fix mobile Auth user details inspector",
-      "url": "https://github.com/supabase/supabase/pull/48832",
-      "author": "dnywh",
-      "at": "2026-08-07T04:12:45Z"
+      "number": 48849,
+      "title": "feat(studio): warn that scoped tokens don't support the MCP server",
+      "url": "https://github.com/supabase/supabase/pull/48849",
+      "author": "kemaldotearth",
+      "at": "2026-08-07T12:39:54Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "release",
+      "number": 0,
+      "title": "Developer Update - August 2026 released",
+      "url": "https://github.com/supabase/supabase/releases/tag/v1.26.08",
+      "author": "ana1337x",
+      "at": "2026-08-07T13:57:57Z"
     },
     {
       "founder": "Erik Bernhardsson",
