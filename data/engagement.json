@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-08T04:10:14.744Z",
-  "count": 13,
+  "updatedAt": "2026-08-08T14:27:24.221Z",
+  "count": 9,
   "signals": [
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5411,
-      "title": "Feature Request: Add Creduent OWASP AISVS action reversibility guard for browser actions",
-      "url": "https://github.com/browser-use/browser-use/issues/5411",
-      "author": "cyberfascinate",
-      "at": "2026-08-07T13:51:25Z"
-    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -23,6 +12,17 @@
       "url": "https://github.com/browser-use/browser-use/pull/5410",
       "author": "Surendhiransh",
       "at": "2026-08-07T10:26:23Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5409,
+      "title": "fix(browser): clean up temp zip file in CRX extraction fallback",
+      "url": "https://github.com/browser-use/browser-use/pull/5409",
+      "author": "Surendhiransh",
+      "at": "2026-08-07T06:19:42Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -47,17 +47,6 @@
       "at": "2026-08-07T23:04:59Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2468,
-      "title": "docs(examples): add product fact provenance workflow",
-      "url": "https://github.com/567-labs/instructor/pull/2468",
-      "author": "wWzZb",
-      "at": "2026-07-20T02:30:26Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
@@ -69,81 +58,48 @@
       "at": "2026-08-07T23:20:12Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 39336,
-      "title": "fix(core): fix issues around `Required/NotRequired` in TypedDict tools",
-      "url": "https://github.com/langchain-ai/langchain/pull/39336",
-      "author": "imnishitha",
-      "at": "2026-08-07T19:18:20Z"
+      "number": 96968,
+      "title": "fix: route info segment overrides not updating in dev overlay",
+      "url": "https://github.com/vercel/next.js/pull/96968",
+      "author": "mezotv",
+      "at": "2026-08-08T10:34:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96958,
-      "title": "Update lerna.json configuration",
-      "url": "https://github.com/vercel/next.js/pull/96958",
-      "author": "codeambarish-hash",
-      "at": "2026-08-08T03:54:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96956,
-      "title": "Remove unused `hasWarnings` and `warnings`",
-      "url": "https://github.com/vercel/next.js/pull/96956",
-      "author": "martinfrancois",
-      "at": "2026-08-08T01:14:28Z"
+      "number": 96967,
+      "title": "fix(swc): avoid treating Pages Router sitemap and robots routes as app entries",
+      "url": "https://github.com/vercel/next.js/pull/96967",
+      "author": "RajeshKumar11",
+      "at": "2026-08-08T09:15:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 48867,
-      "title": "Auth redirect_to allow-list not honored for path/wildcard entries",
-      "url": "https://github.com/supabase/supabase/issues/48867",
-      "author": "mhdrizkyf",
-      "at": "2026-08-08T03:19:04Z"
+      "number": 48873,
+      "title": "My project is currently stuck in a locked/restricted state on the free tier.",
+      "url": "https://github.com/supabase/supabase/issues/48873",
+      "author": "oyewoabisoyejoshua-lab",
+      "at": "2026-08-08T14:21:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48866,
-      "title": "fix: use SUPABASE_PUBLISHABLE_KEY in Flask quickstart",
-      "url": "https://github.com/supabase/supabase/pull/48866",
-      "author": "iroiro147",
-      "at": "2026-08-08T03:17:33Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "release",
-      "number": 0,
-      "title": "Developer Update - August 2026 released",
-      "url": "https://github.com/supabase/supabase/releases/tag/v1.26.08",
-      "author": "ana1337x",
-      "at": "2026-08-07T13:57:57Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4127,
-      "title": "JS SDK incorrectly decodes WorkspaceBillingSummaryResponse, reports incorrect cost data (stale bindings)",
-      "url": "https://github.com/modal-labs/modal-client/issues/4127",
-      "author": "RJFelix",
-      "at": "2026-08-07T01:32:33Z"
+      "number": 48872,
+      "title": "My project is currently stuck in a locked/restricted state on the free tier.",
+      "url": "https://github.com/supabase/supabase/issues/48872",
+      "author": "oyewoabisoyejoshua-lab",
+      "at": "2026-08-08T14:20:48Z"
     }
   ]
 }
