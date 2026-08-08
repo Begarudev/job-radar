@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-07T14:49:10.809Z",
-  "count": 12,
+  "updatedAt": "2026-08-08T04:10:14.744Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -29,88 +29,99 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4094,
-      "title": "fix(py): preserve provider tool arguments",
-      "url": "https://github.com/ComposioHQ/composio/pull/4094",
-      "author": "jkomyno",
-      "at": "2026-08-07T12:47:14Z"
+      "number": 4099,
+      "title": "docs: restructure onboarding around user intent",
+      "url": "https://github.com/ComposioHQ/composio/pull/4099",
+      "author": "KJ-11",
+      "at": "2026-08-08T00:21:30Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4093,
-      "title": "fix(providers): correct CrewAI tool argument handling",
-      "url": "https://github.com/ComposioHQ/composio/pull/4093",
-      "author": "adityachawla005",
-      "at": "2026-08-07T07:52:30Z"
+      "number": 4098,
+      "title": "docs: fix session tool-execution samples — handle_tool_calls cannot execute session meta-tools",
+      "url": "https://github.com/ComposioHQ/composio/pull/4098",
+      "author": "soumya1971",
+      "at": "2026-08-07T23:04:59Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2508,
-      "title": "fix(openai): route streaming retries through the streaming parser in TOOLS/JSON/MD_JSON",
-      "url": "https://github.com/567-labs/instructor/pull/2508",
-      "author": "RezaRahemtola",
-      "at": "2026-08-06T23:28:24Z"
+      "number": 2468,
+      "title": "docs(examples): add product fact provenance workflow",
+      "url": "https://github.com/567-labs/instructor/pull/2468",
+      "author": "wWzZb",
+      "at": "2026-07-20T02:30:26Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39340,
+      "title": "Add fireworks reranker integration.",
+      "url": "https://github.com/langchain-ai/langchain/issues/39340",
+      "author": "11adyy",
+      "at": "2026-08-07T23:20:12Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2507,
-      "title": "fix: add request timeouts to multimodal URL fetches",
-      "url": "https://github.com/567-labs/instructor/pull/2507",
-      "author": "bunlongheng",
-      "at": "2026-08-06T15:14:39Z"
+      "number": 39336,
+      "title": "fix(core): fix issues around `Required/NotRequired` in TypedDict tools",
+      "url": "https://github.com/langchain-ai/langchain/pull/39336",
+      "author": "imnishitha",
+      "at": "2026-08-07T19:18:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96920,
-      "title": "Turbopack: implement Eq, Decode, Encode for ConstantValue",
-      "url": "https://github.com/vercel/next.js/pull/96920",
-      "author": "mischnic",
-      "at": "2026-08-07T14:39:10Z"
+      "number": 96958,
+      "title": "Update lerna.json configuration",
+      "url": "https://github.com/vercel/next.js/pull/96958",
+      "author": "codeambarish-hash",
+      "at": "2026-08-08T03:54:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96919,
-      "title": "sebbie/mirror oidc read token",
-      "url": "https://github.com/vercel/next.js/pull/96919",
-      "author": "eps1lon",
-      "at": "2026-08-07T14:36:01Z"
+      "number": 96956,
+      "title": "Remove unused `hasWarnings` and `warnings`",
+      "url": "https://github.com/vercel/next.js/pull/96956",
+      "author": "martinfrancois",
+      "at": "2026-08-08T01:14:28Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 48867,
+      "title": "Auth redirect_to allow-list not honored for path/wildcard entries",
+      "url": "https://github.com/supabase/supabase/issues/48867",
+      "author": "mhdrizkyf",
+      "at": "2026-08-08T03:19:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48851,
-      "title": "test(studio): add unit tests for Message.utils and FeedbackDropdown.utils",
-      "url": "https://github.com/supabase/supabase/pull/48851",
-      "author": "suletetes",
-      "at": "2026-08-07T14:08:41Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48849,
-      "title": "feat(studio): warn that scoped tokens don't support the MCP server",
-      "url": "https://github.com/supabase/supabase/pull/48849",
-      "author": "kemaldotearth",
-      "at": "2026-08-07T12:39:54Z"
+      "number": 48866,
+      "title": "fix: use SUPABASE_PUBLISHABLE_KEY in Flask quickstart",
+      "url": "https://github.com/supabase/supabase/pull/48866",
+      "author": "iroiro147",
+      "at": "2026-08-08T03:17:33Z"
     },
     {
       "founder": "Paul Copplestone",
