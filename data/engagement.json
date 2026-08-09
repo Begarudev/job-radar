@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T04:17:13.519Z",
+  "updatedAt": "2026-08-09T14:29:34.962Z",
   "count": 13,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 5420,
-      "title": "Feature Request: honor BROWSER_USE_HEADLESS in BrowserProfile, not only in the MCP config path",
-      "url": "https://github.com/browser-use/browser-use/issues/5420",
+      "number": 5427,
+      "title": "Bug: `--dist=loadscope` in addopts is a silent no-op — pytest-xdist never activates without `-n`",
+      "url": "https://github.com/browser-use/browser-use/issues/5427",
       "author": "axisrow",
-      "at": "2026-08-09T04:07:35Z"
+      "at": "2026-08-09T13:42:37Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5419,
-      "title": "Bug: local BrowserSession leaks the auto-created user_data_dir temp profile on kill (prefix mismatch in cleanup)",
-      "url": "https://github.com/browser-use/browser-use/issues/5419",
+      "kind": "pr",
+      "number": 5426,
+      "title": "fix(tests): stop importlib.reload()-ing tools.service in action-timeout test",
+      "url": "https://github.com/browser-use/browser-use/pull/5426",
       "author": "axisrow",
-      "at": "2026-08-09T02:47:21Z"
+      "at": "2026-08-09T10:00:55Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -73,55 +73,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39340,
-      "title": "Add fireworks reranker integration.",
-      "url": "https://github.com/langchain-ai/langchain/issues/39340",
-      "author": "11adyy",
-      "at": "2026-08-07T23:20:12Z"
+      "number": 39363,
+      "title": "ShellSession incorrectly times out when command output does not end with a newline",
+      "url": "https://github.com/langchain-ai/langchain/issues/39363",
+      "author": "Namraa310806",
+      "at": "2026-08-09T13:55:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96983,
-      "title": "Update README.mddocs(next): add harmless preview tarball markerHarmle…",
-      "url": "https://github.com/vercel/next.js/pull/96983",
-      "author": "aserelkasar",
-      "at": "2026-08-09T00:20:05Z"
+      "number": 96990,
+      "title": "chore: add Hermes Agent configuration",
+      "url": "https://github.com/vercel/next.js/pull/96990",
+      "author": "nickhac",
+      "at": "2026-08-09T12:46:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 96982,
-      "title": "Turbopack: `watchOptions.pollIntervalMs` permanently drops file edits on Windows",
-      "url": "https://github.com/vercel/next.js/issues/96982",
-      "author": "DenisCDev",
-      "at": "2026-08-08T23:30:22Z"
+      "kind": "pr",
+      "number": 96989,
+      "title": "Add font metrics to font-data.json",
+      "url": "https://github.com/vercel/next.js/pull/96989",
+      "author": "TheDummi",
+      "at": "2026-08-09T12:06:22Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 48877,
-      "title": "Auth email templates: Extra brace sneaks past without any warnings making magic links only use default url",
-      "url": "https://github.com/supabase/supabase/issues/48877",
-      "author": "lordbron",
-      "at": "2026-08-08T20:59:30Z"
+      "number": 48883,
+      "title": "RPC calls double-counted in database",
+      "url": "https://github.com/supabase/supabase/issues/48883",
+      "author": "StevenH2026",
+      "at": "2026-08-09T13:52:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48876,
-      "title": "www: any edit to data/products/functions/page.tsx panics the typechecker",
-      "url": "https://github.com/supabase/supabase/issues/48876",
-      "author": "ayaangazali",
-      "at": "2026-08-08T15:51:01Z"
+      "kind": "pr",
+      "number": 48882,
+      "title": "fix: correct sort comparator in Realtime table selector",
+      "url": "https://github.com/supabase/supabase/pull/48882",
+      "author": "okxint",
+      "at": "2026-08-09T12:41:21Z"
     },
     {
       "founder": "Erik Bernhardsson",
