@@ -1,50 +1,72 @@
 {
-  "updatedAt": "2026-08-08T14:27:24.221Z",
-  "count": 9,
+  "updatedAt": "2026-08-09T04:17:13.519Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5410,
-      "title": "fix(tools): scroll no longer reports success when every attempt fails",
-      "url": "https://github.com/browser-use/browser-use/pull/5410",
-      "author": "Surendhiransh",
-      "at": "2026-08-07T10:26:23Z"
+      "kind": "issue",
+      "number": 5420,
+      "title": "Feature Request: honor BROWSER_USE_HEADLESS in BrowserProfile, not only in the MCP config path",
+      "url": "https://github.com/browser-use/browser-use/issues/5420",
+      "author": "axisrow",
+      "at": "2026-08-09T04:07:35Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5409,
-      "title": "fix(browser): clean up temp zip file in CRX extraction fallback",
-      "url": "https://github.com/browser-use/browser-use/pull/5409",
-      "author": "Surendhiransh",
-      "at": "2026-08-07T06:19:42Z"
+      "kind": "issue",
+      "number": 5419,
+      "title": "Bug: local BrowserSession leaks the auto-created user_data_dir temp profile on kill (prefix mismatch in cleanup)",
+      "url": "https://github.com/browser-use/browser-use/issues/5419",
+      "author": "axisrow",
+      "at": "2026-08-09T02:47:21Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4101,
+      "title": "[Bug]: ServiceM8 writes report successful:false on HTTP 200, and record_uuid is never returned",
+      "url": "https://github.com/ComposioHQ/composio/issues/4101",
+      "author": "itsr3nzo-debug",
+      "at": "2026-08-08T22:53:17Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4099,
-      "title": "docs: restructure onboarding around user intent",
-      "url": "https://github.com/ComposioHQ/composio/pull/4099",
-      "author": "KJ-11",
-      "at": "2026-08-08T00:21:30Z"
+      "number": 4065,
+      "title": "fix: keep content of free-form object schemas in the zod and effect converters",
+      "url": "https://github.com/ComposioHQ/composio/pull/4065",
+      "author": "Shailendra005",
+      "at": "2026-08-05T12:03:53Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4098,
-      "title": "docs: fix session tool-execution samples — handle_tool_calls cannot execute session meta-tools",
-      "url": "https://github.com/ComposioHQ/composio/pull/4098",
-      "author": "soumya1971",
-      "at": "2026-08-07T23:04:59Z"
+      "number": 2519,
+      "title": "chore(release): alternative folded 1.16.0 candidate",
+      "url": "https://github.com/567-labs/instructor/pull/2519",
+      "author": "jxnl",
+      "at": "2026-08-08T20:47:03Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2518,
+      "title": "chore(release): prepare 1.16.0 candidate",
+      "url": "https://github.com/567-labs/instructor/pull/2518",
+      "author": "jxnl",
+      "at": "2026-08-08T20:36:26Z"
     },
     {
       "founder": "Harrison Chase",
@@ -62,44 +84,66 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96968,
-      "title": "fix: route info segment overrides not updating in dev overlay",
-      "url": "https://github.com/vercel/next.js/pull/96968",
-      "author": "mezotv",
-      "at": "2026-08-08T10:34:33Z"
+      "number": 96983,
+      "title": "Update README.mddocs(next): add harmless preview tarball markerHarmle…",
+      "url": "https://github.com/vercel/next.js/pull/96983",
+      "author": "aserelkasar",
+      "at": "2026-08-09T00:20:05Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96967,
-      "title": "fix(swc): avoid treating Pages Router sitemap and robots routes as app entries",
-      "url": "https://github.com/vercel/next.js/pull/96967",
-      "author": "RajeshKumar11",
-      "at": "2026-08-08T09:15:35Z"
+      "kind": "issue",
+      "number": 96982,
+      "title": "Turbopack: `watchOptions.pollIntervalMs` permanently drops file edits on Windows",
+      "url": "https://github.com/vercel/next.js/issues/96982",
+      "author": "DenisCDev",
+      "at": "2026-08-08T23:30:22Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 48873,
-      "title": "My project is currently stuck in a locked/restricted state on the free tier.",
-      "url": "https://github.com/supabase/supabase/issues/48873",
-      "author": "oyewoabisoyejoshua-lab",
-      "at": "2026-08-08T14:21:25Z"
+      "number": 48877,
+      "title": "Auth email templates: Extra brace sneaks past without any warnings making magic links only use default url",
+      "url": "https://github.com/supabase/supabase/issues/48877",
+      "author": "lordbron",
+      "at": "2026-08-08T20:59:30Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 48872,
-      "title": "My project is currently stuck in a locked/restricted state on the free tier.",
-      "url": "https://github.com/supabase/supabase/issues/48872",
-      "author": "oyewoabisoyejoshua-lab",
-      "at": "2026-08-08T14:20:48Z"
+      "number": 48876,
+      "title": "www: any edit to data/products/functions/page.tsx panics the typechecker",
+      "url": "https://github.com/supabase/supabase/issues/48876",
+      "author": "ayaangazali",
+      "at": "2026-08-08T15:51:01Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4128,
+      "title": "Python client: stdio retry budget never resets on progress, so long-lived sandbox and exec streams die on a routine drop",
+      "url": "https://github.com/modal-labs/modal-client/issues/4128",
+      "author": "shehio",
+      "at": "2026-08-09T03:22:21Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 1527,
+      "title": "feat: Are you interested in adding Valibot?",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/1527",
+      "author": "fabian-hiller",
+      "at": "2023-07-31T19:34:27Z"
     }
   ]
 }
