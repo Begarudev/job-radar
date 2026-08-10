@@ -1,72 +1,39 @@
 {
-  "updatedAt": "2026-08-09T14:29:34.962Z",
-  "count": 13,
+  "updatedAt": "2026-08-10T04:36:52.398Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5427,
-      "title": "Bug: `--dist=loadscope` in addopts is a silent no-op — pytest-xdist never activates without `-n`",
-      "url": "https://github.com/browser-use/browser-use/issues/5427",
-      "author": "axisrow",
-      "at": "2026-08-09T13:42:37Z"
+      "kind": "pr",
+      "number": 5433,
+      "title": "fix(test): keep xdist distribution in the local test runner",
+      "url": "https://github.com/browser-use/browser-use/pull/5433",
+      "author": "uuzzrm",
+      "at": "2026-08-10T00:01:33Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5426,
-      "title": "fix(tests): stop importlib.reload()-ing tools.service in action-timeout test",
-      "url": "https://github.com/browser-use/browser-use/pull/5426",
+      "number": 5432,
+      "title": "fix(browser): resolve user_data_dir lazily in get_args, not at construction",
+      "url": "https://github.com/browser-use/browser-use/pull/5432",
       "author": "axisrow",
-      "at": "2026-08-09T10:00:55Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4101,
-      "title": "[Bug]: ServiceM8 writes report successful:false on HTTP 200, and record_uuid is never returned",
-      "url": "https://github.com/ComposioHQ/composio/issues/4101",
-      "author": "itsr3nzo-debug",
-      "at": "2026-08-08T22:53:17Z"
+      "at": "2026-08-09T16:04:54Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4065,
-      "title": "fix: keep content of free-form object schemas in the zod and effect converters",
-      "url": "https://github.com/ComposioHQ/composio/pull/4065",
-      "author": "Shailendra005",
-      "at": "2026-08-05T12:03:53Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2519,
-      "title": "chore(release): alternative folded 1.16.0 candidate",
-      "url": "https://github.com/567-labs/instructor/pull/2519",
-      "author": "jxnl",
-      "at": "2026-08-08T20:47:03Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2518,
-      "title": "chore(release): prepare 1.16.0 candidate",
-      "url": "https://github.com/567-labs/instructor/pull/2518",
-      "author": "jxnl",
-      "at": "2026-08-08T20:36:26Z"
+      "number": 4063,
+      "title": "fix(cli): nest custom credentials under auth_config.credentials in auth-configs create",
+      "url": "https://github.com/ComposioHQ/composio/pull/4063",
+      "author": "bunnysayzz",
+      "at": "2026-08-05T11:54:18Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,70 +47,59 @@
       "at": "2026-08-09T13:55:20Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 96990,
-      "title": "chore: add Hermes Agent configuration",
-      "url": "https://github.com/vercel/next.js/pull/96990",
-      "author": "nickhac",
-      "at": "2026-08-09T12:46:37Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39152,
+      "title": "DictPromptTemplate silently drops non-str/non-dict values nested in lists",
+      "url": "https://github.com/langchain-ai/langchain/issues/39152",
+      "author": "HoneyTyagii",
+      "at": "2026-07-30T17:19:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 96989,
-      "title": "Add font metrics to font-data.json",
-      "url": "https://github.com/vercel/next.js/pull/96989",
-      "author": "TheDummi",
-      "at": "2026-08-09T12:06:22Z"
+      "number": 97005,
+      "title": "fix(next/routing): compare i18n domains by hostname when redirecting",
+      "url": "https://github.com/vercel/next.js/pull/97005",
+      "author": "yogesh968",
+      "at": "2026-08-10T04:16:58Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97004,
+      "title": "fix(next/routing): keep the hash out of the pathname and query of a destination",
+      "url": "https://github.com/vercel/next.js/pull/97004",
+      "author": "yogesh968",
+      "at": "2026-08-10T04:11:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48883,
-      "title": "RPC calls double-counted in database",
-      "url": "https://github.com/supabase/supabase/issues/48883",
-      "author": "StevenH2026",
-      "at": "2026-08-09T13:52:18Z"
+      "kind": "pr",
+      "number": 48889,
+      "title": "docs: add troubleshooting guide for connection terminated unexpectedly in Cloudflare Workers (#48859)",
+      "url": "https://github.com/supabase/supabase/pull/48889",
+      "author": "KHARSHAVARDHAN-eng",
+      "at": "2026-08-10T03:56:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48882,
-      "title": "fix: correct sort comparator in Realtime table selector",
-      "url": "https://github.com/supabase/supabase/pull/48882",
-      "author": "okxint",
-      "at": "2026-08-09T12:41:21Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4128,
-      "title": "Python client: stdio retry budget never resets on progress, so long-lived sandbox and exec streams die on a routine drop",
-      "url": "https://github.com/modal-labs/modal-client/issues/4128",
-      "author": "shehio",
-      "at": "2026-08-09T03:22:21Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 1527,
-      "title": "feat: Are you interested in adding Valibot?",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/1527",
-      "author": "fabian-hiller",
-      "at": "2023-07-31T19:34:27Z"
+      "number": 48888,
+      "title": "fix(studio): validate Go template syntax in auth email templates (#48877)",
+      "url": "https://github.com/supabase/supabase/pull/48888",
+      "author": "KHARSHAVARDHAN-eng",
+      "at": "2026-08-10T03:52:03Z"
     }
   ]
 }
