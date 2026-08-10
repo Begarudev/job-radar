@@ -1,105 +1,94 @@
 {
-  "updatedAt": "2026-08-10T04:36:52.398Z",
-  "count": 9,
+  "updatedAt": "2026-08-10T14:53:38.612Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5433,
-      "title": "fix(test): keep xdist distribution in the local test runner",
-      "url": "https://github.com/browser-use/browser-use/pull/5433",
-      "author": "uuzzrm",
-      "at": "2026-08-10T00:01:33Z"
+      "number": 5437,
+      "title": "Claude/production evometaclaw p5wydr",
+      "url": "https://github.com/browser-use/browser-use/pull/5437",
+      "author": "dnzengou",
+      "at": "2026-08-10T10:13:03Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5432,
-      "title": "fix(browser): resolve user_data_dir lazily in get_args, not at construction",
-      "url": "https://github.com/browser-use/browser-use/pull/5432",
-      "author": "axisrow",
-      "at": "2026-08-09T16:04:54Z"
+      "kind": "issue",
+      "number": 5436,
+      "title": "Consider adding Lightning pay-per-call (invinoveritas integration)",
+      "url": "https://github.com/browser-use/browser-use/issues/5436",
+      "author": "babyblueviper1",
+      "at": "2026-08-10T07:36:00Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4063,
-      "title": "fix(cli): nest custom credentials under auth_config.credentials in auth-configs create",
-      "url": "https://github.com/ComposioHQ/composio/pull/4063",
-      "author": "bunnysayzz",
-      "at": "2026-08-05T11:54:18Z"
+      "number": 2468,
+      "title": "docs(examples): add product fact provenance workflow",
+      "url": "https://github.com/567-labs/instructor/pull/2468",
+      "author": "wWzZb",
+      "at": "2026-07-20T02:30:26Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39363,
-      "title": "ShellSession incorrectly times out when command output does not end with a newline",
-      "url": "https://github.com/langchain-ai/langchain/issues/39363",
-      "author": "Namraa310806",
-      "at": "2026-08-09T13:55:20Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39152,
-      "title": "DictPromptTemplate silently drops non-str/non-dict values nested in lists",
-      "url": "https://github.com/langchain-ai/langchain/issues/39152",
-      "author": "HoneyTyagii",
-      "at": "2026-07-30T17:19:27Z"
+      "kind": "pr",
+      "number": 39512,
+      "title": "fix(core): raise ValueError when tool_outputs length mismatches tool calls in tool_example_to_messages()",
+      "url": "https://github.com/langchain-ai/langchain/pull/39512",
+      "author": "zerafachris",
+      "at": "2026-08-10T14:53:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97005,
-      "title": "fix(next/routing): compare i18n domains by hostname when redirecting",
-      "url": "https://github.com/vercel/next.js/pull/97005",
-      "author": "yogesh968",
-      "at": "2026-08-10T04:16:58Z"
+      "number": 97044,
+      "title": "fix(dev-overlay): add touch drag support for dev indicator (#96634)",
+      "url": "https://github.com/vercel/next.js/pull/97044",
+      "author": "arts009009009",
+      "at": "2026-08-10T13:14:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97004,
-      "title": "fix(next/routing): keep the hash out of the pathname and query of a destination",
-      "url": "https://github.com/vercel/next.js/pull/97004",
-      "author": "yogesh968",
-      "at": "2026-08-10T04:11:45Z"
+      "number": 97040,
+      "title": "[CC] Track APIs that cause incompatible static/app shells",
+      "url": "https://github.com/vercel/next.js/pull/97040",
+      "author": "lubieowoce",
+      "at": "2026-08-10T13:00:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48889,
-      "title": "docs: add troubleshooting guide for connection terminated unexpectedly in Cloudflare Workers (#48859)",
-      "url": "https://github.com/supabase/supabase/pull/48889",
-      "author": "KHARSHAVARDHAN-eng",
-      "at": "2026-08-10T03:56:34Z"
+      "number": 48900,
+      "title": "feat(self-hosted): implement queryLogs for the MCP debugging tools",
+      "url": "https://github.com/supabase/supabase/pull/48900",
+      "author": "Rodriguespn",
+      "at": "2026-08-10T14:20:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 48888,
-      "title": "fix(studio): validate Go template syntax in auth email templates (#48877)",
-      "url": "https://github.com/supabase/supabase/pull/48888",
-      "author": "KHARSHAVARDHAN-eng",
-      "at": "2026-08-10T03:52:03Z"
+      "number": 48899,
+      "title": "chore(self-hosted): update 2026-08-11 - 0.8.0",
+      "url": "https://github.com/supabase/supabase/pull/48899",
+      "author": "aantti",
+      "at": "2026-08-10T14:08:58Z"
     }
   ]
 }
