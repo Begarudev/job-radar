@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:18:56.164Z",
+  "updatedAt": "2026-08-11T14:53:07.385Z",
   "count": 11,
   "signals": [
     {
@@ -7,121 +7,121 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5447,
-      "title": "fix(browser): close two CDP detection leaks that let Cloudflare Turnstile flag automated clicks",
-      "url": "https://github.com/browser-use/browser-use/pull/5447",
-      "author": "Samuel7192",
-      "at": "2026-08-10T19:45:00Z"
+      "number": 5448,
+      "title": "fix(mcp): update deprecated Bedrock Claude model identifier",
+      "url": "https://github.com/browser-use/browser-use/pull/5448",
+      "author": "scemii",
+      "at": "2026-08-11T08:59:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5446,
-      "title": "fix(browser): add --use-mock-keychain for managed profiles only",
-      "url": "https://github.com/browser-use/browser-use/pull/5446",
-      "author": "shotsan",
-      "at": "2026-08-10T18:06:36Z"
+      "number": 5447,
+      "title": "fix(browser): close two CDP detection leaks + actively trigger Bright Data's CAPTCHA solver",
+      "url": "https://github.com/browser-use/browser-use/pull/5447",
+      "author": "Samuel7192",
+      "at": "2026-08-10T19:45:00Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4108,
-      "title": "docs: clarify toolkit version defaults",
-      "url": "https://github.com/ComposioHQ/composio/pull/4108",
-      "author": "KJ-11",
-      "at": "2026-08-10T19:46:37Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4107,
-      "title": "feat(examples): production parity and dual-generation Python client",
-      "url": "https://github.com/ComposioHQ/composio/pull/4107",
+      "number": 4119,
+      "title": "docs(providers): correct session-helper versions to minor releases",
+      "url": "https://github.com/ComposioHQ/composio/pull/4119",
       "author": "jkomyno",
-      "at": "2026-08-10T19:26:38Z"
+      "at": "2026-08-11T13:40:22Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4117,
+      "title": "feat(examples): live-sweep harness, manifest, and scheduled workflow",
+      "url": "https://github.com/ComposioHQ/composio/pull/4117",
+      "author": "jkomyno",
+      "at": "2026-08-11T12:52:51Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2468,
-      "title": "docs(examples): add product fact provenance workflow",
-      "url": "https://github.com/567-labs/instructor/pull/2468",
-      "author": "wWzZb",
-      "at": "2026-07-20T02:30:26Z"
+      "number": 2521,
+      "title": "fix(cli): add type annotation to MODEL_COSTS in usage.py",
+      "url": "https://github.com/567-labs/instructor/pull/2521",
+      "author": "nishant4671",
+      "at": "2026-08-11T11:28:15Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2306,
+      "title": "feat(minimax): add MiniMax provider support",
+      "url": "https://github.com/567-labs/instructor/pull/2306",
+      "author": "Bhavyashah20",
+      "at": "2026-05-14T20:24:08Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39576,
-      "title": "fix(core): handle v1 base model validation in async path",
-      "url": "https://github.com/langchain-ai/langchain/pull/39576",
-      "author": "hntrl",
-      "at": "2026-08-11T02:00:06Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39573,
-      "title": "fix(core): handle tool descriptions for infer_schema=False",
-      "url": "https://github.com/langchain-ai/langchain/pull/39573",
-      "author": "hntrl",
-      "at": "2026-08-11T00:11:48Z"
+      "kind": "issue",
+      "number": 39578,
+      "title": "docs: add EmemStore (emem-langmem) to stores",
+      "url": "https://github.com/langchain-ai/langchain/issues/39578",
+      "author": "avijeetsingh1",
+      "at": "2026-08-11T07:39:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97150,
-      "title": "Scope app-entry export validation to files inside the app directory",
-      "url": "https://github.com/vercel/next.js/pull/97150",
-      "author": "rodrigo-arias",
-      "at": "2026-08-11T02:46:57Z"
+      "number": 97181,
+      "title": "Allow literal exports in `'use cache'` files",
+      "url": "https://github.com/vercel/next.js/pull/97181",
+      "author": "unstubbable",
+      "at": "2026-08-11T14:43:57Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97149,
-      "title": "docs: fix typos in example links",
-      "url": "https://github.com/vercel/next.js/pull/97149",
-      "author": "0ldh",
-      "at": "2026-08-11T00:33:48Z"
+      "number": 97180,
+      "title": "docs: clarify client cache freshness after hydration",
+      "url": "https://github.com/vercel/next.js/pull/97180",
+      "author": "aurorascharff",
+      "at": "2026-08-11T14:43:49Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48915,
-      "title": "docs: Add Adam Whitlock to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/48915",
-      "author": "alloydwhitlock",
-      "at": "2026-08-11T01:30:36Z"
+      "kind": "issue",
+      "number": 48944,
+      "title": "MCP failing on persistent preview branches",
+      "url": "https://github.com/supabase/supabase/issues/48944",
+      "author": "julian-techzip",
+      "at": "2026-08-11T14:49:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 48914,
-      "title": "feat(skills): move Write the docs skills into the monorepo — DO NOT REVIEW YET",
-      "url": "https://github.com/supabase/supabase/pull/48914",
-      "author": "nrichers",
-      "at": "2026-08-11T00:30:00Z"
+      "kind": "issue",
+      "number": 48943,
+      "title": "supabase config push fails 500 \"Failed to decrypt data\" on  preview branches",
+      "url": "https://github.com/supabase/supabase/issues/48943",
+      "author": "arangotorcar",
+      "at": "2026-08-11T14:37:57Z"
     }
   ]
 }
