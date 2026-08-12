@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T14:53:07.385Z",
+  "updatedAt": "2026-08-12T04:45:56.725Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,33 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5448,
-      "title": "fix(mcp): update deprecated Bedrock Claude model identifier",
-      "url": "https://github.com/browser-use/browser-use/pull/5448",
-      "author": "scemii",
-      "at": "2026-08-11T08:59:25Z"
+      "number": 5453,
+      "title": "fix(agent): preserve downloaded file path order",
+      "url": "https://github.com/browser-use/browser-use/pull/5453",
+      "author": "oysz",
+      "at": "2026-08-12T02:06:04Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5447,
-      "title": "fix(browser): close two CDP detection leaks + actively trigger Bright Data's CAPTCHA solver",
-      "url": "https://github.com/browser-use/browser-use/pull/5447",
-      "author": "Samuel7192",
-      "at": "2026-08-10T19:45:00Z"
+      "number": 5451,
+      "title": "Add OrcaRouter as a named LLM provider",
+      "url": "https://github.com/browser-use/browser-use/pull/5451",
+      "author": "XiaoHuo888-hue",
+      "at": "2026-08-12T00:05:33Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4120,
+      "title": "[Bug]: validate_credentials:true has no effect for API_KEY — invalid keys create an ACTIVE connected account",
+      "url": "https://github.com/ComposioHQ/composio/issues/4120",
+      "author": "nikhilchowdhury-nixet",
+      "at": "2026-08-12T03:43:30Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,92 +47,81 @@
       "at": "2026-08-11T13:40:22Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4117,
-      "title": "feat(examples): live-sweep harness, manifest, and scheduled workflow",
-      "url": "https://github.com/ComposioHQ/composio/pull/4117",
-      "author": "jkomyno",
-      "at": "2026-08-11T12:52:51Z"
+      "number": 2523,
+      "title": "Add working directory to Ruff workflow",
+      "url": "https://github.com/567-labs/instructor/pull/2523",
+      "author": "mattymejia",
+      "at": "2026-08-12T04:45:35Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2521,
-      "title": "fix(cli): add type annotation to MODEL_COSTS in usage.py",
-      "url": "https://github.com/567-labs/instructor/pull/2521",
-      "author": "nishant4671",
-      "at": "2026-08-11T11:28:15Z"
+      "number": 2522,
+      "title": "fix: reject empty provider model names",
+      "url": "https://github.com/567-labs/instructor/pull/2522",
+      "author": "wiliyam",
+      "at": "2026-08-11T21:23:12Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2306,
-      "title": "feat(minimax): add MiniMax provider support",
-      "url": "https://github.com/567-labs/instructor/pull/2306",
-      "author": "Bhavyashah20",
-      "at": "2026-05-14T20:24:08Z"
+      "number": 39602,
+      "title": "fix(core): resolve postponed annotations in `StructuredTool._injected_args_keys`",
+      "url": "https://github.com/langchain-ai/langchain/pull/39602",
+      "author": "mdrxy",
+      "at": "2026-08-11T22:54:05Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39578,
-      "title": "docs: add EmemStore (emem-langmem) to stores",
-      "url": "https://github.com/langchain-ai/langchain/issues/39578",
-      "author": "avijeetsingh1",
-      "at": "2026-08-11T07:39:02Z"
+      "number": 39601,
+      "title": "[langchain-deepseek]: reasoning_content is not streamed when response_format=json_object (aggregated into a single chunk)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39601",
+      "author": "54Lynnn",
+      "at": "2026-08-11T21:35:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97181,
-      "title": "Allow literal exports in `'use cache'` files",
-      "url": "https://github.com/vercel/next.js/pull/97181",
-      "author": "unstubbable",
-      "at": "2026-08-11T14:43:57Z"
+      "number": 97217,
+      "title": "examples: fix pnpm builds in Docker examples",
+      "url": "https://github.com/vercel/next.js/pull/97217",
+      "author": "starmerx-liuba",
+      "at": "2026-08-12T04:28:41Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 97180,
-      "title": "docs: clarify client cache freshness after hydration",
-      "url": "https://github.com/vercel/next.js/pull/97180",
-      "author": "aurorascharff",
-      "at": "2026-08-11T14:43:49Z"
+      "number": 48965,
+      "title": "fix(studio): resolve next run for cron schedules without wildcards",
+      "url": "https://github.com/supabase/supabase/pull/48965",
+      "author": "SEPURI-SAI-KRISHNA",
+      "at": "2026-08-12T04:34:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48944,
-      "title": "MCP failing on persistent preview branches",
-      "url": "https://github.com/supabase/supabase/issues/48944",
-      "author": "julian-techzip",
-      "at": "2026-08-11T14:49:56Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 48943,
-      "title": "supabase config push fails 500 \"Failed to decrypt data\" on  preview branches",
-      "url": "https://github.com/supabase/supabase/issues/48943",
-      "author": "arangotorcar",
-      "at": "2026-08-11T14:37:57Z"
+      "kind": "pr",
+      "number": 48963,
+      "title": "View running queries to link to connections page",
+      "url": "https://github.com/supabase/supabase/pull/48963",
+      "author": "joshenlim",
+      "at": "2026-08-12T03:40:40Z"
     }
   ]
 }
