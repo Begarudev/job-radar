@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-08-13T04:49:49.507Z",
-  "count": 13,
+  "updatedAt": "2026-08-13T14:52:19.674Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5459,
-      "title": "fix(llm): include the cache read in Anthropic total_tokens",
-      "url": "https://github.com/browser-use/browser-use/pull/5459",
-      "author": "arthi-arumugam-git",
-      "at": "2026-08-12T15:49:46Z"
+      "number": 5461,
+      "title": "fix(profile): preserve CHROME_DEFAULT_ARGS order in get_args",
+      "url": "https://github.com/browser-use/browser-use/pull/5461",
+      "author": "heyncth",
+      "at": "2026-08-13T13:38:59Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5458,
-      "title": "Add complete MiniMax chat provider",
-      "url": "https://github.com/browser-use/browser-use/pull/5458",
-      "author": "octo-patch",
-      "at": "2026-08-12T14:34:25Z"
+      "number": 5460,
+      "title": "Consider adding Lightning pay-per-call (invinoveritas integration)",
+      "url": "https://github.com/browser-use/browser-use/pull/5460",
+      "author": "laxanarana1513",
+      "at": "2026-08-13T10:34:44Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4124,
-      "title": "docs: rename Composio Connect to Composio For You, move MCP-client setup off-site",
-      "url": "https://github.com/ComposioHQ/composio/pull/4124",
-      "author": "sarahsimionescu",
-      "at": "2026-08-12T23:45:07Z"
+      "number": 4128,
+      "title": "fix(errors): set this.name on three ComposioError subclasses",
+      "url": "https://github.com/ComposioHQ/composio/pull/4128",
+      "author": "rohitsux",
+      "at": "2026-08-13T08:50:17Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4117,
-      "title": "feat(examples): live-sweep harness, manifest, and scheduled workflow",
-      "url": "https://github.com/ComposioHQ/composio/pull/4117",
-      "author": "jkomyno",
-      "at": "2026-08-11T12:52:51Z"
+      "number": 4127,
+      "title": "fix(telemetry): bound telemetry requests with an AbortSignal timeout",
+      "url": "https://github.com/ComposioHQ/composio/pull/4127",
+      "author": "rohitsux",
+      "at": "2026-08-13T08:12:22Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2525,
-      "title": "fix(core): normalize remote media types",
-      "url": "https://github.com/567-labs/instructor/pull/2525",
-      "author": "weivwang",
-      "at": "2026-08-12T17:02:58Z"
+      "number": 2527,
+      "title": "fix(messages): preserve tool-call protocol fields",
+      "url": "https://github.com/567-labs/instructor/pull/2527",
+      "author": "FU-max-boop",
+      "at": "2026-08-13T04:58:54Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2524,
-      "title": "fix(cache): include hoisted system prompt in the cache key",
-      "url": "https://github.com/567-labs/instructor/pull/2524",
-      "author": "Kropiunig",
-      "at": "2026-08-12T05:56:04Z"
+      "kind": "issue",
+      "number": 2526,
+      "title": "merge_consecutive_messages drops tool-call fields from conversation history",
+      "url": "https://github.com/567-labs/instructor/issues/2526",
+      "author": "FU-max-boop",
+      "at": "2026-08-13T04:53:35Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39613,
-      "title": "feat(openai): support openai 3.0 SDK",
-      "url": "https://github.com/langchain-ai/langchain/pull/39613",
-      "author": "ccurme",
-      "at": "2026-08-12T15:06:35Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39605,
-      "title": "feat(model-profiles): add `check-augmentations` CI command and `[extra_models]` table for stale override detection",
-      "url": "https://github.com/langchain-ai/langchain/pull/39605",
-      "author": "mdrxy",
-      "at": "2026-08-12T05:34:45Z"
+      "number": 39631,
+      "title": "fix(core): make StructuredTool JSON-serializable",
+      "url": "https://github.com/langchain-ai/langchain/pull/39631",
+      "author": "emil-lc",
+      "at": "2026-08-13T13:55:11Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97281,
-      "title": "[turbopack] Surface NUL-byte env var in Node.js pool spawn error",
-      "url": "https://github.com/vercel/next.js/pull/97281",
-      "author": "AmatyaJoshi",
-      "at": "2026-08-13T04:07:11Z"
+      "number": 97294,
+      "title": "[test] Add deploy coverage for a non-ASCII postponed state",
+      "url": "https://github.com/vercel/next.js/pull/97294",
+      "author": "unstubbable",
+      "at": "2026-08-13T13:18:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97279,
-      "title": "Enable strict route matching by default",
-      "url": "https://github.com/vercel/next.js/pull/97279",
-      "author": "gnoff",
-      "at": "2026-08-13T03:57:19Z"
+      "kind": "issue",
+      "number": 97292,
+      "title": "Turbopack fails to evaluate variable-assigned default exports in postcss.config.mjs",
+      "url": "https://github.com/vercel/next.js/issues/97292",
+      "author": "amoh909",
+      "at": "2026-08-13T12:31:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49032,
-      "title": "feat: add Explorer chat discovery and controls",
-      "url": "https://github.com/supabase/supabase/pull/49032",
-      "author": "SaxonF",
-      "at": "2026-08-13T04:21:52Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49031,
-      "title": "feat: add routed assistant chat tabs to Explorer",
-      "url": "https://github.com/supabase/supabase/pull/49031",
-      "author": "SaxonF",
-      "at": "2026-08-13T04:19:49Z"
+      "number": 49059,
+      "title": "feat(studio): add logs.all deprecation banner",
+      "url": "https://github.com/supabase/supabase/pull/49059",
+      "author": "myerekapan",
+      "at": "2026-08-13T13:15:05Z"
     },
     {
       "founder": "Erik Bernhardsson",
