@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-14T04:47:18.947Z",
-  "count": 15,
+  "updatedAt": "2026-08-14T14:46:13.973Z",
+  "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5468,
+      "title": "Add Taskmarket requester integration",
+      "url": "https://github.com/browser-use/browser-use/pull/5468",
+      "author": "Calcutatator",
+      "at": "2026-08-14T12:17:45Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,103 +25,70 @@
       "at": "2026-08-13T21:51:29Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5466,
-      "title": "fix(llm): extract thinking tags and sanitize json code blocks",
-      "url": "https://github.com/browser-use/browser-use/pull/5466",
-      "author": "harryautomazione",
-      "at": "2026-08-13T21:43:08Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4128,
-      "title": "fix(errors): set this.name on three ComposioError subclasses",
-      "url": "https://github.com/ComposioHQ/composio/pull/4128",
-      "author": "rohitsux",
-      "at": "2026-08-13T08:50:17Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4127,
-      "title": "fix(telemetry): bound telemetry requests with an AbortSignal timeout",
-      "url": "https://github.com/ComposioHQ/composio/pull/4127",
-      "author": "rohitsux",
-      "at": "2026-08-13T08:12:22Z"
+      "number": 2531,
+      "title": "docs: add claim extraction example for fact-checking pipelines",
+      "url": "https://github.com/567-labs/instructor/pull/2531",
+      "author": "nancy6547",
+      "at": "2026-08-14T10:39:23Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2529,
-      "title": "fix: count canceled and expired requests in Anthropic batch total",
-      "url": "https://github.com/567-labs/instructor/pull/2529",
-      "author": "AlejandroCoronadoN",
-      "at": "2026-08-14T02:49:59Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2528,
-      "title": "Your code contains @async_model_validator and @async_field_validator, but it seems to be dead code",
-      "url": "https://github.com/567-labs/instructor/issues/2528",
-      "author": "Steve973",
-      "at": "2026-08-13T21:14:33Z"
+      "number": 2530,
+      "title": "fix(bedrock): reject unsupported structured-output constraints",
+      "url": "https://github.com/567-labs/instructor/pull/2530",
+      "author": "wiliyam",
+      "at": "2026-08-14T09:28:04Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39640,
-      "title": "feat(huggingface): use torch.accelerator for device-agnostic device count detection",
-      "url": "https://github.com/langchain-ai/langchain/pull/39640",
+      "number": 39652,
+      "title": "style: upgrade to ruff 0.16, mypy 2.3, ty 0.0.71",
+      "url": "https://github.com/langchain-ai/langchain/pull/39652",
+      "author": "cbornet",
+      "at": "2026-08-14T14:12:29Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 39649,
+      "title": "fix(huggingface): remove retired IPEX backend",
+      "url": "https://github.com/langchain-ai/langchain/pull/39649",
       "author": "wanhakim",
-      "at": "2026-08-14T02:13:54Z"
+      "at": "2026-08-14T12:28:09Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 39637,
-      "title": "ChatDeepSeek drops cache-read tokens from usage_metadata (top-level prompt_cache_hit_tokens not mapped)",
-      "url": "https://github.com/langchain-ai/langchain/issues/39637",
-      "author": "Shailendra005",
-      "at": "2026-08-13T21:59:14Z"
+      "number": 97371,
+      "title": "next dev hangs forever (no error, no overlay) when a module request exceeds ~8.39M chars — bundled enhanced-resolve predates the non-regex f",
+      "url": "https://github.com/vercel/next.js/issues/97371",
+      "author": "MuzajsArcin",
+      "at": "2026-08-14T14:15:00Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97346,
-      "title": "Chase the post-traversal navigation hang",
-      "url": "https://github.com/vercel/next.js/pull/97346",
-      "author": "gaearon",
-      "at": "2026-08-14T01:05:28Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97345,
-      "title": "Resolve metadata independently across parallel routes",
-      "url": "https://github.com/vercel/next.js/pull/97345",
-      "author": "gnoff",
-      "at": "2026-08-14T00:55:35Z"
+      "number": 97370,
+      "title": "Turbopack: improve chunk_item_content docs",
+      "url": "https://github.com/vercel/next.js/pull/97370",
+      "author": "mischnic",
+      "at": "2026-08-14T14:01:36Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -128,22 +106,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49092,
-      "title": "Joshenlim/fe 4174 project creation ignores selected us east 1 region",
-      "url": "https://github.com/supabase/supabase/pull/49092",
-      "author": "joshenlim",
-      "at": "2026-08-14T03:53:35Z"
+      "number": 49108,
+      "title": "fix(realtime): add pg changes pool to realtime settings",
+      "url": "https://github.com/supabase/supabase/pull/49108",
+      "author": "filipecabaco",
+      "at": "2026-08-14T14:35:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49091,
-      "title": "chore(studio): lighten FormLayout descriptions and tighten GitHub copy",
-      "url": "https://github.com/supabase/supabase/pull/49091",
-      "author": "dnywh",
-      "at": "2026-08-14T03:20:21Z"
+      "kind": "issue",
+      "number": 49107,
+      "title": "Bug",
+      "url": "https://github.com/supabase/supabase/issues/49107",
+      "author": "abdulshimazaki",
+      "at": "2026-08-14T14:31:09Z"
     },
     {
       "founder": "Erik Bernhardsson",
