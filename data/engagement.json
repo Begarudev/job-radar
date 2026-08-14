@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-13T14:52:19.674Z",
-  "count": 11,
+  "updatedAt": "2026-08-14T04:47:18.947Z",
+  "count": 15,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5461,
-      "title": "fix(profile): preserve CHROME_DEFAULT_ARGS order in get_args",
-      "url": "https://github.com/browser-use/browser-use/pull/5461",
-      "author": "heyncth",
-      "at": "2026-08-13T13:38:59Z"
+      "number": 5467,
+      "title": "fix(llm): token usage tracking for Ollama and DeepSeek",
+      "url": "https://github.com/browser-use/browser-use/pull/5467",
+      "author": "harryautomazione",
+      "at": "2026-08-13T21:51:29Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5460,
-      "title": "Consider adding Lightning pay-per-call (invinoveritas integration)",
-      "url": "https://github.com/browser-use/browser-use/pull/5460",
-      "author": "laxanarana1513",
-      "at": "2026-08-13T10:34:44Z"
+      "number": 5466,
+      "title": "fix(llm): extract thinking tags and sanitize json code blocks",
+      "url": "https://github.com/browser-use/browser-use/pull/5466",
+      "author": "harryautomazione",
+      "at": "2026-08-13T21:43:08Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -51,66 +51,110 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2527,
-      "title": "fix(messages): preserve tool-call protocol fields",
-      "url": "https://github.com/567-labs/instructor/pull/2527",
-      "author": "FU-max-boop",
-      "at": "2026-08-13T04:58:54Z"
+      "number": 2529,
+      "title": "fix: count canceled and expired requests in Anthropic batch total",
+      "url": "https://github.com/567-labs/instructor/pull/2529",
+      "author": "AlejandroCoronadoN",
+      "at": "2026-08-14T02:49:59Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2526,
-      "title": "merge_consecutive_messages drops tool-call fields from conversation history",
-      "url": "https://github.com/567-labs/instructor/issues/2526",
-      "author": "FU-max-boop",
-      "at": "2026-08-13T04:53:35Z"
+      "number": 2528,
+      "title": "Your code contains @async_model_validator and @async_field_validator, but it seems to be dead code",
+      "url": "https://github.com/567-labs/instructor/issues/2528",
+      "author": "Steve973",
+      "at": "2026-08-13T21:14:33Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39631,
-      "title": "fix(core): make StructuredTool JSON-serializable",
-      "url": "https://github.com/langchain-ai/langchain/pull/39631",
-      "author": "emil-lc",
-      "at": "2026-08-13T13:55:11Z"
+      "number": 39640,
+      "title": "feat(huggingface): use torch.accelerator for device-agnostic device count detection",
+      "url": "https://github.com/langchain-ai/langchain/pull/39640",
+      "author": "wanhakim",
+      "at": "2026-08-14T02:13:54Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39637,
+      "title": "ChatDeepSeek drops cache-read tokens from usage_metadata (top-level prompt_cache_hit_tokens not mapped)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39637",
+      "author": "Shailendra005",
+      "at": "2026-08-13T21:59:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97294,
-      "title": "[test] Add deploy coverage for a non-ASCII postponed state",
-      "url": "https://github.com/vercel/next.js/pull/97294",
-      "author": "unstubbable",
-      "at": "2026-08-13T13:18:28Z"
+      "number": 97346,
+      "title": "Chase the post-traversal navigation hang",
+      "url": "https://github.com/vercel/next.js/pull/97346",
+      "author": "gaearon",
+      "at": "2026-08-14T01:05:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 97292,
-      "title": "Turbopack fails to evaluate variable-assigned default exports in postcss.config.mjs",
-      "url": "https://github.com/vercel/next.js/issues/97292",
-      "author": "amoh909",
-      "at": "2026-08-13T12:31:17Z"
+      "kind": "pr",
+      "number": 97345,
+      "title": "Resolve metadata independently across parallel routes",
+      "url": "https://github.com/vercel/next.js/pull/97345",
+      "author": "gnoff",
+      "at": "2026-08-14T00:55:35Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.3.1 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1",
+      "author": "lukesandberg",
+      "at": "2026-08-13T22:48:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49059,
-      "title": "feat(studio): add logs.all deprecation banner",
-      "url": "https://github.com/supabase/supabase/pull/49059",
-      "author": "myerekapan",
-      "at": "2026-08-13T13:15:05Z"
+      "number": 49092,
+      "title": "Joshenlim/fe 4174 project creation ignores selected us east 1 region",
+      "url": "https://github.com/supabase/supabase/pull/49092",
+      "author": "joshenlim",
+      "at": "2026-08-14T03:53:35Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49091,
+      "title": "chore(studio): lighten FormLayout descriptions and tighten GitHub copy",
+      "url": "https://github.com/supabase/supabase/pull/49091",
+      "author": "dnywh",
+      "at": "2026-08-14T03:20:21Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4131,
+      "title": "`modal volume get` can silently create sparse or truncated files after short block downloads",
+      "url": "https://github.com/modal-labs/modal-client/issues/4131",
+      "author": "jasondavies",
+      "at": "2026-08-13T16:34:54Z"
     },
     {
       "founder": "Erik Bernhardsson",
