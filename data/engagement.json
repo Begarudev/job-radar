@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:46:13.973Z",
+  "updatedAt": "2026-08-15T03:37:38.340Z",
   "count": 13,
   "signals": [
     {
@@ -7,22 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5468,
-      "title": "Add Taskmarket requester integration",
-      "url": "https://github.com/browser-use/browser-use/pull/5468",
-      "author": "Calcutatator",
-      "at": "2026-08-14T12:17:45Z"
+      "number": 5471,
+      "title": "fix(dom): detect clickable elements in same-origin iframes and DOM0 onclick handlers",
+      "url": "https://github.com/browser-use/browser-use/pull/5471",
+      "author": "shawyang0304",
+      "at": "2026-08-15T02:15:35Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5467,
-      "title": "fix(llm): token usage tracking for Ollama and DeepSeek",
-      "url": "https://github.com/browser-use/browser-use/pull/5467",
-      "author": "harryautomazione",
-      "at": "2026-08-13T21:51:29Z"
+      "number": 5470,
+      "title": "fix(browser): keep CHROME_DEFAULT_ARGS order in get_args()",
+      "url": "https://github.com/browser-use/browser-use/pull/5470",
+      "author": "uuzzrm",
+      "at": "2026-08-15T00:10:01Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4139,
+      "title": "docs: emit docs_sidebar_click with sidebar group and depth",
+      "url": "https://github.com/ComposioHQ/composio/pull/4139",
+      "author": "KJ-11",
+      "at": "2026-08-14T22:37:23Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4138,
+      "title": "LinkedIn toolkit cannot publish to company page with organization URN due to missing organization scopes",
+      "url": "https://github.com/ComposioHQ/composio/issues/4138",
+      "author": "samhaider",
+      "at": "2026-08-14T22:22:57Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2532,
+      "title": "fix(bedrock): preserve nested caller config",
+      "url": "https://github.com/567-labs/instructor/pull/2532",
+      "author": "wiliyam",
+      "at": "2026-08-14T15:23:28Z"
     },
     {
       "founder": "Jason Liu",
@@ -36,15 +69,15 @@
       "at": "2026-08-14T10:39:23Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2530,
-      "title": "fix(bedrock): reject unsupported structured-output constraints",
-      "url": "https://github.com/567-labs/instructor/pull/2530",
-      "author": "wiliyam",
-      "at": "2026-08-14T09:28:04Z"
+      "number": 39657,
+      "title": "chore(openai): update snapshots",
+      "url": "https://github.com/langchain-ai/langchain/pull/39657",
+      "author": "ccurme",
+      "at": "2026-08-14T18:31:54Z"
     },
     {
       "founder": "Harrison Chase",
@@ -58,92 +91,59 @@
       "at": "2026-08-14T14:12:29Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39649,
-      "title": "fix(huggingface): remove retired IPEX backend",
-      "url": "https://github.com/langchain-ai/langchain/pull/39649",
-      "author": "wanhakim",
-      "at": "2026-08-14T12:28:09Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 97371,
-      "title": "next dev hangs forever (no error, no overlay) when a module request exceeds ~8.39M chars — bundled enhanced-resolve predates the non-regex f",
-      "url": "https://github.com/vercel/next.js/issues/97371",
-      "author": "MuzajsArcin",
-      "at": "2026-08-14T14:15:00Z"
+      "number": 97399,
+      "title": "Turbopack: next build deadlocks at 0% CPU — content-hashed chunk paths + mutually-referencing async chunks form an await cycle",
+      "url": "https://github.com/vercel/next.js/issues/97399",
+      "author": "swarupdonepudi",
+      "at": "2026-08-15T02:23:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97370,
-      "title": "Turbopack: improve chunk_item_content docs",
-      "url": "https://github.com/vercel/next.js/pull/97370",
-      "author": "mischnic",
-      "at": "2026-08-14T14:01:36Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.3.1 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.1",
-      "author": "lukesandberg",
-      "at": "2026-08-13T22:48:45Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49108,
-      "title": "fix(realtime): add pg changes pool to realtime settings",
-      "url": "https://github.com/supabase/supabase/pull/49108",
-      "author": "filipecabaco",
-      "at": "2026-08-14T14:35:32Z"
+      "number": 97397,
+      "title": "Enable strict route matching by default",
+      "url": "https://github.com/vercel/next.js/pull/97397",
+      "author": "gnoff",
+      "at": "2026-08-15T02:13:19Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 49107,
-      "title": "Bug",
-      "url": "https://github.com/supabase/supabase/issues/49107",
-      "author": "abdulshimazaki",
-      "at": "2026-08-14T14:31:09Z"
+      "number": 49113,
+      "title": "auth-js: stolen-lock AbortError leaks unconverted when acquireTimeout is 0 (_autoRefreshTokenTick)",
+      "url": "https://github.com/supabase/supabase/issues/49113",
+      "author": "SaGaSaBo",
+      "at": "2026-08-14T17:03:39Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4131,
-      "title": "`modal volume get` can silently create sparse or truncated files after short block downloads",
-      "url": "https://github.com/modal-labs/modal-client/issues/4131",
-      "author": "jasondavies",
-      "at": "2026-08-13T16:34:54Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49112,
+      "title": "feat(studio): add NotebookPreview diff component",
+      "url": "https://github.com/supabase/supabase/pull/49112",
+      "author": "charislam",
+      "at": "2026-08-14T17:01:45Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4130,
-      "title": "`modal volume get` can corrupt a directory download when the local destination does not exist",
-      "url": "https://github.com/modal-labs/modal-client/issues/4130",
-      "author": "jasondavies",
-      "at": "2026-08-12T19:23:01Z"
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 1976,
+      "title": "feat: Neon as database Provider",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/1976",
+      "author": "JoseCToscano",
+      "at": "2024-09-01T20:12:52Z"
     }
   ]
 }
