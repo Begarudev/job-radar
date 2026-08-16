@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-16T03:47:00.446Z",
-  "count": 9,
+  "updatedAt": "2026-08-16T14:17:28.495Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5479,
+      "title": "Prevent Margin Leaks & Surprise LLM Bills: Add a Hybrid Spend Firewall",
+      "url": "https://github.com/browser-use/browser-use/issues/5479",
+      "author": "sophieamoure2026-ui",
+      "at": "2026-08-16T04:27:33Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,48 @@
       "at": "2026-08-16T03:21:19Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5475,
-      "title": "fix(browser): honor BROWSER_USE_HEADLESS in BrowserProfile (#5420)",
-      "url": "https://github.com/browser-use/browser-use/pull/5475",
-      "author": "jiffyaneesh",
-      "at": "2026-08-15T12:22:09Z"
+      "number": 4143,
+      "title": "test(openai-agents): exercise wrapped tools through Runner",
+      "url": "https://github.com/ComposioHQ/composio/pull/4143",
+      "author": "FU-max-boop",
+      "at": "2026-08-16T13:20:07Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4141,
-      "title": "docs: Hobby / Pro / Enterprise plans + pass-through premium tools",
-      "url": "https://github.com/ComposioHQ/composio/pull/4141",
-      "author": "palash-c",
-      "at": "2026-08-16T02:25:08Z"
+      "kind": "issue",
+      "number": 4142,
+      "title": "[Feature]: TypeScript provider for Google ADK",
+      "url": "https://github.com/ComposioHQ/composio/issues/4142",
+      "author": "shalkoda",
+      "at": "2026-08-16T12:43:00Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2535,
+      "title": "from_litellm raises RegistryError when several threads make their first structured call concurrently",
+      "url": "https://github.com/567-labs/instructor/issues/2535",
+      "author": "benoitf73",
+      "at": "2026-08-16T13:17:06Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4140,
-      "title": "feat(cli-local-tools): add Taskmarket toolkit",
-      "url": "https://github.com/ComposioHQ/composio/pull/4140",
-      "author": "MohDev212",
-      "at": "2026-08-15T19:40:12Z"
+      "number": 2534,
+      "title": "fix(gemini): preserve tool-call history in prompt conversion",
+      "url": "https://github.com/567-labs/instructor/pull/2534",
+      "author": "feiiiiii5",
+      "at": "2026-08-16T04:30:26Z"
     },
     {
       "founder": "Harrison Chase",
@@ -62,22 +84,22 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97427,
-      "title": "Test foreground blocking and fallback matcher behavior",
-      "url": "https://github.com/vercel/next.js/pull/97427",
-      "author": "gnoff",
-      "at": "2026-08-16T01:30:18Z"
+      "number": 97439,
+      "title": "Trace lazy App Route module loading",
+      "url": "https://github.com/vercel/next.js/pull/97439",
+      "author": "DavidIlie",
+      "at": "2026-08-16T13:36:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97426,
-      "title": "Test matcher policies across complex route shapes",
-      "url": "https://github.com/vercel/next.js/pull/97426",
-      "author": "gnoff",
-      "at": "2026-08-16T01:26:09Z"
+      "kind": "issue",
+      "number": 97436,
+      "title": "Turbopack: Pages Router file named `sitemap.js` misclassified as App Router metadata route, breaks build with false \"getServerSideProps is n",
+      "url": "https://github.com/vercel/next.js/issues/97436",
+      "author": "instavites-niklas",
+      "at": "2026-08-16T08:18:36Z"
     },
     {
       "founder": "Paul Copplestone",
