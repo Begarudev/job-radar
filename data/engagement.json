@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-15T14:16:46.287Z",
-  "count": 11,
+  "updatedAt": "2026-08-16T03:47:00.446Z",
+  "count": 9,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5478,
+      "title": "docs: replace broken profile.sh link with profile-use releases link",
+      "url": "https://github.com/browser-use/browser-use/pull/5478",
+      "author": "QiYuyyds",
+      "at": "2026-08-16T03:21:19Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,114 +25,81 @@
       "at": "2026-08-15T12:22:09Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5474,
-      "title": "feat: add a3m-router as optional dependency",
-      "url": "https://github.com/browser-use/browser-use/pull/5474",
-      "author": "Das-rebel",
-      "at": "2026-08-15T10:56:11Z"
+      "number": 4141,
+      "title": "docs: Hobby / Pro / Enterprise plans + pass-through premium tools",
+      "url": "https://github.com/ComposioHQ/composio/pull/4141",
+      "author": "palash-c",
+      "at": "2026-08-16T02:25:08Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4139,
-      "title": "docs: emit docs_sidebar_click with sidebar group and depth",
-      "url": "https://github.com/ComposioHQ/composio/pull/4139",
-      "author": "KJ-11",
-      "at": "2026-08-14T22:37:23Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4138,
-      "title": "LinkedIn toolkit cannot publish to company page with organization URN due to missing organization scopes",
-      "url": "https://github.com/ComposioHQ/composio/issues/4138",
-      "author": "samhaider",
-      "at": "2026-08-14T22:22:57Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2532,
-      "title": "fix(bedrock): preserve nested caller config",
-      "url": "https://github.com/567-labs/instructor/pull/2532",
-      "author": "wiliyam",
-      "at": "2026-08-14T15:23:28Z"
+      "number": 4140,
+      "title": "feat(cli-local-tools): add Taskmarket toolkit",
+      "url": "https://github.com/ComposioHQ/composio/pull/4140",
+      "author": "MohDev212",
+      "at": "2026-08-15T19:40:12Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 39657,
-      "title": "chore(openai): update snapshots",
-      "url": "https://github.com/langchain-ai/langchain/pull/39657",
-      "author": "ccurme",
-      "at": "2026-08-14T18:31:54Z"
+      "number": 39672,
+      "title": "fix(text-splitters): recognize custom header patterns when merging nested headers",
+      "url": "https://github.com/langchain-ai/langchain/pull/39672",
+      "author": "dlwldn30",
+      "at": "2026-08-15T16:12:44Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97418,
-      "title": "docs: document the metadata URL suffix for route groups and parallel routes",
-      "url": "https://github.com/vercel/next.js/pull/97418",
-      "author": "cdhdt",
-      "at": "2026-08-15T13:52:35Z"
+      "number": 97427,
+      "title": "Test foreground blocking and fallback matcher behavior",
+      "url": "https://github.com/vercel/next.js/pull/97427",
+      "author": "gnoff",
+      "at": "2026-08-16T01:30:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 97417,
-      "title": "App Router: stale document title when navigating between dynamic routes with generateMetadata",
-      "url": "https://github.com/vercel/next.js/issues/97417",
-      "author": "shubhamtak007",
-      "at": "2026-08-15T13:17:42Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 49113,
-      "title": "auth-js: stolen-lock AbortError leaks unconverted when acquireTimeout is 0 (_autoRefreshTokenTick)",
-      "url": "https://github.com/supabase/supabase/issues/49113",
-      "author": "SaGaSaBo",
-      "at": "2026-08-14T17:03:39Z"
+      "kind": "pr",
+      "number": 97426,
+      "title": "Test matcher policies across complex route shapes",
+      "url": "https://github.com/vercel/next.js/pull/97426",
+      "author": "gnoff",
+      "at": "2026-08-16T01:26:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49112,
-      "title": "feat(studio): add NotebookPreview diff component",
-      "url": "https://github.com/supabase/supabase/pull/49112",
-      "author": "charislam",
-      "at": "2026-08-14T17:01:45Z"
+      "number": 49122,
+      "title": "fix(www): restore the /cli/ segment on CLI reference redirect destinations",
+      "url": "https://github.com/supabase/supabase/pull/49122",
+      "author": "ayaangazali",
+      "at": "2026-08-15T19:33:14Z"
     },
     {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 1976,
-      "title": "feat: Neon as database Provider",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/1976",
-      "author": "JoseCToscano",
-      "at": "2024-09-01T20:12:52Z"
+      "number": 49121,
+      "title": "fix(www): point the JS auth-api redirects at the pages their comments name",
+      "url": "https://github.com/supabase/supabase/pull/49121",
+      "author": "ayaangazali",
+      "at": "2026-08-15T17:36:48Z"
     }
   ]
 }
