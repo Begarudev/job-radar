@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T14:17:28.495Z",
+  "updatedAt": "2026-08-17T03:49:22.543Z",
   "count": 11,
   "signals": [
     {
@@ -7,44 +7,66 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 5479,
-      "title": "Prevent Margin Leaks & Surprise LLM Bills: Add a Hybrid Spend Firewall",
-      "url": "https://github.com/browser-use/browser-use/issues/5479",
-      "author": "sophieamoure2026-ui",
-      "at": "2026-08-16T04:27:33Z"
+      "number": 5484,
+      "title": "Tab accumulation in long-running local Chrome sessions",
+      "url": "https://github.com/browser-use/browser-use/issues/5484",
+      "author": "toofaraway",
+      "at": "2026-08-17T03:14:43Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5478,
-      "title": "docs: replace broken profile.sh link with profile-use releases link",
-      "url": "https://github.com/browser-use/browser-use/pull/5478",
-      "author": "QiYuyyds",
-      "at": "2026-08-16T03:21:19Z"
+      "number": 5483,
+      "title": "fix(security): stop data:/blob: URLs bypassing domain policy (#4763)",
+      "url": "https://github.com/browser-use/browser-use/pull/5483",
+      "author": "thelonewander3r",
+      "at": "2026-08-17T02:11:44Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4143,
-      "title": "test(openai-agents): exercise wrapped tools through Runner",
-      "url": "https://github.com/ComposioHQ/composio/pull/4143",
-      "author": "FU-max-boop",
-      "at": "2026-08-16T13:20:07Z"
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.8 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.8",
+      "author": "gregpr07",
+      "at": "2026-08-16T18:48:54Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4142,
-      "title": "[Feature]: TypeScript provider for Google ADK",
-      "url": "https://github.com/ComposioHQ/composio/issues/4142",
-      "author": "shalkoda",
-      "at": "2026-08-16T12:43:00Z"
+      "number": 4147,
+      "title": "Assistants API references break Aug 26 (openai demo + provider docs)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4147",
+      "author": "SLPWLK",
+      "at": "2026-08-16T19:29:00Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4146,
+      "title": "fix(files): validate URLs from API responses before fetching them",
+      "url": "https://github.com/ComposioHQ/composio/pull/4146",
+      "author": "jkomyno",
+      "at": "2026-08-16T17:53:37Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2536,
+      "title": "fix(core): keep lazy modes registered while loading",
+      "url": "https://github.com/567-labs/instructor/pull/2536",
+      "author": "nightcityblade",
+      "at": "2026-08-16T15:20:55Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,70 +80,48 @@
       "at": "2026-08-16T13:17:06Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2534,
-      "title": "fix(gemini): preserve tool-call history in prompt conversion",
-      "url": "https://github.com/567-labs/instructor/pull/2534",
-      "author": "feiiiiii5",
-      "at": "2026-08-16T04:30:26Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39683,
+      "title": "Fix typo in README: \"capabilites\" should be \"capabilities\"",
+      "url": "https://github.com/langchain-ai/langchain/issues/39683",
+      "author": "JiaPengGithub",
+      "at": "2026-08-17T03:15:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39672,
-      "title": "fix(text-splitters): recognize custom header patterns when merging nested headers",
-      "url": "https://github.com/langchain-ai/langchain/pull/39672",
-      "author": "dlwldn30",
-      "at": "2026-08-15T16:12:44Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97439,
-      "title": "Trace lazy App Route module loading",
-      "url": "https://github.com/vercel/next.js/pull/97439",
-      "author": "DavidIlie",
-      "at": "2026-08-16T13:36:28Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 97436,
-      "title": "Turbopack: Pages Router file named `sitemap.js` misclassified as App Router metadata route, breaks build with false \"getServerSideProps is n",
-      "url": "https://github.com/vercel/next.js/issues/97436",
-      "author": "instavites-niklas",
-      "at": "2026-08-16T08:18:36Z"
+      "number": 39679,
+      "title": "`StateFileSearchMiddleware`: `grep_search` matches sibling directories that share a path prefix (inconsistent with `glob_search`)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39679",
+      "author": "KevinYyyyyy",
+      "at": "2026-08-17T01:38:32Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97449,
+      "title": "Add unstable parallel metadata selectors",
+      "url": "https://github.com/vercel/next.js/pull/97449",
+      "author": "gnoff",
+      "at": "2026-08-17T02:12:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49122,
-      "title": "fix(www): restore the /cli/ segment on CLI reference redirect destinations",
-      "url": "https://github.com/supabase/supabase/pull/49122",
-      "author": "ayaangazali",
-      "at": "2026-08-15T19:33:14Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49121,
-      "title": "fix(www): point the JS auth-api redirects at the pages their comments name",
-      "url": "https://github.com/supabase/supabase/pull/49121",
-      "author": "ayaangazali",
-      "at": "2026-08-15T17:36:48Z"
+      "number": 49129,
+      "title": "fix(studio): slightly round split-button corners on focus",
+      "url": "https://github.com/supabase/supabase/pull/49129",
+      "author": "dnywh",
+      "at": "2026-08-17T00:29:36Z"
     }
   ]
 }
