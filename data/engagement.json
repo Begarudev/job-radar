@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-08-18T03:43:10.084Z",
-  "count": 11,
+  "updatedAt": "2026-08-18T14:27:44.511Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5493,
-      "title": "fix(agent): match URL negations as whole words",
-      "url": "https://github.com/browser-use/browser-use/pull/5493",
-      "author": "JayLay0310",
-      "at": "2026-08-18T03:40:25Z"
+      "number": 5496,
+      "title": "feat(agent): add ProductionDebtBrowserGate and TechnicalDueDiligenceLedger",
+      "url": "https://github.com/browser-use/browser-use/pull/5496",
+      "author": "AAH20",
+      "at": "2026-08-18T09:36:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5492,
-      "title": "docs: use canonical contribution guide URLs",
-      "url": "https://github.com/browser-use/browser-use/pull/5492",
-      "author": "JayLay0310",
-      "at": "2026-08-18T03:09:52Z"
+      "number": 5495,
+      "title": "fix(browser): track and drain HAR response body fetches before writing HAR",
+      "url": "https://github.com/browser-use/browser-use/pull/5495",
+      "author": "shashank-100",
+      "at": "2026-08-18T04:50:36Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4158,
-      "title": "ci: label-triggered docs agent eval (V1, informational)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4158",
-      "author": "soumya1971",
-      "at": "2026-08-17T21:14:14Z"
+      "number": 4163,
+      "title": "Normalizing Python proxy execute responses to match the TypeScript SDK",
+      "url": "https://github.com/ComposioHQ/composio/pull/4163",
+      "author": "AseemPrasad",
+      "at": "2026-08-18T13:44:57Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4157,
-      "title": "fix(python): verify the connected peer address to close the SSRF rebinding window",
-      "url": "https://github.com/ComposioHQ/composio/pull/4157",
-      "author": "Mustaqeem66",
-      "at": "2026-08-17T20:48:02Z"
+      "number": 2551,
+      "title": "fix(gemini): preserve caller safety settings",
+      "url": "https://github.com/567-labs/instructor/pull/2551",
+      "author": "tandede",
+      "at": "2026-08-18T12:32:29Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,70 +58,59 @@
       "at": "2026-08-18T02:17:12Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2549,
-      "title": "fix: extract Bedrock text from the first block that has it",
-      "url": "https://github.com/567-labs/instructor/pull/2549",
-      "author": "tonycoder-hub",
-      "at": "2026-08-17T11:11:48Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39705,
-      "title": "test(core): avoid version-dependent runnable snapshots",
-      "url": "https://github.com/langchain-ai/langchain/pull/39705",
-      "author": "mdrxy",
-      "at": "2026-08-17T20:53:48Z"
+      "kind": "issue",
+      "number": 39715,
+      "title": "openai: _implode_reasoning_blocks merges distinct reasoning items, dropping ids and encrypted content",
+      "url": "https://github.com/langchain-ai/langchain/issues/39715",
+      "author": "lucashunter050",
+      "at": "2026-08-18T14:17:16Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39700,
-      "title": "ShellToolMiddleware leaks subprocess and temp directory when agent is interrupted and never reaches after_agent",
-      "url": "https://github.com/langchain-ai/langchain/issues/39700",
-      "author": "keenborder786",
-      "at": "2026-08-17T18:42:39Z"
+      "number": 39713,
+      "title": "`ChatAnthropic(stream_usage=False)` also drops `stop_reason`, `stop_sequence` and `model_name` from `response_metadata`, not just usage meta",
+      "url": "https://github.com/langchain-ai/langchain/issues/39713",
+      "author": "JessYanCoding",
+      "at": "2026-08-18T08:27:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97480,
-      "title": "Store keys in key order in SST blocks that omit hashes",
-      "url": "https://github.com/vercel/next.js/pull/97480",
-      "author": "lukesandberg",
-      "at": "2026-08-18T02:09:02Z"
+      "number": 97513,
+      "title": "fix(third-parties): add SSR window check to sendGAEvent and sendGTMEvent",
+      "url": "https://github.com/vercel/next.js/pull/97513",
+      "author": "anasysuf",
+      "at": "2026-08-18T14:00:06Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97512,
+      "title": "test(router): add unit tests for redirect helpers and router signals",
+      "url": "https://github.com/vercel/next.js/pull/97512",
+      "author": "anasysuf",
+      "at": "2026-08-18T13:18:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49170,
-      "title": "feat(studio): render assistant SQL with AssistantQueryCell",
-      "url": "https://github.com/supabase/supabase/pull/49170",
-      "author": "SaxonF",
-      "at": "2026-08-18T03:38:32Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49169,
-      "title": "feat(studio): add AssistantQueryCell on the shared QueryEditor",
-      "url": "https://github.com/supabase/supabase/pull/49169",
-      "author": "SaxonF",
-      "at": "2026-08-18T03:38:27Z"
+      "number": 49197,
+      "title": "fix(studio): escape json values correctly in Copy/Export rows as SQL",
+      "url": "https://github.com/supabase/supabase/pull/49197",
+      "author": "oniani1",
+      "at": "2026-08-18T11:37:16Z"
     }
   ]
 }
