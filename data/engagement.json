@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-17T14:21:57.236Z",
-  "count": 13,
+  "updatedAt": "2026-08-18T03:43:10.084Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5487,
-      "title": "fix(tools): report failed tab switches as errors instead of successes (#5486)",
-      "url": "https://github.com/browser-use/browser-use/pull/5487",
-      "author": "thelonewander3r",
-      "at": "2026-08-17T10:58:50Z"
+      "number": 5493,
+      "title": "fix(agent): match URL negations as whole words",
+      "url": "https://github.com/browser-use/browser-use/pull/5493",
+      "author": "JayLay0310",
+      "at": "2026-08-18T03:40:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5486,
-      "title": "Bug: switch action reports a successful tab switch when the switch failed (error= never set)",
-      "url": "https://github.com/browser-use/browser-use/issues/5486",
-      "author": "thelonewander3r",
-      "at": "2026-08-17T10:58:11Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.8 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.8",
-      "author": "gregpr07",
-      "at": "2026-08-16T18:48:54Z"
+      "kind": "pr",
+      "number": 5492,
+      "title": "docs: use canonical contribution guide URLs",
+      "url": "https://github.com/browser-use/browser-use/pull/5492",
+      "author": "JayLay0310",
+      "at": "2026-08-18T03:09:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4148,
-      "title": "GOOGLECALENDAR_CREATE_EVENT: events created earlier than requested when offset-bearing datetime AND timezone field are both passed (double t",
-      "url": "https://github.com/ComposioHQ/composio/issues/4148",
-      "author": "jmcarbo",
-      "at": "2026-08-17T11:37:06Z"
+      "kind": "pr",
+      "number": 4158,
+      "title": "ci: label-triggered docs agent eval (V1, informational)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4158",
+      "author": "soumya1971",
+      "at": "2026-08-17T21:14:14Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4147,
-      "title": "Assistants API references break Aug 26 (openai demo + provider docs)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4147",
-      "author": "SLPWLK",
-      "at": "2026-08-16T19:29:00Z"
+      "kind": "pr",
+      "number": 4157,
+      "title": "fix(python): verify the connected peer address to close the SSRF rebinding window",
+      "url": "https://github.com/ComposioHQ/composio/pull/4157",
+      "author": "Mustaqeem66",
+      "at": "2026-08-17T20:48:02Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2550,
+      "title": "docs: fix typos in Langfuse tracing guide",
+      "url": "https://github.com/567-labs/instructor/pull/2550",
+      "author": "JohnWick348",
+      "at": "2026-08-18T02:17:12Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,81 +69,59 @@
       "at": "2026-08-17T11:11:48Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2548,
-      "title": "fix: tolerate OpenAI completions with an empty choices list",
-      "url": "https://github.com/567-labs/instructor/pull/2548",
-      "author": "tonycoder-hub",
-      "at": "2026-08-17T11:05:59Z"
+      "number": 39705,
+      "title": "test(core): avoid version-dependent runnable snapshots",
+      "url": "https://github.com/langchain-ai/langchain/pull/39705",
+      "author": "mdrxy",
+      "at": "2026-08-17T20:53:48Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39697,
-      "title": "Bug: count_tokens_approximately inflates estimates 5-10x for reasoning/thinking blocks",
-      "url": "https://github.com/langchain-ai/langchain/issues/39697",
-      "author": "alan-andrade",
-      "at": "2026-08-17T13:10:22Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39693,
-      "title": "chore(infra): cover Docker dependencies with Dependabot",
-      "url": "https://github.com/langchain-ai/langchain/pull/39693",
-      "author": "jkennedyvz",
-      "at": "2026-08-17T09:05:11Z"
+      "number": 39700,
+      "title": "ShellToolMiddleware leaks subprocess and temp directory when agent is interrupted and never reaches after_agent",
+      "url": "https://github.com/langchain-ai/langchain/issues/39700",
+      "author": "keenborder786",
+      "at": "2026-08-17T18:42:39Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97463,
-      "title": "[backport] Turbopack: don't trace embedded WASM loader helpers (#97353)",
-      "url": "https://github.com/vercel/next.js/pull/97463",
-      "author": "mischnic",
-      "at": "2026-08-17T13:08:53Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97462,
-      "title": "docs: fix crossOrigin wording",
-      "url": "https://github.com/vercel/next.js/pull/97462",
-      "author": "Rezakarimzadeh98",
-      "at": "2026-08-17T12:30:12Z"
+      "number": 97480,
+      "title": "Store keys in key order in SST blocks that omit hashes",
+      "url": "https://github.com/vercel/next.js/pull/97480",
+      "author": "lukesandberg",
+      "at": "2026-08-18T02:09:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49147,
-      "title": "fix: scroll to required fields on support form submit",
-      "url": "https://github.com/supabase/supabase/pull/49147",
-      "author": "monicakh",
-      "at": "2026-08-17T14:20:00Z"
+      "number": 49170,
+      "title": "feat(studio): render assistant SQL with AssistantQueryCell",
+      "url": "https://github.com/supabase/supabase/pull/49170",
+      "author": "SaxonF",
+      "at": "2026-08-18T03:38:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49145,
-      "title": "feat(studio): review step to mirror view permissions sheet",
-      "url": "https://github.com/supabase/supabase/pull/49145",
-      "author": "kemaldotearth",
-      "at": "2026-08-17T12:42:25Z"
+      "number": 49169,
+      "title": "feat(studio): add AssistantQueryCell on the shared QueryEditor",
+      "url": "https://github.com/supabase/supabase/pull/49169",
+      "author": "SaxonF",
+      "at": "2026-08-18T03:38:27Z"
     }
   ]
 }
