@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-19T03:44:54.986Z",
-  "count": 11,
+  "updatedAt": "2026-08-19T14:27:39.155Z",
+  "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5499,
+      "title": "Reuse history objects before querying the LLM, with LLM fallbackReuse existing history objects whenever they contain the information needed ",
+      "url": "https://github.com/browser-use/browser-use/issues/5499",
+      "author": "manojkumarkpn",
+      "at": "2026-08-19T06:09:06Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-08-19T03:03:33Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5496,
-      "title": "feat(agent): add ProductionDebtBrowserGate and TechnicalDueDiligenceLedger",
-      "url": "https://github.com/browser-use/browser-use/pull/5496",
-      "author": "AAH20",
-      "at": "2026-08-18T09:36:23Z"
+      "number": 4172,
+      "title": "fix(sdk): pin the validated address when fetching URLs (SSRF DNS rebinding)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4172",
+      "author": "jkomyno",
+      "at": "2026-08-19T12:33:37Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +47,15 @@
       "at": "2026-08-18T16:25:27Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4167,
-      "title": "docs: clarify google calendar timezone inputs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4167",
-      "author": "srijavuppala",
-      "at": "2026-08-18T15:18:07Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2553,
+      "title": "Adding support to openai v3.x.x",
+      "url": "https://github.com/567-labs/instructor/issues/2553",
+      "author": "raed667",
+      "at": "2026-08-19T09:53:38Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,70 +69,81 @@
       "at": "2026-08-19T03:42:56Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2551,
-      "title": "fix(gemini): preserve caller safety settings",
-      "url": "https://github.com/567-labs/instructor/pull/2551",
-      "author": "tandede",
-      "at": "2026-08-18T12:32:29Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39756,
+      "title": "[langchain-deepseek] ChatDeepSeek raises KeyError('messages') with use_responses_api=True",
+      "url": "https://github.com/langchain-ai/langchain/issues/39756",
+      "author": "CoralGarden52",
+      "at": "2026-08-19T11:43:18Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39743,
-      "title": "Prompt templates silently misrender or reject non-`dict` `Mapping` inputs (`ChainMap`, `MappingProxyType`, `UserDict`)",
-      "url": "https://github.com/langchain-ai/langchain/issues/39743",
+      "number": 39752,
+      "title": "`RunnablePick` cannot be deserialized: declared serializable and dumps fine, but missing from the load mapping",
+      "url": "https://github.com/langchain-ai/langchain/issues/39752",
       "author": "gaoanze888",
-      "at": "2026-08-19T03:43:06Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39740,
-      "title": "fix(anthropic): preserve `response_metadata` when `stream_usage` is disabled",
-      "url": "https://github.com/langchain-ai/langchain/pull/39740",
-      "author": "JessYanCoding",
-      "at": "2026-08-19T02:26:05Z"
+      "at": "2026-08-19T10:29:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97532,
-      "title": "perf(app-render): preinit root main chunks with fetchPriority high",
-      "url": "https://github.com/vercel/next.js/pull/97532",
-      "author": "flanker",
-      "at": "2026-08-19T03:31:51Z"
+      "number": 97557,
+      "title": "fix(eslint-plugin-next): flag `<a>` links to static App Router routes",
+      "url": "https://github.com/vercel/next.js/pull/97557",
+      "author": "contactjawad",
+      "at": "2026-08-19T12:55:05Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 97531,
-      "title": "Cross-site `assetPrefix` makes Chrome 139+ delay execution of every chunk script",
-      "url": "https://github.com/vercel/next.js/issues/97531",
-      "author": "flanker",
-      "at": "2026-08-19T03:15:26Z"
+      "kind": "pr",
+      "number": 97551,
+      "title": "Clarify metadataBase serialization with use cache",
+      "url": "https://github.com/vercel/next.js/pull/97551",
+      "author": "devjiwonchoi",
+      "at": "2026-08-19T10:33:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49227,
-      "title": "Add \"Evan Cummack\" to list of contributors",
-      "url": "https://github.com/supabase/supabase/pull/49227",
-      "author": "skuxas",
-      "at": "2026-08-19T03:10:47Z"
+      "number": 49258,
+      "title": "chore: Add Donna Alexandra to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/49258",
+      "author": "donna-156",
+      "at": "2026-08-19T13:10:20Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49257,
+      "title": "feat(studio): filter organization usage by branch",
+      "url": "https://github.com/supabase/supabase/pull/49257",
+      "author": "jordienr",
+      "at": "2026-08-19T13:09:27Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4131,
+      "title": "`modal volume get` can silently create sparse or truncated files after short block downloads",
+      "url": "https://github.com/modal-labs/modal-client/issues/4131",
+      "author": "jasondavies",
+      "at": "2026-08-13T16:34:54Z"
     }
   ]
 }
