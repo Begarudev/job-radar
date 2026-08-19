@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-18T14:27:44.511Z",
-  "count": 10,
+  "updatedAt": "2026-08-19T03:44:54.986Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5498,
+      "title": "fix(filesystem): report missing target text in replace_file",
+      "url": "https://github.com/browser-use/browser-use/pull/5498",
+      "author": "uczltw6",
+      "at": "2026-08-19T03:03:33Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,26 +25,37 @@
       "at": "2026-08-18T09:36:23Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5495,
-      "title": "fix(browser): track and drain HAR response body fetches before writing HAR",
-      "url": "https://github.com/browser-use/browser-use/pull/5495",
-      "author": "shashank-100",
-      "at": "2026-08-18T04:50:36Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4169,
+      "title": "[Bug]: GOOGLEADS tools fail with 429 RESOURCE_EXHAUSTED (rateScope: DEVELOPER, \"Number of operations for basic access\") - managed developer ",
+      "url": "https://github.com/ComposioHQ/composio/issues/4169",
+      "author": "rscottclift-ai",
+      "at": "2026-08-18T16:25:27Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4163,
-      "title": "Normalizing Python proxy execute responses to match the TypeScript SDK",
-      "url": "https://github.com/ComposioHQ/composio/pull/4163",
-      "author": "AseemPrasad",
-      "at": "2026-08-18T13:44:57Z"
+      "number": 4167,
+      "title": "docs: clarify google calendar timezone inputs",
+      "url": "https://github.com/ComposioHQ/composio/pull/4167",
+      "author": "srijavuppala",
+      "at": "2026-08-18T15:18:07Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2552,
+      "title": "fix(batch): preserve Anthropic system messages",
+      "url": "https://github.com/567-labs/instructor/pull/2552",
+      "author": "uczltw6",
+      "at": "2026-08-19T03:42:56Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,70 +69,59 @@
       "at": "2026-08-18T12:32:29Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39743,
+      "title": "Prompt templates silently misrender or reject non-`dict` `Mapping` inputs (`ChainMap`, `MappingProxyType`, `UserDict`)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39743",
+      "author": "gaoanze888",
+      "at": "2026-08-19T03:43:06Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2550,
-      "title": "docs: fix typos in Langfuse tracing guide",
-      "url": "https://github.com/567-labs/instructor/pull/2550",
-      "author": "JohnWick348",
-      "at": "2026-08-18T02:17:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39715,
-      "title": "openai: _implode_reasoning_blocks merges distinct reasoning items, dropping ids and encrypted content",
-      "url": "https://github.com/langchain-ai/langchain/issues/39715",
-      "author": "lucashunter050",
-      "at": "2026-08-18T14:17:16Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39713,
-      "title": "`ChatAnthropic(stream_usage=False)` also drops `stop_reason`, `stop_sequence` and `model_name` from `response_metadata`, not just usage meta",
-      "url": "https://github.com/langchain-ai/langchain/issues/39713",
+      "number": 39740,
+      "title": "fix(anthropic): preserve `response_metadata` when `stream_usage` is disabled",
+      "url": "https://github.com/langchain-ai/langchain/pull/39740",
       "author": "JessYanCoding",
-      "at": "2026-08-18T08:27:38Z"
+      "at": "2026-08-19T02:26:05Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97513,
-      "title": "fix(third-parties): add SSR window check to sendGAEvent and sendGTMEvent",
-      "url": "https://github.com/vercel/next.js/pull/97513",
-      "author": "anasysuf",
-      "at": "2026-08-18T14:00:06Z"
+      "number": 97532,
+      "title": "perf(app-render): preinit root main chunks with fetchPriority high",
+      "url": "https://github.com/vercel/next.js/pull/97532",
+      "author": "flanker",
+      "at": "2026-08-19T03:31:51Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97512,
-      "title": "test(router): add unit tests for redirect helpers and router signals",
-      "url": "https://github.com/vercel/next.js/pull/97512",
-      "author": "anasysuf",
-      "at": "2026-08-18T13:18:08Z"
+      "kind": "issue",
+      "number": 97531,
+      "title": "Cross-site `assetPrefix` makes Chrome 139+ delay execution of every chunk script",
+      "url": "https://github.com/vercel/next.js/issues/97531",
+      "author": "flanker",
+      "at": "2026-08-19T03:15:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49197,
-      "title": "fix(studio): escape json values correctly in Copy/Export rows as SQL",
-      "url": "https://github.com/supabase/supabase/pull/49197",
-      "author": "oniani1",
-      "at": "2026-08-18T11:37:16Z"
+      "number": 49227,
+      "title": "Add \"Evan Cummack\" to list of contributors",
+      "url": "https://github.com/supabase/supabase/pull/49227",
+      "author": "skuxas",
+      "at": "2026-08-19T03:10:47Z"
     }
   ]
 }
