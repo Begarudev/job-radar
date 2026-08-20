@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-08-19T14:27:39.155Z",
-  "count": 13,
+  "updatedAt": "2026-08-20T03:45:27.305Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5499,
-      "title": "Reuse history objects before querying the LLM, with LLM fallbackReuse existing history objects whenever they contain the information needed ",
-      "url": "https://github.com/browser-use/browser-use/issues/5499",
-      "author": "manojkumarkpn",
-      "at": "2026-08-19T06:09:06Z"
+      "kind": "pr",
+      "number": 5501,
+      "title": "examples: add secure X tweet search action",
+      "url": "https://github.com/browser-use/browser-use/pull/5501",
+      "author": "kriptoburak",
+      "at": "2026-08-20T00:59:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5498,
-      "title": "fix(filesystem): report missing target text in replace_file",
-      "url": "https://github.com/browser-use/browser-use/pull/5498",
-      "author": "uczltw6",
-      "at": "2026-08-19T03:03:33Z"
+      "number": 5500,
+      "title": "fix(tools): report failed tab switches as errors instead of silent success",
+      "url": "https://github.com/browser-use/browser-use/pull/5500",
+      "author": "Faseeh06",
+      "at": "2026-08-19T17:47:17Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -39,12 +39,12 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4169,
-      "title": "[Bug]: GOOGLEADS tools fail with 429 RESOURCE_EXHAUSTED (rateScope: DEVELOPER, \"Number of operations for basic access\") - managed developer ",
-      "url": "https://github.com/ComposioHQ/composio/issues/4169",
-      "author": "rscottclift-ai",
-      "at": "2026-08-18T16:25:27Z"
+      "kind": "pr",
+      "number": 4158,
+      "title": "ci: label-triggered docs agent eval (V1, informational)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4158",
+      "author": "soumya1971",
+      "at": "2026-08-17T21:14:14Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,77 +62,66 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2552,
-      "title": "fix(batch): preserve Anthropic system messages",
-      "url": "https://github.com/567-labs/instructor/pull/2552",
-      "author": "uczltw6",
-      "at": "2026-08-19T03:42:56Z"
+      "number": 2551,
+      "title": "fix(gemini): preserve caller safety settings",
+      "url": "https://github.com/567-labs/instructor/pull/2551",
+      "author": "tandede",
+      "at": "2026-08-18T12:32:29Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39756,
-      "title": "[langchain-deepseek] ChatDeepSeek raises KeyError('messages') with use_responses_api=True",
-      "url": "https://github.com/langchain-ai/langchain/issues/39756",
-      "author": "CoralGarden52",
-      "at": "2026-08-19T11:43:18Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39752,
-      "title": "`RunnablePick` cannot be deserialized: declared serializable and dumps fine, but missing from the load mapping",
-      "url": "https://github.com/langchain-ai/langchain/issues/39752",
+      "number": 39783,
+      "title": "core: `ImagePromptValue` cannot be deserialized while its three sibling prompt values can",
+      "url": "https://github.com/langchain-ai/langchain/issues/39783",
       "author": "gaoanze888",
-      "at": "2026-08-19T10:29:55Z"
+      "at": "2026-08-20T03:08:16Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39776,
+      "title": "Add langchain-opensearch as a standalone integration package (follow-up to #30323)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39776",
+      "author": "rishabhagrawal1",
+      "at": "2026-08-19T23:53:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97557,
-      "title": "fix(eslint-plugin-next): flag `<a>` links to static App Router routes",
-      "url": "https://github.com/vercel/next.js/pull/97557",
-      "author": "contactjawad",
-      "at": "2026-08-19T12:55:05Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97551,
-      "title": "Clarify metadataBase serialization with use cache",
-      "url": "https://github.com/vercel/next.js/pull/97551",
-      "author": "devjiwonchoi",
-      "at": "2026-08-19T10:33:56Z"
+      "kind": "issue",
+      "number": 97598,
+      "title": "output: 'standalone' omits @swc/helpers ESM files since 16.3.1 (Node resolves module-sync, tracing copies only CJS)",
+      "url": "https://github.com/vercel/next.js/issues/97598",
+      "author": "shrinidhi4u",
+      "at": "2026-08-20T02:23:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49258,
-      "title": "chore: Add Donna Alexandra to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/49258",
-      "author": "donna-156",
-      "at": "2026-08-19T13:10:20Z"
+      "number": 49288,
+      "title": "notebook preview refine",
+      "url": "https://github.com/supabase/supabase/pull/49288",
+      "author": "SaxonF",
+      "at": "2026-08-20T02:43:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49257,
-      "title": "feat(studio): filter organization usage by branch",
-      "url": "https://github.com/supabase/supabase/pull/49257",
-      "author": "jordienr",
-      "at": "2026-08-19T13:09:27Z"
+      "number": 49286,
+      "title": "feat(studio): lighten logs.all deprecation banner",
+      "url": "https://github.com/supabase/supabase/pull/49286",
+      "author": "dnywh",
+      "at": "2026-08-20T02:24:55Z"
     },
     {
       "founder": "Erik Bernhardsson",
