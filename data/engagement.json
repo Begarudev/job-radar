@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-08-21T03:49:31.537Z",
-  "count": 11,
+  "updatedAt": "2026-08-21T14:29:29.055Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5507,
-      "title": "build: require Browser Harness 0.1.10",
-      "url": "https://github.com/browser-use/browser-use/pull/5507",
-      "author": "MagMueller",
-      "at": "2026-08-21T00:00:26Z"
+      "kind": "issue",
+      "number": 5509,
+      "title": "bubus library EventBus capacity error — Cross-Loop Bug (service.py)",
+      "url": "https://github.com/browser-use/browser-use/issues/5509",
+      "author": "beyzaaydin",
+      "at": "2026-08-21T09:00:24Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5506,
-      "title": "Bug: corrupt-EOCD .crx escapes _extract_extension as OSError [Errno 22] instead of a clear extension error",
-      "url": "https://github.com/browser-use/browser-use/issues/5506",
-      "author": "thisisanubhav",
-      "at": "2026-08-20T16:57:43Z"
+      "kind": "pr",
+      "number": 5508,
+      "title": "fix(browser): catch corrupt EOCD seek errors during CRX extraction",
+      "url": "https://github.com/browser-use/browser-use/pull/5508",
+      "author": "loulanyue",
+      "at": "2026-08-21T08:14:53Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4187,
-      "title": "fix(cli): make upgrade downloads visible and half the size",
-      "url": "https://github.com/ComposioHQ/composio/pull/4187",
-      "author": "jkomyno",
-      "at": "2026-08-20T21:55:56Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4180,
-      "title": "fix(python): own the proxy_execute response shape",
-      "url": "https://github.com/ComposioHQ/composio/pull/4180",
-      "author": "jkomyno",
-      "at": "2026-08-20T14:10:26Z"
+      "number": 2555,
+      "title": "fix(registry): publish handlers before retiring lazy loader (#2535)",
+      "url": "https://github.com/567-labs/instructor/pull/2555",
+      "author": "Arafel187",
+      "at": "2026-08-21T09:01:03Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,67 +50,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39816,
-      "title": "`[` or `]` in a node name makes `draw_mermaid_png()` fail with a 400",
-      "url": "https://github.com/langchain-ai/langchain/issues/39816",
-      "author": "darieldatoon",
-      "at": "2026-08-20T22:47:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39815,
-      "title": "`ToolCallLimitMiddleware` emits a duplicate `ToolMessage` for tool calls that were already answered",
-      "url": "https://github.com/langchain-ai/langchain/issues/39815",
-      "author": "acebot712",
-      "at": "2026-08-20T22:00:03Z"
+      "kind": "pr",
+      "number": 39823,
+      "title": "fix(text-splitters): recognize custom header patterns when merging nested headers",
+      "url": "https://github.com/langchain-ai/langchain/pull/39823",
+      "author": "dlwldn30",
+      "at": "2026-08-21T07:49:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 97657,
-      "title": "Metadata from a prefetched <Link> is applied to a different search string on the same route (production only)",
-      "url": "https://github.com/vercel/next.js/issues/97657",
-      "author": "lilyreadmoo",
-      "at": "2026-08-21T02:04:21Z"
+      "number": 97685,
+      "title": "Build hangs forever (SWC infinite loop) when a locally-derived JSX component is combined with a member-expression styled-jsx interpolation",
+      "url": "https://github.com/vercel/next.js/issues/97685",
+      "author": "hivapazira",
+      "at": "2026-08-21T14:01:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97656,
-      "title": "Don't serve a dev route whose file has been deleted",
-      "url": "https://github.com/vercel/next.js/pull/97656",
-      "author": "gaearon",
-      "at": "2026-08-21T01:20:59Z"
+      "number": 97683,
+      "title": "[backport] [PPF] Remove `unstable_eager`",
+      "url": "https://github.com/vercel/next.js/pull/97683",
+      "author": "lubieowoce",
+      "at": "2026-08-21T13:53:08Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": " released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.2",
+      "author": "timneutkens",
+      "at": "2026-08-21T09:36:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49354,
-      "title": "docs(integrations): add Stripe Projects provisioning guide",
-      "url": "https://github.com/supabase/supabase/pull/49354",
-      "author": "nrichers",
-      "at": "2026-08-21T01:42:46Z"
+      "number": 49393,
+      "title": "Scoped PAT: Fix projects handling when user has more than 100 projects",
+      "url": "https://github.com/supabase/supabase/pull/49393",
+      "author": "djhi",
+      "at": "2026-08-21T14:14:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49352,
-      "title": "feat(studio): preserve assistant tool previews after completion",
-      "url": "https://github.com/supabase/supabase/pull/49352",
-      "author": "SaxonF",
-      "at": "2026-08-21T01:36:49Z"
+      "number": 49392,
+      "title": "fix(studio): refresh cron list after toggle regardless of searchTerm",
+      "url": "https://github.com/supabase/supabase/pull/49392",
+      "author": "MeGaurav4",
+      "at": "2026-08-21T14:03:57Z"
     }
   ]
 }
