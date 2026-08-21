@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-08-20T14:30:53.297Z",
-  "count": 9,
+  "updatedAt": "2026-08-21T03:49:31.537Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5502,
-      "title": "fix(filesystem): escape plain text in generated PDFs",
-      "url": "https://github.com/browser-use/browser-use/pull/5502",
-      "author": "primorLee",
-      "at": "2026-08-20T05:05:09Z"
+      "number": 5507,
+      "title": "build: require Browser Harness 0.1.10",
+      "url": "https://github.com/browser-use/browser-use/pull/5507",
+      "author": "MagMueller",
+      "at": "2026-08-21T00:00:26Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5506,
+      "title": "Bug: corrupt-EOCD .crx escapes _extract_extension as OSError [Errno 22] instead of a clear extension error",
+      "url": "https://github.com/browser-use/browser-use/issues/5506",
+      "author": "thisisanubhav",
+      "at": "2026-08-20T16:57:43Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5501,
-      "title": "examples: add secure X tweet search action",
-      "url": "https://github.com/browser-use/browser-use/pull/5501",
-      "author": "kriptoburak",
-      "at": "2026-08-20T00:59:14Z"
+      "number": 4187,
+      "title": "fix(cli): make upgrade downloads visible and half the size",
+      "url": "https://github.com/ComposioHQ/composio/pull/4187",
+      "author": "jkomyno",
+      "at": "2026-08-20T21:55:56Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,70 +47,81 @@
       "at": "2026-08-20T14:10:26Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 39806,
-      "title": "release(langchain): 1.3.16",
-      "url": "https://github.com/langchain-ai/langchain/pull/39806",
-      "author": "ccurme",
-      "at": "2026-08-20T14:27:14Z"
+      "number": 2554,
+      "title": "docs(cerebras): document request parameter pass-through",
+      "url": "https://github.com/567-labs/instructor/pull/2554",
+      "author": "ryanl-cerebras",
+      "at": "2026-08-20T19:45:39Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39799,
-      "title": "core: `create_image_block` does not enforce the mime_type requirement its docstring declares",
-      "url": "https://github.com/langchain-ai/langchain/issues/39799",
-      "author": "gaoanze888",
-      "at": "2026-08-20T11:42:24Z"
+      "number": 39816,
+      "title": "`[` or `]` in a node name makes `draw_mermaid_png()` fail with a 400",
+      "url": "https://github.com/langchain-ai/langchain/issues/39816",
+      "author": "darieldatoon",
+      "at": "2026-08-20T22:47:12Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97630,
-      "title": "Next.js: finalize Turbopack Module Federation",
-      "url": "https://github.com/vercel/next.js/pull/97630",
-      "author": "sokra",
-      "at": "2026-08-20T14:09:08Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97629,
-      "title": "Turbopack: expand Module Federation sharing compatibility",
-      "url": "https://github.com/vercel/next.js/pull/97629",
-      "author": "sokra",
-      "at": "2026-08-20T14:09:04Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 49310,
-      "title": "Branching webhook 401s when notify-url points to an Edge Function on a different project",
-      "url": "https://github.com/supabase/supabase/issues/49310",
-      "author": "asdico",
-      "at": "2026-08-20T13:20:08Z"
+      "number": 39815,
+      "title": "`ToolCallLimitMiddleware` emits a duplicate `ToolMessage` for tool calls that were already answered",
+      "url": "https://github.com/langchain-ai/langchain/issues/39815",
+      "author": "acebot712",
+      "at": "2026-08-20T22:00:03Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 97657,
+      "title": "Metadata from a prefetched <Link> is applied to a different search string on the same route (production only)",
+      "url": "https://github.com/vercel/next.js/issues/97657",
+      "author": "lilyreadmoo",
+      "at": "2026-08-21T02:04:21Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97656,
+      "title": "Don't serve a dev route whose file has been deleted",
+      "url": "https://github.com/vercel/next.js/pull/97656",
+      "author": "gaearon",
+      "at": "2026-08-21T01:20:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49307,
-      "title": "fix(studio): await identity sequence updates in duplicateTable",
-      "url": "https://github.com/supabase/supabase/pull/49307",
-      "author": "mandar1045",
-      "at": "2026-08-20T12:12:28Z"
+      "number": 49354,
+      "title": "docs(integrations): add Stripe Projects provisioning guide",
+      "url": "https://github.com/supabase/supabase/pull/49354",
+      "author": "nrichers",
+      "at": "2026-08-21T01:42:46Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49352,
+      "title": "feat(studio): preserve assistant tool previews after completion",
+      "url": "https://github.com/supabase/supabase/pull/49352",
+      "author": "SaxonF",
+      "at": "2026-08-21T01:36:49Z"
     }
   ]
 }
