@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-08-22T03:40:34.980Z",
-  "count": 11,
+  "updatedAt": "2026-08-22T14:16:06.690Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5509,
-      "title": "bubus library EventBus capacity error — Cross-Loop Bug (service.py)",
-      "url": "https://github.com/browser-use/browser-use/issues/5509",
-      "author": "beyzaaydin",
-      "at": "2026-08-21T09:00:24Z"
+      "kind": "pr",
+      "number": 5517,
+      "title": "fix(tokens): prune pricing cache files after each refresh + drop deprecated utcnow",
+      "url": "https://github.com/browser-use/browser-use/pull/5517",
+      "author": "ksk2023",
+      "at": "2026-08-22T12:03:43Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5508,
-      "title": "fix(browser): catch corrupt EOCD seek errors during CRX extraction",
-      "url": "https://github.com/browser-use/browser-use/pull/5508",
-      "author": "loulanyue",
-      "at": "2026-08-21T08:14:53Z"
+      "number": 5516,
+      "title": "fix(dom): detect native disabled attribute in pagination buttons",
+      "url": "https://github.com/browser-use/browser-use/pull/5516",
+      "author": "ksk2023",
+      "at": "2026-08-22T11:59:17Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4207,
+      "title": "[Bug]: ~40% of requests from Cloudflare Workers egress are 429d (code 10429, no rate-limit headers) while the org budget is untouched",
+      "url": "https://github.com/ComposioHQ/composio/issues/4207",
+      "author": "mvsoom",
+      "at": "2026-08-22T11:06:21Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2555,
-      "title": "fix(registry): publish handlers before retiring lazy loader (#2535)",
-      "url": "https://github.com/567-labs/instructor/pull/2555",
-      "author": "Arafel187",
-      "at": "2026-08-21T09:01:03Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2551,
-      "title": "fix(gemini): preserve caller safety settings",
-      "url": "https://github.com/567-labs/instructor/pull/2551",
-      "author": "tandede",
-      "at": "2026-08-18T12:32:29Z"
+      "number": 2556,
+      "title": "docs: fix incorrect Mistral extra name in installation guides",
+      "url": "https://github.com/567-labs/instructor/pull/2556",
+      "author": "c020627",
+      "at": "2026-08-22T10:22:05Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39835,
-      "title": "core: `DictPromptTemplate.aformat` is never called — the async prompt path uses sync `format`",
-      "url": "https://github.com/langchain-ai/langchain/issues/39835",
-      "author": "gitbalaji",
-      "at": "2026-08-21T21:35:55Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39823,
-      "title": "fix(text-splitters): recognize custom header patterns when merging nested headers",
-      "url": "https://github.com/langchain-ai/langchain/pull/39823",
+      "number": 39842,
+      "title": "PIIMiddleware `ip` type does not detect IPv6 addresses",
+      "url": "https://github.com/langchain-ai/langchain/issues/39842",
       "author": "dlwldn30",
-      "at": "2026-08-21T07:49:13Z"
+      "at": "2026-08-22T07:27:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97733,
-      "title": "fix(next/font): report Google font file fetch failures",
-      "url": "https://github.com/vercel/next.js/pull/97733",
-      "author": "marcoshernanz",
-      "at": "2026-08-22T03:38:16Z"
+      "number": 97738,
+      "title": "Serve a run of fallback shells from one route entry",
+      "url": "https://github.com/vercel/next.js/pull/97738",
+      "author": "unstubbable",
+      "at": "2026-08-22T13:58:23Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97732,
-      "title": "Fix pnpm dev on a fresh clone",
-      "url": "https://github.com/vercel/next.js/pull/97732",
-      "author": "marcoshernanz",
-      "at": "2026-08-22T03:29:53Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": " released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.2",
-      "author": "timneutkens",
-      "at": "2026-08-21T09:36:39Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49419,
-      "title": "Fix code snippets in \"Generating Python Types\"",
-      "url": "https://github.com/supabase/supabase/pull/49419",
-      "author": "brandonchinn178",
-      "at": "2026-08-21T23:16:09Z"
+      "number": 97737,
+      "title": "docs: add guide for optimizing the static shell",
+      "url": "https://github.com/vercel/next.js/pull/97737",
+      "author": "aurorascharff",
+      "at": "2026-08-22T10:35:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 49416,
-      "title": "2FA issue, I don't remember setting this",
-      "url": "https://github.com/supabase/supabase/issues/49416",
-      "author": "Chris-NobleArts",
-      "at": "2026-08-21T21:30:41Z"
+      "number": 49426,
+      "title": "Preview branches do not preserve object privileges in public, and do not create auth.users triggers",
+      "url": "https://github.com/supabase/supabase/issues/49426",
+      "author": "jloor",
+      "at": "2026-08-22T13:55:35Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49425,
+      "title": "docs: add warning for cross-project branching notify URLs",
+      "url": "https://github.com/supabase/supabase/pull/49425",
+      "author": "SammySN-car",
+      "at": "2026-08-22T13:34:29Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4126,
+      "title": "\"Deployment skipped: no changes detected\" doesn't work in some circumstances",
+      "url": "https://github.com/modal-labs/modal-client/issues/4126",
+      "author": "hn-bfai",
+      "at": "2026-08-01T00:46:06Z"
     }
   ]
 }
