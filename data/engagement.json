@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:16:06.690Z",
+  "updatedAt": "2026-08-23T03:49:55.114Z",
   "count": 10,
   "signals": [
     {
@@ -7,33 +7,44 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5517,
-      "title": "fix(tokens): prune pricing cache files after each refresh + drop deprecated utcnow",
-      "url": "https://github.com/browser-use/browser-use/pull/5517",
-      "author": "ksk2023",
-      "at": "2026-08-22T12:03:43Z"
+      "number": 5521,
+      "title": "fix: avoid double-counting timed-out steps",
+      "url": "https://github.com/browser-use/browser-use/pull/5521",
+      "author": "daleselaji-dev",
+      "at": "2026-08-23T02:44:58Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5516,
-      "title": "fix(dom): detect native disabled attribute in pagination buttons",
-      "url": "https://github.com/browser-use/browser-use/pull/5516",
-      "author": "ksk2023",
-      "at": "2026-08-22T11:59:17Z"
+      "number": 5520,
+      "title": "fix(deps): bump openai to 3.3.1 and follow the SDK onto httpx2",
+      "url": "https://github.com/browser-use/browser-use/pull/5520",
+      "author": "dsfaccini",
+      "at": "2026-08-22T16:43:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4207,
-      "title": "[Bug]: ~40% of requests from Cloudflare Workers egress are 429d (code 10429, no rate-limit headers) while the org budget is untouched",
-      "url": "https://github.com/ComposioHQ/composio/issues/4207",
-      "author": "mvsoom",
-      "at": "2026-08-22T11:06:21Z"
+      "kind": "pr",
+      "number": 4210,
+      "title": "fix(cli): refuse symlink entries when extracting archives",
+      "url": "https://github.com/ComposioHQ/composio/pull/4210",
+      "author": "jkomyno",
+      "at": "2026-08-22T21:51:48Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4209,
+      "title": "fix(openai): recursive strict-mode schema normalization for structured outputs (+ Python parity)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4209",
+      "author": "AseemPrasad",
+      "at": "2026-08-22T18:58:57Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,44 +73,33 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97738,
-      "title": "Serve a run of fallback shells from one route entry",
-      "url": "https://github.com/vercel/next.js/pull/97738",
-      "author": "unstubbable",
-      "at": "2026-08-22T13:58:23Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97737,
-      "title": "docs: add guide for optimizing the static shell",
-      "url": "https://github.com/vercel/next.js/pull/97737",
-      "author": "aurorascharff",
-      "at": "2026-08-22T10:35:09Z"
+      "number": 97743,
+      "title": "Turbopack: add unit test coverage for FileSystemPath::hash_file",
+      "url": "https://github.com/vercel/next.js/pull/97743",
+      "author": "sokra",
+      "at": "2026-08-22T20:36:03Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 49426,
-      "title": "Preview branches do not preserve object privileges in public, and do not create auth.users triggers",
-      "url": "https://github.com/supabase/supabase/issues/49426",
-      "author": "jloor",
-      "at": "2026-08-22T13:55:35Z"
+      "number": 49437,
+      "title": "Next.js framework quickstart SSR not loading on MacOS",
+      "url": "https://github.com/supabase/supabase/issues/49437",
+      "author": "shealen-greencitizen",
+      "at": "2026-08-23T01:01:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49425,
-      "title": "docs: add warning for cross-project branching notify URLs",
-      "url": "https://github.com/supabase/supabase/pull/49425",
-      "author": "SammySN-car",
-      "at": "2026-08-22T13:34:29Z"
+      "number": 49436,
+      "title": "fix(studio): stop Authorization header value reverting on edit",
+      "url": "https://github.com/supabase/supabase/pull/49436",
+      "author": "ShayanNadeem01",
+      "at": "2026-08-22T23:19:08Z"
     },
     {
       "founder": "Erik Bernhardsson",
