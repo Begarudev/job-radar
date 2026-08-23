@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T03:49:55.114Z",
+  "updatedAt": "2026-08-23T14:18:10.698Z",
   "count": 10,
   "signals": [
     {
@@ -29,88 +29,88 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4210,
-      "title": "fix(cli): refuse symlink entries when extracting archives",
-      "url": "https://github.com/ComposioHQ/composio/pull/4210",
+      "number": 4216,
+      "title": "chore(cli): refresh baked toolkit slug catalog",
+      "url": "https://github.com/ComposioHQ/composio/pull/4216",
       "author": "jkomyno",
-      "at": "2026-08-22T21:51:48Z"
+      "at": "2026-08-23T14:07:29Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4209,
-      "title": "fix(openai): recursive strict-mode schema normalization for structured outputs (+ Python parity)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4209",
-      "author": "AseemPrasad",
-      "at": "2026-08-22T18:58:57Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2556,
-      "title": "docs: fix incorrect Mistral extra name in installation guides",
-      "url": "https://github.com/567-labs/instructor/pull/2556",
-      "author": "c020627",
-      "at": "2026-08-22T10:22:05Z"
+      "kind": "issue",
+      "number": 4215,
+      "title": "Coinbase toolkit: CDP ECDSA connection marked Active but private account calls 401",
+      "url": "https://github.com/ComposioHQ/composio/issues/4215",
+      "author": "human-regen8",
+      "at": "2026-08-23T12:57:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39842,
-      "title": "PIIMiddleware `ip` type does not detect IPv6 addresses",
-      "url": "https://github.com/langchain-ai/langchain/issues/39842",
-      "author": "dlwldn30",
-      "at": "2026-08-22T07:27:17Z"
+      "number": 39858,
+      "title": "count_tokens_approximately counts every image as 85 tokens regardless of resolution",
+      "url": "https://github.com/langchain-ai/langchain/issues/39858",
+      "author": "saike148",
+      "at": "2026-08-23T14:17:25Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39856,
+      "title": "Raises: block on Runnable.__ror__ states a rationale that only holds for __or__",
+      "url": "https://github.com/langchain-ai/langchain/issues/39856",
+      "author": "carrot-dev01",
+      "at": "2026-08-23T07:44:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97743,
-      "title": "Turbopack: add unit test coverage for FileSystemPath::hash_file",
-      "url": "https://github.com/vercel/next.js/pull/97743",
-      "author": "sokra",
-      "at": "2026-08-22T20:36:03Z"
+      "number": 97750,
+      "title": "fix(eslint-plugin): respect pageExtensions in no-html-link-for-pages",
+      "url": "https://github.com/vercel/next.js/pull/97750",
+      "author": "dream-creator",
+      "at": "2026-08-23T14:14:30Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 49437,
-      "title": "Next.js framework quickstart SSR not loading on MacOS",
-      "url": "https://github.com/supabase/supabase/issues/49437",
-      "author": "shealen-greencitizen",
-      "at": "2026-08-23T01:01:05Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97749,
+      "title": "[ci] Remove the unused `wrong-issue-template` workflow and action",
+      "url": "https://github.com/vercel/next.js/pull/97749",
+      "author": "eps1lon",
+      "at": "2026-08-23T14:12:13Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49436,
-      "title": "fix(studio): stop Authorization header value reverting on edit",
-      "url": "https://github.com/supabase/supabase/pull/49436",
-      "author": "ShayanNadeem01",
-      "at": "2026-08-22T23:19:08Z"
+      "number": 49440,
+      "title": "docs(database): fix Performance Advisor dashboard link",
+      "url": "https://github.com/supabase/supabase/pull/49440",
+      "author": "lazerg",
+      "at": "2026-08-23T09:57:51Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4126,
-      "title": "\"Deployment skipped: no changes detected\" doesn't work in some circumstances",
-      "url": "https://github.com/modal-labs/modal-client/issues/4126",
-      "author": "hn-bfai",
-      "at": "2026-08-01T00:46:06Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49439,
+      "title": "docs: hash the nonce given to AppleID.auth.init() in the sign in with Apple JS example",
+      "url": "https://github.com/supabase/supabase/pull/49439",
+      "author": "SAY-5",
+      "at": "2026-08-23T07:06:01Z"
     }
   ]
 }
