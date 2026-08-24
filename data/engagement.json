@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-08-24T03:53:40.786Z",
-  "count": 10,
+  "updatedAt": "2026-08-24T14:36:25.097Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5530,
-      "title": "fix(tools): verify automatic new-tab switches",
-      "url": "https://github.com/browser-use/browser-use/pull/5530",
-      "author": "green3sf",
-      "at": "2026-08-23T18:34:30Z"
+      "number": 5535,
+      "title": "fix(browser): preserve CHROME_DEFAULT_ARGS ordering when ignore_default_args is set (#5397)",
+      "url": "https://github.com/browser-use/browser-use/pull/5535",
+      "author": "loulanyue",
+      "at": "2026-08-24T09:14:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5529,
-      "title": "Bug: failed automatic new-tab switch is reported as successful after click",
-      "url": "https://github.com/browser-use/browser-use/issues/5529",
-      "author": "green3sf",
-      "at": "2026-08-23T18:33:52Z"
+      "kind": "pr",
+      "number": 5534,
+      "title": "fix(dom): keep unparseable deeply nested lines during markdown extraction",
+      "url": "https://github.com/browser-use/browser-use/pull/5534",
+      "author": "pacocartones",
+      "at": "2026-08-24T08:28:18Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4222,
-      "title": "fix(examples): fail tool_router_mcp when COMPOSIO_API_KEY is unset",
-      "url": "https://github.com/ComposioHQ/composio/pull/4222",
-      "author": "jkomyno",
-      "at": "2026-08-23T22:40:24Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4219,
-      "title": "fix(ts): declare the supported Node.js engine floor",
-      "url": "https://github.com/ComposioHQ/composio/pull/4219",
-      "author": "tgolob",
-      "at": "2026-08-23T17:11:36Z"
+      "number": 4226,
+      "title": "docs(kb): stop probing API strings as links",
+      "url": "https://github.com/ComposioHQ/composio/pull/4226",
+      "author": "mameikagou",
+      "at": "2026-08-24T09:12:45Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,6 +62,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 39877,
+      "title": "feat(langchain): wrap GraphBubbleUp with agent context in middleware",
+      "url": "https://github.com/langchain-ai/langchain/issues/39877",
+      "author": "pufuki",
+      "at": "2026-08-24T10:56:53Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 39870,
       "title": "Add a first-party Python DirectoryLoader with a per-extension loader map (JS parity)",
       "url": "https://github.com/langchain-ai/langchain/issues/39870",
@@ -84,33 +84,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97766,
-      "title": "Turbopack: widen the chunk ident hash from 7 to 10 base38 chars",
-      "url": "https://github.com/vercel/next.js/pull/97766",
-      "author": "jonnyuniverse",
-      "at": "2026-08-24T03:09:30Z"
+      "number": 97798,
+      "title": "docs: document create-next-app Cache Components prompt and flag",
+      "url": "https://github.com/vercel/next.js/pull/97798",
+      "author": "icyJoseph",
+      "at": "2026-08-24T14:35:01Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 97765,
-      "title": "Turbopack: 7-character chunk-name hash gives large apps a birthday collision on `next build` (deterministic repro)",
-      "url": "https://github.com/vercel/next.js/issues/97765",
-      "author": "jonnyuniverse",
-      "at": "2026-08-24T03:08:27Z"
+      "kind": "pr",
+      "number": 97797,
+      "title": "turbo-persistence: take the mmap refcount off the lookup path",
+      "url": "https://github.com/vercel/next.js/pull/97797",
+      "author": "lukesandberg",
+      "at": "2026-08-24T14:20:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49451,
-      "title": "refactor(design-system): enforce enum validation for backendProviders in registry schema",
-      "url": "https://github.com/supabase/supabase/pull/49451",
-      "author": "luchersou",
-      "at": "2026-08-24T02:28:35Z"
+      "number": 49481,
+      "title": "feat(studio): display components for interstitial",
+      "url": "https://github.com/supabase/supabase/pull/49481",
+      "author": "kemaldotearth",
+      "at": "2026-08-24T13:49:39Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49479,
+      "title": "Account Recovery Request Flow",
+      "url": "https://github.com/supabase/supabase/pull/49479",
+      "author": "djhi",
+      "at": "2026-08-24T13:03:00Z"
     }
   ]
 }
