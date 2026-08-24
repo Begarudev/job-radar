@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:18:10.698Z",
+  "updatedAt": "2026-08-24T03:53:40.786Z",
   "count": 10,
   "signals": [
     {
@@ -7,110 +7,110 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5521,
-      "title": "fix: avoid double-counting timed-out steps",
-      "url": "https://github.com/browser-use/browser-use/pull/5521",
-      "author": "daleselaji-dev",
-      "at": "2026-08-23T02:44:58Z"
+      "number": 5530,
+      "title": "fix(tools): verify automatic new-tab switches",
+      "url": "https://github.com/browser-use/browser-use/pull/5530",
+      "author": "green3sf",
+      "at": "2026-08-23T18:34:30Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5520,
-      "title": "fix(deps): bump openai to 3.3.1 and follow the SDK onto httpx2",
-      "url": "https://github.com/browser-use/browser-use/pull/5520",
-      "author": "dsfaccini",
-      "at": "2026-08-22T16:43:52Z"
+      "kind": "issue",
+      "number": 5529,
+      "title": "Bug: failed automatic new-tab switch is reported as successful after click",
+      "url": "https://github.com/browser-use/browser-use/issues/5529",
+      "author": "green3sf",
+      "at": "2026-08-23T18:33:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4216,
-      "title": "chore(cli): refresh baked toolkit slug catalog",
-      "url": "https://github.com/ComposioHQ/composio/pull/4216",
+      "number": 4222,
+      "title": "fix(examples): fail tool_router_mcp when COMPOSIO_API_KEY is unset",
+      "url": "https://github.com/ComposioHQ/composio/pull/4222",
       "author": "jkomyno",
-      "at": "2026-08-23T14:07:29Z"
+      "at": "2026-08-23T22:40:24Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4215,
-      "title": "Coinbase toolkit: CDP ECDSA connection marked Active but private account calls 401",
-      "url": "https://github.com/ComposioHQ/composio/issues/4215",
-      "author": "human-regen8",
-      "at": "2026-08-23T12:57:37Z"
+      "kind": "pr",
+      "number": 4219,
+      "title": "fix(ts): declare the supported Node.js engine floor",
+      "url": "https://github.com/ComposioHQ/composio/pull/4219",
+      "author": "tgolob",
+      "at": "2026-08-23T17:11:36Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2559,
+      "title": "fix: run async validators in v2 retry path",
+      "url": "https://github.com/567-labs/instructor/pull/2559",
+      "author": "mikemikimike",
+      "at": "2026-08-24T03:20:31Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2558,
+      "title": "fix: support OpenAI v3",
+      "url": "https://github.com/567-labs/instructor/pull/2558",
+      "author": "mikemikimike",
+      "at": "2026-08-24T02:22:50Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39858,
-      "title": "count_tokens_approximately counts every image as 85 tokens regardless of resolution",
-      "url": "https://github.com/langchain-ai/langchain/issues/39858",
-      "author": "saike148",
-      "at": "2026-08-23T14:17:25Z"
+      "number": 39870,
+      "title": "Add a first-party Python DirectoryLoader with a per-extension loader map (JS parity)",
+      "url": "https://github.com/langchain-ai/langchain/issues/39870",
+      "author": "false200",
+      "at": "2026-08-23T21:07:11Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97766,
+      "title": "Turbopack: widen the chunk ident hash from 7 to 10 base38 chars",
+      "url": "https://github.com/vercel/next.js/pull/97766",
+      "author": "jonnyuniverse",
+      "at": "2026-08-24T03:09:30Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 39856,
-      "title": "Raises: block on Runnable.__ror__ states a rationale that only holds for __or__",
-      "url": "https://github.com/langchain-ai/langchain/issues/39856",
-      "author": "carrot-dev01",
-      "at": "2026-08-23T07:44:46Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97750,
-      "title": "fix(eslint-plugin): respect pageExtensions in no-html-link-for-pages",
-      "url": "https://github.com/vercel/next.js/pull/97750",
-      "author": "dream-creator",
-      "at": "2026-08-23T14:14:30Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97749,
-      "title": "[ci] Remove the unused `wrong-issue-template` workflow and action",
-      "url": "https://github.com/vercel/next.js/pull/97749",
-      "author": "eps1lon",
-      "at": "2026-08-23T14:12:13Z"
+      "number": 97765,
+      "title": "Turbopack: 7-character chunk-name hash gives large apps a birthday collision on `next build` (deterministic repro)",
+      "url": "https://github.com/vercel/next.js/issues/97765",
+      "author": "jonnyuniverse",
+      "at": "2026-08-24T03:08:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49440,
-      "title": "docs(database): fix Performance Advisor dashboard link",
-      "url": "https://github.com/supabase/supabase/pull/49440",
-      "author": "lazerg",
-      "at": "2026-08-23T09:57:51Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49439,
-      "title": "docs: hash the nonce given to AppleID.auth.init() in the sign in with Apple JS example",
-      "url": "https://github.com/supabase/supabase/pull/49439",
-      "author": "SAY-5",
-      "at": "2026-08-23T07:06:01Z"
+      "number": 49451,
+      "title": "refactor(design-system): enforce enum validation for backendProviders in registry schema",
+      "url": "https://github.com/supabase/supabase/pull/49451",
+      "author": "luchersou",
+      "at": "2026-08-24T02:28:35Z"
     }
   ]
 }
