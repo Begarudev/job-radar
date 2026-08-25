@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-08-24T14:36:25.097Z",
-  "count": 11,
+  "updatedAt": "2026-08-25T03:47:29.121Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5535,
-      "title": "fix(browser): preserve CHROME_DEFAULT_ARGS ordering when ignore_default_args is set (#5397)",
-      "url": "https://github.com/browser-use/browser-use/pull/5535",
-      "author": "loulanyue",
-      "at": "2026-08-24T09:14:12Z"
+      "number": 5541,
+      "title": "fix(dom): expose image context for clickable elements",
+      "url": "https://github.com/browser-use/browser-use/pull/5541",
+      "author": "UniversePeak",
+      "at": "2026-08-25T02:05:52Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5534,
-      "title": "fix(dom): keep unparseable deeply nested lines during markdown extraction",
-      "url": "https://github.com/browser-use/browser-use/pull/5534",
-      "author": "pacocartones",
-      "at": "2026-08-24T08:28:18Z"
+      "number": 5540,
+      "title": "fix(filesystem): render markdown emphasis in PDF export",
+      "url": "https://github.com/browser-use/browser-use/pull/5540",
+      "author": "leilei3167",
+      "at": "2026-08-25T01:48:30Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4226,
-      "title": "docs(kb): stop probing API strings as links",
-      "url": "https://github.com/ComposioHQ/composio/pull/4226",
-      "author": "mameikagou",
-      "at": "2026-08-24T09:12:45Z"
+      "number": 4242,
+      "title": "fix(docs): restore data sync and toolkit route availability",
+      "url": "https://github.com/ComposioHQ/composio/pull/4242",
+      "author": "jkomyno",
+      "at": "2026-08-25T02:18:50Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2559,
-      "title": "fix: run async validators in v2 retry path",
-      "url": "https://github.com/567-labs/instructor/pull/2559",
-      "author": "mikemikimike",
-      "at": "2026-08-24T03:20:31Z"
+      "number": 2560,
+      "title": "fix(v2/registry): keep mode registered while its lazy loader resolves",
+      "url": "https://github.com/567-labs/instructor/pull/2560",
+      "author": "syahra712",
+      "at": "2026-08-24T18:09:18Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2558,
-      "title": "fix: support OpenAI v3",
-      "url": "https://github.com/567-labs/instructor/pull/2558",
-      "author": "mikemikimike",
-      "at": "2026-08-24T02:22:50Z"
+      "number": 39887,
+      "title": "feat(langchain): move `langchain-mcp-adapters` into `langchain.mcp`",
+      "url": "https://github.com/langchain-ai/langchain/pull/39887",
+      "author": "sydney-runkle",
+      "at": "2026-08-24T22:23:04Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39877,
-      "title": "feat(langchain): wrap GraphBubbleUp with agent context in middleware",
-      "url": "https://github.com/langchain-ai/langchain/issues/39877",
-      "author": "pufuki",
-      "at": "2026-08-24T10:56:53Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39870,
-      "title": "Add a first-party Python DirectoryLoader with a per-extension loader map (JS parity)",
-      "url": "https://github.com/langchain-ai/langchain/issues/39870",
-      "author": "false200",
-      "at": "2026-08-23T21:07:11Z"
+      "kind": "pr",
+      "number": 39884,
+      "title": "feat(openrouter): classify model API errors",
+      "url": "https://github.com/langchain-ai/langchain/pull/39884",
+      "author": "ccurme",
+      "at": "2026-08-24T19:06:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97798,
-      "title": "docs: document create-next-app Cache Components prompt and flag",
-      "url": "https://github.com/vercel/next.js/pull/97798",
-      "author": "icyJoseph",
-      "at": "2026-08-24T14:35:01Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97797,
-      "title": "turbo-persistence: take the mmap refcount off the lookup path",
-      "url": "https://github.com/vercel/next.js/pull/97797",
-      "author": "lukesandberg",
-      "at": "2026-08-24T14:20:05Z"
+      "number": 97840,
+      "title": "Move mismatch retry handling into the navigator interface",
+      "url": "https://github.com/vercel/next.js/pull/97840",
+      "author": "acdlite",
+      "at": "2026-08-25T03:10:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49481,
-      "title": "feat(studio): display components for interstitial",
-      "url": "https://github.com/supabase/supabase/pull/49481",
-      "author": "kemaldotearth",
-      "at": "2026-08-24T13:49:39Z"
+      "number": 49517,
+      "title": "fix(studio): keep region flags visible on light surfaces",
+      "url": "https://github.com/supabase/supabase/pull/49517",
+      "author": "dnywh",
+      "at": "2026-08-25T03:44:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49479,
-      "title": "Account Recovery Request Flow",
-      "url": "https://github.com/supabase/supabase/pull/49479",
-      "author": "djhi",
-      "at": "2026-08-24T13:03:00Z"
+      "number": 49516,
+      "title": "feat(studio): move read replica creation to a dialog",
+      "url": "https://github.com/supabase/supabase/pull/49516",
+      "author": "dnywh",
+      "at": "2026-08-25T03:31:36Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4131,
+      "title": "`modal volume get` can silently create sparse or truncated files after short block downloads",
+      "url": "https://github.com/modal-labs/modal-client/issues/4131",
+      "author": "jasondavies",
+      "at": "2026-08-13T16:34:54Z"
     }
   ]
 }
