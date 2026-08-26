@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-26T03:52:26.342Z",
-  "count": 13,
+  "updatedAt": "2026-08-26T14:38:49.629Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5554,
+      "title": "fix(dom): preserve explicit empty select option values",
+      "url": "https://github.com/browser-use/browser-use/pull/5554",
+      "author": "zimo-xiao-zheng",
+      "at": "2026-08-26T07:01:11Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,103 +25,70 @@
       "at": "2026-08-26T03:12:12Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5550,
-      "title": "fix(browser): prevent temp file leak on crx extraction failure",
-      "url": "https://github.com/browser-use/browser-use/pull/5550",
-      "author": "sundeep8967",
-      "at": "2026-08-25T20:07:19Z"
+      "number": 4254,
+      "title": "fix(py): isolate incompatible provider dependencies",
+      "url": "https://github.com/ComposioHQ/composio/pull/4254",
+      "author": "jkomyno",
+      "at": "2026-08-26T14:16:43Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4248,
-      "title": "[Feature]: Allow multiple SHARED connections per toolkit in multi-account Tool Router sessions",
-      "url": "https://github.com/ComposioHQ/composio/issues/4248",
-      "author": "jaijuneja",
-      "at": "2026-08-26T02:03:07Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4246,
-      "title": "docs: document granular session and MCP permissions",
-      "url": "https://github.com/ComposioHQ/composio/pull/4246",
-      "author": "mukund-composio",
-      "at": "2026-08-25T15:01:31Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2559,
-      "title": "fix: run async validators in v2 retry path",
-      "url": "https://github.com/567-labs/instructor/pull/2559",
-      "author": "mikemikimike",
-      "at": "2026-08-24T03:20:31Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2524,
-      "title": "fix(cache): include hoisted system prompt in the cache key",
-      "url": "https://github.com/567-labs/instructor/pull/2524",
-      "author": "Kropiunig",
-      "at": "2026-08-12T05:56:04Z"
+      "number": 4253,
+      "title": "[Bug]: Zoom webinar creation fails — managed OAuth app can't request webinar:write scope",
+      "url": "https://github.com/ComposioHQ/composio/issues/4253",
+      "author": "dolliver",
+      "at": "2026-08-26T12:57:19Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39921,
-      "title": "fix(langchain): filter unsupported model inputs",
-      "url": "https://github.com/langchain-ai/langchain/pull/39921",
-      "author": "mdrxy",
-      "at": "2026-08-26T00:03:29Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39918,
-      "title": "feat(mcp): add elicitation interrupt support",
-      "url": "https://github.com/langchain-ai/langchain/pull/39918",
-      "author": "hntrl",
-      "at": "2026-08-25T20:44:32Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 97914,
-      "title": "browserslist is only applied to syntax: node_modules skipped under webpack (but not Turbopack), RegExp syntax and built-in APIs never covere",
-      "url": "https://github.com/vercel/next.js/issues/97914",
-      "author": "childrentime",
-      "at": "2026-08-26T03:34:05Z"
+      "number": 39935,
+      "title": "langchain-openai: gpt-5 and gpt-5.1 profiles advertise unsupported `xhigh` reasoning effort and omit `minimal`",
+      "url": "https://github.com/langchain-ai/langchain/issues/39935",
+      "author": "Dejwwik",
+      "at": "2026-08-26T12:42:16Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 39926,
+      "title": "[Bug]: [langchain-openai] OpenAI-compatible responses may lose nested token usage details",
+      "url": "https://github.com/langchain-ai/langchain/issues/39926",
+      "author": "hqliao52-droid",
+      "at": "2026-08-26T06:59:34Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97913,
-      "title": "test: stabilize page config error assertions",
-      "url": "https://github.com/vercel/next.js/pull/97913",
-      "author": "lukesandberg",
-      "at": "2026-08-26T02:26:40Z"
+      "number": 97942,
+      "title": "Fix build error when aliasing `typescript` to `@typescript/typescript6`",
+      "url": "https://github.com/vercel/next.js/pull/97942",
+      "author": "mischnic",
+      "at": "2026-08-26T14:22:45Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97941,
+      "title": "Fix request-context retention in the default use cache handler",
+      "url": "https://github.com/vercel/next.js/pull/97941",
+      "author": "dacgray",
+      "at": "2026-08-26T14:00:48Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -128,22 +106,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49575,
-      "title": "fix: display request body Array<object> schema/fields in Management API Reference",
-      "url": "https://github.com/supabase/supabase/pull/49575",
-      "author": "samirketema",
-      "at": "2026-08-26T03:29:00Z"
+      "number": 49606,
+      "title": "Add feature preview banner toast for explorerd",
+      "url": "https://github.com/supabase/supabase/pull/49606",
+      "author": "joshenlim",
+      "at": "2026-08-26T13:40:50Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49574,
-      "title": "fix(studio): treat region flags as decorative by default",
-      "url": "https://github.com/supabase/supabase/pull/49574",
-      "author": "dnywh",
-      "at": "2026-08-26T03:26:44Z"
+      "number": 49605,
+      "title": "fix(pg-meta): make publication update DO block safe for values containing dollar quotes",
+      "url": "https://github.com/supabase/supabase/pull/49605",
+      "author": "PranshulSoni",
+      "at": "2026-08-26T13:35:49Z"
     }
   ]
 }
