@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-08-25T14:39:33.873Z",
-  "count": 12,
+  "updatedAt": "2026-08-26T03:52:26.342Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5549,
-      "title": "fix(security): eliminate permission race condition on cloud_auth.json and device_id creation",
-      "url": "https://github.com/browser-use/browser-use/pull/5549",
-      "author": "loulanyue",
-      "at": "2026-08-25T13:33:51Z"
+      "number": 5552,
+      "title": "fix(cli): support module invocation on Windows",
+      "url": "https://github.com/browser-use/browser-use/pull/5552",
+      "author": "UniversePeak",
+      "at": "2026-08-26T03:12:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5548,
-      "title": "fix(filesystem): preserve state on failed writes",
-      "url": "https://github.com/browser-use/browser-use/pull/5548",
-      "author": "jaredrainsha",
-      "at": "2026-08-25T09:21:42Z"
+      "number": 5550,
+      "title": "fix(browser): prevent temp file leak on crx extraction failure",
+      "url": "https://github.com/browser-use/browser-use/pull/5550",
+      "author": "sundeep8967",
+      "at": "2026-08-25T20:07:19Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4245,
-      "title": "MCP server listed on ATX — claim or correct the record",
-      "url": "https://github.com/ComposioHQ/composio/issues/4245",
-      "author": "taladari",
-      "at": "2026-08-25T08:46:05Z"
+      "number": 4248,
+      "title": "[Feature]: Allow multiple SHARED connections per toolkit in multi-account Tool Router sessions",
+      "url": "https://github.com/ComposioHQ/composio/issues/4248",
+      "author": "jaijuneja",
+      "at": "2026-08-26T02:03:07Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 2560,
-      "title": "fix(v2/registry): keep mode registered while its lazy loader resolves",
-      "url": "https://github.com/567-labs/instructor/pull/2560",
-      "author": "syahra712",
-      "at": "2026-08-24T18:09:18Z"
+      "number": 4246,
+      "title": "docs: document granular session and MCP permissions",
+      "url": "https://github.com/ComposioHQ/composio/pull/4246",
+      "author": "mukund-composio",
+      "at": "2026-08-25T15:01:31Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +58,92 @@
       "at": "2026-08-24T03:20:31Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 39912,
-      "title": "fix(core): count image tokens from image dimensions",
-      "url": "https://github.com/langchain-ai/langchain/pull/39912",
-      "author": "saike148",
-      "at": "2026-08-25T10:29:05Z"
+      "number": 2524,
+      "title": "fix(cache): include hoisted system prompt in the cache key",
+      "url": "https://github.com/567-labs/instructor/pull/2524",
+      "author": "Kropiunig",
+      "at": "2026-08-12T05:56:04Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 39921,
+      "title": "fix(langchain): filter unsupported model inputs",
+      "url": "https://github.com/langchain-ai/langchain/pull/39921",
+      "author": "mdrxy",
+      "at": "2026-08-26T00:03:29Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 39918,
+      "title": "feat(mcp): add elicitation interrupt support",
+      "url": "https://github.com/langchain-ai/langchain/pull/39918",
+      "author": "hntrl",
+      "at": "2026-08-25T20:44:32Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 39908,
-      "title": "[Feature Request] Native support for Custom / Client-Executed Tool Search with Prompt Caching and defer_loading awareness in tool selection ",
-      "url": "https://github.com/langchain-ai/langchain/issues/39908",
-      "author": "Kenneth-Kuo",
-      "at": "2026-08-25T08:31:33Z"
+      "number": 97914,
+      "title": "browserslist is only applied to syntax: node_modules skipped under webpack (but not Turbopack), RegExp syntax and built-in APIs never covere",
+      "url": "https://github.com/vercel/next.js/issues/97914",
+      "author": "childrentime",
+      "at": "2026-08-26T03:34:05Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97873,
-      "title": "turbo-persistence: add TURBO_PERSISTENCE_MMAP=0 to disable mmap",
-      "url": "https://github.com/vercel/next.js/pull/97873",
-      "author": "sokra",
-      "at": "2026-08-25T14:31:06Z"
+      "number": 97913,
+      "title": "test: stabilize page config error assertions",
+      "url": "https://github.com/vercel/next.js/pull/97913",
+      "author": "lukesandberg",
+      "at": "2026-08-26T02:26:40Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97872,
-      "title": "test: reproduce stale cookie during Server Action refresh",
-      "url": "https://github.com/vercel/next.js/pull/97872",
-      "author": "samselikoff",
-      "at": "2026-08-25T14:11:56Z"
+      "kind": "release",
+      "number": 0,
+      "title": "v16.3.3 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.3",
+      "author": "eps1lon",
+      "at": "2026-08-25T16:17:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49539,
-      "title": "feat(studio): track assistant notebook divergence",
-      "url": "https://github.com/supabase/supabase/pull/49539",
-      "author": "charislam",
-      "at": "2026-08-25T14:25:11Z"
+      "number": 49575,
+      "title": "fix: display request body Array<object> schema/fields in Management API Reference",
+      "url": "https://github.com/supabase/supabase/pull/49575",
+      "author": "samirketema",
+      "at": "2026-08-26T03:29:00Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49538,
-      "title": "fix(learn, lite-studio): resolve grid line layout and studio project page state bugs",
-      "url": "https://github.com/supabase/supabase/pull/49538",
-      "author": "AyushDubey23",
-      "at": "2026-08-25T14:18:38Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4131,
-      "title": "`modal volume get` can silently create sparse or truncated files after short block downloads",
-      "url": "https://github.com/modal-labs/modal-client/issues/4131",
-      "author": "jasondavies",
-      "at": "2026-08-13T16:34:54Z"
+      "number": 49574,
+      "title": "fix(studio): treat region flags as decorative by default",
+      "url": "https://github.com/supabase/supabase/pull/49574",
+      "author": "dnywh",
+      "at": "2026-08-26T03:26:44Z"
     }
   ]
 }
