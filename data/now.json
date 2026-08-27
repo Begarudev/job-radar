@@ -1,6 +1,19 @@
 {
-  "updatedAt": "2026-08-26T06:57:32.525Z",
-  "events": [],
+  "updatedAt": "2026-08-27T17:31:25.568Z",
+  "events": [
+    {
+      "type": "PushEvent",
+      "repo": "Begarudev/computation-chemistry",
+      "summary": "pushed commits",
+      "at": "2026-08-26T07:23:02Z"
+    },
+    {
+      "type": "CreateEvent",
+      "repo": "Begarudev/computation-chemistry",
+      "summary": "created repo",
+      "at": "2026-08-26T06:56:27Z"
+    }
+  ],
   "currently": [
     "Building a public RAG benchmark (BM25 + ColBERT + RRF)",
     "Porting the Go limit-order-book matching engine to C++",
