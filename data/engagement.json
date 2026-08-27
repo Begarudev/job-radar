@@ -1,116 +1,127 @@
 {
-  "updatedAt": "2026-08-27T13:49:25.134Z",
-  "count": 10,
+  "updatedAt": "2026-08-27T23:31:01.194Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5562,
-      "title": "fix(browser): clear cookies via Storage domain, not Network",
-      "url": "https://github.com/browser-use/browser-use/pull/5562",
-      "author": "MrLeit",
-      "at": "2026-08-27T11:09:57Z"
+      "number": 5567,
+      "title": "fix(llm): cache client instances in ChatOpenAI, ChatAnthropic, and ChatGroq (#5565)",
+      "url": "https://github.com/browser-use/browser-use/pull/5567",
+      "author": "teddiesloco",
+      "at": "2026-08-27T19:15:13Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5561,
-      "title": "fix(llm): stop putting format/stream inside Ollama options",
-      "url": "https://github.com/browser-use/browser-use/pull/5561",
-      "author": "official-burak",
-      "at": "2026-08-27T10:38:35Z"
+      "number": 5566,
+      "title": "fix(security): support IPv6 domain patterns",
+      "url": "https://github.com/browser-use/browser-use/pull/5566",
+      "author": "yiheng-kkk",
+      "at": "2026-08-27T19:01:31Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4277,
+      "title": "ci(docs): refresh support knowledge from dispatches",
+      "url": "https://github.com/ComposioHQ/composio/pull/4277",
+      "author": "sohambasu963",
+      "at": "2026-08-27T23:17:17Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4275,
+      "title": "chore(py): add manual composio-core publisher",
+      "url": "https://github.com/ComposioHQ/composio/pull/4275",
+      "author": "jkomyno",
+      "at": "2026-08-27T18:40:28Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2562,
-      "title": "docs: fix \"seperate\" → \"separate\" typo",
-      "url": "https://github.com/567-labs/instructor/pull/2562",
-      "author": "Renn825",
-      "at": "2026-08-27T03:14:56Z"
+      "number": 2568,
+      "title": "fix: preserve optional TypedDict response fields",
+      "url": "https://github.com/567-labs/instructor/pull/2568",
+      "author": "mikemikimike",
+      "at": "2026-08-27T21:36:04Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2567,
+      "title": "TypedDict response_model ignores total=False and NotRequired, forcing every key to be required",
+      "url": "https://github.com/567-labs/instructor/issues/2567",
+      "author": "VANDRANKI",
+      "at": "2026-08-27T20:13:41Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2561,
-      "title": "docs(integrations): note xAI Python version requirement",
-      "url": "https://github.com/567-labs/instructor/pull/2561",
-      "author": "krudo-taco",
-      "at": "2026-08-26T21:33:30Z"
+      "number": 39976,
+      "title": "docs(langchain): runnable `langchain.mcp` examples",
+      "url": "https://github.com/langchain-ai/langchain/pull/39976",
+      "author": "sydney-runkle",
+      "at": "2026-08-27T21:51:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39953,
-      "title": "ShellToolMiddleware: a command timeout silently resets the session and does not re-run startup_commands",
-      "url": "https://github.com/langchain-ai/langchain/issues/39953",
-      "author": "realexhub",
-      "at": "2026-08-27T10:57:33Z"
+      "number": 39968,
+      "title": "[Integration / Showcase] Hybrid RAG Action for GitHub Issue & PR Triage",
+      "url": "https://github.com/langchain-ai/langchain/issues/39968",
+      "author": "Cagrik34",
+      "at": "2026-08-27T17:59:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 97983,
-      "title": "fix(scripts): make unpack-next work on Windows",
-      "url": "https://github.com/vercel/next.js/pull/97983",
-      "author": "ohad6k",
-      "at": "2026-08-27T13:36:04Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97982,
-      "title": "docs: improve discovery summaries",
-      "url": "https://github.com/vercel/next.js/pull/97982",
-      "author": "molebox",
-      "at": "2026-08-27T12:45:50Z"
+      "number": 98003,
+      "title": "Turbopack: Add support for specifying additional roots",
+      "url": "https://github.com/vercel/next.js/pull/98003",
+      "author": "bgw",
+      "at": "2026-08-27T23:03:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49643,
-      "title": "feat(billing): adds non-dismissable modal for indirect tax declaration",
-      "url": "https://github.com/supabase/supabase/pull/49643",
-      "author": "kanishkdudeja",
-      "at": "2026-08-27T12:44:38Z"
+      "number": 49658,
+      "title": "fix(studio): confirm destructive notebook queries",
+      "url": "https://github.com/supabase/supabase/pull/49658",
+      "author": "charislam",
+      "at": "2026-08-27T22:23:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49642,
-      "title": "feat(studio): add workers icon",
-      "url": "https://github.com/supabase/supabase/pull/49642",
-      "author": "fsansalvadore",
-      "at": "2026-08-27T12:26:57Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4130,
-      "title": "`modal volume get` can corrupt a directory download when the local destination does not exist",
-      "url": "https://github.com/modal-labs/modal-client/issues/4130",
-      "author": "jasondavies",
-      "at": "2026-08-12T19:23:01Z"
+      "number": 49657,
+      "title": "fix(docs): actually clear project scoped keys on sign out",
+      "url": "https://github.com/supabase/supabase/pull/49657",
+      "author": "ayaangazali",
+      "at": "2026-08-27T21:43:14Z"
     }
   ]
 }
