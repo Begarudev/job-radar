@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-08-26T14:38:49.629Z",
-  "count": 11,
+  "updatedAt": "2026-08-27T13:49:25.134Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5554,
-      "title": "fix(dom): preserve explicit empty select option values",
-      "url": "https://github.com/browser-use/browser-use/pull/5554",
-      "author": "zimo-xiao-zheng",
-      "at": "2026-08-26T07:01:11Z"
+      "number": 5562,
+      "title": "fix(browser): clear cookies via Storage domain, not Network",
+      "url": "https://github.com/browser-use/browser-use/pull/5562",
+      "author": "MrLeit",
+      "at": "2026-08-27T11:09:57Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5552,
-      "title": "fix(cli): support module invocation on Windows",
-      "url": "https://github.com/browser-use/browser-use/pull/5552",
-      "author": "UniversePeak",
-      "at": "2026-08-26T03:12:12Z"
+      "number": 5561,
+      "title": "fix(llm): stop putting format/stream inside Ollama options",
+      "url": "https://github.com/browser-use/browser-use/pull/5561",
+      "author": "official-burak",
+      "at": "2026-08-27T10:38:35Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4254,
-      "title": "fix(py): isolate incompatible provider dependencies",
-      "url": "https://github.com/ComposioHQ/composio/pull/4254",
-      "author": "jkomyno",
-      "at": "2026-08-26T14:16:43Z"
+      "number": 2562,
+      "title": "docs: fix \"seperate\" → \"separate\" typo",
+      "url": "https://github.com/567-labs/instructor/pull/2562",
+      "author": "Renn825",
+      "at": "2026-08-27T03:14:56Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4253,
-      "title": "[Bug]: Zoom webinar creation fails — managed OAuth app can't request webinar:write scope",
-      "url": "https://github.com/ComposioHQ/composio/issues/4253",
-      "author": "dolliver",
-      "at": "2026-08-26T12:57:19Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2561,
+      "title": "docs(integrations): note xAI Python version requirement",
+      "url": "https://github.com/567-labs/instructor/pull/2561",
+      "author": "krudo-taco",
+      "at": "2026-08-26T21:33:30Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39935,
-      "title": "langchain-openai: gpt-5 and gpt-5.1 profiles advertise unsupported `xhigh` reasoning effort and omit `minimal`",
-      "url": "https://github.com/langchain-ai/langchain/issues/39935",
-      "author": "Dejwwik",
-      "at": "2026-08-26T12:42:16Z"
+      "number": 39953,
+      "title": "ShellToolMiddleware: a command timeout silently resets the session and does not re-run startup_commands",
+      "url": "https://github.com/langchain-ai/langchain/issues/39953",
+      "author": "realexhub",
+      "at": "2026-08-27T10:57:33Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97983,
+      "title": "fix(scripts): make unpack-next work on Windows",
+      "url": "https://github.com/vercel/next.js/pull/97983",
+      "author": "ohad6k",
+      "at": "2026-08-27T13:36:04Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 97982,
+      "title": "docs: improve discovery summaries",
+      "url": "https://github.com/vercel/next.js/pull/97982",
+      "author": "molebox",
+      "at": "2026-08-27T12:45:50Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49643,
+      "title": "feat(billing): adds non-dismissable modal for indirect tax declaration",
+      "url": "https://github.com/supabase/supabase/pull/49643",
+      "author": "kanishkdudeja",
+      "at": "2026-08-27T12:44:38Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49642,
+      "title": "feat(studio): add workers icon",
+      "url": "https://github.com/supabase/supabase/pull/49642",
+      "author": "fsansalvadore",
+      "at": "2026-08-27T12:26:57Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 39926,
-      "title": "[Bug]: [langchain-openai] OpenAI-compatible responses may lose nested token usage details",
-      "url": "https://github.com/langchain-ai/langchain/issues/39926",
-      "author": "hqliao52-droid",
-      "at": "2026-08-26T06:59:34Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97942,
-      "title": "Fix build error when aliasing `typescript` to `@typescript/typescript6`",
-      "url": "https://github.com/vercel/next.js/pull/97942",
-      "author": "mischnic",
-      "at": "2026-08-26T14:22:45Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 97941,
-      "title": "Fix request-context retention in the default use cache handler",
-      "url": "https://github.com/vercel/next.js/pull/97941",
-      "author": "dacgray",
-      "at": "2026-08-26T14:00:48Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.3.3 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.3",
-      "author": "eps1lon",
-      "at": "2026-08-25T16:17:10Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49606,
-      "title": "Add feature preview banner toast for explorerd",
-      "url": "https://github.com/supabase/supabase/pull/49606",
-      "author": "joshenlim",
-      "at": "2026-08-26T13:40:50Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49605,
-      "title": "fix(pg-meta): make publication update DO block safe for values containing dollar quotes",
-      "url": "https://github.com/supabase/supabase/pull/49605",
-      "author": "PranshulSoni",
-      "at": "2026-08-26T13:35:49Z"
+      "number": 4130,
+      "title": "`modal volume get` can corrupt a directory download when the local destination does not exist",
+      "url": "https://github.com/modal-labs/modal-client/issues/4130",
+      "author": "jasondavies",
+      "at": "2026-08-12T19:23:01Z"
     }
   ]
 }
