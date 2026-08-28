@@ -1,39 +1,61 @@
 {
-  "updatedAt": "2026-08-28T14:55:36.453Z",
-  "count": 9,
+  "updatedAt": "2026-08-28T23:22:10.570Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5586,
-      "title": "fix(dom): expose image context for directly clickable images",
-      "url": "https://github.com/browser-use/browser-use/pull/5586",
-      "author": "r266-tech",
-      "at": "2026-08-28T09:08:02Z"
+      "number": 5590,
+      "title": "fix(deepseek): resolve AgentOutput action schema validation failure via structured JSON mode (#3544)",
+      "url": "https://github.com/browser-use/browser-use/pull/5590",
+      "author": "Heman10x-NGU",
+      "at": "2026-08-28T21:43:22Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5585,
-      "title": "fix(browser): handle literal plus key and restrict enter delay to actual Enter actions (#5569, #5573)",
-      "url": "https://github.com/browser-use/browser-use/pull/5585",
-      "author": "teddiesloco",
-      "at": "2026-08-28T09:05:10Z"
+      "number": 5589,
+      "title": "feat(examples): add SynapticChain 256-lane autonomous web wallet agent",
+      "url": "https://github.com/browser-use/browser-use/pull/5589",
+      "author": "Synaptics-Lab",
+      "at": "2026-08-28T19:00:41Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4286,
-      "title": "Broken TypeScript sample in your Slack bot example",
-      "url": "https://github.com/ComposioHQ/composio/issues/4286",
-      "author": "David19876543210",
-      "at": "2026-08-28T09:28:42Z"
+      "kind": "pr",
+      "number": 4293,
+      "title": "docs(anthropic): tidy the Messages API tool-call helper name [DEMO — DO NOT MERGE]",
+      "url": "https://github.com/ComposioHQ/composio/pull/4293",
+      "author": "soumya1971",
+      "at": "2026-08-28T22:03:16Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4292,
+      "title": "docs(anthropic): clarify handle_tool_calls result ordering [DEMO — DO NOT MERGE]",
+      "url": "https://github.com/ComposioHQ/composio/pull/4292",
+      "author": "soumya1971",
+      "at": "2026-08-28T22:02:28Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2578,
+      "title": "docs(openai): explain compatible JSON endpoints",
+      "url": "https://github.com/567-labs/instructor/pull/2578",
+      "author": "Ricky-7-Yan",
+      "at": "2026-08-28T17:59:19Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,56 +72,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 39976,
-      "title": "docs(langchain): runnable `langchain.mcp` examples",
-      "url": "https://github.com/langchain-ai/langchain/pull/39976",
-      "author": "sydney-runkle",
-      "at": "2026-08-27T21:51:37Z"
+      "kind": "issue",
+      "number": 39994,
+      "title": "`merge_configs` drops an explicit `recursion_limit=25`",
+      "url": "https://github.com/langchain-ai/langchain/issues/39994",
+      "author": "dxnlp",
+      "at": "2026-08-28T17:04:32Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39968,
-      "title": "[Integration / Showcase] Hybrid RAG Action for GitHub Issue & PR Triage",
-      "url": "https://github.com/langchain-ai/langchain/issues/39968",
-      "author": "Cagrik34",
-      "at": "2026-08-27T17:59:35Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 98037,
-      "title": "Segment cache: prefetched sibling routes render the wrong page when `htmlLimitedBots` disables PPR serving (16.3.3; no longer reproduces on ",
-      "url": "https://github.com/vercel/next.js/issues/98037",
-      "author": "nlindema",
-      "at": "2026-08-28T14:23:07Z"
+      "number": 39953,
+      "title": "ShellToolMiddleware: a command timeout silently resets the session and does not re-run startup_commands",
+      "url": "https://github.com/langchain-ai/langchain/issues/39953",
+      "author": "realexhub",
+      "at": "2026-08-27T10:57:33Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98035,
-      "title": "Add the `unstable_generateStaticVariants` page export",
-      "url": "https://github.com/vercel/next.js/pull/98035",
-      "author": "unstubbable",
-      "at": "2026-08-28T14:19:57Z"
+      "number": 98060,
+      "title": "chore: remove unused code from image optimizer",
+      "url": "https://github.com/vercel/next.js/pull/98060",
+      "author": "styfle",
+      "at": "2026-08-28T21:37:12Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98058,
+      "title": "[Experimental] Implement option to opt out of revalidation after setting or deleting a cookie in a Server Action",
+      "url": "https://github.com/vercel/next.js/pull/98058",
+      "author": "brunorodmoreira",
+      "at": "2026-08-28T20:51:07Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 49710,
+      "title": "Project DNS not resolving - NXDOMAIN",
+      "url": "https://github.com/supabase/supabase/issues/49710",
+      "author": "henrypeterofc1",
+      "at": "2026-08-28T23:19:21Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49693,
-      "title": "fix: attempt project wake only if its in ACTIVE_HEALTHY state",
-      "url": "https://github.com/supabase/supabase/pull/49693",
-      "author": "kamilogorek",
-      "at": "2026-08-28T14:50:09Z"
+      "number": 49708,
+      "title": "fix: point generate:types at the path the generated DB types actually live at",
+      "url": "https://github.com/supabase/supabase/pull/49708",
+      "author": "ayaangazali",
+      "at": "2026-08-28T21:50:19Z"
     }
   ]
 }
