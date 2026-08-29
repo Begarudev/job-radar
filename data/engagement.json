@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-08-28T23:22:10.570Z",
-  "count": 12,
+  "updatedAt": "2026-08-29T09:45:03.715Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5590,
-      "title": "fix(deepseek): resolve AgentOutput action schema validation failure via structured JSON mode (#3544)",
-      "url": "https://github.com/browser-use/browser-use/pull/5590",
-      "author": "Heman10x-NGU",
-      "at": "2026-08-28T21:43:22Z"
+      "number": 5594,
+      "title": "fix: dispatch literal plus key presses",
+      "url": "https://github.com/browser-use/browser-use/pull/5594",
+      "author": "mikemikimike",
+      "at": "2026-08-29T04:34:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5589,
-      "title": "feat(examples): add SynapticChain 256-lane autonomous web wallet agent",
-      "url": "https://github.com/browser-use/browser-use/pull/5589",
-      "author": "Synaptics-Lab",
-      "at": "2026-08-28T19:00:41Z"
+      "number": 5593,
+      "title": "fix(utils): redact every value when domains share a placeholder name",
+      "url": "https://github.com/browser-use/browser-use/pull/5593",
+      "author": "hata33",
+      "at": "2026-08-29T02:27:07Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4293,
-      "title": "docs(anthropic): tidy the Messages API tool-call helper name [DEMO — DO NOT MERGE]",
-      "url": "https://github.com/ComposioHQ/composio/pull/4293",
-      "author": "soumya1971",
-      "at": "2026-08-28T22:03:16Z"
+      "number": 4295,
+      "title": "fix(providers/anthropic): re-export AnthropicTool, InputSchema, and CacheControlEphemeral types (#4286)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4295",
+      "author": "teddiesloco",
+      "at": "2026-08-29T05:34:12Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4292,
-      "title": "docs(anthropic): clarify handle_tool_calls result ordering [DEMO — DO NOT MERGE]",
-      "url": "https://github.com/ComposioHQ/composio/pull/4292",
-      "author": "soumya1971",
-      "at": "2026-08-28T22:02:28Z"
+      "number": 4294,
+      "title": "docs: add product architecture guides and KB entry points",
+      "url": "https://github.com/ComposioHQ/composio/pull/4294",
+      "author": "sohambasu963",
+      "at": "2026-08-29T00:25:44Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +73,44 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 39994,
-      "title": "`merge_configs` drops an explicit `recursion_limit=25`",
-      "url": "https://github.com/langchain-ai/langchain/issues/39994",
-      "author": "dxnlp",
-      "at": "2026-08-28T17:04:32Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 39953,
-      "title": "ShellToolMiddleware: a command timeout silently resets the session and does not re-run startup_commands",
-      "url": "https://github.com/langchain-ai/langchain/issues/39953",
-      "author": "realexhub",
-      "at": "2026-08-27T10:57:33Z"
+      "number": 40008,
+      "title": "core: `AIMessage.content_blocks` mutates the original text block when attaching Google grounding citations",
+      "url": "https://github.com/langchain-ai/langchain/issues/40008",
+      "author": "revanth-045",
+      "at": "2026-08-29T06:56:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98060,
-      "title": "chore: remove unused code from image optimizer",
-      "url": "https://github.com/vercel/next.js/pull/98060",
-      "author": "styfle",
-      "at": "2026-08-28T21:37:12Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98058,
-      "title": "[Experimental] Implement option to opt out of revalidation after setting or deleting a cookie in a Server Action",
-      "url": "https://github.com/vercel/next.js/pull/98058",
-      "author": "brunorodmoreira",
-      "at": "2026-08-28T20:51:07Z"
+      "number": 98062,
+      "title": "feat(dev-overlay): enhance user preferences select dropdown in devIndicator",
+      "url": "https://github.com/vercel/next.js/pull/98062",
+      "author": "gilangabdian",
+      "at": "2026-08-29T01:45:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 49710,
-      "title": "Project DNS not resolving - NXDOMAIN",
-      "url": "https://github.com/supabase/supabase/issues/49710",
-      "author": "henrypeterofc1",
-      "at": "2026-08-28T23:19:21Z"
+      "number": 49716,
+      "title": "Registration is throwing 403 forbidden error",
+      "url": "https://github.com/supabase/supabase/issues/49716",
+      "author": "PurushotamPeriwal",
+      "at": "2026-08-29T08:58:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49708,
-      "title": "fix: point generate:types at the path the generated DB types actually live at",
-      "url": "https://github.com/supabase/supabase/pull/49708",
-      "author": "ayaangazali",
-      "at": "2026-08-28T21:50:19Z"
+      "number": 49715,
+      "title": "fix(studio): make table and function privilege DO blocks safe for catalog values containing dollar quotes",
+      "url": "https://github.com/supabase/supabase/pull/49715",
+      "author": "PranshulSoni",
+      "at": "2026-08-29T06:40:12Z"
     }
   ]
 }
