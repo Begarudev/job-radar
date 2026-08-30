@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-08-29T17:28:58.778Z",
-  "count": 11,
+  "updatedAt": "2026-08-30T08:56:37.540Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5597,
-      "title": "fix(llm/google): keep the first user message when include_system_in_user is set",
-      "url": "https://github.com/browser-use/browser-use/pull/5597",
-      "author": "aniketwaghh",
-      "at": "2026-08-29T15:04:19Z"
+      "number": 5602,
+      "title": "docs: correct Cloud signup credit",
+      "url": "https://github.com/browser-use/browser-use/pull/5602",
+      "author": "MagMueller",
+      "at": "2026-08-30T05:00:05Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5596,
-      "title": "Bug: ChatGoogle(include_system_in_user=True) drops the first user message when it has list content",
-      "url": "https://github.com/browser-use/browser-use/issues/5596",
-      "author": "aniketwaghh",
-      "at": "2026-08-29T14:55:23Z"
+      "kind": "pr",
+      "number": 5601,
+      "title": "docs: correct cloud browser session price",
+      "url": "https://github.com/browser-use/browser-use/pull/5601",
+      "author": "MagMueller",
+      "at": "2026-08-30T03:57:44Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4296,
-      "title": "fix: update Python package license classifiers from Apache-2.0 to MIT",
-      "url": "https://github.com/ComposioHQ/composio/pull/4296",
-      "author": "Prajeeth-12",
-      "at": "2026-08-29T10:29:56Z"
+      "number": 4298,
+      "title": "fix(core): respect authConfigId in trigger subscriptions",
+      "url": "https://github.com/ComposioHQ/composio/pull/4298",
+      "author": "CoralGarden52",
+      "at": "2026-08-30T06:58:59Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4295,
-      "title": "fix(providers/anthropic): re-export AnthropicTool, InputSchema, and CacheControlEphemeral types (#4286)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4295",
-      "author": "teddiesloco",
-      "at": "2026-08-29T05:34:12Z"
+      "number": 4297,
+      "title": "fix(python): dereference $ref/$defs in Google provider",
+      "url": "https://github.com/ComposioHQ/composio/pull/4297",
+      "author": "CoralGarden52",
+      "at": "2026-08-30T06:50:04Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,66 +62,77 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2578,
-      "title": "docs(openai): explain compatible JSON endpoints",
-      "url": "https://github.com/567-labs/instructor/pull/2578",
-      "author": "Ricky-7-Yan",
-      "at": "2026-08-28T17:59:19Z"
+      "number": 2559,
+      "title": "fix: run async validators in v2 retry path",
+      "url": "https://github.com/567-labs/instructor/pull/2559",
+      "author": "mikemikimike",
+      "at": "2026-08-24T03:20:31Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40008,
-      "title": "core: `AIMessage.content_blocks` mutates the original text block when attaching Google grounding citations",
-      "url": "https://github.com/langchain-ai/langchain/issues/40008",
-      "author": "revanth-045",
-      "at": "2026-08-29T06:56:52Z"
+      "number": 40031,
+      "title": "[langchain-deepseek] `strict=True` never reaches the beta endpoint, so DeepSeek's schema validation never runs",
+      "url": "https://github.com/langchain-ai/langchain/issues/40031",
+      "author": "HumbertoBernal",
+      "at": "2026-08-30T04:28:58Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 98066,
-      "title": "Segment cache: a stalled RSC request permanently kills soft navigation to a route (zero-request dropped clicks with staleTimes.dynamic > 0)",
-      "url": "https://github.com/vercel/next.js/issues/98066",
-      "author": "alireza-attari",
-      "at": "2026-08-29T16:16:02Z"
+      "number": 40027,
+      "title": "openai: invalid_tool_calls in additional_kwargs duplicated across streaming usage chunks",
+      "url": "https://github.com/langchain-ai/langchain/issues/40027",
+      "author": "DarRahman",
+      "at": "2026-08-30T03:32:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98064,
-      "title": "fix(app-router): preserve hash scrolling for Suspense boundaries",
-      "url": "https://github.com/vercel/next.js/pull/98064",
-      "author": "Neelesh3",
-      "at": "2026-08-29T10:06:12Z"
+      "number": 98074,
+      "title": "Fix Turbopack Emotion hydration mismatch with SWC plugins",
+      "url": "https://github.com/vercel/next.js/pull/98074",
+      "author": "ivanwooc",
+      "at": "2026-08-30T06:08:06Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98073,
+      "title": "Deopt optimistic routes with unresolved active params",
+      "url": "https://github.com/vercel/next.js/pull/98073",
+      "author": "lucasdoell",
+      "at": "2026-08-30T00:30:21Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49726,
-      "title": "fix(studio): batch schema and constraint mutations into atomic SQL transactions",
-      "url": "https://github.com/supabase/supabase/pull/49726",
-      "author": "krishna231122-del",
-      "at": "2026-08-29T17:15:43Z"
+      "number": 49730,
+      "title": "fix(pg-meta): use $pgmeta$ dollar-quote tag in DO blocks to avoid $$ collision",
+      "url": "https://github.com/supabase/supabase/pull/49730",
+      "author": "okxint",
+      "at": "2026-08-30T06:30:57Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49725,
-      "title": "chore(generator): drop the tsdoc v2 dereference scripts whose inputs were deleted",
-      "url": "https://github.com/supabase/supabase/pull/49725",
-      "author": "ayaangazali",
-      "at": "2026-08-29T16:05:13Z"
+      "kind": "issue",
+      "number": 49727,
+      "title": "GoTrue Auth intermittent freeze: POST /auth/v1/token times out while /health responds OK (Next.js + Vercel, South America)",
+      "url": "https://github.com/supabase/supabase/issues/49727",
+      "author": "nahanvallejos-maker",
+      "at": "2026-08-29T23:07:16Z"
     }
   ]
 }
