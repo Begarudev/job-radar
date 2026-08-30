@@ -1,72 +1,72 @@
 {
-  "updatedAt": "2026-08-30T08:56:37.540Z",
-  "count": 12,
+  "updatedAt": "2026-08-30T17:52:10.154Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5602,
-      "title": "docs: correct Cloud signup credit",
-      "url": "https://github.com/browser-use/browser-use/pull/5602",
+      "number": 5605,
+      "title": "fix(llm): preserve schema-keyword field names",
+      "url": "https://github.com/browser-use/browser-use/pull/5605",
       "author": "MagMueller",
-      "at": "2026-08-30T05:00:05Z"
+      "at": "2026-08-30T11:01:57Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5601,
-      "title": "docs: correct cloud browser session price",
-      "url": "https://github.com/browser-use/browser-use/pull/5601",
-      "author": "MagMueller",
-      "at": "2026-08-30T03:57:44Z"
+      "kind": "issue",
+      "number": 5603,
+      "title": "Bug: SchemaOptimizer leaves a dangling $ref when a model field is named \"description\"",
+      "url": "https://github.com/browser-use/browser-use/issues/5603",
+      "author": "aniketwaghh",
+      "at": "2026-08-30T10:51:20Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4298,
-      "title": "fix(core): respect authConfigId in trigger subscriptions",
-      "url": "https://github.com/ComposioHQ/composio/pull/4298",
-      "author": "CoralGarden52",
-      "at": "2026-08-30T06:58:59Z"
+      "number": 4307,
+      "title": "fix(schema-converter): type empty schemas as Any and pure null as NoneType",
+      "url": "https://github.com/ComposioHQ/composio/pull/4307",
+      "author": "simpleqt",
+      "at": "2026-08-30T13:16:03Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4297,
-      "title": "fix(python): dereference $ref/$defs in Google provider",
-      "url": "https://github.com/ComposioHQ/composio/pull/4297",
-      "author": "CoralGarden52",
-      "at": "2026-08-30T06:50:04Z"
+      "number": 4306,
+      "title": "fix(schema-converter): convert tuple-form array items instead of degrading to str",
+      "url": "https://github.com/ComposioHQ/composio/pull/4306",
+      "author": "simpleqt",
+      "at": "2026-08-30T13:12:46Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2579,
-      "title": "docs: fix typo recomendations -> recommendations",
-      "url": "https://github.com/567-labs/instructor/pull/2579",
-      "author": "vaibhav8a",
-      "at": "2026-08-29T11:28:43Z"
+      "number": 2557,
+      "title": "fix(genai): use user role for validation reasks",
+      "url": "https://github.com/567-labs/instructor/pull/2557",
+      "author": "voyagersha",
+      "at": "2026-08-23T22:09:16Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2559,
-      "title": "fix: run async validators in v2 retry path",
-      "url": "https://github.com/567-labs/instructor/pull/2559",
-      "author": "mikemikimike",
-      "at": "2026-08-24T03:20:31Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40037,
+      "title": "docs: list langchain-truthbear in integrations (official-source signal tools)",
+      "url": "https://github.com/langchain-ai/langchain/issues/40037",
+      "author": "CHANGCHINFU",
+      "at": "2026-08-30T11:55:49Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,59 +80,48 @@
       "at": "2026-08-30T04:28:58Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40027,
-      "title": "openai: invalid_tool_calls in additional_kwargs duplicated across streaming usage chunks",
-      "url": "https://github.com/langchain-ai/langchain/issues/40027",
-      "author": "DarRahman",
-      "at": "2026-08-30T03:32:52Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98082,
+      "title": "fix: move webpack dev validation off-thread",
+      "url": "https://github.com/vercel/next.js/pull/98082",
+      "author": "dacgray",
+      "at": "2026-08-30T17:15:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98074,
-      "title": "Fix Turbopack Emotion hydration mismatch with SWC plugins",
-      "url": "https://github.com/vercel/next.js/pull/98074",
-      "author": "ivanwooc",
-      "at": "2026-08-30T06:08:06Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98073,
-      "title": "Deopt optimistic routes with unresolved active params",
-      "url": "https://github.com/vercel/next.js/pull/98073",
-      "author": "lucasdoell",
-      "at": "2026-08-30T00:30:21Z"
+      "number": 98081,
+      "title": "fix: respect pageExtensions in no-html-link-for-pages rule",
+      "url": "https://github.com/vercel/next.js/pull/98081",
+      "author": "devwez",
+      "at": "2026-08-30T16:04:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49730,
-      "title": "fix(pg-meta): use $pgmeta$ dollar-quote tag in DO blocks to avoid $$ collision",
-      "url": "https://github.com/supabase/supabase/pull/49730",
-      "author": "okxint",
-      "at": "2026-08-30T06:30:57Z"
+      "number": 49735,
+      "title": "fix(studio): allow newlines in SMS OTP template for WebOTP API",
+      "url": "https://github.com/supabase/supabase/pull/49735",
+      "author": "devwez",
+      "at": "2026-08-30T16:37:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 49727,
-      "title": "GoTrue Auth intermittent freeze: POST /auth/v1/token times out while /health responds OK (Next.js + Vercel, South America)",
-      "url": "https://github.com/supabase/supabase/issues/49727",
-      "author": "nahanvallejos-maker",
-      "at": "2026-08-29T23:07:16Z"
+      "number": 49734,
+      "title": "je n'arrive plus à me connecter à mon compte",
+      "url": "https://github.com/supabase/supabase/issues/49734",
+      "author": "geflyentreprise-code",
+      "at": "2026-08-30T12:19:09Z"
     }
   ]
 }
