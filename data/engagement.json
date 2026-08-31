@@ -1,61 +1,61 @@
 {
-  "updatedAt": "2026-08-30T17:52:10.154Z",
-  "count": 11,
+  "updatedAt": "2026-08-31T09:22:16.396Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5605,
-      "title": "fix(llm): preserve schema-keyword field names",
-      "url": "https://github.com/browser-use/browser-use/pull/5605",
-      "author": "MagMueller",
-      "at": "2026-08-30T11:01:57Z"
+      "number": 5622,
+      "title": "Clarify open-source and Cloud product boundaries",
+      "url": "https://github.com/browser-use/browser-use/pull/5622",
+      "author": "gregpr07",
+      "at": "2026-08-31T06:34:26Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5621,
+      "title": "fix(browser): preserve default Chrome arg order",
+      "url": "https://github.com/browser-use/browser-use/pull/5621",
+      "author": "MagMueller",
+      "at": "2026-08-31T05:57:57Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 5603,
-      "title": "Bug: SchemaOptimizer leaves a dangling $ref when a model field is named \"description\"",
-      "url": "https://github.com/browser-use/browser-use/issues/5603",
-      "author": "aniketwaghh",
-      "at": "2026-08-30T10:51:20Z"
+      "number": 4314,
+      "title": "GITHUB_ISSUE_ADDED_EVENT registers a full \"issues\" webhook but forwards only action=opened — closed/reopened/labeled/assigned are 200-ACKed ",
+      "url": "https://github.com/ComposioHQ/composio/issues/4314",
+      "author": "yarikbratashchuk",
+      "at": "2026-08-31T07:24:47Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4307,
-      "title": "fix(schema-converter): type empty schemas as Any and pure null as NoneType",
-      "url": "https://github.com/ComposioHQ/composio/pull/4307",
-      "author": "simpleqt",
-      "at": "2026-08-30T13:16:03Z"
+      "kind": "issue",
+      "number": 4313,
+      "title": "GITHUB_ISSUE_UPDATED_TRIGGER poll instances are never scheduled — zero polls in 7h50m, while GMAIL poll instances on the same project fire n",
+      "url": "https://github.com/ComposioHQ/composio/issues/4313",
+      "author": "yarikbratashchuk",
+      "at": "2026-08-31T07:24:38Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4306,
-      "title": "fix(schema-converter): convert tuple-form array items instead of degrading to str",
-      "url": "https://github.com/ComposioHQ/composio/pull/4306",
-      "author": "simpleqt",
-      "at": "2026-08-30T13:12:46Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2557,
-      "title": "fix(genai): use user role for validation reasks",
-      "url": "https://github.com/567-labs/instructor/pull/2557",
-      "author": "voyagersha",
-      "at": "2026-08-23T22:09:16Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40045,
+      "title": "Bug: ProviderToolSearchMiddleware raises ValueError for valid AzureChatOpenAI models",
+      "url": "https://github.com/langchain-ai/langchain/issues/40045",
+      "author": "VedantSonani",
+      "at": "2026-08-31T05:21:39Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,59 +69,48 @@
       "at": "2026-08-30T11:55:49Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40031,
-      "title": "[langchain-deepseek] `strict=True` never reaches the beta endpoint, so DeepSeek's schema validation never runs",
-      "url": "https://github.com/langchain-ai/langchain/issues/40031",
-      "author": "HumbertoBernal",
-      "at": "2026-08-30T04:28:58Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98098,
+      "title": "test: Improve test cache handler implementations",
+      "url": "https://github.com/vercel/next.js/pull/98098",
+      "author": "mischnic",
+      "at": "2026-08-31T08:51:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98082,
-      "title": "fix: move webpack dev validation off-thread",
-      "url": "https://github.com/vercel/next.js/pull/98082",
-      "author": "dacgray",
-      "at": "2026-08-30T17:15:12Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98081,
-      "title": "fix: respect pageExtensions in no-html-link-for-pages rule",
-      "url": "https://github.com/vercel/next.js/pull/98081",
-      "author": "devwez",
-      "at": "2026-08-30T16:04:26Z"
+      "number": 98095,
+      "title": "Fix App Router locale path matching with Pages i18n",
+      "url": "https://github.com/vercel/next.js/pull/98095",
+      "author": "timneutkens",
+      "at": "2026-08-31T08:30:00Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49735,
-      "title": "fix(studio): allow newlines in SMS OTP template for WebOTP API",
-      "url": "https://github.com/supabase/supabase/pull/49735",
-      "author": "devwez",
-      "at": "2026-08-30T16:37:17Z"
+      "number": 49760,
+      "title": "Clarify presigned uploads documentation",
+      "url": "https://github.com/supabase/supabase/pull/49760",
+      "author": "krishnasaivandavasi",
+      "at": "2026-08-31T08:42:42Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 49734,
-      "title": "je n'arrive plus à me connecter à mon compte",
-      "url": "https://github.com/supabase/supabase/issues/49734",
-      "author": "geflyentreprise-code",
-      "at": "2026-08-30T12:19:09Z"
+      "kind": "pr",
+      "number": 49758,
+      "title": "chore(docs): add Anthony Lio to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/49758",
+      "author": "antlio",
+      "at": "2026-08-31T08:15:41Z"
     }
   ]
 }
