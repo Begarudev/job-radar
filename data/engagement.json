@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-09-01T08:19:51.569Z",
-  "count": 10,
+  "updatedAt": "2026-09-01T17:32:06.879Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5643,
-      "title": "fix(gif): decode unicode escapes without latin1 encoding failure on existing unicode chars",
-      "url": "https://github.com/browser-use/browser-use/pull/5643",
-      "author": "lx3133584",
-      "at": "2026-09-01T07:27:06Z"
+      "kind": "issue",
+      "number": 5647,
+      "title": "Interaction Issue: Existing values in pre-filled input fields are frequently not detected",
+      "url": "https://github.com/browser-use/browser-use/issues/5647",
+      "author": "ilyes-i-ben",
+      "at": "2026-09-01T17:00:20Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5642,
-      "title": "fix(variable_detector): detect company_name and organization_name as company variables",
-      "url": "https://github.com/browser-use/browser-use/pull/5642",
-      "author": "lx3133584",
-      "at": "2026-09-01T06:49:46Z"
+      "number": 5646,
+      "title": "fix(agent): preserve company variable classification",
+      "url": "https://github.com/browser-use/browser-use/pull/5646",
+      "author": "ECD5A",
+      "at": "2026-09-01T13:48:48Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4324,
-      "title": "security: fix Parameter finding #91 (CWE-94) - identifier guard in ts-builders codegen",
-      "url": "https://github.com/ComposioHQ/composio/pull/4324",
-      "author": "groovyBugify",
-      "at": "2026-09-01T04:56:47Z"
+      "kind": "issue",
+      "number": 4327,
+      "title": "[Bug]: Enhanced Controls maps Outlook read permissions to obsolete OUTLOOK_OUTLOOK_* slugs",
+      "url": "https://github.com/ComposioHQ/composio/issues/4327",
+      "author": "MPIsaac-Per",
+      "at": "2026-09-01T12:19:30Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4326,
+      "title": "Build fails on Node 20 with ESM errors",
+      "url": "https://github.com/ComposioHQ/composio/issues/4326",
+      "author": "Viktoriusssss",
+      "at": "2026-09-01T11:26:45Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,26 +69,37 @@
       "at": "2026-09-01T00:22:02Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 98130,
-      "title": "docs: use an H2 for agent guidance notice",
-      "url": "https://github.com/vercel/next.js/pull/98130",
-      "author": "beaunus",
-      "at": "2026-09-01T05:51:55Z"
+      "number": 40103,
+      "title": "feat(openai): Adds serde param for gateway models",
+      "url": "https://github.com/langchain-ai/langchain/pull/40103",
+      "author": "jacoblee93",
+      "at": "2026-09-01T16:32:23Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40098,
+      "title": "perf(anthropic,langchain): omit middleware trace inputs",
+      "url": "https://github.com/langchain-ai/langchain/pull/40098",
+      "author": "ccurme",
+      "at": "2026-09-01T13:21:51Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98129,
-      "title": "[PPF] Separate tracking of runtime data accesses for shells and prefetches",
-      "url": "https://github.com/vercel/next.js/pull/98129",
-      "author": "lubieowoce",
-      "at": "2026-09-01T05:24:39Z"
+      "number": 98146,
+      "title": "Skip discussions in the `issue_lock` workflow",
+      "url": "https://github.com/vercel/next.js/pull/98146",
+      "author": "eps1lon",
+      "at": "2026-09-01T16:33:10Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -94,23 +116,23 @@
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49808,
-      "title": "fix(workers): update CLI call instructions FE-4316",
-      "url": "https://github.com/supabase/supabase/pull/49808",
-      "author": "jordienr",
-      "at": "2026-09-01T07:42:12Z"
+      "kind": "issue",
+      "number": 49859,
+      "title": "Tooltip overlaps keyboard shortcut tooltip on Invite members button",
+      "url": "https://github.com/supabase/supabase/issues/49859",
+      "author": "saurabh-xd",
+      "at": "2026-09-01T16:39:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49807,
-      "title": "fix(docs): stop sidebar from jumping on scroll",
-      "url": "https://github.com/supabase/supabase/pull/49807",
-      "author": "antlio",
-      "at": "2026-09-01T07:41:57Z"
+      "number": 49854,
+      "title": "docs: wire middleware sdk docs",
+      "url": "https://github.com/supabase/supabase/pull/49854",
+      "author": "mandarini",
+      "at": "2026-09-01T15:36:13Z"
     }
   ]
 }
