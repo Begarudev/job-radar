@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-08-31T19:48:22.196Z",
-  "count": 12,
+  "updatedAt": "2026-09-01T08:19:51.569Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5622,
-      "title": "Clarify open-source and Cloud product boundaries",
-      "url": "https://github.com/browser-use/browser-use/pull/5622",
-      "author": "gregpr07",
-      "at": "2026-08-31T06:34:26Z"
+      "number": 5643,
+      "title": "fix(gif): decode unicode escapes without latin1 encoding failure on existing unicode chars",
+      "url": "https://github.com/browser-use/browser-use/pull/5643",
+      "author": "lx3133584",
+      "at": "2026-09-01T07:27:06Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5621,
-      "title": "fix(browser): preserve default Chrome arg order",
-      "url": "https://github.com/browser-use/browser-use/pull/5621",
-      "author": "MagMueller",
-      "at": "2026-08-31T05:57:57Z"
+      "number": 5642,
+      "title": "fix(variable_detector): detect company_name and organization_name as company variables",
+      "url": "https://github.com/browser-use/browser-use/pull/5642",
+      "author": "lx3133584",
+      "at": "2026-09-01T06:49:46Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4321,
-      "title": "fix(sdk): map streamed file transport failures",
-      "url": "https://github.com/ComposioHQ/composio/pull/4321",
-      "author": "jkomyno",
-      "at": "2026-08-31T16:13:59Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4320,
-      "title": "[Bug]: LINKEDIN_CREATE_LINKED_IN_POST always returns 426 NONEXISTENT_VERSION (LinkedIn-Version 20241101 retired)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4320",
-      "author": "FuzulsFriend",
-      "at": "2026-08-31T16:00:00Z"
+      "number": 4324,
+      "title": "security: fix Parameter finding #91 (CWE-94) - identifier guard in ts-builders codegen",
+      "url": "https://github.com/ComposioHQ/composio/pull/4324",
+      "author": "groovyBugify",
+      "at": "2026-09-01T04:56:47Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2581,
-      "title": "fix(genai): omit request fields with cached content",
-      "url": "https://github.com/567-labs/instructor/pull/2581",
-      "author": "JimmyWang0417",
-      "at": "2026-08-31T14:29:00Z"
+      "number": 2584,
+      "title": "docs: fix typos across docs and examples",
+      "url": "https://github.com/567-labs/instructor/pull/2584",
+      "author": "toyeshhm",
+      "at": "2026-09-01T03:20:09Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2580,
-      "title": "v2 GenAI handlers regression: cached_content requests now include system_instruction/tools/tool_config → 400 INVALID_ARGUMENT",
-      "url": "https://github.com/567-labs/instructor/issues/2580",
-      "author": "lskrajny-marcura",
-      "at": "2026-08-31T10:53:43Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40077,
-      "title": "core: `_convert_to_v1_from_anthropic` mutates message.content when lifting `index` off an unrecognized block",
-      "url": "https://github.com/langchain-ai/langchain/issues/40077",
-      "author": "revanth-045",
-      "at": "2026-08-31T19:16:54Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40075,
-      "title": "core: `format_document` allows metadata keys to override `page_content`",
-      "url": "https://github.com/langchain-ai/langchain/issues/40075",
-      "author": "alwaysprince05",
-      "at": "2026-08-31T18:58:59Z"
+      "kind": "pr",
+      "number": 2583,
+      "title": "fix(openai): support SDK 3 HTTPX2 clients",
+      "url": "https://github.com/567-labs/instructor/pull/2583",
+      "author": "trumandaniels",
+      "at": "2026-09-01T00:22:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98119,
-      "title": "fix(cache): use atomic write for FileSystemCache to prevent corruptio…",
-      "url": "https://github.com/vercel/next.js/pull/98119",
-      "author": "tahiraltundag",
-      "at": "2026-08-31T18:25:47Z"
+      "number": 98130,
+      "title": "docs: use an H2 for agent guidance notice",
+      "url": "https://github.com/vercel/next.js/pull/98130",
+      "author": "beaunus",
+      "at": "2026-09-01T05:51:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98118,
-      "title": "fix(router): prevent unwanted scroll to hash when returning via back button",
-      "url": "https://github.com/vercel/next.js/pull/98118",
-      "author": "tahiraltundag",
-      "at": "2026-08-31T18:10:11Z"
+      "number": 98129,
+      "title": "[PPF] Separate tracking of runtime data accesses for shells and prefetches",
+      "url": "https://github.com/vercel/next.js/pull/98129",
+      "author": "lubieowoce",
+      "at": "2026-09-01T05:24:39Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.3.4 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.4",
+      "author": "eps1lon",
+      "at": "2026-08-31T20:02:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49797,
-      "title": "docs: add missing API key decision information",
-      "url": "https://github.com/supabase/supabase/pull/49797",
-      "author": "czenko",
-      "at": "2026-08-31T18:47:06Z"
+      "number": 49808,
+      "title": "fix(workers): update CLI call instructions FE-4316",
+      "url": "https://github.com/supabase/supabase/pull/49808",
+      "author": "jordienr",
+      "at": "2026-09-01T07:42:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49796,
-      "title": "docs: restructure the API keys guide by information type",
-      "url": "https://github.com/supabase/supabase/pull/49796",
-      "author": "czenko",
-      "at": "2026-08-31T18:46:48Z"
+      "number": 49807,
+      "title": "fix(docs): stop sidebar from jumping on scroll",
+      "url": "https://github.com/supabase/supabase/pull/49807",
+      "author": "antlio",
+      "at": "2026-09-01T07:41:57Z"
     }
   ]
 }
