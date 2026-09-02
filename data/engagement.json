@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-02T07:39:57.170Z",
-  "count": 11,
+  "updatedAt": "2026-09-02T17:33:46.594Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -28,12 +28,34 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4327,
-      "title": "[Bug]: Enhanced Controls maps Outlook read permissions to obsolete OUTLOOK_OUTLOOK_* slugs",
-      "url": "https://github.com/ComposioHQ/composio/issues/4327",
-      "author": "MPIsaac-Per",
-      "at": "2026-09-01T12:19:30Z"
+      "kind": "pr",
+      "number": 4336,
+      "title": "docs: Apps and toolkits, Composio Built vs Provider MCPs",
+      "url": "https://github.com/ComposioHQ/composio/pull/4336",
+      "author": "jjprodguy-composio",
+      "at": "2026-09-02T16:46:17Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4335,
+      "title": "feat(docs): add product context switcher",
+      "url": "https://github.com/ComposioHQ/composio/pull/4335",
+      "author": "olearycrew",
+      "at": "2026-09-02T13:18:31Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2587,
+      "title": "docs: fix blog code blocks that fail the docs lint",
+      "url": "https://github.com/567-labs/instructor/pull/2587",
+      "author": "hassaanch23",
+      "at": "2026-09-02T15:09:10Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +69,70 @@
       "at": "2026-09-02T01:01:12Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2585,
-      "title": "AutoCache/DiskCache key ignores temperature/seed/etc. — calls that only differ in sampling params silently return a stale cached response",
-      "url": "https://github.com/567-labs/instructor/issues/2585",
-      "author": "Yashwanth-Kumar-Kotla",
-      "at": "2026-09-02T01:00:56Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40147,
+      "title": "fix: handle reasoning model output tags in structured output parsing",
+      "url": "https://github.com/langchain-ai/langchain/pull/40147",
+      "author": "visnu64",
+      "at": "2026-09-02T14:34:41Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40136,
-      "title": "create_agent: the first `before_model` hook can return \"model\" but its path map omits it -> KeyError",
-      "url": "https://github.com/langchain-ai/langchain/issues/40136",
-      "author": "JessYanCoding",
-      "at": "2026-09-02T05:00:44Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40135,
-      "title": "fix(openai): route GPT-5.6 family to responses API",
-      "url": "https://github.com/langchain-ai/langchain/pull/40135",
-      "author": "hntrl",
-      "at": "2026-09-02T04:49:32Z"
+      "number": 40139,
+      "title": "HumanInTheLoopMiddleware `when` docstring describes nonexistent modes and incorrect runtime fields",
+      "url": "https://github.com/langchain-ai/langchain/issues/40139",
+      "author": "ChampionsZhang",
+      "at": "2026-09-02T08:43:50Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98165,
-      "title": "fix(telemetry): use the native AbortController so submissions are not refused on Node 24+",
-      "url": "https://github.com/vercel/next.js/pull/98165",
-      "author": "refirst11",
-      "at": "2026-09-02T07:14:46Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98164,
-      "title": "docs: local development: Rewrite docker section, add Windows Dev Drive and WSL2 instructions",
-      "url": "https://github.com/vercel/next.js/pull/98164",
-      "author": "bgw",
-      "at": "2026-09-02T00:40:30Z"
+      "number": 98189,
+      "title": "perf(turbopack): skip ignored files during server tracing",
+      "url": "https://github.com/vercel/next.js/pull/98189",
+      "author": "jimmyhmiller",
+      "at": "2026-09-02T16:56:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49884,
-      "title": "feat: Show min / max for integers in mgmt api docs",
-      "url": "https://github.com/supabase/supabase/pull/49884",
-      "author": "dcamachoc",
-      "at": "2026-09-02T07:27:33Z"
+      "number": 49918,
+      "title": "add github discussion link to explorer preview",
+      "url": "https://github.com/supabase/supabase/pull/49918",
+      "author": "charislam",
+      "at": "2026-09-02T16:39:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49883,
-      "title": "fix(self-hosted): surface the real Docker error instead of guessing",
-      "url": "https://github.com/supabase/supabase/pull/49883",
-      "author": "Harsh4r0ra",
-      "at": "2026-09-02T07:06:29Z"
+      "number": 49917,
+      "title": "docs(self-hosted): reorganize the left nav items",
+      "url": "https://github.com/supabase/supabase/pull/49917",
+      "author": "aantti",
+      "at": "2026-09-02T16:37:28Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4116,
+      "title": "modal.exception.DeserializationError occurs when accessing the Chinese URL",
+      "url": "https://github.com/modal-labs/modal-client/issues/4116",
+      "author": "HBcao233",
+      "at": "2026-06-05T11:37:09Z"
     }
   ]
 }
