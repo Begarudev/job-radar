@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-01T17:32:06.879Z",
-  "count": 12,
+  "updatedAt": "2026-09-02T07:39:57.170Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5647,
-      "title": "Interaction Issue: Existing values in pre-filled input fields are frequently not detected",
-      "url": "https://github.com/browser-use/browser-use/issues/5647",
-      "author": "ilyes-i-ben",
-      "at": "2026-09-01T17:00:20Z"
+      "kind": "pr",
+      "number": 5651,
+      "title": "fix(llm/google): retry SDK-raised errors with retryable status codes",
+      "url": "https://github.com/browser-use/browser-use/pull/5651",
+      "author": "shoutoutuoadi325",
+      "at": "2026-09-02T04:24:56Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5646,
-      "title": "fix(agent): preserve company variable classification",
-      "url": "https://github.com/browser-use/browser-use/pull/5646",
-      "author": "ECD5A",
-      "at": "2026-09-01T13:48:48Z"
+      "number": 5650,
+      "title": "Show the live value of pre-filled inputs to the agent",
+      "url": "https://github.com/browser-use/browser-use/pull/5650",
+      "author": "MagMueller",
+      "at": "2026-09-02T02:15:46Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,103 +36,92 @@
       "at": "2026-09-01T12:19:30Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2586,
+      "title": "fix(cache): include sampling parameters (temperature, seed, ...) in the cache key",
+      "url": "https://github.com/567-labs/instructor/pull/2586",
+      "author": "Yashwanth-Kumar-Kotla",
+      "at": "2026-09-02T01:01:12Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 4326,
-      "title": "Build fails on Node 20 with ESM errors",
-      "url": "https://github.com/ComposioHQ/composio/issues/4326",
-      "author": "Viktoriusssss",
-      "at": "2026-09-01T11:26:45Z"
+      "number": 2585,
+      "title": "AutoCache/DiskCache key ignores temperature/seed/etc. — calls that only differ in sampling params silently return a stale cached response",
+      "url": "https://github.com/567-labs/instructor/issues/2585",
+      "author": "Yashwanth-Kumar-Kotla",
+      "at": "2026-09-02T01:00:56Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2584,
-      "title": "docs: fix typos across docs and examples",
-      "url": "https://github.com/567-labs/instructor/pull/2584",
-      "author": "toyeshhm",
-      "at": "2026-09-01T03:20:09Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2583,
-      "title": "fix(openai): support SDK 3 HTTPX2 clients",
-      "url": "https://github.com/567-labs/instructor/pull/2583",
-      "author": "trumandaniels",
-      "at": "2026-09-01T00:22:02Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40136,
+      "title": "create_agent: the first `before_model` hook can return \"model\" but its path map omits it -> KeyError",
+      "url": "https://github.com/langchain-ai/langchain/issues/40136",
+      "author": "JessYanCoding",
+      "at": "2026-09-02T05:00:44Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40103,
-      "title": "feat(openai): Adds serde param for gateway models",
-      "url": "https://github.com/langchain-ai/langchain/pull/40103",
-      "author": "jacoblee93",
-      "at": "2026-09-01T16:32:23Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40098,
-      "title": "perf(anthropic,langchain): omit middleware trace inputs",
-      "url": "https://github.com/langchain-ai/langchain/pull/40098",
-      "author": "ccurme",
-      "at": "2026-09-01T13:21:51Z"
+      "number": 40135,
+      "title": "fix(openai): route GPT-5.6 family to responses API",
+      "url": "https://github.com/langchain-ai/langchain/pull/40135",
+      "author": "hntrl",
+      "at": "2026-09-02T04:49:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98146,
-      "title": "Skip discussions in the `issue_lock` workflow",
-      "url": "https://github.com/vercel/next.js/pull/98146",
-      "author": "eps1lon",
-      "at": "2026-09-01T16:33:10Z"
+      "number": 98165,
+      "title": "fix(telemetry): use the native AbortController so submissions are not refused on Node 24+",
+      "url": "https://github.com/vercel/next.js/pull/98165",
+      "author": "refirst11",
+      "at": "2026-09-02T07:14:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.3.4 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.4",
-      "author": "eps1lon",
-      "at": "2026-08-31T20:02:15Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 49859,
-      "title": "Tooltip overlaps keyboard shortcut tooltip on Invite members button",
-      "url": "https://github.com/supabase/supabase/issues/49859",
-      "author": "saurabh-xd",
-      "at": "2026-09-01T16:39:32Z"
+      "kind": "pr",
+      "number": 98164,
+      "title": "docs: local development: Rewrite docker section, add Windows Dev Drive and WSL2 instructions",
+      "url": "https://github.com/vercel/next.js/pull/98164",
+      "author": "bgw",
+      "at": "2026-09-02T00:40:30Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49854,
-      "title": "docs: wire middleware sdk docs",
-      "url": "https://github.com/supabase/supabase/pull/49854",
-      "author": "mandarini",
-      "at": "2026-09-01T15:36:13Z"
+      "number": 49884,
+      "title": "feat: Show min / max for integers in mgmt api docs",
+      "url": "https://github.com/supabase/supabase/pull/49884",
+      "author": "dcamachoc",
+      "at": "2026-09-02T07:27:33Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 49883,
+      "title": "fix(self-hosted): surface the real Docker error instead of guessing",
+      "url": "https://github.com/supabase/supabase/pull/49883",
+      "author": "Harsh4r0ra",
+      "at": "2026-09-02T07:06:29Z"
     }
   ]
 }
