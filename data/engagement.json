@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-02T17:33:46.594Z",
-  "count": 12,
+  "updatedAt": "2026-09-03T07:49:04.962Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5651,
-      "title": "fix(llm/google): retry SDK-raised errors with retryable status codes",
-      "url": "https://github.com/browser-use/browser-use/pull/5651",
-      "author": "shoutoutuoadi325",
-      "at": "2026-09-02T04:24:56Z"
+      "number": 5657,
+      "title": "fix(browser): ignore partial downloads and prevent double-dispatch",
+      "url": "https://github.com/browser-use/browser-use/pull/5657",
+      "author": "jhapriyavart10",
+      "at": "2026-09-03T06:49:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5650,
-      "title": "Show the live value of pre-filled inputs to the agent",
-      "url": "https://github.com/browser-use/browser-use/pull/5650",
-      "author": "MagMueller",
-      "at": "2026-09-02T02:15:46Z"
+      "number": 5656,
+      "title": "fix(agent): redact sensitive data inside nested lists and tuples",
+      "url": "https://github.com/browser-use/browser-use/pull/5656",
+      "author": "dajiaohuang",
+      "at": "2026-09-03T06:38:56Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,92 +36,81 @@
       "at": "2026-09-02T16:46:17Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4335,
-      "title": "feat(docs): add product context switcher",
-      "url": "https://github.com/ComposioHQ/composio/pull/4335",
-      "author": "olearycrew",
-      "at": "2026-09-02T13:18:31Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2587,
-      "title": "docs: fix blog code blocks that fail the docs lint",
-      "url": "https://github.com/567-labs/instructor/pull/2587",
-      "author": "hassaanch23",
-      "at": "2026-09-02T15:09:10Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2586,
-      "title": "fix(cache): include sampling parameters (temperature, seed, ...) in the cache key",
-      "url": "https://github.com/567-labs/instructor/pull/2586",
-      "author": "Yashwanth-Kumar-Kotla",
-      "at": "2026-09-02T01:01:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40147,
-      "title": "fix: handle reasoning model output tags in structured output parsing",
-      "url": "https://github.com/langchain-ai/langchain/pull/40147",
-      "author": "visnu64",
-      "at": "2026-09-02T14:34:41Z"
+      "number": 2588,
+      "title": "fix(validation): run declared async validators in the v2 retry path",
+      "url": "https://github.com/567-labs/instructor/pull/2588",
+      "author": "Ananthr16",
+      "at": "2026-09-02T19:54:25Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40139,
-      "title": "HumanInTheLoopMiddleware `when` docstring describes nonexistent modes and incorrect runtime fields",
-      "url": "https://github.com/langchain-ai/langchain/issues/40139",
+      "number": 40166,
+      "title": "`HumanInTheLoopMiddleware`: cross-tool edit bypasses the target tool's `interrupt_on` policy",
+      "url": "https://github.com/langchain-ai/langchain/issues/40166",
       "author": "ChampionsZhang",
-      "at": "2026-09-02T08:43:50Z"
+      "at": "2026-09-03T04:03:33Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40164,
+      "title": "`HumanInTheLoopMiddleware` silently drops configured `args_schema` from interrupt payload",
+      "url": "https://github.com/langchain-ai/langchain/issues/40164",
+      "author": "ChampionsZhang",
+      "at": "2026-09-03T02:50:16Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98189,
-      "title": "perf(turbopack): skip ignored files during server tracing",
-      "url": "https://github.com/vercel/next.js/pull/98189",
-      "author": "jimmyhmiller",
-      "at": "2026-09-02T16:56:35Z"
+      "number": 98208,
+      "title": "docs: bump year",
+      "url": "https://github.com/vercel/next.js/pull/98208",
+      "author": "ejqs",
+      "at": "2026-09-03T05:43:25Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98206,
+      "title": "fix: compareRouterStates for array queries and formatUrl hash encoding",
+      "url": "https://github.com/vercel/next.js/pull/98206",
+      "author": "VirajMishra1",
+      "at": "2026-09-03T01:16:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49918,
-      "title": "add github discussion link to explorer preview",
-      "url": "https://github.com/supabase/supabase/pull/49918",
-      "author": "charislam",
-      "at": "2026-09-02T16:39:27Z"
+      "number": 49941,
+      "title": "chore: make agent instructions agent-agnostic",
+      "url": "https://github.com/supabase/supabase/pull/49941",
+      "author": "alaister",
+      "at": "2026-09-03T06:21:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49917,
-      "title": "docs(self-hosted): reorganize the left nav items",
-      "url": "https://github.com/supabase/supabase/pull/49917",
-      "author": "aantti",
-      "at": "2026-09-02T16:37:28Z"
+      "number": 49939,
+      "title": "fix(studio): route auth hook updates through /config to prevent SMTP wipe",
+      "url": "https://github.com/supabase/supabase/pull/49939",
+      "author": "mandar1045",
+      "at": "2026-09-03T05:21:42Z"
     },
     {
       "founder": "Erik Bernhardsson",
