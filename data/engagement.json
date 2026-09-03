@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-09-03T07:49:04.962Z",
-  "count": 11,
+  "updatedAt": "2026-09-03T17:28:15.644Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5657,
-      "title": "fix(browser): ignore partial downloads and prevent double-dispatch",
-      "url": "https://github.com/browser-use/browser-use/pull/5657",
-      "author": "jhapriyavart10",
-      "at": "2026-09-03T06:49:14Z"
+      "number": 5660,
+      "title": "Bump browser-harness to 0.1.11",
+      "url": "https://github.com/browser-use/browser-use/pull/5660",
+      "author": "gregpr07",
+      "at": "2026-09-03T15:43:54Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5656,
-      "title": "fix(agent): redact sensitive data inside nested lists and tuples",
-      "url": "https://github.com/browser-use/browser-use/pull/5656",
-      "author": "dajiaohuang",
-      "at": "2026-09-03T06:38:56Z"
+      "number": 5659,
+      "title": "fix(aws): support query strings, fragments, and case-insensitive schemes in Bedrock image URLs (#5658)",
+      "url": "https://github.com/browser-use/browser-use/pull/5659",
+      "author": "loulanyue",
+      "at": "2026-09-03T15:15:08Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4343,
+      "title": "@composio/experimental/eve: defineComposioTools tools rejected by eve durable-callback contract (non-serializable capture)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4343",
+      "author": "Jamie-Ellis",
+      "at": "2026-09-03T16:24:53Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4336,
-      "title": "docs: Apps and toolkits, Composio Built vs Provider MCPs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4336",
-      "author": "jjprodguy-composio",
-      "at": "2026-09-02T16:46:17Z"
+      "number": 4340,
+      "title": "fix: declare MIT license classifier to match the LICENSE file",
+      "url": "https://github.com/ComposioHQ/composio/pull/4340",
+      "author": "SWAPI03",
+      "at": "2026-09-03T14:24:16Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2588,
-      "title": "fix(validation): run declared async validators in the v2 retry path",
-      "url": "https://github.com/567-labs/instructor/pull/2588",
-      "author": "Ananthr16",
-      "at": "2026-09-02T19:54:25Z"
+      "kind": "issue",
+      "number": 2590,
+      "title": "[HTTPXodus] Support `httpx2` in the OpenAI 3 path (complement to #2583)",
+      "url": "https://github.com/567-labs/instructor/issues/2590",
+      "author": "ProgrammerPlus1998",
+      "at": "2026-09-03T08:54:17Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40166,
-      "title": "`HumanInTheLoopMiddleware`: cross-tool edit bypasses the target tool's `interrupt_on` policy",
-      "url": "https://github.com/langchain-ai/langchain/issues/40166",
-      "author": "ChampionsZhang",
-      "at": "2026-09-03T04:03:33Z"
+      "number": 40184,
+      "title": "Proposal: Fix dead code in test_runnable and add Sustainable Agent Cookbook",
+      "url": "https://github.com/langchain-ai/langchain/issues/40184",
+      "author": "iamsevval",
+      "at": "2026-09-03T16:55:59Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40183,
+      "title": "docs: add openwiki",
+      "url": "https://github.com/langchain-ai/langchain/pull/40183",
+      "author": "npentrel",
+      "at": "2026-09-03T16:40:55Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 40164,
-      "title": "`HumanInTheLoopMiddleware` silently drops configured `args_schema` from interrupt payload",
-      "url": "https://github.com/langchain-ai/langchain/issues/40164",
-      "author": "ChampionsZhang",
-      "at": "2026-09-03T02:50:16Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98208,
-      "title": "docs: bump year",
-      "url": "https://github.com/vercel/next.js/pull/98208",
-      "author": "ejqs",
-      "at": "2026-09-03T05:43:25Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98206,
-      "title": "fix: compareRouterStates for array queries and formatUrl hash encoding",
-      "url": "https://github.com/vercel/next.js/pull/98206",
-      "author": "VirajMishra1",
-      "at": "2026-09-03T01:16:56Z"
+      "number": 98222,
+      "title": "cookies() inside after() returns pre-mutation values in a Route Handler",
+      "url": "https://github.com/vercel/next.js/issues/98222",
+      "author": "Nixxx19",
+      "at": "2026-09-03T15:34:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49941,
-      "title": "chore: make agent instructions agent-agnostic",
-      "url": "https://github.com/supabase/supabase/pull/49941",
-      "author": "alaister",
-      "at": "2026-09-03T06:21:59Z"
+      "number": 49969,
+      "title": "feat(studio): add Download as JSON option to SQL Editor results export",
+      "url": "https://github.com/supabase/supabase/pull/49969",
+      "author": "deepak25000000",
+      "at": "2026-09-03T17:11:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 49939,
-      "title": "fix(studio): route auth hook updates through /config to prevent SMTP wipe",
-      "url": "https://github.com/supabase/supabase/pull/49939",
-      "author": "mandar1045",
-      "at": "2026-09-03T05:21:42Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4116,
-      "title": "modal.exception.DeserializationError occurs when accessing the Chinese URL",
-      "url": "https://github.com/modal-labs/modal-client/issues/4116",
-      "author": "HBcao233",
-      "at": "2026-06-05T11:37:09Z"
+      "number": 49965,
+      "title": "feat(studio): additional events for scoped pat telemetry",
+      "url": "https://github.com/supabase/supabase/pull/49965",
+      "author": "kemaldotearth",
+      "at": "2026-09-03T15:16:38Z"
     }
   ]
 }
