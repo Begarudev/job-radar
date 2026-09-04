@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T07:44:47.305Z",
+  "updatedAt": "2026-09-04T17:20:15.021Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5673,
-      "title": "fix(llm): remap retired Mistral pixtral-large alias",
-      "url": "https://github.com/browser-use/browser-use/pull/5673",
-      "author": "nina-mir",
-      "at": "2026-09-04T06:08:17Z"
+      "number": 5676,
+      "title": "fix(aws): support query strings in Bedrock image URLs",
+      "url": "https://github.com/browser-use/browser-use/pull/5676",
+      "author": "VedanthB",
+      "at": "2026-09-04T12:23:39Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5672,
-      "title": "fix(llm): resolve DeepSeek and Cerebras API keys explicitly",
-      "url": "https://github.com/browser-use/browser-use/pull/5672",
-      "author": "nina-mir",
-      "at": "2026-09-04T04:24:19Z"
+      "number": 5675,
+      "title": "fix: preserve multiple Anthropic system messages",
+      "url": "https://github.com/browser-use/browser-use/pull/5675",
+      "author": "pranjalbhatia710",
+      "at": "2026-09-04T09:02:19Z"
     },
     {
       "founder": "Magnus Müller",
@@ -34,6 +34,17 @@
       "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.10",
       "author": "MagMueller",
       "at": "2026-09-04T03:28:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4355,
+      "title": "ci(ts): verify packed provider compatibility",
+      "url": "https://github.com/ComposioHQ/composio/pull/4355",
+      "author": "jkomyno",
+      "at": "2026-09-04T16:08:11Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,66 +73,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40197,
-      "title": "feat(langchain): add allow_list in ShellToolMiddleware",
-      "url": "https://github.com/langchain-ai/langchain/issues/40197",
-      "author": "BepuSun",
-      "at": "2026-09-04T07:37:35Z"
+      "number": 40202,
+      "title": "core: stale docstrings in `_write` and `set_text` — parameters that do not exist and an exception never raised",
+      "url": "https://github.com/langchain-ai/langchain/issues/40202",
+      "author": "blipbyte",
+      "at": "2026-09-04T16:40:30Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40201,
+      "title": "feat(openai): support `configuration_update`",
+      "url": "https://github.com/langchain-ai/langchain/pull/40201",
+      "author": "ccurme",
+      "at": "2026-09-04T15:02:14Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98270,
+      "title": "Fix turbopacks webpack loader setup to support options being optional",
+      "url": "https://github.com/vercel/next.js/pull/98270",
+      "author": "jimmyhmiller",
+      "at": "2026-09-04T17:15:48Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50013,
+      "title": "fix(studio): show 'Query ran successfully' for DML without RETURNING in SQL Editor",
+      "url": "https://github.com/supabase/supabase/pull/50013",
+      "author": "piyushrajyadav",
+      "at": "2026-09-04T15:54:46Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 40191,
-      "title": "feat(embeddings): support partner providers (voyageai, nomic, fireworks, together) in init_embeddings",
-      "url": "https://github.com/langchain-ai/langchain/issues/40191",
-      "author": "Rohitkanithi",
-      "at": "2026-09-04T04:58:17Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98255,
-      "title": "fix: track dynamic accesses in final runtime prerenders",
-      "url": "https://github.com/vercel/next.js/pull/98255",
-      "author": "lubieowoce",
-      "at": "2026-09-04T05:16:47Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98254,
-      "title": "Fix duplicate generated type declarations between dev and typegen",
-      "url": "https://github.com/vercel/next.js/pull/98254",
-      "author": "deshrajvermay9517-png",
-      "at": "2026-09-04T04:59:33Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49993,
-      "title": "ci(api): verify generated types against production",
-      "url": "https://github.com/supabase/supabase/pull/49993",
-      "author": "jordienr",
-      "at": "2026-09-04T07:40:29Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 49992,
-      "title": "feat(studio): gate health advisor behind flag",
-      "url": "https://github.com/supabase/supabase/pull/49992",
-      "author": "jordienr",
-      "at": "2026-09-04T07:39:58Z"
+      "number": 50011,
+      "title": "Cannot log in to Supabase via Github",
+      "url": "https://github.com/supabase/supabase/issues/50011",
+      "author": "cutieballoons",
+      "at": "2026-09-04T14:57:10Z"
     }
   ]
 }
