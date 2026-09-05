@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-09-04T17:20:15.021Z",
-  "count": 11,
+  "updatedAt": "2026-09-05T07:26:12.116Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5676,
-      "title": "fix(aws): support query strings in Bedrock image URLs",
-      "url": "https://github.com/browser-use/browser-use/pull/5676",
-      "author": "VedanthB",
-      "at": "2026-09-04T12:23:39Z"
+      "number": 5678,
+      "title": "feat(mcp): support Streamable HTTP client connections",
+      "url": "https://github.com/browser-use/browser-use/pull/5678",
+      "author": "lidongChen-ai",
+      "at": "2026-09-05T03:27:27Z"
     },
     {
       "founder": "Magnus Müller",
@@ -25,103 +25,81 @@
       "at": "2026-09-04T09:02:19Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.10 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.10",
-      "author": "MagMueller",
-      "at": "2026-09-04T03:28:53Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4355,
-      "title": "ci(ts): verify packed provider compatibility",
-      "url": "https://github.com/ComposioHQ/composio/pull/4355",
-      "author": "jkomyno",
-      "at": "2026-09-04T16:08:11Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2593,
-      "title": "docs: fix concept code blocks failing the docs lint (12 Weekly Tests failures)",
-      "url": "https://github.com/567-labs/instructor/pull/2593",
-      "author": "rkfshakti",
-      "at": "2026-09-04T02:52:24Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2592,
-      "title": "[HTTPXodus] migrate httpx to httpx2 with dual import (closes #2590)",
-      "url": "https://github.com/567-labs/instructor/pull/2592",
-      "author": "ProgrammerPlus1998",
-      "at": "2026-09-04T02:33:08Z"
+      "number": 2597,
+      "title": "chore(release): consolidate fixes and prepare Instructor 1.17.0",
+      "url": "https://github.com/567-labs/instructor/pull/2597",
+      "author": "jxnl",
+      "at": "2026-09-05T03:50:32Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40202,
-      "title": "core: stale docstrings in `_write` and `set_text` — parameters that do not exist and an exception never raised",
-      "url": "https://github.com/langchain-ai/langchain/issues/40202",
-      "author": "blipbyte",
-      "at": "2026-09-04T16:40:30Z"
+      "number": 40216,
+      "title": "openai: `login_chatgpt_device` fails with HTTP 400 before issuing a device code",
+      "url": "https://github.com/langchain-ai/langchain/issues/40216",
+      "author": "chingweih",
+      "at": "2026-09-05T06:04:18Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40201,
-      "title": "feat(openai): support `configuration_update`",
-      "url": "https://github.com/langchain-ai/langchain/pull/40201",
-      "author": "ccurme",
-      "at": "2026-09-04T15:02:14Z"
+      "number": 40213,
+      "title": "fix(core): avoid mutating message content in Anthropic translator",
+      "url": "https://github.com/langchain-ai/langchain/pull/40213",
+      "author": "revanth-045",
+      "at": "2026-09-05T05:45:40Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 98287,
+      "title": "Turbopack build omits __NEXT_DATA__.dynamicIds for next/dynamic({ ssr: true }) declared in pages/_app — server HTML discarded on hydration",
+      "url": "https://github.com/vercel/next.js/issues/98287",
+      "author": "milosz-gustawski",
+      "at": "2026-09-05T06:52:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98270,
-      "title": "Fix turbopacks webpack loader setup to support options being optional",
-      "url": "https://github.com/vercel/next.js/pull/98270",
-      "author": "jimmyhmiller",
-      "at": "2026-09-04T17:15:48Z"
+      "number": 98286,
+      "title": "fix(router): cascade Pages Router route announcer to the h1 and pathname",
+      "url": "https://github.com/vercel/next.js/pull/98286",
+      "author": "stop1love1",
+      "at": "2026-09-05T06:50:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50013,
-      "title": "fix(studio): show 'Query ran successfully' for DML without RETURNING in SQL Editor",
-      "url": "https://github.com/supabase/supabase/pull/50013",
-      "author": "piyushrajyadav",
-      "at": "2026-09-04T15:54:46Z"
+      "number": 50037,
+      "title": "Fix/table editor zero filter count 49776",
+      "url": "https://github.com/supabase/supabase/pull/50037",
+      "author": "sugata100",
+      "at": "2026-09-05T04:29:29Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50011,
-      "title": "Cannot log in to Supabase via Github",
-      "url": "https://github.com/supabase/supabase/issues/50011",
-      "author": "cutieballoons",
-      "at": "2026-09-04T14:57:10Z"
+      "kind": "pr",
+      "number": 50036,
+      "title": "Fix/invoice download blank tab 49885",
+      "url": "https://github.com/supabase/supabase/pull/50036",
+      "author": "sugata100",
+      "at": "2026-09-05T04:19:05Z"
     }
   ]
 }
