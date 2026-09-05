@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-05T07:26:12.116Z",
-  "count": 9,
+  "updatedAt": "2026-09-05T16:29:50.660Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5678,
-      "title": "feat(mcp): support Streamable HTTP client connections",
-      "url": "https://github.com/browser-use/browser-use/pull/5678",
-      "author": "lidongChen-ai",
-      "at": "2026-09-05T03:27:27Z"
+      "number": 5694,
+      "title": "fix(tools): remove unreachable duplicated file_system elif arms",
+      "url": "https://github.com/browser-use/browser-use/pull/5694",
+      "author": "simpleqt",
+      "at": "2026-09-05T16:24:59Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5675,
-      "title": "fix: preserve multiple Anthropic system messages",
-      "url": "https://github.com/browser-use/browser-use/pull/5675",
-      "author": "pranjalbhatia710",
-      "at": "2026-09-04T09:02:19Z"
+      "number": 5693,
+      "title": "docs(llm): restore the contiguous supported-LLM list broken by a merge",
+      "url": "https://github.com/browser-use/browser-use/pull/5693",
+      "author": "simpleqt",
+      "at": "2026-09-05T16:06:16Z"
     },
     {
       "founder": "Jason Liu",
@@ -40,44 +40,44 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40216,
-      "title": "openai: `login_chatgpt_device` fails with HTTP 400 before issuing a device code",
-      "url": "https://github.com/langchain-ai/langchain/issues/40216",
-      "author": "chingweih",
-      "at": "2026-09-05T06:04:18Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40213,
-      "title": "fix(core): avoid mutating message content in Anthropic translator",
-      "url": "https://github.com/langchain-ai/langchain/pull/40213",
-      "author": "revanth-045",
-      "at": "2026-09-05T05:45:40Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 98287,
-      "title": "Turbopack build omits __NEXT_DATA__.dynamicIds for next/dynamic({ ssr: true }) declared in pages/_app — server HTML discarded on hydration",
-      "url": "https://github.com/vercel/next.js/issues/98287",
-      "author": "milosz-gustawski",
-      "at": "2026-09-05T06:52:02Z"
+      "number": 40219,
+      "title": "[langchain-deepseek] _get_request_payload drops reasoning_content from prior assistant messages, causing    400 errors on tool calls",
+      "url": "https://github.com/langchain-ai/langchain/issues/40219",
+      "author": "tftz-ll",
+      "at": "2026-09-05T09:36:35Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98286,
-      "title": "fix(router): cascade Pages Router route announcer to the h1 and pathname",
-      "url": "https://github.com/vercel/next.js/pull/98286",
-      "author": "stop1love1",
-      "at": "2026-09-05T06:50:32Z"
+      "number": 98292,
+      "title": "Turbopack: include pages/_app next/dynamic imports in each page's loadable manifest",
+      "url": "https://github.com/vercel/next.js/pull/98292",
+      "author": "andrewimm",
+      "at": "2026-09-05T16:19:33Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98291,
+      "title": "docs: add a section on measuring memory at runtime",
+      "url": "https://github.com/vercel/next.js/pull/98291",
+      "author": "xabierlameiro",
+      "at": "2026-09-05T13:25:13Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50038,
+      "title": "docs: fix broken CLI installation guide link on CLI overview page",
+      "url": "https://github.com/supabase/supabase/pull/50038",
+      "author": "areesh-ali",
+      "at": "2026-09-05T07:50:45Z"
     },
     {
       "founder": "Paul Copplestone",
@@ -89,17 +89,6 @@
       "url": "https://github.com/supabase/supabase/pull/50037",
       "author": "sugata100",
       "at": "2026-09-05T04:29:29Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50036,
-      "title": "Fix/invoice download blank tab 49885",
-      "url": "https://github.com/supabase/supabase/pull/50036",
-      "author": "sugata100",
-      "at": "2026-09-05T04:19:05Z"
     }
   ]
 }
