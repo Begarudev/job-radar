@@ -1,39 +1,83 @@
 {
-  "updatedAt": "2026-09-05T16:29:50.660Z",
-  "count": 8,
+  "updatedAt": "2026-09-06T07:40:06.264Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5694,
-      "title": "fix(tools): remove unreachable duplicated file_system elif arms",
-      "url": "https://github.com/browser-use/browser-use/pull/5694",
-      "author": "simpleqt",
-      "at": "2026-09-05T16:24:59Z"
+      "number": 5702,
+      "title": "fix(browser): catch corrupt-EOCD OSError in _extract_extension so the CRX fallback runs",
+      "url": "https://github.com/browser-use/browser-use/pull/5702",
+      "author": "Shxiao101",
+      "at": "2026-09-06T05:15:03Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5693,
-      "title": "docs(llm): restore the contiguous supported-LLM list broken by a merge",
-      "url": "https://github.com/browser-use/browser-use/pull/5693",
-      "author": "simpleqt",
-      "at": "2026-09-05T16:06:16Z"
+      "number": 5701,
+      "title": "fix(tokens): keep usage summary counts and costs consistent",
+      "url": "https://github.com/browser-use/browser-use/pull/5701",
+      "author": "yashb98",
+      "at": "2026-09-06T05:07:10Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4369,
+      "title": "Bug : Default OpenAIProvider is a process-wide singleton — last-created Composio() instance hijacks tool execution for all other instances (",
+      "url": "https://github.com/ComposioHQ/composio/issues/4369",
+      "author": "AdeshDeshmukh",
+      "at": "2026-09-05T21:30:38Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4368,
+      "title": "MCP.create()/update() silently drop authConfigId when a toolkit also specifies toolkit (else-if bug)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4368",
+      "author": "VANDRANKI",
+      "at": "2026-09-05T16:37:07Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2597,
-      "title": "chore(release): consolidate fixes and prepare Instructor 1.17.0",
-      "url": "https://github.com/567-labs/instructor/pull/2597",
-      "author": "jxnl",
-      "at": "2026-09-05T03:50:32Z"
+      "number": 2599,
+      "title": "docs: fix broken internal anchor links",
+      "url": "https://github.com/567-labs/instructor/pull/2599",
+      "author": "Jacky-J126",
+      "at": "2026-09-06T04:41:05Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2598,
+      "title": "feat(providers): add Atlas Cloud",
+      "url": "https://github.com/567-labs/instructor/pull/2598",
+      "author": "binyangzhu000-sudo",
+      "at": "2026-09-05T17:24:37Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40225,
+      "title": "core: `test_text_accessor` never calls `.text()`, leaving the deprecated shim without coverage",
+      "url": "https://github.com/langchain-ai/langchain/issues/40225",
+      "author": "blipbyte",
+      "at": "2026-09-05T16:54:03Z"
     },
     {
       "founder": "Harrison Chase",
@@ -51,44 +95,33 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98292,
-      "title": "Turbopack: include pages/_app next/dynamic imports in each page's loadable manifest",
-      "url": "https://github.com/vercel/next.js/pull/98292",
-      "author": "andrewimm",
-      "at": "2026-09-05T16:19:33Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98291,
-      "title": "docs: add a section on measuring memory at runtime",
-      "url": "https://github.com/vercel/next.js/pull/98291",
-      "author": "xabierlameiro",
-      "at": "2026-09-05T13:25:13Z"
+      "number": 98298,
+      "title": "fix(eslint-plugin-next): support pageExtensions in no-html-link-for-pages rule",
+      "url": "https://github.com/vercel/next.js/pull/98298",
+      "author": "Larslllllll",
+      "at": "2026-09-05T23:32:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50038,
-      "title": "docs: fix broken CLI installation guide link on CLI overview page",
-      "url": "https://github.com/supabase/supabase/pull/50038",
-      "author": "areesh-ali",
-      "at": "2026-09-05T07:50:45Z"
+      "number": 50048,
+      "title": "Fix docs search request guards and subsection payloads",
+      "url": "https://github.com/supabase/supabase/pull/50048",
+      "author": "avinashgola",
+      "at": "2026-09-06T03:32:16Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50037,
-      "title": "Fix/table editor zero filter count 49776",
-      "url": "https://github.com/supabase/supabase/pull/50037",
-      "author": "sugata100",
-      "at": "2026-09-05T04:29:29Z"
+      "number": 50047,
+      "title": "Mobilvendor prod",
+      "url": "https://github.com/supabase/supabase/pull/50047",
+      "author": "eag662299-cpu",
+      "at": "2026-09-06T02:23:33Z"
     }
   ]
 }
