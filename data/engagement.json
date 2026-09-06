@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-09-06T07:40:06.264Z",
-  "count": 11,
+  "updatedAt": "2026-09-06T16:40:29.058Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5702,
-      "title": "fix(browser): catch corrupt-EOCD OSError in _extract_extension so the CRX fallback runs",
-      "url": "https://github.com/browser-use/browser-use/pull/5702",
-      "author": "Shxiao101",
-      "at": "2026-09-06T05:15:03Z"
+      "number": 5705,
+      "title": "fix(llm): add DeepSeek, Groq, Ollama, and OpenRouter to model factory",
+      "url": "https://github.com/browser-use/browser-use/pull/5705",
+      "author": "pranaysb",
+      "at": "2026-09-06T11:35:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5701,
-      "title": "fix(tokens): keep usage summary counts and costs consistent",
-      "url": "https://github.com/browser-use/browser-use/pull/5701",
-      "author": "yashb98",
-      "at": "2026-09-06T05:07:10Z"
+      "number": 5704,
+      "title": "fix(llm): preserve Mistral schema field names",
+      "url": "https://github.com/browser-use/browser-use/pull/5704",
+      "author": "VedanthB",
+      "at": "2026-09-06T11:12:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4370,
+      "title": "fix(python-sdk): isolate default provider per Composio instance",
+      "url": "https://github.com/ComposioHQ/composio/pull/4370",
+      "author": "AdeshDeshmukh",
+      "at": "2026-09-06T12:02:37Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,92 +47,92 @@
       "at": "2026-09-05T21:30:38Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4368,
-      "title": "MCP.create()/update() silently drop authConfigId when a toolkit also specifies toolkit (else-if bug)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4368",
-      "author": "VANDRANKI",
-      "at": "2026-09-05T16:37:07Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2601,
+      "title": "fix(genai): restore MAX_TOKENS truncation check lost in v2 refactor",
+      "url": "https://github.com/567-labs/instructor/pull/2601",
+      "author": "CTWalk",
+      "at": "2026-09-06T11:36:55Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2599,
-      "title": "docs: fix broken internal anchor links",
-      "url": "https://github.com/567-labs/instructor/pull/2599",
-      "author": "Jacky-J126",
-      "at": "2026-09-06T04:41:05Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2598,
-      "title": "feat(providers): add Atlas Cloud",
-      "url": "https://github.com/567-labs/instructor/pull/2598",
-      "author": "binyangzhu000-sudo",
-      "at": "2026-09-05T17:24:37Z"
+      "number": 2600,
+      "title": "fix(partial): preserve model instances in nullable list streams",
+      "url": "https://github.com/567-labs/instructor/pull/2600",
+      "author": "feng1201",
+      "at": "2026-09-06T10:38:11Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40225,
-      "title": "core: `test_text_accessor` never calls `.text()`, leaving the deprecated shim without coverage",
-      "url": "https://github.com/langchain-ai/langchain/issues/40225",
-      "author": "blipbyte",
-      "at": "2026-09-05T16:54:03Z"
+      "number": 40241,
+      "title": "Bug: three prompt-loading symlink tests fail on Windows without symlink privilege",
+      "url": "https://github.com/langchain-ai/langchain/issues/40241",
+      "author": "iam-kira",
+      "at": "2026-09-06T10:21:39Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40219,
-      "title": "[langchain-deepseek] _get_request_payload drops reasoning_content from prior assistant messages, causing    400 errors on tool calls",
-      "url": "https://github.com/langchain-ai/langchain/issues/40219",
-      "author": "tftz-ll",
-      "at": "2026-09-05T09:36:35Z"
+      "number": 40236,
+      "title": "Import time: langchain_core.runnables eagerly imports the langsmith SDK via tracer modules",
+      "url": "https://github.com/langchain-ai/langchain/issues/40236",
+      "author": "Berniebiloxi",
+      "at": "2026-09-06T08:32:00Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98298,
-      "title": "fix(eslint-plugin-next): support pageExtensions in no-html-link-for-pages rule",
-      "url": "https://github.com/vercel/next.js/pull/98298",
-      "author": "Larslllllll",
-      "at": "2026-09-05T23:32:25Z"
+      "kind": "issue",
+      "number": 98305,
+      "title": "App Router 15.5.25: a <Link> clicked at hydration can park a transition lane that is never pinged (38/160; 0/160 on 16.3.4)",
+      "url": "https://github.com/vercel/next.js/issues/98305",
+      "author": "Elchimn",
+      "at": "2026-09-06T13:32:11Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 98303,
+      "title": "Server Action update never commits: a transition lane stays suspended and is never pinged",
+      "url": "https://github.com/vercel/next.js/issues/98303",
+      "author": "dakini10",
+      "at": "2026-09-06T09:32:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50048,
-      "title": "Fix docs search request guards and subsection payloads",
-      "url": "https://github.com/supabase/supabase/pull/50048",
-      "author": "avinashgola",
-      "at": "2026-09-06T03:32:16Z"
+      "number": 50060,
+      "title": "docs: fix link to skip authorization checks",
+      "url": "https://github.com/supabase/supabase/pull/50060",
+      "author": "dancer1325",
+      "at": "2026-09-06T15:58:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50047,
-      "title": "Mobilvendor prod",
-      "url": "https://github.com/supabase/supabase/pull/50047",
-      "author": "eag662299-cpu",
-      "at": "2026-09-06T02:23:33Z"
+      "number": 50058,
+      "title": "fix(studio): stop composite FK cell edits from silently changing sibling columns",
+      "url": "https://github.com/supabase/supabase/pull/50058",
+      "author": "Bhumika-1432006",
+      "at": "2026-09-06T13:38:49Z"
     }
   ]
 }
