@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-07T07:57:55.616Z",
-  "count": 12,
+  "updatedAt": "2026-09-07T18:33:33.980Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5706,
-      "title": "ci: run the platform-sensitive tests on Windows",
-      "url": "https://github.com/browser-use/browser-use/pull/5706",
-      "author": "Mohil-Ahuja",
-      "at": "2026-09-06T17:08:33Z"
+      "number": 5714,
+      "title": "docs: guide agents from free credits to a bounded Cloud run",
+      "url": "https://github.com/browser-use/browser-use/pull/5714",
+      "author": "gregpr07",
+      "at": "2026-09-07T18:15:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5705,
-      "title": "fix(llm): add DeepSeek, Groq, Ollama, and OpenRouter to model factory",
-      "url": "https://github.com/browser-use/browser-use/pull/5705",
-      "author": "pranaysb",
-      "at": "2026-09-06T11:35:25Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4370,
-      "title": "fix(python-sdk): isolate default provider per Composio instance",
-      "url": "https://github.com/ComposioHQ/composio/pull/4370",
-      "author": "AdeshDeshmukh",
-      "at": "2026-09-06T12:02:37Z"
+      "number": 5713,
+      "title": "Add PKCE account login for OrcaRouter",
+      "url": "https://github.com/browser-use/browser-use/pull/5713",
+      "author": "akf66",
+      "at": "2026-09-07T17:31:54Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2602,
-      "title": "feat(providers): add Hubris provider",
-      "url": "https://github.com/567-labs/instructor/pull/2602",
-      "author": "Aimagine-life",
-      "at": "2026-09-06T20:32:32Z"
+      "number": 2604,
+      "title": "fix: defensively sanitize markdown from raw JSON responses",
+      "url": "https://github.com/567-labs/instructor/pull/2604",
+      "author": "hariom123-dev",
+      "at": "2026-09-07T16:47:46Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2601,
-      "title": "fix(genai): restore MAX_TOKENS truncation check lost in v2 refactor",
-      "url": "https://github.com/567-labs/instructor/pull/2601",
-      "author": "CTWalk",
-      "at": "2026-09-06T11:36:55Z"
+      "kind": "issue",
+      "number": 2603,
+      "title": "`prepare_response_model` creates a new Pydantic class on every request, leaking one model class + validator per call",
+      "url": "https://github.com/567-labs/instructor/issues/2603",
+      "author": "philno",
+      "at": "2026-09-07T15:53:34Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40256,
-      "title": "ShellToolMiddleware.aafter_agent blocks the asyncio event loop during shutdown",
-      "url": "https://github.com/langchain-ai/langchain/issues/40256",
+      "number": 40263,
+      "title": "`MCPAdapter` resume fails when a new initial call receives a new elicitation key",
+      "url": "https://github.com/langchain-ai/langchain/issues/40263",
+      "author": "Totoro-qaq",
+      "at": "2026-09-07T09:54:01Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40261,
+      "title": "ContextEditingMiddleware blocks the event loop with model-based token counting",
+      "url": "https://github.com/langchain-ai/langchain/issues/40261",
       "author": "ChampionsZhang",
-      "at": "2026-09-07T04:56:04Z"
+      "at": "2026-09-07T09:32:37Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 40255,
-      "title": "file_search fallback: unbounded regex execution when ripgrep is absent (ReDoS)",
-      "url": "https://github.com/langchain-ai/langchain/issues/40255",
-      "author": "john-kearney",
-      "at": "2026-09-07T04:48:28Z"
+      "number": 98326,
+      "title": "Extra/duplicate revalidations with `cacheComponents` while data is loading",
+      "url": "https://github.com/vercel/next.js/issues/98326",
+      "author": "yandodov",
+      "at": "2026-09-07T16:58:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98314,
-      "title": "fix(app-router): handle browser-translated route announcements",
-      "url": "https://github.com/vercel/next.js/pull/98314",
-      "author": "sapandiwakar",
-      "at": "2026-09-07T07:15:32Z"
+      "number": 98324,
+      "title": "fix(router): keep scroll position on a same-URL retry and on a non-redirecting server action",
+      "url": "https://github.com/vercel/next.js/pull/98324",
+      "author": "onyxdevs",
+      "at": "2026-09-07T16:16:27Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98312,
-      "title": "turbo-tasks-backend: fix strongly consistent read hanging on a canceled task",
-      "url": "https://github.com/vercel/next.js/pull/98312",
-      "author": "lukesandberg",
-      "at": "2026-09-07T00:54:44Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 50096,
+      "title": "Organization not showing!",
+      "url": "https://github.com/supabase/supabase/issues/50096",
+      "author": "Apurratus",
+      "at": "2026-09-07T17:48:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50078,
-      "title": "fix(studio): allow pipeline number inputs to be cleared",
-      "url": "https://github.com/supabase/supabase/pull/50078",
-      "author": "dnywh",
-      "at": "2026-09-07T07:28:35Z"
+      "number": 50093,
+      "title": "chore: Add support for admonition in gfm alert notation",
+      "url": "https://github.com/supabase/supabase/pull/50093",
+      "author": "jeremenichelli",
+      "at": "2026-09-07T17:32:06Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -124,15 +124,37 @@
       "at": "2026-09-06T20:42:57Z"
     },
     {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4131,
+      "title": "`modal volume get` can silently create sparse or truncated files after short block downloads",
+      "url": "https://github.com/modal-labs/modal-client/issues/4131",
+      "author": "jasondavies",
+      "at": "2026-08-13T16:34:54Z"
+    },
+    {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 2245,
-      "title": "Ignore generated Prisma client in scaffolds' prettier runs (Fixes #2217)",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2245",
-      "author": "ssmurfgg04-gif",
-      "at": "2026-09-06T19:48:25Z"
+      "number": 2247,
+      "title": "fix: improve package manager selector UX",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2247",
+      "author": "HimanshuTamoli24",
+      "at": "2026-09-07T11:37:30Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2246,
+      "title": "fix: improve package manager selector UX",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2246",
+      "author": "HimanshuTamoli24",
+      "at": "2026-09-07T11:35:26Z"
     }
   ]
 }
