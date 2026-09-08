@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T18:33:33.980Z",
+  "updatedAt": "2026-09-08T07:51:07.811Z",
   "count": 14,
   "signals": [
     {
@@ -7,44 +7,66 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5714,
-      "title": "docs: guide agents from free credits to a bounded Cloud run",
-      "url": "https://github.com/browser-use/browser-use/pull/5714",
-      "author": "gregpr07",
-      "at": "2026-09-07T18:15:02Z"
+      "number": 5724,
+      "title": "fix(agent): stop masking step failures as output format errors",
+      "url": "https://github.com/browser-use/browser-use/pull/5724",
+      "author": "hyeonsang010716",
+      "at": "2026-09-08T05:35:04Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5713,
-      "title": "Add PKCE account login for OrcaRouter",
-      "url": "https://github.com/browser-use/browser-use/pull/5713",
-      "author": "akf66",
-      "at": "2026-09-07T17:31:54Z"
+      "number": 5723,
+      "title": "fix: defer change event until input replacement",
+      "url": "https://github.com/browser-use/browser-use/pull/5723",
+      "author": "dajiaohuang",
+      "at": "2026-09-08T03:19:35Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4377,
+      "title": "[Feature]: FLUJO instructions in Connect my agent and Composio Connect",
+      "url": "https://github.com/ComposioHQ/composio/issues/4377",
+      "author": "flujo-app",
+      "at": "2026-09-08T03:35:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2604,
-      "title": "fix: defensively sanitize markdown from raw JSON responses",
-      "url": "https://github.com/567-labs/instructor/pull/2604",
-      "author": "hariom123-dev",
-      "at": "2026-09-07T16:47:46Z"
+      "number": 2608,
+      "title": "fix(genai): preserve text part metadata during templating",
+      "url": "https://github.com/567-labs/instructor/pull/2608",
+      "author": "RealJasonHu",
+      "at": "2026-09-08T04:14:28Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2603,
-      "title": "`prepare_response_model` creates a new Pydantic class on every request, leaking one model class + validator per call",
-      "url": "https://github.com/567-labs/instructor/issues/2603",
-      "author": "philno",
-      "at": "2026-09-07T15:53:34Z"
+      "number": 2607,
+      "title": "GenAI templating drops thought metadata from text parts",
+      "url": "https://github.com/567-labs/instructor/issues/2607",
+      "author": "RealJasonHu",
+      "at": "2026-09-08T04:13:55Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40268,
+      "title": "release(openai): 1.6.1",
+      "url": "https://github.com/langchain-ai/langchain/pull/40268",
+      "author": "ccurme",
+      "at": "2026-09-07T18:42:43Z"
     },
     {
       "founder": "Harrison Chase",
@@ -58,70 +80,48 @@
       "at": "2026-09-07T09:54:01Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 40261,
-      "title": "ContextEditingMiddleware blocks the event loop with model-based token counting",
-      "url": "https://github.com/langchain-ai/langchain/issues/40261",
-      "author": "ChampionsZhang",
-      "at": "2026-09-07T09:32:37Z"
+      "number": 98345,
+      "title": "router.prefetch redirect loop",
+      "url": "https://github.com/vercel/next.js/issues/98345",
+      "author": "skurekjakub",
+      "at": "2026-09-08T07:50:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 98326,
-      "title": "Extra/duplicate revalidations with `cacheComponents` while data is loading",
-      "url": "https://github.com/vercel/next.js/issues/98326",
-      "author": "yandodov",
-      "at": "2026-09-07T16:58:24Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98324,
-      "title": "fix(router): keep scroll position on a same-URL retry and on a non-redirecting server action",
-      "url": "https://github.com/vercel/next.js/pull/98324",
-      "author": "onyxdevs",
-      "at": "2026-09-07T16:16:27Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50096,
-      "title": "Organization not showing!",
-      "url": "https://github.com/supabase/supabase/issues/50096",
-      "author": "Apurratus",
-      "at": "2026-09-07T17:48:36Z"
+      "number": 98344,
+      "title": "generateStaticParams with output=export is flaky in dev env with encoded params",
+      "url": "https://github.com/vercel/next.js/issues/98344",
+      "author": "ahmed33033",
+      "at": "2026-09-08T03:42:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50093,
-      "title": "chore: Add support for admonition in gfm alert notation",
-      "url": "https://github.com/supabase/supabase/pull/50093",
-      "author": "jeremenichelli",
-      "at": "2026-09-07T17:32:06Z"
+      "number": 50116,
+      "title": "docs(csharp): add new C# Reference for v8.0.0",
+      "url": "https://github.com/supabase/supabase/pull/50116",
+      "author": "Tr00d",
+      "at": "2026-09-08T06:49:43Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4132,
-      "title": "GPU memory snapshot restore segfaults (exit 139) on ~60% of restores; failed restore also forces a snapshot re-creation on the next containe",
-      "url": "https://github.com/modal-labs/modal-client/issues/4132",
-      "author": "MaxEllis",
-      "at": "2026-09-06T20:42:57Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50115,
+      "title": "fix(docs): inline button style inconsistency",
+      "url": "https://github.com/supabase/supabase/pull/50115",
+      "author": "antlio",
+      "at": "2026-09-08T06:28:41Z"
     },
     {
       "founder": "Erik Bernhardsson",
