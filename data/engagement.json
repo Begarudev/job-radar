@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-09-10T07:53:53.587Z",
-  "count": 12,
+  "updatedAt": "2026-09-10T17:27:43.478Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5769,
-      "title": "fix(dom): keep visible code elements whose id contains data/state",
-      "url": "https://github.com/browser-use/browser-use/pull/5769",
-      "author": "soroush5",
-      "at": "2026-09-10T07:37:52Z"
+      "number": 5771,
+      "title": "fix(browser): clean up local browser process trees",
+      "url": "https://github.com/browser-use/browser-use/pull/5771",
+      "author": "Dante-dan",
+      "at": "2026-09-10T11:54:01Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5768,
-      "title": "fix(agent): preserve token usage in AgentHistoryList save/load round-trip",
-      "url": "https://github.com/browser-use/browser-use/pull/5768",
-      "author": "soroush5",
-      "at": "2026-09-10T07:05:39Z"
+      "kind": "issue",
+      "number": 5770,
+      "title": "Bug: browser teardown hangs on Windows CI runners and leaves orphaned Chrome processes",
+      "url": "https://github.com/browser-use/browser-use/issues/5770",
+      "author": "Mohil-Ahuja",
+      "at": "2026-09-10T09:46:52Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4413,
-      "title": "fix(docs): hide deprecated fields from API reference",
-      "url": "https://github.com/ComposioHQ/composio/pull/4413",
-      "author": "olearycrew",
-      "at": "2026-09-09T23:14:02Z"
+      "number": 4421,
+      "title": "fix(cli): curated help for every command family and a help command",
+      "url": "https://github.com/ComposioHQ/composio/pull/4421",
+      "author": "jkomyno",
+      "at": "2026-09-10T15:51:03Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,67 +50,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40353,
-      "title": "fix(text-splitters): strip closing hashes in MarkdownHeaderTextSplitter",
-      "url": "https://github.com/langchain-ai/langchain/pull/40353",
-      "author": "RauhanAhmed",
-      "at": "2026-09-10T07:53:21Z"
+      "kind": "issue",
+      "number": 40379,
+      "title": "ChatOpenRouter: max_retries=0 enables the SDK default retry policy",
+      "url": "https://github.com/langchain-ai/langchain/issues/40379",
+      "author": "pj991207",
+      "at": "2026-09-10T17:11:50Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40351,
-      "title": "Google GenAI conversion raises after constructing an empty-image fallback block",
-      "url": "https://github.com/langchain-ai/langchain/issues/40351",
-      "author": "Iris070119",
-      "at": "2026-09-10T04:36:28Z"
+      "kind": "pr",
+      "number": 40372,
+      "title": "fix(anthropic): preserve invalid tool use blocks",
+      "url": "https://github.com/langchain-ai/langchain/pull/40372",
+      "author": "ccurme",
+      "at": "2026-09-10T16:07:25Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98485,
-      "title": "feat(examples): add with-medium-rss-blog",
-      "url": "https://github.com/vercel/next.js/pull/98485",
-      "author": "alifarooqi",
-      "at": "2026-09-10T06:38:12Z"
+      "number": 98517,
+      "title": "[ci] Remove the broken Test examples workflow and its test suite",
+      "url": "https://github.com/vercel/next.js/pull/98517",
+      "author": "eps1lon",
+      "at": "2026-09-10T16:52:21Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98483,
-      "title": "fix: separate prefetch requests in response cache",
-      "url": "https://github.com/vercel/next.js/pull/98483",
-      "author": "RainYr1021",
-      "at": "2026-09-10T06:20:36Z"
+      "number": 98516,
+      "title": "docs(open-telemetry): explain why core module instrumentations do not attach",
+      "url": "https://github.com/vercel/next.js/pull/98516",
+      "author": "zeeshan56656",
+      "at": "2026-09-10T16:42:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50203,
-      "title": "Assistant panel maximize CTA to open in explorer only if explorer preview is enabled",
-      "url": "https://github.com/supabase/supabase/pull/50203",
-      "author": "joshenlim",
-      "at": "2026-09-10T07:37:33Z"
+      "number": 50237,
+      "title": "chore: add @supabase/ai as code owners for studio AI paths",
+      "url": "https://github.com/supabase/supabase/pull/50237",
+      "author": "gregnr",
+      "at": "2026-09-10T16:47:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50202,
-      "title": "fix(pg-meta): match IS filter values case-insensitively",
-      "url": "https://github.com/supabase/supabase/pull/50202",
-      "author": "soroush5",
-      "at": "2026-09-10T07:21:27Z"
+      "number": 50236,
+      "title": "feat: Create first scaffolding around search v2 and feature flag addition",
+      "url": "https://github.com/supabase/supabase/pull/50236",
+      "author": "jeremenichelli",
+      "at": "2026-09-10T16:36:44Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -122,17 +122,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4134",
       "author": "jasondavies",
       "at": "2026-09-08T15:05:22Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2229,
-      "title": "fix: resolve BetterAuth and Drizzle Kit dependency conflict",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2229",
-      "author": "MazenChaouch",
-      "at": "2026-04-23T08:13:49Z"
     }
   ]
 }
