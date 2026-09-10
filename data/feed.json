@@ -1,38 +1,5 @@
 {
-  "updatedAt": "2026-09-10T15:42:32.975Z",
-  "count": 1,
-  "postings": [
-    {
-      "id": "hn:49643998",
-      "source": "hn",
-      "title": "Location: India Remote: Yes Willing to relocate: Bengaluru &#x2F; open to the right opportunity Technologies: Python, Ty",
-      "url": "https://news.ycombinator.com/item?id=49643998",
-      "body": "Location: India\nRemote: Yes\nWilling to relocate: Bengaluru &#x2F; open to the right opportunity\nTechnologies: Python, TypeScript, FastAPI, Next.js, LangGraph, LangChain, RAG, MCP, Qdrant, pgvector, PostgreSQL, Docker, AWS\nRésumé:  https:&#x2F;&#x2F;namangupta.dev \nEmail: [naman@namangupta.dev](mailto:naman@namangupta.dev) AI Systems Engineer working on production LLM systems, RAG, agents, and evaluation. Currently building multi-agent and retrieval systems handling 500+ daily queries. Experience with chunking, embeddings, reranking, vector databases, Precision@k &#x2F; Recall@k &#x2F; MRR evaluation, latency optimization, and production deployments. Built MCPHub, AgentMesh, and a RAG evaluation harness. Looking for full-time remote AI&#x2F;backend roles or contract work with startups building agents, document AI, enterprise AI, or retrieval-heavy products. GitHub:  https:&#x2F;&#x2F;github.com&#x2F;namanxdev ",
-      "remote": true,
-      "postedAt": "2026-09-10T14:10:45.000Z",
-      "fetchedAt": "2026-09-10T15:42:32.797Z",
-      "reasons": [
-        "core stack: typescript, next, python",
-        "strong fit: rag, vector, embeddings, llm, agent, pgvector",
-        "bonus: mcp, langchain",
-        "remote-friendly",
-        "mentions India"
-      ],
-      "tags": [
-        "hn-who-is-hiring",
-        "stack:typescript",
-        "stack:next",
-        "stack:python",
-        "signal:rag",
-        "signal:vector",
-        "signal:embeddings",
-        "signal:llm",
-        "signal:agent",
-        "signal:pgvector",
-        "remote",
-        "india-friendly"
-      ],
-      "score": 7.1
-    }
-  ]
+  "updatedAt": "2026-09-10T18:53:12.665Z",
+  "count": 0,
+  "postings": []
 }
