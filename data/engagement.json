@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-10T17:27:43.478Z",
-  "count": 11,
+  "updatedAt": "2026-09-11T07:49:34.823Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -25,103 +25,92 @@
       "at": "2026-09-10T09:46:52Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4421,
-      "title": "fix(cli): curated help for every command family and a help command",
-      "url": "https://github.com/ComposioHQ/composio/pull/4421",
-      "author": "jkomyno",
-      "at": "2026-09-10T15:51:03Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2634,
-      "title": "fix(hooks): preserve dispatch when callbacks change handlers",
-      "url": "https://github.com/567-labs/instructor/pull/2634",
-      "author": "yurekami",
-      "at": "2026-09-09T18:56:49Z"
+      "kind": "issue",
+      "number": 2316,
+      "title": "Feature request: OWASP ASI06 memory poisoning defense for structured output agents",
+      "url": "https://github.com/567-labs/instructor/issues/2316",
+      "author": "vgudur-dev",
+      "at": "2026-05-21T15:06:48Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40379,
-      "title": "ChatOpenRouter: max_retries=0 enables the SDK default retry policy",
-      "url": "https://github.com/langchain-ai/langchain/issues/40379",
-      "author": "pj991207",
-      "at": "2026-09-10T17:11:50Z"
+      "number": 40396,
+      "title": "Bug: MCPAdapter test fails on Windows due to strict POSIX error assertion",
+      "url": "https://github.com/langchain-ai/langchain/issues/40396",
+      "author": "deepak25000000",
+      "at": "2026-09-11T04:23:49Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40372,
-      "title": "fix(anthropic): preserve invalid tool use blocks",
-      "url": "https://github.com/langchain-ai/langchain/pull/40372",
-      "author": "ccurme",
-      "at": "2026-09-10T16:07:25Z"
+      "number": 40394,
+      "title": "fix(openai): route `gpt-6-astra` to responses API",
+      "url": "https://github.com/langchain-ai/langchain/pull/40394",
+      "author": "yeseoLee",
+      "at": "2026-09-11T02:08:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98517,
-      "title": "[ci] Remove the broken Test examples workflow and its test suite",
-      "url": "https://github.com/vercel/next.js/pull/98517",
-      "author": "eps1lon",
-      "at": "2026-09-10T16:52:21Z"
+      "number": 98547,
+      "title": "enhance the try_join api to remove some allocations",
+      "url": "https://github.com/vercel/next.js/pull/98547",
+      "author": "lukesandberg",
+      "at": "2026-09-11T05:26:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98516,
-      "title": "docs(open-telemetry): explain why core module instrumentations do not attach",
-      "url": "https://github.com/vercel/next.js/pull/98516",
-      "author": "zeeshan56656",
-      "at": "2026-09-10T16:42:55Z"
+      "number": 98546,
+      "title": "Add allocation metadata to the trace-server MCP protocol",
+      "url": "https://github.com/vercel/next.js/pull/98546",
+      "author": "lukesandberg",
+      "at": "2026-09-11T05:26:28Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50237,
-      "title": "chore: add @supabase/ai as code owners for studio AI paths",
-      "url": "https://github.com/supabase/supabase/pull/50237",
-      "author": "gregnr",
-      "at": "2026-09-10T16:47:47Z"
+      "number": 50253,
+      "title": "feat(studio): give pipeline pages a standard detail header",
+      "url": "https://github.com/supabase/supabase/pull/50253",
+      "author": "dnywh",
+      "at": "2026-09-11T06:10:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50236,
-      "title": "feat: Create first scaffolding around search v2 and feature flag addition",
-      "url": "https://github.com/supabase/supabase/pull/50236",
-      "author": "jeremenichelli",
-      "at": "2026-09-10T16:36:44Z"
+      "number": 50252,
+      "title": "feat(studio): polish the Replication pipelines list",
+      "url": "https://github.com/supabase/supabase/pull/50252",
+      "author": "dnywh",
+      "at": "2026-09-11T06:10:10Z"
     },
     {
       "founder": "Erik Bernhardsson",
       "company": "Modal",
       "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4134,
-      "title": "Volume block downloads lack response bounds and do not cancel sibling tasks after failure",
-      "url": "https://github.com/modal-labs/modal-client/issues/4134",
-      "author": "jasondavies",
-      "at": "2026-09-08T15:05:22Z"
+      "number": 4135,
+      "title": "Image.run_function preemption recovery fails with empty Dockerfile error",
+      "url": "https://github.com/modal-labs/modal-client/issues/4135",
+      "author": "ben-z",
+      "at": "2026-09-10T22:32:24Z"
     }
   ]
 }
