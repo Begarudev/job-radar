@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T07:42:40.980Z",
+  "updatedAt": "2026-09-12T16:41:41.794Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,33 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5775,
-      "title": "docs: point AI agents and crawlers to llms.txt from the README",
-      "url": "https://github.com/browser-use/browser-use/pull/5775",
-      "author": "MagMueller",
-      "at": "2026-09-12T07:39:38Z"
+      "number": 5777,
+      "title": "feat(agent): skip redundant LLM calls via session-scoped action replay cache",
+      "url": "https://github.com/browser-use/browser-use/pull/5777",
+      "author": "Jahanzeb-git",
+      "at": "2026-09-12T10:20:20Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5774,
-      "title": "docs: point bu-30b-a3b-preview at self-hosting instead of Cloud",
-      "url": "https://github.com/browser-use/browser-use/pull/5774",
-      "author": "MagMueller",
-      "at": "2026-09-12T07:22:46Z"
+      "number": 5776,
+      "title": "ci(publish): add cryptographic supply-chain notarization for PyPI packages",
+      "url": "https://github.com/browser-use/browser-use/pull/5776",
+      "author": "ProofCore-Protocol",
+      "at": "2026-09-12T09:31:24Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4460,
+      "title": "fix(core): reject unsafe mount paths in RemoteFile.save()",
+      "url": "https://github.com/ComposioHQ/composio/pull/4460",
+      "author": "rmnvg",
+      "at": "2026-09-12T10:26:02Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,22 +51,22 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2640,
-      "title": "chore(metadata): remove personal maintainer email",
-      "url": "https://github.com/567-labs/instructor/pull/2640",
-      "author": "jxnl",
-      "at": "2026-09-11T22:53:37Z"
+      "number": 2641,
+      "title": "fix(batch): require defaulted fields in OpenAI strict schemas",
+      "url": "https://github.com/567-labs/instructor/pull/2641",
+      "author": "skulitom",
+      "at": "2026-09-12T15:58:08Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2639,
-      "title": "fix(genai): end structured-output reask on a user turn",
-      "url": "https://github.com/567-labs/instructor/pull/2639",
-      "author": "sbguangha",
-      "at": "2026-09-11T21:50:21Z"
+      "number": 2640,
+      "title": "chore(metadata): remove personal maintainer email",
+      "url": "https://github.com/567-labs/instructor/pull/2640",
+      "author": "jxnl",
+      "at": "2026-09-11T22:53:37Z"
     },
     {
       "founder": "Harrison Chase",
@@ -69,15 +80,15 @@
       "at": "2026-09-12T00:31:57Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 40410,
-      "title": "feat(langchain): add notice to ToolMessages for edited tool calls",
-      "url": "https://github.com/langchain-ai/langchain/pull/40410",
-      "author": "ccurme",
-      "at": "2026-09-11T18:23:57Z"
+      "number": 98598,
+      "title": "Fix testProxy hanging raw TCP sockets",
+      "url": "https://github.com/vercel/next.js/pull/98598",
+      "author": "ranger-ross",
+      "at": "2026-09-12T15:23:35Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -89,17 +100,6 @@
       "url": "https://github.com/vercel/next.js/pull/98597",
       "author": "franpeza",
       "at": "2026-09-12T07:34:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 98596,
-      "title": "Bundling fails for package `bknd` in turbopack",
-      "url": "https://github.com/vercel/next.js/issues/98596",
-      "author": "shishantbiswas",
-      "at": "2026-09-12T03:52:19Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -117,22 +117,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50297,
-      "title": "fix(studio): truncate edge function chart buckets in UTC",
-      "url": "https://github.com/supabase/supabase/pull/50297",
-      "author": "sidgaikwad",
-      "at": "2026-09-12T07:39:23Z"
+      "number": 50302,
+      "title": "docs: fix auth hooks plpgsql examples",
+      "url": "https://github.com/supabase/supabase/pull/50302",
+      "author": "mandar1045",
+      "at": "2026-09-12T11:05:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50296,
-      "title": "Broken local image paths in Croatian and Sinhala READMEs",
-      "url": "https://github.com/supabase/supabase/issues/50296",
-      "author": "auroraxo",
-      "at": "2026-09-12T05:41:38Z"
+      "kind": "pr",
+      "number": 50301,
+      "title": "fix(functions): prevent JWT verification when legacy keys are disabled",
+      "url": "https://github.com/supabase/supabase/pull/50301",
+      "author": "johnstonmatt",
+      "at": "2026-09-12T08:43:52Z"
     }
   ]
 }
