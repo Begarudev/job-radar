@@ -1,138 +1,138 @@
 {
-  "updatedAt": "2026-09-11T17:28:32.921Z",
+  "updatedAt": "2026-09-12T07:42:40.980Z",
   "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5747,
-      "title": "Bug: ...Performance degradation during long-running agent tasks due to repeated DOM serialization, browser state fetching, and growing messa",
-      "url": "https://github.com/browser-use/browser-use/issues/5747",
-      "author": "benjamin920102",
-      "at": "2026-09-09T08:16:13Z"
+      "kind": "pr",
+      "number": 5775,
+      "title": "docs: point AI agents and crawlers to llms.txt from the README",
+      "url": "https://github.com/browser-use/browser-use/pull/5775",
+      "author": "MagMueller",
+      "at": "2026-09-12T07:39:38Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5732,
-      "title": "50/50 RevShare Integration: Browser Use & AIML API",
-      "url": "https://github.com/browser-use/browser-use/pull/5732",
-      "author": "hugoaimlapi",
-      "at": "2026-09-08T18:02:21Z"
+      "number": 5774,
+      "title": "docs: point bu-30b-a3b-preview at self-hosting instead of Cloud",
+      "url": "https://github.com/browser-use/browser-use/pull/5774",
+      "author": "MagMueller",
+      "at": "2026-09-12T07:22:46Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4448,
-      "title": "fix(core): contain async Pusher subscription errors",
-      "url": "https://github.com/ComposioHQ/composio/pull/4448",
-      "author": "CoralGarden52",
-      "at": "2026-09-11T15:36:49Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4446,
-      "title": "docs: explain token custody architecture and deployment options",
-      "url": "https://github.com/ComposioHQ/composio/pull/4446",
-      "author": "olearycrew",
-      "at": "2026-09-11T14:45:27Z"
+      "number": 4459,
+      "title": "fix(core): raise tool not found only on 404/400",
+      "url": "https://github.com/ComposioHQ/composio/pull/4459",
+      "author": "jkomyno",
+      "at": "2026-09-11T20:55:11Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2638,
-      "title": "fix(json): add depth and size guards to extract_json_from_stream",
-      "url": "https://github.com/567-labs/instructor/pull/2638",
-      "author": "simpleqt",
-      "at": "2026-09-11T16:08:41Z"
+      "number": 2640,
+      "title": "chore(metadata): remove personal maintainer email",
+      "url": "https://github.com/567-labs/instructor/pull/2640",
+      "author": "jxnl",
+      "at": "2026-09-11T22:53:37Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2637,
-      "title": "fix(genai): append model attempt then user validation error on structured output reask",
-      "url": "https://github.com/567-labs/instructor/pull/2637",
-      "author": "lx3133584",
-      "at": "2026-09-11T13:02:49Z"
+      "number": 2639,
+      "title": "fix(genai): end structured-output reask on a user turn",
+      "url": "https://github.com/567-labs/instructor/pull/2639",
+      "author": "sbguangha",
+      "at": "2026-09-11T21:50:21Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40405,
-      "title": "test(core): skip prompt-loading symlink tests when symlinks are unavailable",
-      "url": "https://github.com/langchain-ai/langchain/pull/40405",
-      "author": "iam-kira",
-      "at": "2026-09-11T15:20:13Z"
+      "number": 40414,
+      "title": "fix(langchain): preserve open MCP object arguments",
+      "url": "https://github.com/langchain-ai/langchain/pull/40414",
+      "author": "jkennedyvz",
+      "at": "2026-09-12T00:31:57Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40403,
-      "title": "BaseLLM cache ignores per-call generation options and replays the wrong completion",
-      "url": "https://github.com/langchain-ai/langchain/issues/40403",
-      "author": "yunfeizhu",
-      "at": "2026-09-11T08:46:22Z"
+      "kind": "pr",
+      "number": 40410,
+      "title": "feat(langchain): add notice to ToolMessages for edited tool calls",
+      "url": "https://github.com/langchain-ai/langchain/pull/40410",
+      "author": "ccurme",
+      "at": "2026-09-11T18:23:57Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98575,
-      "title": "Make TurbopackResult payloads disjoint",
-      "url": "https://github.com/vercel/next.js/pull/98575",
-      "author": "wbinnssmith",
-      "at": "2026-09-11T15:58:01Z"
+      "number": 98597,
+      "title": "fix(next/image): annotate Image export so deprecated props show as deprecated",
+      "url": "https://github.com/vercel/next.js/pull/98597",
+      "author": "franpeza",
+      "at": "2026-09-12T07:34:20Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50275,
-      "title": "fix(www): sitemap lists all changelog slugs",
-      "url": "https://github.com/supabase/supabase/pull/50275",
-      "author": "pamelachia",
-      "at": "2026-09-11T17:27:32Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50274,
-      "title": "docs(database): correct the dashboard_user and storage admin role descriptions",
-      "url": "https://github.com/supabase/supabase/pull/50274",
-      "author": "czenko",
-      "at": "2026-09-11T16:56:02Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 4135,
-      "title": "Image.run_function preemption recovery fails with empty Dockerfile error",
-      "url": "https://github.com/modal-labs/modal-client/issues/4135",
-      "author": "ben-z",
-      "at": "2026-09-10T22:32:24Z"
+      "number": 98596,
+      "title": "Bundling fails for package `bknd` in turbopack",
+      "url": "https://github.com/vercel/next.js/issues/98596",
+      "author": "shishantbiswas",
+      "at": "2026-09-12T03:52:19Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.3.5 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.5",
+      "author": "samselikoff",
+      "at": "2026-09-11T19:15:50Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50297,
+      "title": "fix(studio): truncate edge function chart buckets in UTC",
+      "url": "https://github.com/supabase/supabase/pull/50297",
+      "author": "sidgaikwad",
+      "at": "2026-09-12T07:39:23Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 50296,
+      "title": "Broken local image paths in Croatian and Sinhala READMEs",
+      "url": "https://github.com/supabase/supabase/issues/50296",
+      "author": "auroraxo",
+      "at": "2026-09-12T05:41:38Z"
     }
   ]
 }
