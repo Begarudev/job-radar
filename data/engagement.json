@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-13T08:01:41.217Z",
+  "updatedAt": "2026-09-13T17:11:45.669Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5787,
+      "title": "fix(llm): consolidate Anthropic cache_control into TTL-aware helper (#5321)",
+      "url": "https://github.com/browser-use/browser-use/pull/5787",
+      "author": "maoxin1234",
+      "at": "2026-09-13T14:00:20Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,37 @@
       "at": "2026-09-13T05:43:00Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5779,
-      "title": "fix(beta): read storage state as utf-8",
-      "url": "https://github.com/browser-use/browser-use/pull/5779",
-      "author": "Ghraven",
-      "at": "2026-09-13T03:25:43Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4468,
-      "title": "perf(cli): defer the TypeScript compiler and generation pipeline",
-      "url": "https://github.com/ComposioHQ/composio/pull/4468",
+      "number": 4475,
+      "title": "perf(cli): list connected accounts once per execute",
+      "url": "https://github.com/ComposioHQ/composio/pull/4475",
       "author": "sudodaksh",
-      "at": "2026-09-13T06:00:26Z"
+      "at": "2026-09-13T12:40:24Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4467,
-      "title": "feat(sdk,docs): accept createHint and updateHint in session tag filters",
-      "url": "https://github.com/ComposioHQ/composio/pull/4467",
+      "number": 4474,
+      "title": "docs: session proxy execute requires the Proxy execute API key permission",
+      "url": "https://github.com/ComposioHQ/composio/pull/4474",
       "author": "palash-c",
-      "at": "2026-09-13T05:53:40Z"
+      "at": "2026-09-13T11:09:30Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2644,
+      "title": "fix(dsl): refine UnionType check in is_simple_type for Python 3.10+ (#2613)",
+      "url": "https://github.com/567-labs/instructor/pull/2644",
+      "author": "Tyagiquamar",
+      "at": "2026-09-13T11:34:54Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,15 +69,15 @@
       "at": "2026-09-12T19:22:30Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2642,
-      "title": "fix(v2): stop misclassifying custom classes as simple types on Python 3.10+",
-      "url": "https://github.com/567-labs/instructor/pull/2642",
-      "author": "chenlichao",
-      "at": "2026-09-12T17:17:04Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40431,
+      "title": "[Security Hardening] Mitigating OWASP LLM01 Indirect Prompt Injections in Web Loaders via CSS Render-Layer Obfuscation (CWE-1427)",
+      "url": "https://github.com/langchain-ai/langchain/issues/40431",
+      "author": "parastejpal987-cmyk",
+      "at": "2026-09-13T14:11:20Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,59 +91,48 @@
       "at": "2026-09-12T22:19:08Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98613,
+      "title": "fix(turbopack): use file persistence on wasm",
+      "url": "https://github.com/vercel/next.js/pull/98613",
+      "author": "sokra",
+      "at": "2026-09-13T16:39:20Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98612,
+      "title": "Keep never-prerenderable params out of self-hosted shells",
+      "url": "https://github.com/vercel/next.js/pull/98612",
+      "author": "unstubbable",
+      "at": "2026-09-13T16:12:09Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 40423,
-      "title": "bug(langchain): create_agent ends the loop on an invalid structured-output call when an ordinary tool call is in the same batch (no retry fe",
-      "url": "https://github.com/langchain-ai/langchain/issues/40423",
-      "author": "atifs",
-      "at": "2026-09-12T20:52:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98607,
-      "title": "fix: Bump vendored @mswjs/interceptors from 0.42.0 to 0.42.5",
-      "url": "https://github.com/vercel/next.js/pull/98607",
-      "author": "ranger-ross",
-      "at": "2026-09-13T06:31:28Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98606,
-      "title": "fix(standalone): correct symlink type in node_modules on Windows",
-      "url": "https://github.com/vercel/next.js/pull/98606",
-      "author": "jat001",
-      "at": "2026-09-13T05:23:54Z"
+      "number": 50312,
+      "title": "fix(docs): observability/inspect page and remove deprecated commands",
+      "url": "https://github.com/supabase/supabase/issues/50312",
+      "author": "gianpaj",
+      "at": "2026-09-13T17:05:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50309,
-      "title": "fix(studio): improve SQL folder deletion error handling and modal recovery (#50293)",
-      "url": "https://github.com/supabase/supabase/pull/50309",
-      "author": "Pcmhacker-piro",
-      "at": "2026-09-13T05:49:12Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50307,
-      "title": "fix(self-hosted): resolve docker socket access and error reporting for non-root sudo users (#49739)",
-      "url": "https://github.com/supabase/supabase/pull/50307",
-      "author": "melcheikh",
-      "at": "2026-09-12T20:03:09Z"
+      "number": 50311,
+      "title": "docs(i18n): add Marathi (मराठी) translation of README",
+      "url": "https://github.com/supabase/supabase/pull/50311",
+      "author": "shreeyadav06",
+      "at": "2026-09-13T12:26:23Z"
     }
   ]
 }
