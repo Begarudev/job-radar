@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T16:41:41.794Z",
+  "updatedAt": "2026-09-13T08:01:41.217Z",
   "count": 12,
   "signals": [
     {
@@ -7,132 +7,132 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5777,
-      "title": "feat(agent): skip redundant LLM calls via session-scoped action replay cache",
-      "url": "https://github.com/browser-use/browser-use/pull/5777",
-      "author": "Jahanzeb-git",
-      "at": "2026-09-12T10:20:20Z"
+      "number": 5786,
+      "title": "fix(history): preserve usage stats during save_to_file and model_dump (#5767)",
+      "url": "https://github.com/browser-use/browser-use/pull/5786",
+      "author": "maoxin1234",
+      "at": "2026-09-13T05:43:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5776,
-      "title": "ci(publish): add cryptographic supply-chain notarization for PyPI packages",
-      "url": "https://github.com/browser-use/browser-use/pull/5776",
-      "author": "ProofCore-Protocol",
-      "at": "2026-09-12T09:31:24Z"
+      "number": 5779,
+      "title": "fix(beta): read storage state as utf-8",
+      "url": "https://github.com/browser-use/browser-use/pull/5779",
+      "author": "Ghraven",
+      "at": "2026-09-13T03:25:43Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4460,
-      "title": "fix(core): reject unsafe mount paths in RemoteFile.save()",
-      "url": "https://github.com/ComposioHQ/composio/pull/4460",
-      "author": "rmnvg",
-      "at": "2026-09-12T10:26:02Z"
+      "number": 4468,
+      "title": "perf(cli): defer the TypeScript compiler and generation pipeline",
+      "url": "https://github.com/ComposioHQ/composio/pull/4468",
+      "author": "sudodaksh",
+      "at": "2026-09-13T06:00:26Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4459,
-      "title": "fix(core): raise tool not found only on 404/400",
-      "url": "https://github.com/ComposioHQ/composio/pull/4459",
-      "author": "jkomyno",
-      "at": "2026-09-11T20:55:11Z"
+      "number": 4467,
+      "title": "feat(sdk,docs): accept createHint and updateHint in session tag filters",
+      "url": "https://github.com/ComposioHQ/composio/pull/4467",
+      "author": "palash-c",
+      "at": "2026-09-13T05:53:40Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2641,
-      "title": "fix(batch): require defaulted fields in OpenAI strict schemas",
-      "url": "https://github.com/567-labs/instructor/pull/2641",
-      "author": "skulitom",
-      "at": "2026-09-12T15:58:08Z"
+      "number": 2643,
+      "title": "fix(validation): traverse set containers in async validation",
+      "url": "https://github.com/567-labs/instructor/pull/2643",
+      "author": "lowgame",
+      "at": "2026-09-12T19:22:30Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2640,
-      "title": "chore(metadata): remove personal maintainer email",
-      "url": "https://github.com/567-labs/instructor/pull/2640",
-      "author": "jxnl",
-      "at": "2026-09-11T22:53:37Z"
+      "number": 2642,
+      "title": "fix(v2): stop misclassifying custom classes as simple types on Python 3.10+",
+      "url": "https://github.com/567-labs/instructor/pull/2642",
+      "author": "chenlichao",
+      "at": "2026-09-12T17:17:04Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40414,
-      "title": "fix(langchain): preserve open MCP object arguments",
-      "url": "https://github.com/langchain-ai/langchain/pull/40414",
-      "author": "jkennedyvz",
-      "at": "2026-09-12T00:31:57Z"
+      "kind": "issue",
+      "number": 40424,
+      "title": "core: content_blocks raises TypeError on a v0 multimodal block that carries an id",
+      "url": "https://github.com/langchain-ai/langchain/issues/40424",
+      "author": "Dev-next-gen",
+      "at": "2026-09-12T22:19:08Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40423,
+      "title": "bug(langchain): create_agent ends the loop on an invalid structured-output call when an ordinary tool call is in the same batch (no retry fe",
+      "url": "https://github.com/langchain-ai/langchain/issues/40423",
+      "author": "atifs",
+      "at": "2026-09-12T20:52:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98598,
-      "title": "Fix testProxy hanging raw TCP sockets",
-      "url": "https://github.com/vercel/next.js/pull/98598",
+      "number": 98607,
+      "title": "fix: Bump vendored @mswjs/interceptors from 0.42.0 to 0.42.5",
+      "url": "https://github.com/vercel/next.js/pull/98607",
       "author": "ranger-ross",
-      "at": "2026-09-12T15:23:35Z"
+      "at": "2026-09-13T06:31:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98597,
-      "title": "fix(next/image): annotate Image export so deprecated props show as deprecated",
-      "url": "https://github.com/vercel/next.js/pull/98597",
-      "author": "franpeza",
-      "at": "2026-09-12T07:34:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.3.5 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.5",
-      "author": "samselikoff",
-      "at": "2026-09-11T19:15:50Z"
+      "number": 98606,
+      "title": "fix(standalone): correct symlink type in node_modules on Windows",
+      "url": "https://github.com/vercel/next.js/pull/98606",
+      "author": "jat001",
+      "at": "2026-09-13T05:23:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50302,
-      "title": "docs: fix auth hooks plpgsql examples",
-      "url": "https://github.com/supabase/supabase/pull/50302",
-      "author": "mandar1045",
-      "at": "2026-09-12T11:05:36Z"
+      "number": 50309,
+      "title": "fix(studio): improve SQL folder deletion error handling and modal recovery (#50293)",
+      "url": "https://github.com/supabase/supabase/pull/50309",
+      "author": "Pcmhacker-piro",
+      "at": "2026-09-13T05:49:12Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50301,
-      "title": "fix(functions): prevent JWT verification when legacy keys are disabled",
-      "url": "https://github.com/supabase/supabase/pull/50301",
-      "author": "johnstonmatt",
-      "at": "2026-09-12T08:43:52Z"
+      "number": 50307,
+      "title": "fix(self-hosted): resolve docker socket access and error reporting for non-root sudo users (#49739)",
+      "url": "https://github.com/supabase/supabase/pull/50307",
+      "author": "melcheikh",
+      "at": "2026-09-12T20:03:09Z"
     }
   ]
 }
