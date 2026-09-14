@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-09-13T17:11:45.669Z",
-  "count": 12,
+  "updatedAt": "2026-09-14T08:35:21.494Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5787,
-      "title": "fix(llm): consolidate Anthropic cache_control into TTL-aware helper (#5321)",
-      "url": "https://github.com/browser-use/browser-use/pull/5787",
-      "author": "maoxin1234",
-      "at": "2026-09-13T14:00:20Z"
+      "number": 5794,
+      "title": "▚▚ fix(extraction): accept JSON Schema type lists in schema_dict_to_pydantic_model",
+      "url": "https://github.com/browser-use/browser-use/pull/5794",
+      "author": "breken-ai",
+      "at": "2026-09-14T02:06:45Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5786,
-      "title": "fix(history): preserve usage stats during save_to_file and model_dump (#5767)",
-      "url": "https://github.com/browser-use/browser-use/pull/5786",
+      "number": 5793,
+      "title": "fix(browser): remove premature change event dispatch on text clear",
+      "url": "https://github.com/browser-use/browser-use/pull/5793",
       "author": "maoxin1234",
-      "at": "2026-09-13T05:43:00Z"
+      "at": "2026-09-14T01:15:15Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4475,
-      "title": "perf(cli): list connected accounts once per execute",
-      "url": "https://github.com/ComposioHQ/composio/pull/4475",
-      "author": "sudodaksh",
-      "at": "2026-09-13T12:40:24Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4474,
-      "title": "docs: session proxy execute requires the Proxy execute API key permission",
-      "url": "https://github.com/ComposioHQ/composio/pull/4474",
-      "author": "palash-c",
-      "at": "2026-09-13T11:09:30Z"
+      "kind": "issue",
+      "number": 4478,
+      "title": "Paid evidence offer: can delegated social-publishing tools complete an agent workflow?",
+      "url": "https://github.com/ComposioHQ/composio/issues/4478",
+      "author": "zoltankiss",
+      "at": "2026-09-14T07:01:08Z"
     },
     {
       "founder": "Jason Liu",
@@ -61,78 +50,67 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2643,
-      "title": "fix(validation): traverse set containers in async validation",
-      "url": "https://github.com/567-labs/instructor/pull/2643",
-      "author": "lowgame",
-      "at": "2026-09-12T19:22:30Z"
+      "kind": "issue",
+      "number": 2316,
+      "title": "Feature request: OWASP ASI06 memory poisoning defense for structured output agents",
+      "url": "https://github.com/567-labs/instructor/issues/2316",
+      "author": "vgudur-dev",
+      "at": "2026-05-21T15:06:48Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40431,
-      "title": "[Security Hardening] Mitigating OWASP LLM01 Indirect Prompt Injections in Web Loaders via CSS Render-Layer Obfuscation (CWE-1427)",
-      "url": "https://github.com/langchain-ai/langchain/issues/40431",
-      "author": "parastejpal987-cmyk",
-      "at": "2026-09-13T14:11:20Z"
+      "number": 40435,
+      "title": "langchain-openrouter: ToolMessage content blocks (e.g. images) are sent to the API unconverted, failing client-side with ValidationError",
+      "url": "https://github.com/langchain-ai/langchain/issues/40435",
+      "author": "LuisArteaga",
+      "at": "2026-09-13T19:44:52Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 40424,
-      "title": "core: content_blocks raises TypeError on a v0 multimodal block that carries an id",
-      "url": "https://github.com/langchain-ai/langchain/issues/40424",
-      "author": "Dev-next-gen",
-      "at": "2026-09-12T22:19:08Z"
+      "number": 98623,
+      "title": "cacheComponents bfcache: <Activity> children are ordered most-recently-active, so returning to a route re-parents its DOM and reloads every ",
+      "url": "https://github.com/vercel/next.js/issues/98623",
+      "author": "morethanmin",
+      "at": "2026-09-14T06:34:39Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98613,
-      "title": "fix(turbopack): use file persistence on wasm",
-      "url": "https://github.com/vercel/next.js/pull/98613",
+      "number": 98621,
+      "title": "Trace export usage through client component proxies",
+      "url": "https://github.com/vercel/next.js/pull/98621",
       "author": "sokra",
-      "at": "2026-09-13T16:39:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98612,
-      "title": "Keep never-prerenderable params out of self-hosted shells",
-      "url": "https://github.com/vercel/next.js/pull/98612",
-      "author": "unstubbable",
-      "at": "2026-09-13T16:12:09Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50312,
-      "title": "fix(docs): observability/inspect page and remove deprecated commands",
-      "url": "https://github.com/supabase/supabase/issues/50312",
-      "author": "gianpaj",
-      "at": "2026-09-13T17:05:59Z"
+      "at": "2026-09-14T05:54:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50311,
-      "title": "docs(i18n): add Marathi (मराठी) translation of README",
-      "url": "https://github.com/supabase/supabase/pull/50311",
-      "author": "shreeyadav06",
-      "at": "2026-09-13T12:26:23Z"
+      "number": 50326,
+      "title": "fix(studio): gate health advisor behind feature flag",
+      "url": "https://github.com/supabase/supabase/pull/50326",
+      "author": "jordienr",
+      "at": "2026-09-14T08:24:16Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50324,
+      "title": "Joshenlim/fe 4378 update editorpanel save cta when explorer is enabled",
+      "url": "https://github.com/supabase/supabase/pull/50324",
+      "author": "joshenlim",
+      "at": "2026-09-14T07:07:28Z"
     }
   ]
 }
