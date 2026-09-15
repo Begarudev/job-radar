@@ -1,39 +1,39 @@
 {
-  "updatedAt": "2026-09-15T08:24:27.536Z",
-  "count": 10,
+  "updatedAt": "2026-09-15T17:53:40.575Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5807,
+      "number": 5813,
       "title": "fix(browser): bound BrowserSession teardown so a wedged handler fails loudly",
-      "url": "https://github.com/browser-use/browser-use/pull/5807",
+      "url": "https://github.com/browser-use/browser-use/pull/5813",
       "author": "lorenzozanee",
-      "at": "2026-09-15T08:04:54Z"
+      "at": "2026-09-15T17:45:59Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5806,
-      "title": "fix(skills): preserve enum constraints in output schemas",
-      "url": "https://github.com/browser-use/browser-use/pull/5806",
-      "author": "Harsh23Kashyap",
-      "at": "2026-09-15T05:39:24Z"
+      "number": 5812,
+      "title": "Build Browser Research Agent",
+      "url": "https://github.com/browser-use/browser-use/pull/5812",
+      "author": "Tg289",
+      "at": "2026-09-15T16:53:56Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4487,
-      "title": "fix(core): reject unsafe mount paths in RemoteFile.save() in both SDKs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4487",
+      "number": 4491,
+      "title": "docs(py): render raises sections and normalize reST in SDK reference",
+      "url": "https://github.com/ComposioHQ/composio/pull/4491",
       "author": "jkomyno",
-      "at": "2026-09-14T22:28:56Z"
+      "at": "2026-09-15T12:46:37Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,6 +62,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 40460,
+      "title": "core: mustache inverted section `{{^key}}` nested inside a `{{#key}}` list section misrenders or raises `IndexError`",
+      "url": "https://github.com/langchain-ai/langchain/issues/40460",
+      "author": "mrutunjay-kinagi",
+      "at": "2026-09-15T17:19:14Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 40447,
       "title": "huggingface: `HuggingFaceEndpoint` drops the token for dedicated Inference Endpoints (`*.endpoints.huggingface.cloud`)",
       "url": "https://github.com/langchain-ai/langchain/issues/40447",
@@ -73,44 +84,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98665,
-      "title": "Replace lzzzz with lz4",
-      "url": "https://github.com/vercel/next.js/pull/98665",
-      "author": "sokra",
-      "at": "2026-09-15T08:10:07Z"
+      "number": 98695,
+      "title": "bundle-analyzer: use Rust React compiler",
+      "url": "https://github.com/vercel/next.js/pull/98695",
+      "author": "wbinnssmith",
+      "at": "2026-09-15T17:48:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98664,
-      "title": "Skip the release job when no new commits warrant a release",
-      "url": "https://github.com/vercel/next.js/pull/98664",
-      "author": "eps1lon",
-      "at": "2026-09-15T07:38:06Z"
+      "number": 98694,
+      "title": "fix: normalize RSC segment paths on Windows",
+      "url": "https://github.com/vercel/next.js/pull/98694",
+      "author": "liukang3014",
+      "at": "2026-09-15T16:39:13Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50389,
-      "title": "Joshenlim/fe 4383 consolidate tablerow no search result state",
-      "url": "https://github.com/supabase/supabase/pull/50389",
-      "author": "joshenlim",
-      "at": "2026-09-15T08:22:55Z"
+      "number": 50415,
+      "title": "docs: replace non-breaking spaces in SQLAlchemy pool example",
+      "url": "https://github.com/supabase/supabase/pull/50415",
+      "author": "SurefireStudios",
+      "at": "2026-09-15T17:30:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50388,
-      "title": "docs: note the sign-in step before generating TypeScript types",
-      "url": "https://github.com/supabase/supabase/pull/50388",
-      "author": "sidgaikwad",
-      "at": "2026-09-15T07:34:04Z"
+      "number": 50414,
+      "title": "feat(warehouse): add the ability to select another supabase project for storage and catalog",
+      "url": "https://github.com/supabase/supabase/pull/50414",
+      "author": "bnjjj",
+      "at": "2026-09-15T16:09:45Z"
     }
   ]
 }
