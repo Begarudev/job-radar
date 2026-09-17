@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-09-17T08:24:50.583Z",
-  "count": 11,
+  "updatedAt": "2026-09-17T17:54:04.027Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5829,
-      "title": "Bug: schema cleanup removes fields named default, minItems, or min_items",
-      "url": "https://github.com/browser-use/browser-use/issues/5829",
-      "author": "dafyy321-pixel",
-      "at": "2026-09-17T08:16:42Z"
+      "kind": "pr",
+      "number": 5832,
+      "title": "chore: use standard dependency group for dev dependencies",
+      "url": "https://github.com/browser-use/browser-use/pull/5832",
+      "author": "spark-328",
+      "at": "2026-09-17T13:19:05Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5826,
-      "title": "Tighten scheme-qualified domain matching and permission defaults",
-      "url": "https://github.com/browser-use/browser-use/pull/5826",
-      "author": "daleselaji-dev",
-      "at": "2026-09-17T02:41:31Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4509,
-      "title": "Clarify deprecated user_id in connected-account responses",
-      "url": "https://github.com/ComposioHQ/composio/issues/4509",
-      "author": "brennanbutler01",
-      "at": "2026-09-17T07:26:50Z"
+      "number": 5831,
+      "title": "Bug: Depreciated syntax used to list development dependencies in pyproject.toml",
+      "url": "https://github.com/browser-use/browser-use/issues/5831",
+      "author": "Lucky-Lodhi2004",
+      "at": "2026-09-17T09:18:55Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4507,
-      "title": "fix(cli): guard the proxy binary_data download against SSRF",
-      "url": "https://github.com/ComposioHQ/composio/pull/4507",
-      "author": "kaavee315",
-      "at": "2026-09-17T05:38:53Z"
+      "number": 4513,
+      "title": "feat(typesafe): add TypeSafe Jev provider for TypeScript and Python",
+      "url": "https://github.com/ComposioHQ/composio/pull/4513",
+      "author": "jkomyno",
+      "at": "2026-09-17T14:56:09Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4512,
+      "title": "fix(sdk): save tool-only MCP updates and connection-management intent",
+      "url": "https://github.com/ComposioHQ/composio/pull/4512",
+      "author": "jkomyno",
+      "at": "2026-09-17T14:24:53Z"
     },
     {
       "founder": "Jason Liu",
@@ -69,59 +69,48 @@
       "at": "2026-09-17T05:52:12Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40542,
-      "title": "feat(typesafe): `TypeSafeClassifier`",
-      "url": "https://github.com/langchain-ai/langchain/pull/40542",
-      "author": "hntrl",
-      "at": "2026-09-17T08:20:09Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 98802,
-      "title": "[RSC] Duplicate client reference chunk paths in flight manifest inflate payload",
-      "url": "https://github.com/vercel/next.js/issues/98802",
-      "author": "agentHits",
-      "at": "2026-09-17T07:03:30Z"
+      "kind": "pr",
+      "number": 98832,
+      "title": "turbopack benchmark cli: add build command with default project settings",
+      "url": "https://github.com/vercel/next.js/pull/98832",
+      "author": "andrewimm",
+      "at": "2026-09-17T17:26:01Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98799,
-      "title": "Replace lzzzz with lz4_flex",
-      "url": "https://github.com/vercel/next.js/pull/98799",
+      "number": 98831,
+      "title": "Fix Zstd decompression initialization",
+      "url": "https://github.com/vercel/next.js/pull/98831",
       "author": "sokra",
-      "at": "2026-09-17T06:22:05Z"
+      "at": "2026-09-17T17:15:49Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50504,
-      "title": "chore: Update tanstack icons",
-      "url": "https://github.com/supabase/supabase/pull/50504",
-      "author": "ivasilov",
-      "at": "2026-09-17T07:51:48Z"
+      "number": 50539,
+      "title": "fix(studio): reject custom log time ranges outside the Date range",
+      "url": "https://github.com/supabase/supabase/pull/50539",
+      "author": "awaseem",
+      "at": "2026-09-17T17:29:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50503,
-      "title": "www: closed navbar mega-menu dropdown leaves an invisible layer that blocks clicks/text selection beneath the nav",
-      "url": "https://github.com/supabase/supabase/issues/50503",
-      "author": "htmujahid",
-      "at": "2026-09-17T07:35:35Z"
+      "kind": "pr",
+      "number": 50538,
+      "title": "docs: rename inbucket CLI config keys to local_smtp",
+      "url": "https://github.com/supabase/supabase/pull/50538",
+      "author": "lazerg",
+      "at": "2026-09-17T17:06:01Z"
     }
   ]
 }
