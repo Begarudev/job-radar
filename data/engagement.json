@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-17T17:54:04.027Z",
+  "updatedAt": "2026-09-18T07:59:12.130Z",
   "count": 10,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5833,
+      "title": "fix(llm): preserve tool call argument strings for DeepSeek and Cerebras",
+      "url": "https://github.com/browser-use/browser-use/pull/5833",
+      "author": "sherxlg-gif",
+      "at": "2026-09-18T07:55:49Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,103 +25,92 @@
       "at": "2026-09-17T13:19:05Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5831,
-      "title": "Bug: Depreciated syntax used to list development dependencies in pyproject.toml",
-      "url": "https://github.com/browser-use/browser-use/issues/5831",
-      "author": "Lucky-Lodhi2004",
-      "at": "2026-09-17T09:18:55Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4513,
-      "title": "feat(typesafe): add TypeSafe Jev provider for TypeScript and Python",
-      "url": "https://github.com/ComposioHQ/composio/pull/4513",
-      "author": "jkomyno",
-      "at": "2026-09-17T14:56:09Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4512,
-      "title": "fix(sdk): save tool-only MCP updates and connection-management intent",
-      "url": "https://github.com/ComposioHQ/composio/pull/4512",
-      "author": "jkomyno",
-      "at": "2026-09-17T14:24:53Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2660,
-      "title": "fix(security): reject IPv6 transition addresses embedding internal IP…",
-      "url": "https://github.com/567-labs/instructor/pull/2660",
-      "author": "Koustav-github",
-      "at": "2026-09-17T06:23:31Z"
+      "number": 2662,
+      "title": "fix(remote): fall back to GET when HEAD is unsupported",
+      "url": "https://github.com/567-labs/instructor/pull/2662",
+      "author": "Yashwanth-Kumar-Kotla",
+      "at": "2026-09-18T03:29:35Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2659,
-      "title": "SSRF filter bypass: is_global misses IPv6 transition addresses (NAT64/IPv4-compat) → cloud metadata",
-      "url": "https://github.com/567-labs/instructor/issues/2659",
-      "author": "Koustav-github",
-      "at": "2026-09-17T05:52:12Z"
+      "number": 2661,
+      "title": "Remote media type detection fails when servers reject HEAD requests",
+      "url": "https://github.com/567-labs/instructor/issues/2661",
+      "author": "Yashwanth-Kumar-Kotla",
+      "at": "2026-09-18T03:28:08Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40592,
+      "title": "core: `InMemoryRecordManager.list_keys(limit=0)` returns all keys instead of an empty list",
+      "url": "https://github.com/langchain-ai/langchain/issues/40592",
+      "author": "chinmayirm",
+      "at": "2026-09-18T05:36:46Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40590,
+      "title": "`ChatGroq` accepts `n > 1` for non-streaming requests although Groq only supports `n=1",
+      "url": "https://github.com/langchain-ai/langchain/issues/40590",
+      "author": "W2000ds",
+      "at": "2026-09-18T04:18:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98832,
-      "title": "turbopack benchmark cli: add build command with default project settings",
-      "url": "https://github.com/vercel/next.js/pull/98832",
-      "author": "andrewimm",
-      "at": "2026-09-17T17:26:01Z"
+      "number": 98864,
+      "title": "Upgrade eslint from 9 to 10.",
+      "url": "https://github.com/vercel/next.js/pull/98864",
+      "author": "6iu8a",
+      "at": "2026-09-18T07:09:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98831,
-      "title": "Fix Zstd decompression initialization",
-      "url": "https://github.com/vercel/next.js/pull/98831",
+      "number": 98863,
+      "title": "test(turbopack): add polling to filesystem watcher fuzzer",
+      "url": "https://github.com/vercel/next.js/pull/98863",
       "author": "sokra",
-      "at": "2026-09-17T17:15:49Z"
+      "at": "2026-09-18T06:59:54Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50539,
-      "title": "fix(studio): reject custom log time ranges outside the Date range",
-      "url": "https://github.com/supabase/supabase/pull/50539",
-      "author": "awaseem",
-      "at": "2026-09-17T17:29:02Z"
+      "number": 50564,
+      "title": "refactor(ui): rename text-brand to text-primary",
+      "url": "https://github.com/supabase/supabase/pull/50564",
+      "author": "dnywh",
+      "at": "2026-09-18T07:30:22Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50538,
-      "title": "docs: rename inbucket CLI config keys to local_smtp",
-      "url": "https://github.com/supabase/supabase/pull/50538",
-      "author": "lazerg",
-      "at": "2026-09-17T17:06:01Z"
+      "number": 50563,
+      "title": "Add DownloadResultsButton to explorer query editor",
+      "url": "https://github.com/supabase/supabase/pull/50563",
+      "author": "joshenlim",
+      "at": "2026-09-18T07:15:09Z"
     }
   ]
 }
