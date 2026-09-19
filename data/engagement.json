@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-09-19T07:50:05.454Z",
-  "count": 10,
+  "updatedAt": "2026-09-19T16:58:37.962Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5842,
-      "title": "fix(tools): verify automatic new-tab switch result (#5529)",
-      "url": "https://github.com/browser-use/browser-use/pull/5842",
-      "author": "jhapriyavart10",
-      "at": "2026-09-19T07:26:10Z"
+      "number": 5850,
+      "title": "fix(browser): preserve elapsed time in video recordings",
+      "url": "https://github.com/browser-use/browser-use/pull/5850",
+      "author": "GDemay",
+      "at": "2026-09-19T14:19:11Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5841,
-      "title": "Feature: persistent verified memory of websites — selectors, flows, and conventions that survive sessions",
-      "url": "https://github.com/browser-use/browser-use/issues/5841",
-      "author": "Kaushalt2004",
-      "at": "2026-09-18T14:19:37Z"
+      "kind": "pr",
+      "number": 5849,
+      "title": "fix(llm): keep the Anthropic cache breakpoint when a message ends on an image",
+      "url": "https://github.com/browser-use/browser-use/pull/5849",
+      "author": "Lesereingrape",
+      "at": "2026-09-19T13:23:13Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4545,
+      "title": "fix(ts): port SEC-316 path validation to RemoteFile.save",
+      "url": "https://github.com/ComposioHQ/composio/pull/4545",
+      "author": "VimalN2005",
+      "at": "2026-09-19T13:58:38Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,77 +51,88 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2664,
-      "title": "fix(streaming): don't crash on an empty choices/candidates list mid-stream",
-      "url": "https://github.com/567-labs/instructor/pull/2664",
-      "author": "pcbeingused333",
-      "at": "2026-09-19T00:05:52Z"
+      "number": 2666,
+      "title": "fix: support ReadOnly TypedDict response fields",
+      "url": "https://github.com/567-labs/instructor/pull/2666",
+      "author": "emme1t",
+      "at": "2026-09-19T10:49:05Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2665,
+      "title": "ReadOnly TypedDict response models fail during schema preparation",
+      "url": "https://github.com/567-labs/instructor/issues/2665",
+      "author": "emme1t",
+      "at": "2026-09-19T10:45:58Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40664,
-      "title": "pyproject.toml is read with the locale encoding in unit tests — full inventory (4 call sites, one missed by #40588, one latent)",
-      "url": "https://github.com/langchain-ai/langchain/issues/40664",
-      "author": "Shonean",
-      "at": "2026-09-19T06:26:19Z"
+      "number": 40678,
+      "title": "core: Responses file-URL test overwrites its expected result without asserting it",
+      "url": "https://github.com/langchain-ai/langchain/issues/40678",
+      "author": "GDemay",
+      "at": "2026-09-19T16:48:09Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40659,
-      "title": "feat(typesafe): make classifier questions invocation-scoped",
-      "url": "https://github.com/langchain-ai/langchain/pull/40659",
-      "author": "hntrl",
-      "at": "2026-09-19T04:26:15Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98932,
-      "title": "Optimize esm exports by shifting the protocol burden to getters",
-      "url": "https://github.com/vercel/next.js/pull/98932",
-      "author": "lukesandberg",
-      "at": "2026-09-19T06:23:58Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98931,
-      "title": "[backport] turbo-tasks-backend: fix strongly consistent read hanging on a canceled task",
-      "url": "https://github.com/vercel/next.js/pull/98931",
-      "author": "lukesandberg",
-      "at": "2026-09-19T05:58:45Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50608,
-      "title": "docs: add LibreDB Studio GUI quickstart",
-      "url": "https://github.com/supabase/supabase/pull/50608",
-      "author": "cevheri",
-      "at": "2026-09-19T00:27:56Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 50607,
-      "title": "I confirm this is a bug with Supabase, not with my own application.",
-      "url": "https://github.com/supabase/supabase/issues/50607",
-      "author": "linara-web",
-      "at": "2026-09-18T23:42:59Z"
+      "number": 40677,
+      "title": "core: Message chunk addition drops 'name' and fallback 'id', breaking streaming multi-agent metadata and merge_message_runs",
+      "url": "https://github.com/langchain-ai/langchain/issues/40677",
+      "author": "truecallerabreham",
+      "at": "2026-09-19T14:09:22Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 98941,
+      "title": "`@next/codemod upgrade` creates a nested pnpm-workspace.yaml in pnpm v11 monorepos and breaks install",
+      "url": "https://github.com/vercel/next.js/issues/98941",
+      "author": "unrevised6419",
+      "at": "2026-09-19T16:23:59Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98938,
+      "title": "Store the head as its own CacheNode",
+      "url": "https://github.com/vercel/next.js/pull/98938",
+      "author": "acdlite",
+      "at": "2026-09-19T14:53:54Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50614,
+      "title": "docs(getting-started): stop using supabase-js v1 auth APIs in the RedwoodJS tutorial",
+      "url": "https://github.com/supabase/supabase/pull/50614",
+      "author": "simpleqt",
+      "at": "2026-09-19T07:59:06Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50613,
+      "title": "docs(troubleshooting): fix the logs-explorer link and grammar",
+      "url": "https://github.com/supabase/supabase/pull/50613",
+      "author": "simpleqt",
+      "at": "2026-09-19T07:57:36Z"
     }
   ]
 }
