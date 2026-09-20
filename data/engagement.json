@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-09-20T08:18:53.014Z",
-  "count": 11,
+  "updatedAt": "2026-09-20T17:15:05.343Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5852,
-      "title": "fix(beta): reject invalid structured final results",
-      "url": "https://github.com/browser-use/browser-use/pull/5852",
-      "author": "GDemay",
-      "at": "2026-09-19T17:29:15Z"
+      "number": 5861,
+      "title": "fix(tools): reject element index 0 for input, dropdown, and upload",
+      "url": "https://github.com/browser-use/browser-use/pull/5861",
+      "author": "kevin9327",
+      "at": "2026-09-20T11:27:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5851,
-      "title": "fix(mcp): retry browser startup after a failed connection",
-      "url": "https://github.com/browser-use/browser-use/pull/5851",
-      "author": "GDemay",
-      "at": "2026-09-19T17:09:25Z"
+      "number": 5860,
+      "title": "fix(browser): parse navigation hosts instead of splitting on slash",
+      "url": "https://github.com/browser-use/browser-use/pull/5860",
+      "author": "kevin9327",
+      "at": "2026-09-20T11:25:17Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4547,
+      "title": "test(python): add OpenAI provider type inference coverage",
+      "url": "https://github.com/ComposioHQ/composio/pull/4547",
+      "author": "Thilak-devx",
+      "at": "2026-09-20T16:57:52Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +47,15 @@
       "at": "2026-09-20T00:50:45Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4545,
-      "title": "fix(ts): port SEC-316 path validation to RemoteFile.save",
-      "url": "https://github.com/ComposioHQ/composio/pull/4545",
-      "author": "VimalN2005",
-      "at": "2026-09-19T13:58:38Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2669,
+      "title": "context= templating silently deletes unmatched {{ }} text instead of erroring",
+      "url": "https://github.com/567-labs/instructor/issues/2669",
+      "author": "PUNITH-V",
+      "at": "2026-09-20T15:20:00Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,48 +69,37 @@
       "at": "2026-09-20T04:30:18Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2667,
-      "title": "fix(batch): write and read batch files as UTF-8 regardless of platform encoding",
-      "url": "https://github.com/567-labs/instructor/pull/2667",
-      "author": "makiaveli1",
-      "at": "2026-09-20T00:20:25Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40678,
-      "title": "core: Responses file-URL test overwrites its expected result without asserting it",
-      "url": "https://github.com/langchain-ai/langchain/issues/40678",
-      "author": "GDemay",
-      "at": "2026-09-19T16:48:09Z"
+      "number": 40688,
+      "title": "`ToolRetryMiddleware`: default settings retry non-idempotent tools on ambiguous transport errors, then ask the model to retry again",
+      "url": "https://github.com/langchain-ai/langchain/issues/40688",
+      "author": "FurkhanShaikh",
+      "at": "2026-09-20T08:52:50Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 98958,
+      "title": "CRITICAL: next build permanently deletes unrelated user data when distDir points outside the project",
+      "url": "https://github.com/vercel/next.js/issues/98958",
+      "author": "kohi9noor",
+      "at": "2026-09-20T10:35:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98955,
-      "title": "chore(server): remove orphaned worker-utils.ts and getFreePort",
-      "url": "https://github.com/vercel/next.js/pull/98955",
-      "author": "gilangabdian",
-      "at": "2026-09-20T04:56:24Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98953,
-      "title": "Remove TraceRawVcs",
-      "url": "https://github.com/vercel/next.js/pull/98953",
-      "author": "lukesandberg",
-      "at": "2026-09-20T01:43:09Z"
+      "number": 98957,
+      "title": "Support pageExtensions in no-html-link-for-pages ESLint rule",
+      "url": "https://github.com/vercel/next.js/pull/98957",
+      "author": "Samiislam851",
+      "at": "2026-09-20T08:50:40Z"
     },
     {
       "founder": "Paul Copplestone",
@@ -122,6 +122,17 @@
       "url": "https://github.com/supabase/supabase/issues/50627",
       "author": "kekekuli",
       "at": "2026-09-20T07:45:36Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2178,
+      "title": "bug: installation fails on biome formatting",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2178",
+      "author": "FilipMasar",
+      "at": "2025-12-22T11:56:41Z"
     }
   ]
 }
