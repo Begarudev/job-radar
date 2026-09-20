@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-09-19T16:58:37.962Z",
-  "count": 12,
+  "updatedAt": "2026-09-20T08:18:53.014Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5850,
-      "title": "fix(browser): preserve elapsed time in video recordings",
-      "url": "https://github.com/browser-use/browser-use/pull/5850",
+      "number": 5852,
+      "title": "fix(beta): reject invalid structured final results",
+      "url": "https://github.com/browser-use/browser-use/pull/5852",
       "author": "GDemay",
-      "at": "2026-09-19T14:19:11Z"
+      "at": "2026-09-19T17:29:15Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5849,
-      "title": "fix(llm): keep the Anthropic cache breakpoint when a message ends on an image",
-      "url": "https://github.com/browser-use/browser-use/pull/5849",
-      "author": "Lesereingrape",
-      "at": "2026-09-19T13:23:13Z"
+      "number": 5851,
+      "title": "fix(mcp): retry browser startup after a failed connection",
+      "url": "https://github.com/browser-use/browser-use/pull/5851",
+      "author": "GDemay",
+      "at": "2026-09-19T17:09:25Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4546,
+      "title": "fix: reject Vertex-incompatible meta tool schemas",
+      "url": "https://github.com/ComposioHQ/composio/pull/4546",
+      "author": "lorenzozanee",
+      "at": "2026-09-20T00:50:45Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,37 +47,26 @@
       "at": "2026-09-19T13:58:38Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4543,
-      "title": "fix(core): make HTTP status errors catchable as ComposioError",
-      "url": "https://github.com/ComposioHQ/composio/pull/4543",
-      "author": "deepgori",
-      "at": "2026-09-19T07:45:35Z"
+      "number": 2668,
+      "title": "fix(v2): resolve partial-streaming fields that arrive under a validation alias",
+      "url": "https://github.com/567-labs/instructor/pull/2668",
+      "author": "feiiiiii5",
+      "at": "2026-09-20T04:30:18Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2666,
-      "title": "fix: support ReadOnly TypedDict response fields",
-      "url": "https://github.com/567-labs/instructor/pull/2666",
-      "author": "emme1t",
-      "at": "2026-09-19T10:49:05Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2665,
-      "title": "ReadOnly TypedDict response models fail during schema preparation",
-      "url": "https://github.com/567-labs/instructor/issues/2665",
-      "author": "emme1t",
-      "at": "2026-09-19T10:45:58Z"
+      "number": 2667,
+      "title": "fix(batch): write and read batch files as UTF-8 regardless of platform encoding",
+      "url": "https://github.com/567-labs/instructor/pull/2667",
+      "author": "makiaveli1",
+      "at": "2026-09-20T00:20:25Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,59 +80,48 @@
       "at": "2026-09-19T16:48:09Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40677,
-      "title": "core: Message chunk addition drops 'name' and fallback 'id', breaking streaming multi-agent metadata and merge_message_runs",
-      "url": "https://github.com/langchain-ai/langchain/issues/40677",
-      "author": "truecallerabreham",
-      "at": "2026-09-19T14:09:22Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 98941,
-      "title": "`@next/codemod upgrade` creates a nested pnpm-workspace.yaml in pnpm v11 monorepos and breaks install",
-      "url": "https://github.com/vercel/next.js/issues/98941",
-      "author": "unrevised6419",
-      "at": "2026-09-19T16:23:59Z"
+      "kind": "pr",
+      "number": 98955,
+      "title": "chore(server): remove orphaned worker-utils.ts and getFreePort",
+      "url": "https://github.com/vercel/next.js/pull/98955",
+      "author": "gilangabdian",
+      "at": "2026-09-20T04:56:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98938,
-      "title": "Store the head as its own CacheNode",
-      "url": "https://github.com/vercel/next.js/pull/98938",
-      "author": "acdlite",
-      "at": "2026-09-19T14:53:54Z"
+      "number": 98953,
+      "title": "Remove TraceRawVcs",
+      "url": "https://github.com/vercel/next.js/pull/98953",
+      "author": "lukesandberg",
+      "at": "2026-09-20T01:43:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50614,
-      "title": "docs(getting-started): stop using supabase-js v1 auth APIs in the RedwoodJS tutorial",
-      "url": "https://github.com/supabase/supabase/pull/50614",
-      "author": "simpleqt",
-      "at": "2026-09-19T07:59:06Z"
+      "number": 50628,
+      "title": "docs(local-dev): document PG_META_CRYPTO_KEY setup",
+      "url": "https://github.com/supabase/supabase/pull/50628",
+      "author": "kekekuli",
+      "at": "2026-09-20T07:52:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50613,
-      "title": "docs(troubleshooting): fix the logs-explorer link and grammar",
-      "url": "https://github.com/supabase/supabase/pull/50613",
-      "author": "simpleqt",
-      "at": "2026-09-19T07:57:36Z"
+      "kind": "issue",
+      "number": 50627,
+      "title": "docs(local-dev): Studio cannot access the database when following DEVELOPERS.md for local development",
+      "url": "https://github.com/supabase/supabase/issues/50627",
+      "author": "kekekuli",
+      "at": "2026-09-20T07:45:36Z"
     }
   ]
 }
