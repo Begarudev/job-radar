@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-09-21T08:36:47.383Z",
-  "count": 10,
+  "updatedAt": "2026-09-21T19:01:07.428Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5865,
-      "title": "fix(actor): refresh page CDP sessions before commands",
-      "url": "https://github.com/browser-use/browser-use/pull/5865",
-      "author": "jiangjiang248",
-      "at": "2026-09-21T08:14:50Z"
+      "number": 5869,
+      "title": "fix(dom): decode stackingContexts as the rare boolean CDP sends",
+      "url": "https://github.com/browser-use/browser-use/pull/5869",
+      "author": "sharziki",
+      "at": "2026-09-21T18:42:40Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5864,
-      "title": "Page.reload() silently no-ops from a stale CDP session; target loss silently falls back to about:blank",
-      "url": "https://github.com/browser-use/browser-use/issues/5864",
-      "author": "axisrow",
-      "at": "2026-09-21T04:07:31Z"
+      "kind": "pr",
+      "number": 5868,
+      "title": "fix: Bug: GIF overlay crashes with display_step=False (UnboundLocalError: y (fixes #5801)",
+      "url": "https://github.com/browser-use/browser-use/pull/5868",
+      "author": "themaksat",
+      "at": "2026-09-21T18:42:23Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4549,
-      "title": "fix(docs-agent): port Eve prompt and error handling hardening to next",
-      "url": "https://github.com/ComposioHQ/composio/pull/4549",
-      "author": "groovyBugify",
-      "at": "2026-09-21T08:19:16Z"
+      "number": 4563,
+      "title": "chore(release): prepare Python 0.22.0 and TypeScript releases",
+      "url": "https://github.com/ComposioHQ/composio/pull/4563",
+      "author": "jkomyno",
+      "at": "2026-09-21T18:34:45Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2672,
+      "title": "feat(batch): support the Mistral batch API",
+      "url": "https://github.com/567-labs/instructor/pull/2672",
+      "author": "vcharvet",
+      "at": "2026-09-21T11:11:05Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,70 +58,92 @@
       "at": "2026-09-21T07:27:18Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2670,
-      "title": "fix(dsl): support PEP 604 union syntax in is_simple_type and ModelAdapter",
-      "url": "https://github.com/567-labs/instructor/pull/2670",
-      "author": "truecallerabreham",
-      "at": "2026-09-20T18:22:43Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40709,
+      "title": "LLMToolSelectorMiddleware ignores conversation history on follow-up queries",
+      "url": "https://github.com/langchain-ai/langchain/issues/40709",
+      "author": "zaretskyy",
+      "at": "2026-09-21T13:21:52Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40707,
+      "title": "fix(typesafe): reject empty `questions` in `TypeSafeClassifier`",
+      "url": "https://github.com/langchain-ai/langchain/pull/40707",
+      "author": "ChampionsZhang",
+      "at": "2026-09-21T10:09:28Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 99000,
+      "title": "Fix staged fallback params in build Instant Validation",
+      "url": "https://github.com/vercel/next.js/pull/99000",
+      "author": "squarepots",
+      "at": "2026-09-21T18:50:54Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 40704,
-      "title": "PIIMiddleware inspects only the newest message of each kind, so PII in supplied history reaches the model and block does not raise",
-      "url": "https://github.com/langchain-ai/langchain/issues/40704",
-      "author": "roshangardi",
-      "at": "2026-09-21T07:49:37Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98983,
-      "title": "test(turbopack): fix filesystem watcher symlink expectations",
-      "url": "https://github.com/vercel/next.js/pull/98983",
-      "author": "sokra",
-      "at": "2026-09-21T06:31:33Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 98982,
-      "title": "test(turbopack): fix filesystem watcher read-write tracking",
-      "url": "https://github.com/vercel/next.js/pull/98982",
-      "author": "sokra",
-      "at": "2026-09-21T06:31:15Z"
+      "number": 98999,
+      "title": "Build Instant Validation misses staged fallback params",
+      "url": "https://github.com/vercel/next.js/issues/98999",
+      "author": "squarepots",
+      "at": "2026-09-21T18:46:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50638,
-      "title": "feat(studio): migrate API report to OTEL",
-      "url": "https://github.com/supabase/supabase/pull/50638",
-      "author": "jordienr",
-      "at": "2026-09-21T08:36:38Z"
+      "number": 50668,
+      "title": "feat(studio): storage explorer keyboard nav",
+      "url": "https://github.com/supabase/supabase/pull/50668",
+      "author": "fsansalvadore",
+      "at": "2026-09-21T16:37:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50637,
-      "title": "feat(studio): rename Replication to Pipelines",
-      "url": "https://github.com/supabase/supabase/pull/50637",
-      "author": "dnywh",
-      "at": "2026-09-21T04:24:06Z"
+      "number": 50667,
+      "title": "feat(www): clarify database-only positioning on the database page",
+      "url": "https://github.com/supabase/supabase/pull/50667",
+      "author": "myerekapan",
+      "at": "2026-09-21T16:33:40Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4136,
+      "title": "Unhandled transient error on InputPlaneInvocation",
+      "url": "https://github.com/modal-labs/modal-client/issues/4136",
+      "author": "KyleSmith19091",
+      "at": "2026-09-21T14:01:16Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2246,
+      "title": "fix: improve package manager selector UX",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2246",
+      "author": "HimanshuTamoli24",
+      "at": "2026-09-07T11:35:26Z"
     }
   ]
 }
