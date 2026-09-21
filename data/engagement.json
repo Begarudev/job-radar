@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-09-20T17:15:05.343Z",
-  "count": 12,
+  "updatedAt": "2026-09-21T08:36:47.383Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5861,
-      "title": "fix(tools): reject element index 0 for input, dropdown, and upload",
-      "url": "https://github.com/browser-use/browser-use/pull/5861",
-      "author": "kevin9327",
-      "at": "2026-09-20T11:27:12Z"
+      "number": 5865,
+      "title": "fix(actor): refresh page CDP sessions before commands",
+      "url": "https://github.com/browser-use/browser-use/pull/5865",
+      "author": "jiangjiang248",
+      "at": "2026-09-21T08:14:50Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5860,
-      "title": "fix(browser): parse navigation hosts instead of splitting on slash",
-      "url": "https://github.com/browser-use/browser-use/pull/5860",
-      "author": "kevin9327",
-      "at": "2026-09-20T11:25:17Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4547,
-      "title": "test(python): add OpenAI provider type inference coverage",
-      "url": "https://github.com/ComposioHQ/composio/pull/4547",
-      "author": "Thilak-devx",
-      "at": "2026-09-20T16:57:52Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4546,
-      "title": "fix: reject Vertex-incompatible meta tool schemas",
-      "url": "https://github.com/ComposioHQ/composio/pull/4546",
-      "author": "lorenzozanee",
-      "at": "2026-09-20T00:50:45Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2669,
-      "title": "context= templating silently deletes unmatched {{ }} text instead of erroring",
-      "url": "https://github.com/567-labs/instructor/issues/2669",
-      "author": "PUNITH-V",
-      "at": "2026-09-20T15:20:00Z"
+      "number": 5864,
+      "title": "Page.reload() silently no-ops from a stale CDP session; target loss silently falls back to about:blank",
+      "url": "https://github.com/browser-use/browser-use/issues/5864",
+      "author": "axisrow",
+      "at": "2026-09-21T04:07:31Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4549,
+      "title": "fix(docs-agent): port Eve prompt and error handling hardening to next",
+      "url": "https://github.com/ComposioHQ/composio/pull/4549",
+      "author": "groovyBugify",
+      "at": "2026-09-21T08:19:16Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2668,
-      "title": "fix(v2): resolve partial-streaming fields that arrive under a validation alias",
-      "url": "https://github.com/567-labs/instructor/pull/2668",
-      "author": "feiiiiii5",
-      "at": "2026-09-20T04:30:18Z"
+      "number": 2671,
+      "title": "fix(templating): raise on unmatched {{ }} instead of silently dropping it",
+      "url": "https://github.com/567-labs/instructor/pull/2671",
+      "author": "PUNITH-V",
+      "at": "2026-09-21T07:27:18Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2670,
+      "title": "fix(dsl): support PEP 604 union syntax in is_simple_type and ModelAdapter",
+      "url": "https://github.com/567-labs/instructor/pull/2670",
+      "author": "truecallerabreham",
+      "at": "2026-09-20T18:22:43Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40688,
-      "title": "`ToolRetryMiddleware`: default settings retry non-idempotent tools on ambiguous transport errors, then ask the model to retry again",
-      "url": "https://github.com/langchain-ai/langchain/issues/40688",
-      "author": "FurkhanShaikh",
-      "at": "2026-09-20T08:52:50Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 98958,
-      "title": "CRITICAL: next build permanently deletes unrelated user data when distDir points outside the project",
-      "url": "https://github.com/vercel/next.js/issues/98958",
-      "author": "kohi9noor",
-      "at": "2026-09-20T10:35:19Z"
+      "number": 40704,
+      "title": "PIIMiddleware inspects only the newest message of each kind, so PII in supplied history reaches the model and block does not raise",
+      "url": "https://github.com/langchain-ai/langchain/issues/40704",
+      "author": "roshangardi",
+      "at": "2026-09-21T07:49:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 98957,
-      "title": "Support pageExtensions in no-html-link-for-pages ESLint rule",
-      "url": "https://github.com/vercel/next.js/pull/98957",
-      "author": "Samiislam851",
-      "at": "2026-09-20T08:50:40Z"
+      "number": 98983,
+      "title": "test(turbopack): fix filesystem watcher symlink expectations",
+      "url": "https://github.com/vercel/next.js/pull/98983",
+      "author": "sokra",
+      "at": "2026-09-21T06:31:33Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 98982,
+      "title": "test(turbopack): fix filesystem watcher read-write tracking",
+      "url": "https://github.com/vercel/next.js/pull/98982",
+      "author": "sokra",
+      "at": "2026-09-21T06:31:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50628,
-      "title": "docs(local-dev): document PG_META_CRYPTO_KEY setup",
-      "url": "https://github.com/supabase/supabase/pull/50628",
-      "author": "kekekuli",
-      "at": "2026-09-20T07:52:40Z"
+      "number": 50638,
+      "title": "feat(studio): migrate API report to OTEL",
+      "url": "https://github.com/supabase/supabase/pull/50638",
+      "author": "jordienr",
+      "at": "2026-09-21T08:36:38Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50627,
-      "title": "docs(local-dev): Studio cannot access the database when following DEVELOPERS.md for local development",
-      "url": "https://github.com/supabase/supabase/issues/50627",
-      "author": "kekekuli",
-      "at": "2026-09-20T07:45:36Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "issue",
-      "number": 2178,
-      "title": "bug: installation fails on biome formatting",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2178",
-      "author": "FilipMasar",
-      "at": "2025-12-22T11:56:41Z"
+      "kind": "pr",
+      "number": 50637,
+      "title": "feat(studio): rename Replication to Pipelines",
+      "url": "https://github.com/supabase/supabase/pull/50637",
+      "author": "dnywh",
+      "at": "2026-09-21T04:24:06Z"
     }
   ]
 }
