@@ -1,39 +1,61 @@
 {
-  "updatedAt": "2026-09-21T19:01:07.428Z",
-  "count": 13,
+  "updatedAt": "2026-09-22T08:16:20.766Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5869,
-      "title": "fix(dom): decode stackingContexts as the rare boolean CDP sends",
-      "url": "https://github.com/browser-use/browser-use/pull/5869",
-      "author": "sharziki",
-      "at": "2026-09-21T18:42:40Z"
+      "number": 5873,
+      "title": "fix(agent): keep vision for deepseek-flash, which accepts images",
+      "url": "https://github.com/browser-use/browser-use/pull/5873",
+      "author": "fwanggg",
+      "at": "2026-09-22T05:25:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5868,
-      "title": "fix: Bug: GIF overlay crashes with display_step=False (UnboundLocalError: y (fixes #5801)",
-      "url": "https://github.com/browser-use/browser-use/pull/5868",
-      "author": "themaksat",
-      "at": "2026-09-21T18:42:23Z"
+      "number": 5872,
+      "title": "fix: migrate deprecated tool.uv.dev-dependencies to dependency-groups.dev",
+      "url": "https://github.com/browser-use/browser-use/pull/5872",
+      "author": "S0ra-ai",
+      "at": "2026-09-22T03:43:13Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4563,
-      "title": "chore(release): prepare Python 0.22.0 and TypeScript releases",
-      "url": "https://github.com/ComposioHQ/composio/pull/4563",
-      "author": "jkomyno",
-      "at": "2026-09-21T18:34:45Z"
+      "number": 4572,
+      "title": "feat/google-provider-session-aware-execute-tool-call",
+      "url": "https://github.com/ComposioHQ/composio/pull/4572",
+      "author": "avanish-garg",
+      "at": "2026-09-22T08:04:01Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4571,
+      "title": "[Feature]: Google provider's executeToolCall doesn't accept a session (unlike OpenAI/Anthropic)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4571",
+      "author": "avanish-garg",
+      "at": "2026-09-22T07:47:40Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2673,
+      "title": "fix(remote): reject IPv6 transition addresses embedding private IPv4",
+      "url": "https://github.com/567-labs/instructor/pull/2673",
+      "author": "Srivatsa03",
+      "at": "2026-09-22T03:18:56Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +69,70 @@
       "at": "2026-09-21T11:11:05Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2671,
-      "title": "fix(templating): raise on unmatched {{ }} instead of silently dropping it",
-      "url": "https://github.com/567-labs/instructor/pull/2671",
-      "author": "PUNITH-V",
-      "at": "2026-09-21T07:27:18Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40745,
+      "title": "core: empty `group_ids` bypasses validation and filtering in `InMemoryRecordManager`",
+      "url": "https://github.com/langchain-ai/langchain/issues/40745",
+      "author": "Nikhi00718",
+      "at": "2026-09-22T07:50:59Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40709,
-      "title": "LLMToolSelectorMiddleware ignores conversation history on follow-up queries",
-      "url": "https://github.com/langchain-ai/langchain/issues/40709",
-      "author": "zaretskyy",
-      "at": "2026-09-21T13:21:52Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40707,
-      "title": "fix(typesafe): reject empty `questions` in `TypeSafeClassifier`",
-      "url": "https://github.com/langchain-ai/langchain/pull/40707",
-      "author": "ChampionsZhang",
-      "at": "2026-09-21T10:09:28Z"
+      "number": 40730,
+      "title": "​feat(typesafe): add support for custom base URL and authorization headers",
+      "url": "https://github.com/langchain-ai/langchain/issues/40730",
+      "author": "Joel-Duarte",
+      "at": "2026-09-22T03:20:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99000,
-      "title": "Fix staged fallback params in build Instant Validation",
-      "url": "https://github.com/vercel/next.js/pull/99000",
-      "author": "squarepots",
-      "at": "2026-09-21T18:50:54Z"
+      "number": 99033,
+      "title": "Fix Turbopack SVG dimension parsing for width-only SVGs with viewBox",
+      "url": "https://github.com/vercel/next.js/pull/99033",
+      "author": "jekh",
+      "at": "2026-09-22T08:04:43Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 98999,
-      "title": "Build Instant Validation misses staged fallback params",
-      "url": "https://github.com/vercel/next.js/issues/98999",
-      "author": "squarepots",
-      "at": "2026-09-21T18:46:32Z"
+      "number": 99032,
+      "title": "Uncaught `TypeError: Failed to execute 'measure' on 'Performance': '<Component>' cannot have a negative time stamp`",
+      "url": "https://github.com/vercel/next.js/issues/99032",
+      "author": "liuxiaoxuanmmj",
+      "at": "2026-09-22T07:46:41Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 50702,
+      "title": "attaullah713",
+      "url": "https://github.com/supabase/supabase/issues/50702",
+      "author": "shoaibkhanlowerdir-blip",
+      "at": "2026-09-22T07:02:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50668,
-      "title": "feat(studio): storage explorer keyboard nav",
-      "url": "https://github.com/supabase/supabase/pull/50668",
-      "author": "fsansalvadore",
-      "at": "2026-09-21T16:37:53Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50667,
-      "title": "feat(www): clarify database-only positioning on the database page",
-      "url": "https://github.com/supabase/supabase/pull/50667",
-      "author": "myerekapan",
-      "at": "2026-09-21T16:33:40Z"
+      "number": 50701,
+      "title": "Joshenlim/fe 4438 explorer allow deleting notebookchat without first having to",
+      "url": "https://github.com/supabase/supabase/pull/50701",
+      "author": "joshenlim",
+      "at": "2026-09-22T06:22:37Z"
     },
     {
       "founder": "Erik Bernhardsson",
