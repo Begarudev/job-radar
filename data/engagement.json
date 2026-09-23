@@ -1,138 +1,105 @@
 {
-  "updatedAt": "2026-09-23T08:18:30.906Z",
-  "count": 12,
+  "updatedAt": "2026-09-23T18:11:46.418Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5882,
-      "title": "fix(agent): scope max_steps to each run",
-      "url": "https://github.com/browser-use/browser-use/pull/5882",
-      "author": "sherxlg-gif",
-      "at": "2026-09-23T06:12:24Z"
+      "number": 5886,
+      "title": "fix(agent): classify company name fields correctly",
+      "url": "https://github.com/browser-use/browser-use/pull/5886",
+      "author": "aim1sh",
+      "at": "2026-09-23T15:31:45Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5881,
-      "title": "Bug: follow-up run with the same max_steps exits without taking a step",
-      "url": "https://github.com/browser-use/browser-use/issues/5881",
-      "author": "sherxlg-gif",
-      "at": "2026-09-23T06:07:26Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4594,
-      "title": "Custom MCP tool execution fails with SSLEOFError against Tailscale Funnel endpoints (public HTTPS, TLS 1.3 verified working from other clien",
-      "url": "https://github.com/ComposioHQ/composio/issues/4594",
-      "author": "dommonkhouse",
-      "at": "2026-09-22T21:49:54Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4593,
-      "title": "feat(json-schema-to-effect-schema): simplify and deduplicate anyOf/oneOf combiner branches",
-      "url": "https://github.com/ComposioHQ/composio/pull/4593",
-      "author": "AseemPrasad",
-      "at": "2026-09-22T21:49:40Z"
+      "number": 5885,
+      "title": "fix(history): fill missing interacted_element with [] instead of None",
+      "url": "https://github.com/browser-use/browser-use/pull/5885",
+      "author": "harsh-thakkar7",
+      "at": "2026-09-23T14:49:53Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2681,
-      "title": "Bedrock: Claude Opus 5.5 returns 400 in from_bedrock TOOLS mode because toolChoice is always forced",
-      "url": "https://github.com/567-labs/instructor/issues/2681",
+      "kind": "pr",
+      "number": 2685,
+      "title": "fix(bedrock): convert MD_JSON requests to Converse when response_model is None",
+      "url": "https://github.com/567-labs/instructor/pull/2685",
       "author": "kimnamu",
-      "at": "2026-09-23T07:50:35Z"
+      "at": "2026-09-23T10:41:18Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2680,
-      "title": "fix(security): reject IPv6 transition addresses embedding private IPv4",
-      "url": "https://github.com/567-labs/instructor/pull/2680",
-      "author": "JephinJose",
-      "at": "2026-09-23T06:43:43Z"
+      "kind": "issue",
+      "number": 2684,
+      "title": "Bedrock: from_provider with GPT-6 Sol/Luna fails with ParamValidationError (missing modelId) when response_model=None",
+      "url": "https://github.com/567-labs/instructor/issues/2684",
+      "author": "kimnamu",
+      "at": "2026-09-23T10:40:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40777,
-      "title": "`ChatAnthropic` sends unsupported tool choice and thinking configurations for Claude Opus 5.5",
-      "url": "https://github.com/langchain-ai/langchain/issues/40777",
+      "number": 40788,
+      "title": "message_to_events drops AIMessage.additional_kwargs during replay",
+      "url": "https://github.com/langchain-ai/langchain/issues/40788",
+      "author": "aloktripathi1",
+      "at": "2026-09-23T15:41:46Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40782,
+      "title": "`ChatOpenAI.bind_tools()` rejects GPT-6 shell / Programmatic Tool Calling and lacks Responses round-trip support",
+      "url": "https://github.com/langchain-ai/langchain/issues/40782",
       "author": "ChampionsZhang",
-      "at": "2026-09-23T03:38:17Z"
+      "at": "2026-09-23T09:06:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99083,
-      "title": "feat(turbopack): support federation runtime implementations",
-      "url": "https://github.com/vercel/next.js/pull/99083",
-      "author": "ScriptedAlchemy",
-      "at": "2026-09-23T08:11:07Z"
+      "number": 99112,
+      "title": "Refactor JSON-LD script tag for cleaner syntax",
+      "url": "https://github.com/vercel/next.js/pull/99112",
+      "author": "acharlop",
+      "at": "2026-09-23T17:58:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99082,
-      "title": "Revert \"Turbopack: compact re-export registration (#98617)\"",
-      "url": "https://github.com/vercel/next.js/pull/99082",
-      "author": "mischnic",
-      "at": "2026-09-23T08:04:47Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.3.6 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.6",
-      "author": "eps1lon",
-      "at": "2026-09-22T17:15:10Z"
+      "number": 99111,
+      "title": "Default agentic upgrades to a separate worktree",
+      "url": "https://github.com/vercel/next.js/pull/99111",
+      "author": "devjiwonchoi",
+      "at": "2026-09-23T17:32:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50783,
-      "title": "Design System: Improve icon button example accessibility",
-      "url": "https://github.com/supabase/supabase/pull/50783",
-      "author": "djhi",
-      "at": "2026-09-23T08:03:44Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50782,
-      "title": "feat(studio): add spot colour control to Appearance",
-      "url": "https://github.com/supabase/supabase/pull/50782",
-      "author": "dnywh",
-      "at": "2026-09-23T07:32:12Z"
+      "number": 50805,
+      "title": "fix(ui): fallback to writeText when clipboard.write rejects (#50769)",
+      "url": "https://github.com/supabase/supabase/pull/50805",
+      "author": "Spandan-Mishra",
+      "at": "2026-09-23T17:22:07Z"
     }
   ]
 }
