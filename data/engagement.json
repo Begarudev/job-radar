@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-24T08:10:02.664Z",
-  "count": 11,
+  "updatedAt": "2026-09-24T18:06:53.242Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5892,
+      "title": "fix(config): do not overwrite config.json when it cannot be read",
+      "url": "https://github.com/browser-use/browser-use/pull/5892",
+      "author": "ericdelorefice",
+      "at": "2026-09-24T15:14:05Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/issues/5891",
       "author": "UniteAndCreateForLife",
       "at": "2026-09-24T01:36:36Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5890,
-      "title": "feat(examples): add disposable email & OTP extraction actions for web…",
-      "url": "https://github.com/browser-use/browser-use/pull/5890",
-      "author": "codeonthetable",
-      "at": "2026-09-24T00:42:31Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,6 +36,28 @@
       "at": "2026-09-24T05:16:38Z"
     },
     {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4612,
+      "title": "docs: add Zero Data Retention page and rename Don't store data",
+      "url": "https://github.com/ComposioHQ/composio/pull/4612",
+      "author": "shubham22",
+      "at": "2026-09-24T03:44:24Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2691,
+      "title": "feat(batch): allow custom request ids in BatchProcessor",
+      "url": "https://github.com/567-labs/instructor/pull/2691",
+      "author": "vcharvet",
+      "at": "2026-09-24T13:02:33Z"
+    },
+    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
@@ -47,81 +69,70 @@
       "at": "2026-09-24T05:12:14Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2689,
-      "title": "Change section title in README",
-      "url": "https://github.com/567-labs/instructor/pull/2689",
-      "author": "kaseraaryan5-star",
-      "at": "2026-09-24T05:02:53Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40802,
-      "title": "langchain-typesafe: TypeSafeClassifier declares serialization support but cannot round-trip through built-in deserialization",
-      "url": "https://github.com/langchain-ai/langchain/issues/40802",
-      "author": "ChampionsZhang",
-      "at": "2026-09-24T03:18:51Z"
+      "kind": "pr",
+      "number": 40814,
+      "title": "fix(fireworks): declare native PDF inputs unsupported",
+      "url": "https://github.com/langchain-ai/langchain/pull/40814",
+      "author": "mdrxy",
+      "at": "2026-09-24T15:28:50Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40801,
-      "title": "feat(typesafe): add `TsHybridToolSelectorMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/40801",
+      "number": 40813,
+      "title": "feat(typesafe): select SemIf for `TsHybridToolSelectorMiddleware`",
+      "url": "https://github.com/langchain-ai/langchain/pull/40813",
       "author": "thushanth-bengre-langchain",
-      "at": "2026-09-24T02:17:52Z"
+      "at": "2026-09-24T14:26:21Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99147,
-      "title": "Always use generateBuildId if set explicitly",
-      "url": "https://github.com/vercel/next.js/pull/99147",
-      "author": "mischnic",
-      "at": "2026-09-24T08:07:15Z"
+      "number": 99177,
+      "title": "fix(next info): report the project-installed version instead of the binary version",
+      "url": "https://github.com/vercel/next.js/pull/99177",
+      "author": "Dextheking1",
+      "at": "2026-09-24T17:54:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99145,
-      "title": "turbo-tasks-gc: tear down reverse edges when collecting a task",
-      "url": "https://github.com/vercel/next.js/pull/99145",
-      "author": "lukesandberg",
-      "at": "2026-09-24T06:14:27Z"
+      "number": 99176,
+      "title": "fix(next/form): normalize newlines to CRLF in string-action submissions",
+      "url": "https://github.com/vercel/next.js/pull/99176",
+      "author": "Dextheking1",
+      "at": "2026-09-24T17:54:45Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50847,
-      "title": "fix(studio): prevent API Gateway report tab crash",
-      "url": "https://github.com/supabase/supabase/pull/50847",
-      "author": "jordienr",
-      "at": "2026-09-24T08:02:38Z"
+      "number": 50874,
+      "title": "fix(pg-meta): use collision-free DO block delimiters for $$ in identifiers",
+      "url": "https://github.com/supabase/supabase/pull/50874",
+      "author": "Dextheking1",
+      "at": "2026-09-24T17:57:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50844,
-      "title": "Update copy RE disk configuration changes and cooldown",
-      "url": "https://github.com/supabase/supabase/pull/50844",
-      "author": "joshenlim",
-      "at": "2026-09-24T07:06:01Z"
+      "number": 50872,
+      "title": "fix: show support contact message if Studio fails to load (FE-4460)",
+      "url": "https://github.com/supabase/supabase/pull/50872",
+      "author": "monicakh",
+      "at": "2026-09-24T16:12:09Z"
     }
   ]
 }
