@@ -1,138 +1,94 @@
 {
-  "updatedAt": "2026-09-24T18:06:53.242Z",
-  "count": 12,
+  "updatedAt": "2026-09-25T08:33:32.152Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5892,
-      "title": "fix(config): do not overwrite config.json when it cannot be read",
-      "url": "https://github.com/browser-use/browser-use/pull/5892",
-      "author": "ericdelorefice",
-      "at": "2026-09-24T15:14:05Z"
+      "kind": "issue",
+      "number": 5902,
+      "title": "Your x402 numbers for the last 30 days (24 calls, 7-7 paying wallets)",
+      "url": "https://github.com/browser-use/browser-use/issues/5902",
+      "author": "mike-lblc",
+      "at": "2026-09-25T06:55:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5891,
-      "title": "Community recipe: browser-use → OpenAI-compat HAL SUPREME /v1 peer",
-      "url": "https://github.com/browser-use/browser-use/issues/5891",
-      "author": "UniteAndCreateForLife",
-      "at": "2026-09-24T01:36:36Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4613,
-      "title": "[Feature]: x402 pay-per-call settlement on the tool-execution path",
-      "url": "https://github.com/ComposioHQ/composio/issues/4613",
-      "author": "dhyabi2",
-      "at": "2026-09-24T05:16:38Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4612,
-      "title": "docs: add Zero Data Retention page and rename Don't store data",
-      "url": "https://github.com/ComposioHQ/composio/pull/4612",
-      "author": "shubham22",
-      "at": "2026-09-24T03:44:24Z"
+      "number": 5901,
+      "title": "fix: report failed tab closures to the agent",
+      "url": "https://github.com/browser-use/browser-use/pull/5901",
+      "author": "MagMueller",
+      "at": "2026-09-25T06:31:44Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2691,
-      "title": "feat(batch): allow custom request ids in BatchProcessor",
-      "url": "https://github.com/567-labs/instructor/pull/2691",
-      "author": "vcharvet",
-      "at": "2026-09-24T13:02:33Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2690,
-      "title": "Fix capitalization in groq.md documentation",
-      "url": "https://github.com/567-labs/instructor/pull/2690",
-      "author": "kaseraaryan5-star",
-      "at": "2026-09-24T05:12:14Z"
+      "number": 2693,
+      "title": "fix(batch): keep the value schema of mapping fields in OpenAI batches",
+      "url": "https://github.com/567-labs/instructor/pull/2693",
+      "author": "Rodrigo-Palma",
+      "at": "2026-09-25T04:10:30Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40814,
-      "title": "fix(fireworks): declare native PDF inputs unsupported",
-      "url": "https://github.com/langchain-ai/langchain/pull/40814",
-      "author": "mdrxy",
-      "at": "2026-09-24T15:28:50Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40813,
-      "title": "feat(typesafe): select SemIf for `TsHybridToolSelectorMiddleware`",
-      "url": "https://github.com/langchain-ai/langchain/pull/40813",
-      "author": "thushanth-bengre-langchain",
-      "at": "2026-09-24T14:26:21Z"
+      "number": 40832,
+      "title": "fix(core): don't send a default project with agent-addressed runs",
+      "url": "https://github.com/langchain-ai/langchain/pull/40832",
+      "author": "KiewanVillatel",
+      "at": "2026-09-25T08:14:29Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99177,
-      "title": "fix(next info): report the project-installed version instead of the binary version",
-      "url": "https://github.com/vercel/next.js/pull/99177",
-      "author": "Dextheking1",
-      "at": "2026-09-24T17:54:52Z"
+      "number": 99217,
+      "title": "Allow agentic upgrades without Git and clarify canary guidance",
+      "url": "https://github.com/vercel/next.js/pull/99217",
+      "author": "devjiwonchoi",
+      "at": "2026-09-25T08:27:37Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99176,
-      "title": "fix(next/form): normalize newlines to CRLF in string-action submissions",
-      "url": "https://github.com/vercel/next.js/pull/99176",
-      "author": "Dextheking1",
-      "at": "2026-09-24T17:54:45Z"
+      "number": 99216,
+      "title": "fix(next-info): report package versions from the project directory",
+      "url": "https://github.com/vercel/next.js/pull/99216",
+      "author": "Aparajith24",
+      "at": "2026-09-25T08:06:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50874,
-      "title": "fix(pg-meta): use collision-free DO block delimiters for $$ in identifiers",
-      "url": "https://github.com/supabase/supabase/pull/50874",
-      "author": "Dextheking1",
-      "at": "2026-09-24T17:57:24Z"
+      "number": 50898,
+      "title": "fix: tooltip for log query",
+      "url": "https://github.com/supabase/supabase/pull/50898",
+      "author": "kevcodez",
+      "at": "2026-09-25T08:02:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50872,
-      "title": "fix: show support contact message if Studio fails to load (FE-4460)",
-      "url": "https://github.com/supabase/supabase/pull/50872",
-      "author": "monicakh",
-      "at": "2026-09-24T16:12:09Z"
+      "number": 50897,
+      "title": "feat(studio): add geographic country usage table",
+      "url": "https://github.com/supabase/supabase/pull/50897",
+      "author": "maayanalbert",
+      "at": "2026-09-25T07:49:31Z"
     }
   ]
 }
