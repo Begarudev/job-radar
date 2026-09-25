@@ -1,94 +1,160 @@
 {
-  "updatedAt": "2026-09-25T08:33:32.152Z",
-  "count": 8,
+  "updatedAt": "2026-09-25T18:12:09.331Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5902,
-      "title": "Your x402 numbers for the last 30 days (24 calls, 7-7 paying wallets)",
-      "url": "https://github.com/browser-use/browser-use/issues/5902",
-      "author": "mike-lblc",
-      "at": "2026-09-25T06:55:00Z"
+      "kind": "pr",
+      "number": 5913,
+      "title": "fix(browser): StorageStateWatchdog guards no longer assert, and reset() stops its loop",
+      "url": "https://github.com/browser-use/browser-use/pull/5913",
+      "author": "HardMax71",
+      "at": "2026-09-25T17:53:41Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5912,
+      "title": "Bug: StorageStateWatchdog logs ERROR every auto-save interval once the CDP client is gone, and reset() leaves its loop running",
+      "url": "https://github.com/browser-use/browser-use/issues/5912",
+      "author": "HardMax71",
+      "at": "2026-09-25T17:52:27Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5901,
-      "title": "fix: report failed tab closures to the agent",
-      "url": "https://github.com/browser-use/browser-use/pull/5901",
-      "author": "MagMueller",
-      "at": "2026-09-25T06:31:44Z"
+      "number": 4652,
+      "title": "docs(instant-tools): define Instant per tool, add ZDR disclosure, apply ratified naming",
+      "url": "https://github.com/ComposioHQ/composio/pull/4652",
+      "author": "palash-instinct",
+      "at": "2026-09-25T17:14:14Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4651,
+      "title": "feat(core): expose premium usage charges in usage and logs",
+      "url": "https://github.com/ComposioHQ/composio/pull/4651",
+      "author": "prachi005",
+      "at": "2026-09-25T16:38:27Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2693,
-      "title": "fix(batch): keep the value schema of mapping fields in OpenAI batches",
-      "url": "https://github.com/567-labs/instructor/pull/2693",
-      "author": "Rodrigo-Palma",
-      "at": "2026-09-25T04:10:30Z"
+      "number": 2699,
+      "title": "Fix CitationMixin crash when context is a list of RAG chunks",
+      "url": "https://github.com/567-labs/instructor/pull/2699",
+      "author": "MohammadHijjawi97",
+      "at": "2026-09-25T12:09:13Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2698,
+      "title": "fix(parallel): reject unknown tool names instead of dropping them",
+      "url": "https://github.com/567-labs/instructor/pull/2698",
+      "author": "goran-revops",
+      "at": "2026-09-25T11:46:29Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 40832,
-      "title": "fix(core): don't send a default project with agent-addressed runs",
-      "url": "https://github.com/langchain-ai/langchain/pull/40832",
-      "author": "KiewanVillatel",
-      "at": "2026-09-25T08:14:29Z"
+      "number": 40844,
+      "title": "fix(langchain): recognize GPT-6 structured output without profiles",
+      "url": "https://github.com/langchain-ai/langchain/pull/40844",
+      "author": "ccurme",
+      "at": "2026-09-25T18:06:24Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40840,
+      "title": "SummarizationMiddleware: _get_approximate_token_counter doesn't recognize Claude on Bedrock (ChatBedrockConverse), so summarization triggers",
+      "url": "https://github.com/langchain-ai/langchain/issues/40840",
+      "author": "matt-harding",
+      "at": "2026-09-25T15:13:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99217,
-      "title": "Allow agentic upgrades without Git and clarify canary guidance",
-      "url": "https://github.com/vercel/next.js/pull/99217",
-      "author": "devjiwonchoi",
-      "at": "2026-09-25T08:27:37Z"
+      "number": 99250,
+      "title": "Fix Turbopack client manifest HMR race during module replacement",
+      "url": "https://github.com/vercel/next.js/pull/99250",
+      "author": "wbinnssmith",
+      "at": "2026-09-25T18:11:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99216,
-      "title": "fix(next-info): report package versions from the project directory",
-      "url": "https://github.com/vercel/next.js/pull/99216",
-      "author": "Aparajith24",
-      "at": "2026-09-25T08:06:36Z"
+      "number": 99249,
+      "title": "improve disk read semantics around MustExist and AllowMissing",
+      "url": "https://github.com/vercel/next.js/pull/99249",
+      "author": "lukesandberg",
+      "at": "2026-09-25T18:00:52Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50898,
-      "title": "fix: tooltip for log query",
-      "url": "https://github.com/supabase/supabase/pull/50898",
-      "author": "kevcodez",
-      "at": "2026-09-25T08:02:05Z"
+      "number": 50929,
+      "title": "chore(www): update quote attribution in Gemini Enterprise blog post",
+      "url": "https://github.com/supabase/supabase/pull/50929",
+      "author": "shaziyabandukia",
+      "at": "2026-09-25T18:05:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50897,
-      "title": "feat(studio): add geographic country usage table",
-      "url": "https://github.com/supabase/supabase/pull/50897",
-      "author": "maayanalbert",
-      "at": "2026-09-25T07:49:31Z"
+      "number": 50928,
+      "title": "fix(o11y): add connections to footer",
+      "url": "https://github.com/supabase/supabase/pull/50928",
+      "author": "copland",
+      "at": "2026-09-25T17:52:35Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4140,
+      "title": "Feature request: support ~1 TiB vm_runtime filesystem snapshots (raise/make-configurable disk, snapshot changed-data, and inode ceilings)",
+      "url": "https://github.com/modal-labs/modal-client/issues/4140",
+      "author": "ElenaViewSynthesis",
+      "at": "2026-09-25T15:26:19Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4139,
+      "title": "snapshot_filesystem fails below the disk cap: 256 GiB changed-data limit (typed) + an undocumented inode/file-count limit (opaque InternalEr",
+      "url": "https://github.com/modal-labs/modal-client/issues/4139",
+      "author": "ElenaViewSynthesis",
+      "at": "2026-09-25T13:48:12Z"
     }
   ]
 }
