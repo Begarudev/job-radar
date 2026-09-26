@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T12:05:06.253Z",
+  "updatedAt": "2026-09-26T11:41:29.751Z",
   "count": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "Details about the OpenAI Bio Bounty program",
       "url": "https://openai.com/index/bio-bug-bounty",
       "publishedAt": "Thu, 09 Jul 2026 10:00:00 GMT",
-      "fetchedAt": "2026-09-25T12:05:05.807Z",
+      "fetchedAt": "2026-09-26T11:41:29.367Z",
       "company": "OpenAI",
       "tags": []
     },
@@ -22,7 +22,7 @@
       "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
       "url": "https://www.runpod.io/blog/flash-hack-day",
       "publishedAt": "Sun, 13 Sep 2026 15:06:30 GMT",
-      "fetchedAt": "2026-09-25T12:05:05.993Z",
+      "fetchedAt": "2026-09-26T11:41:29.410Z",
       "company": "RunPod",
       "tags": []
     },
@@ -34,7 +34,7 @@
       "description": "In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. We've translated those learnings into several public bounty programs: The $1 million React2Shell hacker challenge The $1 million Vercel Sandbox hacker challenge Our OSS bug bounty program Today, we are combining our private and OSS bounty programs into a single, public Vercel bug bounty program . Why now AI has fundamentally",
       "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
       "publishedAt": "2026-09-24T07:00:00.000Z",
-      "fetchedAt": "2026-09-25T12:05:06.226Z",
+      "fetchedAt": "2026-09-26T11:41:29.471Z",
       "company": "Vercel",
       "tags": []
     }
