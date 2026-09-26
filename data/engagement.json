@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-09-26T08:20:22.463Z",
-  "count": 13,
+  "updatedAt": "2026-09-26T17:35:19.721Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5919,
-      "title": "fix(tools): support JSON Schema type arrays (e.g. [\"string\", \"null\"]) in schema_dict_to_pydantic_model",
-      "url": "https://github.com/browser-use/browser-use/pull/5919",
-      "author": "liwenjie200543",
-      "at": "2026-09-26T02:30:12Z"
+      "number": 5924,
+      "title": "fix(groq): string-aware JSON recovery for failed_generation outputs",
+      "url": "https://github.com/browser-use/browser-use/pull/5924",
+      "author": "nanhe17",
+      "at": "2026-09-26T15:14:45Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5918,
-      "title": "fix(gif): preserve unicode escapes in mixed text",
-      "url": "https://github.com/browser-use/browser-use/pull/5918",
-      "author": "prince37501",
-      "at": "2026-09-25T22:40:37Z"
+      "number": 5923,
+      "title": "fix(mistral): default to 600s read timeout instead of httpx's 5s",
+      "url": "https://github.com/browser-use/browser-use/pull/5923",
+      "author": "nanhe17",
+      "at": "2026-09-26T14:29:08Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -50,56 +50,67 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2701,
-      "title": "fix(openai): enforce strict schema constraints on structured outputs",
-      "url": "https://github.com/567-labs/instructor/pull/2701",
-      "author": "SoulSniper-V2",
-      "at": "2026-09-26T00:35:44Z"
+      "kind": "issue",
+      "number": 2705,
+      "title": "RESPONSES_TOOLS returns a parsed model when the provider flagged the turn incomplete",
+      "url": "https://github.com/567-labs/instructor/issues/2705",
+      "author": "feiiiiii5",
+      "at": "2026-09-26T16:01:51Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2700,
-      "title": "Fix #2694: Streaming JSON extract takes first object; non-stream takes last (Part",
-      "url": "https://github.com/567-labs/instructor/pull/2700",
-      "author": "nandanadileep",
-      "at": "2026-09-25T21:46:43Z"
+      "number": 2704,
+      "title": "fix(retry): isolate caller-owned kwargs in public retry_sync/retry_async",
+      "url": "https://github.com/567-labs/instructor/pull/2704",
+      "author": "Hubuguilai",
+      "at": "2026-09-26T12:49:54Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40840,
-      "title": "SummarizationMiddleware: _get_approximate_token_counter doesn't recognize Claude on Bedrock (ChatBedrockConverse), so summarization triggers",
-      "url": "https://github.com/langchain-ai/langchain/issues/40840",
-      "author": "matt-harding",
-      "at": "2026-09-25T15:13:02Z"
+      "kind": "pr",
+      "number": 40832,
+      "title": "fix(core): don't send a default project with agent-addressed runs",
+      "url": "https://github.com/langchain-ai/langchain/pull/40832",
+      "author": "KiewanVillatel",
+      "at": "2026-09-25T08:14:29Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99275,
-      "title": "test: forward __NEXT_PARTIAL_PREFETCHING to test-deploy",
-      "url": "https://github.com/vercel/next.js/pull/99275",
-      "author": "lubieowoce",
-      "at": "2026-09-26T08:12:04Z"
+      "number": 99282,
+      "title": "Turbopack: fold typeof constants to eliminate dead imports",
+      "url": "https://github.com/vercel/next.js/pull/99282",
+      "author": "33modeling",
+      "at": "2026-09-26T16:21:16Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99274,
-      "title": "Collect root param dependencies for `'use cache'` at build time",
-      "url": "https://github.com/vercel/next.js/pull/99274",
-      "author": "unstubbable",
-      "at": "2026-09-26T08:11:20Z"
+      "number": 99280,
+      "title": "Fix: prevent scroll to hash on browser back button navigation",
+      "url": "https://github.com/vercel/next.js/pull/99280",
+      "author": "ruturaaj16",
+      "at": "2026-09-26T12:37:54Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 50937,
+      "title": "fix(studio): show explicit sign-in error instead of login loop",
+      "url": "https://github.com/supabase/supabase/pull/50937",
+      "author": "ApexYash11",
+      "at": "2026-09-26T16:52:20Z"
     },
     {
       "founder": "Paul Copplestone",
@@ -111,39 +122,6 @@
       "url": "https://github.com/supabase/supabase/pull/50935",
       "author": "joshenlim",
       "at": "2026-09-26T06:54:18Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50934,
-      "title": "Fix broadcast private flag docs",
-      "url": "https://github.com/supabase/supabase/pull/50934",
-      "author": "mahenoorsalat",
-      "at": "2026-09-26T06:40:54Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4140,
-      "title": "Feature request: support ~1 TiB vm_runtime filesystem snapshots (raise/make-configurable disk, snapshot changed-data, and inode ceilings)",
-      "url": "https://github.com/modal-labs/modal-client/issues/4140",
-      "author": "ElenaViewSynthesis",
-      "at": "2026-09-25T15:26:19Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4139,
-      "title": "snapshot_filesystem fails below the disk cap: 256 GiB changed-data limit (typed) + an undocumented inode/file-count limit (opaque InternalEr",
-      "url": "https://github.com/modal-labs/modal-client/issues/4139",
-      "author": "ElenaViewSynthesis",
-      "at": "2026-09-25T13:48:12Z"
     }
   ]
 }
