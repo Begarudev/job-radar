@@ -1,127 +1,138 @@
 {
-  "updatedAt": "2026-09-26T17:35:19.721Z",
-  "count": 11,
+  "updatedAt": "2026-09-27T08:58:02.446Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5924,
-      "title": "fix(groq): string-aware JSON recovery for failed_generation outputs",
-      "url": "https://github.com/browser-use/browser-use/pull/5924",
-      "author": "nanhe17",
-      "at": "2026-09-26T15:14:45Z"
+      "number": 5928,
+      "title": "fix(agent): normalize missing interacted_element to [] for legacy history compatibility (#5844)",
+      "url": "https://github.com/browser-use/browser-use/pull/5928",
+      "author": "gewenbo888",
+      "at": "2026-09-27T08:27:16Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5923,
-      "title": "fix(mistral): default to 600s read timeout instead of httpx's 5s",
-      "url": "https://github.com/browser-use/browser-use/pull/5923",
+      "number": 5927,
+      "title": "fix(ollama): let client_params override SDK-explicit keys without TypeError",
+      "url": "https://github.com/browser-use/browser-use/pull/5927",
       "author": "nanhe17",
-      "at": "2026-09-26T14:29:08Z"
+      "at": "2026-09-27T02:20:35Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4658,
-      "title": "docs(security): note hosted-account calls are not covered by ZDR in Data retention",
-      "url": "https://github.com/ComposioHQ/composio/pull/4658",
-      "author": "palash-instinct",
-      "at": "2026-09-25T20:09:57Z"
+      "number": 4665,
+      "title": "fix(core): accept experimental in the session authorize type",
+      "url": "https://github.com/ComposioHQ/composio/pull/4665",
+      "author": "tarunvashishth",
+      "at": "2026-09-27T07:17:25Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4657,
-      "title": "docs(instant-tools): rewrite the Instant Tools page for first-time readers",
-      "url": "https://github.com/ComposioHQ/composio/pull/4657",
-      "author": "palash-instinct",
-      "at": "2026-09-25T19:56:53Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2705,
-      "title": "RESPONSES_TOOLS returns a parsed model when the provider flagged the turn incomplete",
-      "url": "https://github.com/567-labs/instructor/issues/2705",
-      "author": "feiiiiii5",
-      "at": "2026-09-26T16:01:51Z"
+      "number": 4663,
+      "title": "[Bug]: ConnectionRequest.status stays INITIATED after waitForConnection() resolves (TS SDK)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4663",
+      "author": "breken-ai",
+      "at": "2026-09-26T21:13:51Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2704,
-      "title": "fix(retry): isolate caller-owned kwargs in public retry_sync/retry_async",
-      "url": "https://github.com/567-labs/instructor/pull/2704",
-      "author": "Hubuguilai",
-      "at": "2026-09-26T12:49:54Z"
+      "number": 2709,
+      "title": "fix(core): support ReadOnly and nested qualifiers in TypedDict response models",
+      "url": "https://github.com/567-labs/instructor/pull/2709",
+      "author": "ansh-rohilla",
+      "at": "2026-09-27T06:24:58Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2708,
+      "title": "feat(release): consolidate reviewed Instructor 1.18 changes",
+      "url": "https://github.com/567-labs/instructor/pull/2708",
+      "author": "jxnl",
+      "at": "2026-09-27T02:48:57Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40832,
-      "title": "fix(core): don't send a default project with agent-addressed runs",
-      "url": "https://github.com/langchain-ai/langchain/pull/40832",
-      "author": "KiewanVillatel",
-      "at": "2026-09-25T08:14:29Z"
+      "kind": "issue",
+      "number": 40858,
+      "title": "Output parsers drop tool calls when a chat model falls back to invoke inside stream(), so structured output streams nothing",
+      "url": "https://github.com/langchain-ai/langchain/issues/40858",
+      "author": "winklemad",
+      "at": "2026-09-27T07:31:31Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40853,
+      "title": "create_agent invalid-tool-call repair emits a tool_result with no matching tool_use, so Anthropic threads fail with a 400 after any invalid ",
+      "url": "https://github.com/langchain-ai/langchain/issues/40853",
+      "author": "roshangardi",
+      "at": "2026-09-27T02:27:26Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99282,
-      "title": "Turbopack: fold typeof constants to eliminate dead imports",
-      "url": "https://github.com/vercel/next.js/pull/99282",
-      "author": "33modeling",
-      "at": "2026-09-26T16:21:16Z"
+      "number": 99312,
+      "title": "Expose next/image-optimizer-transform as a public subpath",
+      "url": "https://github.com/vercel/next.js/pull/99312",
+      "author": "eps1lon",
+      "at": "2026-09-27T08:55:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99280,
-      "title": "Fix: prevent scroll to hash on browser back button navigation",
-      "url": "https://github.com/vercel/next.js/pull/99280",
-      "author": "ruturaaj16",
-      "at": "2026-09-26T12:37:54Z"
+      "number": 99311,
+      "title": "Enable agent upgrade reminders by default",
+      "url": "https://github.com/vercel/next.js/pull/99311",
+      "author": "devjiwonchoi",
+      "at": "2026-09-27T08:25:47Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50937,
-      "title": "fix(studio): show explicit sign-in error instead of login loop",
-      "url": "https://github.com/supabase/supabase/pull/50937",
-      "author": "ApexYash11",
-      "at": "2026-09-26T16:52:20Z"
+      "number": 50944,
+      "title": "docs: redirect renamed logs ingest and logs query usage pages",
+      "url": "https://github.com/supabase/supabase/pull/50944",
+      "author": "shobhit26-09",
+      "at": "2026-09-27T06:24:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50935,
-      "title": "Joshenlim/fe 4466 audit logs update organization logs as well",
-      "url": "https://github.com/supabase/supabase/pull/50935",
-      "author": "joshenlim",
-      "at": "2026-09-26T06:54:18Z"
+      "kind": "issue",
+      "number": 50943,
+      "title": "Log Ingestion More information",
+      "url": "https://github.com/supabase/supabase/issues/50943",
+      "author": "felipinhobxd",
+      "at": "2026-09-27T05:36:19Z"
     }
   ]
 }
