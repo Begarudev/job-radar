@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-27T08:58:02.446Z",
+  "updatedAt": "2026-09-27T18:01:32.729Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 5929,
+      "title": "fix(security): enforce fail-closed private network and IP blocking by default (#5879)",
+      "url": "https://github.com/browser-use/browser-use/pull/5929",
+      "author": "shleder",
+      "at": "2026-09-27T13:51:53Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,37 +25,37 @@
       "at": "2026-09-27T08:27:16Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5927,
-      "title": "fix(ollama): let client_params override SDK-explicit keys without TypeError",
-      "url": "https://github.com/browser-use/browser-use/pull/5927",
-      "author": "nanhe17",
-      "at": "2026-09-27T02:20:35Z"
+      "number": 4667,
+      "title": "docs: explain public Instant Tools discovery (PLEN-4148)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4667",
+      "author": "shamsharoon",
+      "at": "2026-09-27T16:32:33Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4665,
-      "title": "fix(core): accept experimental in the session authorize type",
-      "url": "https://github.com/ComposioHQ/composio/pull/4665",
-      "author": "tarunvashishth",
-      "at": "2026-09-27T07:17:25Z"
+      "number": 4666,
+      "title": "Expose Instant Tools catalog and Session contract in SDKs",
+      "url": "https://github.com/ComposioHQ/composio/pull/4666",
+      "author": "palash-c",
+      "at": "2026-09-27T15:12:09Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4663,
-      "title": "[Bug]: ConnectionRequest.status stays INITIATED after waitForConnection() resolves (TS SDK)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4663",
-      "author": "breken-ai",
-      "at": "2026-09-26T21:13:51Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2710,
+      "title": "fix(core): dispatch parallel tools using Pydantic schema titles",
+      "url": "https://github.com/567-labs/instructor/pull/2710",
+      "author": "ansh-rohilla",
+      "at": "2026-09-27T09:48:44Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,15 +69,15 @@
       "at": "2026-09-27T06:24:58Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2708,
-      "title": "feat(release): consolidate reviewed Instructor 1.18 changes",
-      "url": "https://github.com/567-labs/instructor/pull/2708",
-      "author": "jxnl",
-      "at": "2026-09-27T02:48:57Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40863,
+      "title": "Support forwarding MCP _meta on tool calls and surfacing server response metadata",
+      "url": "https://github.com/langchain-ai/langchain/issues/40863",
+      "author": "udayshnk",
+      "at": "2026-09-27T10:20:43Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,59 +91,48 @@
       "at": "2026-09-27T07:31:31Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40853,
-      "title": "create_agent invalid-tool-call repair emits a tool_result with no matching tool_use, so Anthropic threads fail with a 400 after any invalid ",
-      "url": "https://github.com/langchain-ai/langchain/issues/40853",
-      "author": "roshangardi",
-      "at": "2026-09-27T02:27:26Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 99320,
+      "title": "Preserve blocking fallbacks with partial prefetching",
+      "url": "https://github.com/vercel/next.js/pull/99320",
+      "author": "gnoff",
+      "at": "2026-09-27T16:59:29Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99312,
-      "title": "Expose next/image-optimizer-transform as a public subpath",
-      "url": "https://github.com/vercel/next.js/pull/99312",
-      "author": "eps1lon",
-      "at": "2026-09-27T08:55:18Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99311,
-      "title": "Enable agent upgrade reminders by default",
-      "url": "https://github.com/vercel/next.js/pull/99311",
+      "number": 99319,
+      "title": "[ai-upgrade] Let users go back through upgrade prompts",
+      "url": "https://github.com/vercel/next.js/pull/99319",
       "author": "devjiwonchoi",
-      "at": "2026-09-27T08:25:47Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 50944,
-      "title": "docs: redirect renamed logs ingest and logs query usage pages",
-      "url": "https://github.com/supabase/supabase/pull/50944",
-      "author": "shobhit26-09",
-      "at": "2026-09-27T06:24:40Z"
+      "at": "2026-09-27T15:23:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 50943,
-      "title": "Log Ingestion More information",
-      "url": "https://github.com/supabase/supabase/issues/50943",
-      "author": "felipinhobxd",
-      "at": "2026-09-27T05:36:19Z"
+      "number": 50948,
+      "title": "docs(examples): broken BotFather image link in elevenlabs-speech-to-text README",
+      "url": "https://github.com/supabase/supabase/issues/50948",
+      "author": "auroraxo",
+      "at": "2026-09-27T16:23:11Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 50947,
+      "title": "Cannot revoke anon/authenticated EXECUTE on net schema (pg_net) — REVOKE silently no-ops due to supabase_admin ownership",
+      "url": "https://github.com/supabase/supabase/issues/50947",
+      "author": "muruganmse-hub",
+      "at": "2026-09-27T15:38:33Z"
     }
   ]
 }
