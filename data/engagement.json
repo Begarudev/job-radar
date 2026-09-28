@@ -1,138 +1,127 @@
 {
-  "updatedAt": "2026-09-27T18:01:32.729Z",
-  "count": 12,
+  "updatedAt": "2026-09-28T09:24:14.484Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5929,
-      "title": "fix(security): enforce fail-closed private network and IP blocking by default (#5879)",
-      "url": "https://github.com/browser-use/browser-use/pull/5929",
-      "author": "shleder",
-      "at": "2026-09-27T13:51:53Z"
+      "number": 5934,
+      "title": "fix(actor): retry CSS selector lookup on stale DOM root",
+      "url": "https://github.com/browser-use/browser-use/pull/5934",
+      "author": "Vaebanana",
+      "at": "2026-09-28T05:30:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5928,
-      "title": "fix(agent): normalize missing interacted_element to [] for legacy history compatibility (#5844)",
-      "url": "https://github.com/browser-use/browser-use/pull/5928",
-      "author": "gewenbo888",
-      "at": "2026-09-27T08:27:16Z"
+      "number": 5933,
+      "title": "Keep the useful lines when a page extract is cut at 60k",
+      "url": "https://github.com/browser-use/browser-use/pull/5933",
+      "author": "arjunkshah12345-hash",
+      "at": "2026-09-28T04:07:40Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4667,
-      "title": "docs: explain public Instant Tools discovery (PLEN-4148)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4667",
-      "author": "shamsharoon",
-      "at": "2026-09-27T16:32:33Z"
+      "number": 4669,
+      "title": "fix(json-schema-to-zod): accept an offset in format time strings",
+      "url": "https://github.com/ComposioHQ/composio/pull/4669",
+      "author": "omlahore",
+      "at": "2026-09-27T20:53:10Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4666,
-      "title": "Expose Instant Tools catalog and Session contract in SDKs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4666",
-      "author": "palash-c",
-      "at": "2026-09-27T15:12:09Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2712,
+      "title": "Tsubasa example using the existing OpenAI JSON-schema client",
+      "url": "https://github.com/567-labs/instructor/issues/2712",
+      "author": "cenab",
+      "at": "2026-09-28T01:59:56Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2710,
-      "title": "fix(core): dispatch parallel tools using Pydantic schema titles",
-      "url": "https://github.com/567-labs/instructor/pull/2710",
-      "author": "ansh-rohilla",
-      "at": "2026-09-27T09:48:44Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2709,
-      "title": "fix(core): support ReadOnly and nested qualifiers in TypedDict response models",
-      "url": "https://github.com/567-labs/instructor/pull/2709",
-      "author": "ansh-rohilla",
-      "at": "2026-09-27T06:24:58Z"
+      "number": 2711,
+      "title": "fix: reject incomplete Responses tool outputs",
+      "url": "https://github.com/567-labs/instructor/pull/2711",
+      "author": "breken-ai",
+      "at": "2026-09-27T23:33:15Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40863,
-      "title": "Support forwarding MCP _meta on tool calls and surfacing server response metadata",
-      "url": "https://github.com/langchain-ai/langchain/issues/40863",
-      "author": "udayshnk",
-      "at": "2026-09-27T10:20:43Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40858,
-      "title": "Output parsers drop tool calls when a chat model falls back to invoke inside stream(), so structured output streams nothing",
-      "url": "https://github.com/langchain-ai/langchain/issues/40858",
-      "author": "winklemad",
-      "at": "2026-09-27T07:31:31Z"
+      "number": 40868,
+      "title": "Agentic run with dynamic filtering (web_search_20260209 inside code_execution) rejected with \"code_execution tool use ... without a correspo",
+      "url": "https://github.com/langchain-ai/langchain/issues/40868",
+      "author": "neel004",
+      "at": "2026-09-28T06:15:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99320,
-      "title": "Preserve blocking fallbacks with partial prefetching",
-      "url": "https://github.com/vercel/next.js/pull/99320",
-      "author": "gnoff",
-      "at": "2026-09-27T16:59:29Z"
+      "kind": "issue",
+      "number": 99353,
+      "title": "Route announcer crashes with `removeChild` after browser translation",
+      "url": "https://github.com/vercel/next.js/issues/99353",
+      "author": "sapandiwakar",
+      "at": "2026-09-28T08:49:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 99352,
+      "title": "cacheHandlers[*].updateTags only receives the first profile group when one request revalidates tags with different profiles",
+      "url": "https://github.com/vercel/next.js/issues/99352",
+      "author": "uaoa",
+      "at": "2026-09-28T08:48:48Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 99319,
-      "title": "[ai-upgrade] Let users go back through upgrade prompts",
-      "url": "https://github.com/vercel/next.js/pull/99319",
-      "author": "devjiwonchoi",
-      "at": "2026-09-27T15:23:39Z"
+      "number": 50969,
+      "title": "docs(troubleshooting): Add guide for NXDOMAIN errors",
+      "url": "https://github.com/supabase/supabase/pull/50969",
+      "author": "thewheat",
+      "at": "2026-09-28T08:35:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 50948,
-      "title": "docs(examples): broken BotFather image link in elevenlabs-speech-to-text README",
-      "url": "https://github.com/supabase/supabase/issues/50948",
-      "author": "auroraxo",
-      "at": "2026-09-27T16:23:11Z"
+      "kind": "pr",
+      "number": 50966,
+      "title": "feat: implement profile permissions v2 api",
+      "url": "https://github.com/supabase/supabase/pull/50966",
+      "author": "phamhieu",
+      "at": "2026-09-28T08:06:26Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 50947,
-      "title": "Cannot revoke anon/authenticated EXECUTE on net schema (pg_net) — REVOKE silently no-ops due to supabase_admin ownership",
-      "url": "https://github.com/supabase/supabase/issues/50947",
-      "author": "muruganmse-hub",
-      "at": "2026-09-27T15:38:33Z"
+      "number": 4128,
+      "title": "Python client: stdio retry budget never resets on progress, so long-lived sandbox and exec streams die on a routine drop",
+      "url": "https://github.com/modal-labs/modal-client/issues/4128",
+      "author": "shehio",
+      "at": "2026-08-09T03:22:21Z"
     }
   ]
 }
