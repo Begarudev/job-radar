@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T09:24:14.484Z",
+  "updatedAt": "2026-09-28T20:21:08.244Z",
   "count": 11,
   "signals": [
     {
@@ -7,110 +7,110 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5934,
-      "title": "fix(actor): retry CSS selector lookup on stale DOM root",
-      "url": "https://github.com/browser-use/browser-use/pull/5934",
-      "author": "Vaebanana",
-      "at": "2026-09-28T05:30:23Z"
+      "number": 5937,
+      "title": "fix(agent): hash coordinate clicks by position in loop detection",
+      "url": "https://github.com/browser-use/browser-use/pull/5937",
+      "author": "MohammadHijjawi97",
+      "at": "2026-09-28T16:14:30Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5933,
-      "title": "Keep the useful lines when a page extract is cut at 60k",
-      "url": "https://github.com/browser-use/browser-use/pull/5933",
-      "author": "arjunkshah12345-hash",
-      "at": "2026-09-28T04:07:40Z"
+      "kind": "issue",
+      "number": 5936,
+      "title": "Feature Request: Non-secret run variables",
+      "url": "https://github.com/browser-use/browser-use/issues/5936",
+      "author": "erkanarslan",
+      "at": "2026-09-28T13:30:11Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 4669,
-      "title": "fix(json-schema-to-zod): accept an offset in format time strings",
-      "url": "https://github.com/ComposioHQ/composio/pull/4669",
-      "author": "omlahore",
-      "at": "2026-09-27T20:53:10Z"
+      "number": 2714,
+      "title": "fix(openai): preserve caller tools and unforced tool_choice in RESPONSES_TOOLS",
+      "url": "https://github.com/567-labs/instructor/pull/2714",
+      "author": "ansh-rohilla",
+      "at": "2026-09-28T17:17:57Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2712,
-      "title": "Tsubasa example using the existing OpenAI JSON-schema client",
-      "url": "https://github.com/567-labs/instructor/issues/2712",
-      "author": "cenab",
-      "at": "2026-09-28T01:59:56Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2711,
-      "title": "fix: reject incomplete Responses tool outputs",
-      "url": "https://github.com/567-labs/instructor/pull/2711",
-      "author": "breken-ai",
-      "at": "2026-09-27T23:33:15Z"
+      "number": 2713,
+      "title": "Built-in Responses tools (code_interpreter) are dropped: RESPONSES_TOOLS overwrites tools and forces tool_choice",
+      "url": "https://github.com/567-labs/instructor/issues/2713",
+      "author": "lskrajny-marcura",
+      "at": "2026-09-28T13:52:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40868,
-      "title": "Agentic run with dynamic filtering (web_search_20260209 inside code_execution) rejected with \"code_execution tool use ... without a correspo",
-      "url": "https://github.com/langchain-ai/langchain/issues/40868",
-      "author": "neel004",
-      "at": "2026-09-28T06:15:55Z"
+      "kind": "pr",
+      "number": 40889,
+      "title": "release(fireworks): 1.7.0",
+      "url": "https://github.com/langchain-ai/langchain/pull/40889",
+      "author": "mdrxy",
+      "at": "2026-09-28T20:20:50Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40882,
+      "title": "fix(anthropic): support Claude Sonnet 5.5 compatibility",
+      "url": "https://github.com/langchain-ai/langchain/pull/40882",
+      "author": "hntrl",
+      "at": "2026-09-28T19:05:11Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 99353,
-      "title": "Route announcer crashes with `removeChild` after browser translation",
-      "url": "https://github.com/vercel/next.js/issues/99353",
-      "author": "sapandiwakar",
-      "at": "2026-09-28T08:49:24Z"
+      "kind": "pr",
+      "number": 99378,
+      "title": "[test] Stabilize middleware revalidation test",
+      "url": "https://github.com/vercel/next.js/pull/99378",
+      "author": "unstubbable",
+      "at": "2026-09-28T20:05:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 99352,
-      "title": "cacheHandlers[*].updateTags only receives the first profile group when one request revalidates tags with different profiles",
-      "url": "https://github.com/vercel/next.js/issues/99352",
-      "author": "uaoa",
-      "at": "2026-09-28T08:48:48Z"
+      "kind": "pr",
+      "number": 99377,
+      "title": "Exclude metadata files from route handler type validation",
+      "url": "https://github.com/vercel/next.js/pull/99377",
+      "author": "aurorascharff",
+      "at": "2026-09-28T19:30:34Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50969,
-      "title": "docs(troubleshooting): Add guide for NXDOMAIN errors",
-      "url": "https://github.com/supabase/supabase/pull/50969",
-      "author": "thewheat",
-      "at": "2026-09-28T08:35:32Z"
+      "number": 50996,
+      "title": "fix(studio): disable network restrictions for v3 (AWS_K8S) projects",
+      "url": "https://github.com/supabase/supabase/pull/50996",
+      "author": "charislam",
+      "at": "2026-09-28T19:58:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50966,
-      "title": "feat: implement profile permissions v2 api",
-      "url": "https://github.com/supabase/supabase/pull/50966",
-      "author": "phamhieu",
-      "at": "2026-09-28T08:06:26Z"
+      "number": 50994,
+      "title": "feat(studio): assistant get_active_incidents on status page endpoint",
+      "url": "https://github.com/supabase/supabase/pull/50994",
+      "author": "charislam",
+      "at": "2026-09-28T19:40:44Z"
     },
     {
       "founder": "Erik Bernhardsson",
