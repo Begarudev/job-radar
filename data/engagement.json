@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-09-28T20:21:08.244Z",
-  "count": 11,
+  "updatedAt": "2026-09-29T09:29:47.825Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -29,99 +29,88 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2714,
-      "title": "fix(openai): preserve caller tools and unforced tool_choice in RESPONSES_TOOLS",
-      "url": "https://github.com/567-labs/instructor/pull/2714",
-      "author": "ansh-rohilla",
-      "at": "2026-09-28T17:17:57Z"
+      "number": 2722,
+      "title": "fix(multimodal): detect long raw Base64 PDF input",
+      "url": "https://github.com/567-labs/instructor/pull/2722",
+      "author": "takiAA",
+      "at": "2026-09-29T07:55:11Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2713,
-      "title": "Built-in Responses tools (code_interpreter) are dropped: RESPONSES_TOOLS overwrites tools and forces tool_choice",
-      "url": "https://github.com/567-labs/instructor/issues/2713",
-      "author": "lskrajny-marcura",
-      "at": "2026-09-28T13:52:51Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40889,
-      "title": "release(fireworks): 1.7.0",
-      "url": "https://github.com/langchain-ai/langchain/pull/40889",
-      "author": "mdrxy",
-      "at": "2026-09-28T20:20:50Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40882,
-      "title": "fix(anthropic): support Claude Sonnet 5.5 compatibility",
-      "url": "https://github.com/langchain-ai/langchain/pull/40882",
-      "author": "hntrl",
-      "at": "2026-09-28T19:05:11Z"
+      "number": 2721,
+      "title": "PDF.autodetect rejects raw Base64 input above the filename limit",
+      "url": "https://github.com/567-labs/instructor/issues/2721",
+      "author": "takiAA",
+      "at": "2026-09-29T07:52:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99378,
-      "title": "[test] Stabilize middleware revalidation test",
-      "url": "https://github.com/vercel/next.js/pull/99378",
-      "author": "unstubbable",
-      "at": "2026-09-28T20:05:20Z"
+      "number": 99416,
+      "title": "fix(turbopack): handle query parameters appended to worker hash URL",
+      "url": "https://github.com/vercel/next.js/pull/99416",
+      "author": "VRAJ-710",
+      "at": "2026-09-29T08:26:44Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99377,
-      "title": "Exclude metadata files from route handler type validation",
-      "url": "https://github.com/vercel/next.js/pull/99377",
-      "author": "aurorascharff",
-      "at": "2026-09-28T19:30:34Z"
+      "number": 99414,
+      "title": "fix: preserve RSC cache key on proxy redirects",
+      "url": "https://github.com/vercel/next.js/pull/99414",
+      "author": "sivashankarav",
+      "at": "2026-09-29T05:29:04Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.3.7 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.7",
+      "author": "eps1lon",
+      "at": "2026-09-29T08:54:51Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50996,
-      "title": "fix(studio): disable network restrictions for v3 (AWS_K8S) projects",
-      "url": "https://github.com/supabase/supabase/pull/50996",
-      "author": "charislam",
-      "at": "2026-09-28T19:58:35Z"
+      "number": 51014,
+      "title": "feat(chore): add a lint ratchet for shadcn rules",
+      "url": "https://github.com/supabase/supabase/pull/51014",
+      "author": "antlio",
+      "at": "2026-09-29T07:42:48Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 50994,
-      "title": "feat(studio): assistant get_active_incidents on status page endpoint",
-      "url": "https://github.com/supabase/supabase/pull/50994",
-      "author": "charislam",
-      "at": "2026-09-28T19:40:44Z"
+      "number": 51013,
+      "title": "fix(pipelines): clarify DuckLake destination setup",
+      "url": "https://github.com/supabase/supabase/pull/51013",
+      "author": "dnywh",
+      "at": "2026-09-29T07:38:37Z"
     },
     {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4128,
-      "title": "Python client: stdio retry budget never resets on progress, so long-lived sandbox and exec streams die on a routine drop",
-      "url": "https://github.com/modal-labs/modal-client/issues/4128",
-      "author": "shehio",
-      "at": "2026-08-09T03:22:21Z"
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2248,
+      "title": "feat: upgrade scaffolded projects to Next.js 16",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2248",
+      "author": "CuriouslyCory",
+      "at": "2026-09-29T00:25:02Z"
     }
   ]
 }
