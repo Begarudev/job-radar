@@ -1,72 +1,105 @@
 {
-  "updatedAt": "2026-09-29T09:29:47.825Z",
-  "count": 10,
+  "updatedAt": "2026-09-29T19:05:12.206Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5937,
-      "title": "fix(agent): hash coordinate clicks by position in loop detection",
-      "url": "https://github.com/browser-use/browser-use/pull/5937",
-      "author": "MohammadHijjawi97",
-      "at": "2026-09-28T16:14:30Z"
+      "number": 5942,
+      "title": "fix(dom): exclude user-agent shadow roots from serialized state",
+      "url": "https://github.com/browser-use/browser-use/pull/5942",
+      "author": "Omarinho12345",
+      "at": "2026-09-29T10:08:08Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5936,
-      "title": "Feature Request: Non-secret run variables",
-      "url": "https://github.com/browser-use/browser-use/issues/5936",
-      "author": "erkanarslan",
-      "at": "2026-09-28T13:30:11Z"
+      "kind": "pr",
+      "number": 5941,
+      "title": "fix(llm): keep tool calls in Responses API assistant messages that have content",
+      "url": "https://github.com/browser-use/browser-use/pull/5941",
+      "author": "RaphaelFakhri",
+      "at": "2026-09-29T09:39:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4701,
+      "title": "fix(core): add experimental option to ToolRouterAuthorizeFn",
+      "url": "https://github.com/ComposioHQ/composio/pull/4701",
+      "author": "Prajeeth-12",
+      "at": "2026-09-29T18:15:17Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2722,
-      "title": "fix(multimodal): detect long raw Base64 PDF input",
-      "url": "https://github.com/567-labs/instructor/pull/2722",
-      "author": "takiAA",
-      "at": "2026-09-29T07:55:11Z"
+      "number": 2724,
+      "title": "fix(cache): say when a response model cannot be stored instead of skipping it",
+      "url": "https://github.com/567-labs/instructor/pull/2724",
+      "author": "feiiiiii5",
+      "at": "2026-09-29T12:58:13Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2723,
+      "title": "chore(deps): bump the poetry group across 1 directory with 31 updates",
+      "url": "https://github.com/567-labs/instructor/pull/2723",
+      "author": "psaulue-ddog",
+      "at": "2026-09-29T10:24:25Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 2721,
-      "title": "PDF.autodetect rejects raw Base64 input above the filename limit",
-      "url": "https://github.com/567-labs/instructor/issues/2721",
-      "author": "takiAA",
-      "at": "2026-09-29T07:52:59Z"
+      "number": 40915,
+      "title": "[langchain-openai] ChatOpenAI.stream() crashes on a mocked tool-call delta with a null function",
+      "url": "https://github.com/langchain-ai/langchain/issues/40915",
+      "author": "W2000ds",
+      "at": "2026-09-29T16:14:41Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40914,
+      "title": "ChatPerplexity.stream() crashes with TypeError",
+      "url": "https://github.com/langchain-ai/langchain/issues/40914",
+      "author": "gauravgandhi1315",
+      "at": "2026-09-29T15:32:53Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99416,
-      "title": "fix(turbopack): handle query parameters appended to worker hash URL",
-      "url": "https://github.com/vercel/next.js/pull/99416",
-      "author": "VRAJ-710",
-      "at": "2026-09-29T08:26:44Z"
+      "number": 99439,
+      "title": "Turbopack: skip .d.cts and .d.mts files when expanding dynamic requests",
+      "url": "https://github.com/vercel/next.js/pull/99439",
+      "author": "orleib-lab",
+      "at": "2026-09-29T18:56:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99414,
-      "title": "fix: preserve RSC cache key on proxy redirects",
-      "url": "https://github.com/vercel/next.js/pull/99414",
-      "author": "sivashankarav",
-      "at": "2026-09-29T05:29:04Z"
+      "number": 99438,
+      "title": "test(evals): support FX model matrices",
+      "url": "https://github.com/vercel/next.js/pull/99438",
+      "author": "aurorascharff",
+      "at": "2026-09-29T18:28:27Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -84,22 +117,33 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51014,
-      "title": "feat(chore): add a lint ratchet for shadcn rules",
-      "url": "https://github.com/supabase/supabase/pull/51014",
-      "author": "antlio",
-      "at": "2026-09-29T07:42:48Z"
+      "number": 51039,
+      "title": "fix(studio): resolve infinite loading state in SQL Editor AI",
+      "url": "https://github.com/supabase/supabase/pull/51039",
+      "author": "mandar1045",
+      "at": "2026-09-29T18:47:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51013,
-      "title": "fix(pipelines): clarify DuckLake destination setup",
-      "url": "https://github.com/supabase/supabase/pull/51013",
-      "author": "dnywh",
-      "at": "2026-09-29T07:38:37Z"
+      "kind": "issue",
+      "number": 51038,
+      "title": "SQL Editor AI: \"Accept Changes\" button spins infinitely on early return",
+      "url": "https://github.com/supabase/supabase/issues/51038",
+      "author": "mandar1045",
+      "at": "2026-09-29T18:44:51Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4141,
+      "title": "Validate protobuf 7 support and the current <7 upper bound",
+      "url": "https://github.com/modal-labs/modal-client/issues/4141",
+      "author": "iskandr",
+      "at": "2026-09-29T18:37:35Z"
     },
     {
       "founder": "Theo Browne",
