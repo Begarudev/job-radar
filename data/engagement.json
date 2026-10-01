@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-30T18:47:21.488Z",
-  "count": 12,
+  "updatedAt": "2026-10-01T09:47:55.417Z",
+  "count": 10,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5957,
+      "title": "Documentation: Docs suggestion: verifying real-world outcomes after agent actions",
+      "url": "https://github.com/browser-use/browser-use/issues/5957",
+      "author": "moyecj-snap",
+      "at": "2026-09-30T22:52:08Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,26 +25,15 @@
       "at": "2026-09-30T11:53:54Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5955,
-      "title": "Bug: structured done actions default incomplete tasks to success",
-      "url": "https://github.com/browser-use/browser-use/issues/5955",
-      "author": "AmitHem",
-      "at": "2026-09-30T10:16:52Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4714,
-      "title": "docs: sharper screenshots for Three agents, one board",
-      "url": "https://github.com/ComposioHQ/composio/pull/4714",
-      "author": "elisea-ai",
-      "at": "2026-09-30T17:15:45Z"
+      "number": 4716,
+      "title": "docs: drop the support route for deleting pre-ZDR logs",
+      "url": "https://github.com/ComposioHQ/composio/pull/4716",
+      "author": "shubham22",
+      "at": "2026-09-30T21:37:12Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -50,6 +50,17 @@
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 2730,
+      "title": "Update OpenAI and Jiter Version Constraints",
+      "url": "https://github.com/567-labs/instructor/issues/2730",
+      "author": "sazzad1779-dev",
+      "at": "2026-10-01T06:16:34Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
       "number": 2729,
       "title": "fix(streaming): validate completed partial models in JSON mode",
@@ -58,59 +69,26 @@
       "at": "2026-09-30T09:59:36Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 2728,
-      "title": "fix(streaming): preserve Pydantic union selection in iterable results",
-      "url": "https://github.com/567-labs/instructor/pull/2728",
-      "author": "hulkbig",
-      "at": "2026-09-30T09:36:31Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40934,
-      "title": "langchain-typesafe: ClassifierResponse has no request id or cost when the classifier is routed through OpenRouter",
-      "url": "https://github.com/langchain-ai/langchain/issues/40934",
-      "author": "mbn18",
-      "at": "2026-09-30T16:06:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40932,
-      "title": "invalid_tool_call blocks still reach groq and mistralai during v1 conversion",
-      "url": "https://github.com/langchain-ai/langchain/issues/40932",
-      "author": "quotentiroler",
-      "at": "2026-09-30T14:08:53Z"
+      "number": 99521,
+      "title": "[Cache Components] Allow spans from tracers acquired during instrumentation register()",
+      "url": "https://github.com/vercel/next.js/pull/99521",
+      "author": "jasleenkaur-qed42",
+      "at": "2026-10-01T09:47:17Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99491,
-      "title": "Keep compile-mode metadata outside configuration",
-      "url": "https://github.com/vercel/next.js/pull/99491",
-      "author": "gnoff",
-      "at": "2026-09-30T18:27:02Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99490,
-      "title": "Keep dynamic asset prefixes outside configuration",
-      "url": "https://github.com/vercel/next.js/pull/99490",
-      "author": "gnoff",
-      "at": "2026-09-30T18:19:22Z"
+      "kind": "issue",
+      "number": 99520,
+      "title": "Invalid URL / Internal Server Error in response to OPTIONS * request",
+      "url": "https://github.com/vercel/next.js/issues/99520",
+      "author": "wadjei",
+      "at": "2026-10-01T08:55:24Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -128,11 +106,11 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51108,
-      "title": "fix(self-hosted): update Functions auth smoke tests and preserve Storage .gitkeep",
-      "url": "https://github.com/supabase/supabase/pull/51108",
-      "author": "luizfelmach",
-      "at": "2026-09-30T18:05:36Z"
+      "number": 51124,
+      "title": "Joshenlim/fe 4522 polish recovery codes UI",
+      "url": "https://github.com/supabase/supabase/pull/51124",
+      "author": "joshenlim",
+      "at": "2026-10-01T09:39:25Z"
     }
   ]
 }
