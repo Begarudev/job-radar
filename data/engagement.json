@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-10-01T09:47:55.417Z",
-  "count": 10,
+  "updatedAt": "2026-10-01T19:13:26.811Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5957,
-      "title": "Documentation: Docs suggestion: verifying real-world outcomes after agent actions",
-      "url": "https://github.com/browser-use/browser-use/issues/5957",
-      "author": "moyecj-snap",
-      "at": "2026-09-30T22:52:08Z"
+      "kind": "pr",
+      "number": 5962,
+      "title": "fix(skills): compare SDK enum fields by value so skills load again",
+      "url": "https://github.com/browser-use/browser-use/pull/5962",
+      "author": "Chocolatine75",
+      "at": "2026-10-01T16:03:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5956,
-      "title": "feat(recording): expose video path in agent history",
-      "url": "https://github.com/browser-use/browser-use/pull/5956",
-      "author": "Claven07",
-      "at": "2026-09-30T11:53:54Z"
+      "kind": "issue",
+      "number": 5961,
+      "title": "Agent(skills=[...]) loads zero skills since the browser-use-sdk 3.x upgrade",
+      "url": "https://github.com/browser-use/browser-use/issues/5961",
+      "author": "Chocolatine75",
+      "at": "2026-10-01T16:01:17Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4716,
-      "title": "docs: drop the support route for deleting pre-ZDR logs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4716",
-      "author": "shubham22",
-      "at": "2026-09-30T21:37:12Z"
+      "number": 4731,
+      "title": "docs: organize session configuration around developer decisions",
+      "url": "https://github.com/ComposioHQ/composio/pull/4731",
+      "author": "palash-instinct",
+      "at": "2026-10-01T15:17:02Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4713,
-      "title": "[Feature]: Notion toolkit — write rows to multi-data-source databases (Notion API 2025-09-03)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4713",
-      "author": "hyacinthus",
-      "at": "2026-09-30T15:11:46Z"
+      "number": 4730,
+      "title": "docs: make session configuration a what-to-use-when guide",
+      "url": "https://github.com/ComposioHQ/composio/issues/4730",
+      "author": "palash-instinct",
+      "at": "2026-10-01T15:09:02Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,55 +62,77 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2729,
-      "title": "fix(streaming): validate completed partial models in JSON mode",
-      "url": "https://github.com/567-labs/instructor/pull/2729",
-      "author": "hulkbig",
-      "at": "2026-09-30T09:59:36Z"
+      "number": 2708,
+      "title": "feat(release): consolidate reviewed Instructor 1.18 changes",
+      "url": "https://github.com/567-labs/instructor/pull/2708",
+      "author": "jxnl",
+      "at": "2026-09-27T02:48:57Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 40982,
+      "title": "chore(langchain): model router review edits",
+      "url": "https://github.com/langchain-ai/langchain/pull/40982",
+      "author": "hntrl",
+      "at": "2026-10-01T14:39:16Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40977,
+      "title": "Two type contracts allow values that the implementations cannot handle or do not return as declared.",
+      "url": "https://github.com/langchain-ai/langchain/issues/40977",
+      "author": "AGFACBNNR",
+      "at": "2026-10-01T10:02:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99521,
-      "title": "[Cache Components] Allow spans from tracers acquired during instrumentation register()",
-      "url": "https://github.com/vercel/next.js/pull/99521",
-      "author": "jasleenkaur-qed42",
-      "at": "2026-10-01T09:47:17Z"
+      "number": 99545,
+      "title": "Rename the upgrade flag to --agent",
+      "url": "https://github.com/vercel/next.js/pull/99545",
+      "author": "devjiwonchoi",
+      "at": "2026-10-01T19:11:09Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 99520,
-      "title": "Invalid URL / Internal Server Error in response to OPTIONS * request",
-      "url": "https://github.com/vercel/next.js/issues/99520",
-      "author": "wadjei",
-      "at": "2026-10-01T08:55:24Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.3.8 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.3.8",
-      "author": "eps1lon",
-      "at": "2026-09-30T16:13:46Z"
+      "kind": "pr",
+      "number": 99544,
+      "title": "Support TypeScript 7.1 content mappers in `next build`",
+      "url": "https://github.com/vercel/next.js/pull/99544",
+      "author": "colinhacks",
+      "at": "2026-10-01T19:05:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51124,
-      "title": "Joshenlim/fe 4522 polish recovery codes UI",
-      "url": "https://github.com/supabase/supabase/pull/51124",
-      "author": "joshenlim",
-      "at": "2026-10-01T09:39:25Z"
+      "number": 51146,
+      "title": "chore: Add telemetry to search v2 user actions",
+      "url": "https://github.com/supabase/supabase/pull/51146",
+      "author": "jeremenichelli",
+      "at": "2026-10-01T19:07:11Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51145,
+      "title": "Add Carlos Robles to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/51145",
+      "author": "croblesm",
+      "at": "2026-10-01T18:45:35Z"
     }
   ]
 }
