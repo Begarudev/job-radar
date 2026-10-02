@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-10-01T19:13:26.811Z",
-  "count": 12,
+  "updatedAt": "2026-10-02T09:24:16.779Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5962,
-      "title": "fix(skills): compare SDK enum fields by value so skills load again",
-      "url": "https://github.com/browser-use/browser-use/pull/5962",
-      "author": "Chocolatine75",
-      "at": "2026-10-01T16:03:23Z"
+      "number": 5970,
+      "title": "fix(browser): select dropdown options with one real click",
+      "url": "https://github.com/browser-use/browser-use/pull/5970",
+      "author": "chang-pro",
+      "at": "2026-10-02T05:55:28Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5961,
-      "title": "Agent(skills=[...]) loads zero skills since the browser-use-sdk 3.x upgrade",
-      "url": "https://github.com/browser-use/browser-use/issues/5961",
-      "author": "Chocolatine75",
-      "at": "2026-10-01T16:01:17Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4731,
-      "title": "docs: organize session configuration around developer decisions",
-      "url": "https://github.com/ComposioHQ/composio/pull/4731",
-      "author": "palash-instinct",
-      "at": "2026-10-01T15:17:02Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4730,
-      "title": "docs: make session configuration a what-to-use-when guide",
-      "url": "https://github.com/ComposioHQ/composio/issues/4730",
-      "author": "palash-instinct",
-      "at": "2026-10-01T15:09:02Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2730,
-      "title": "Update OpenAI and Jiter Version Constraints",
-      "url": "https://github.com/567-labs/instructor/issues/2730",
-      "author": "sazzad1779-dev",
-      "at": "2026-10-01T06:16:34Z"
+      "number": 5968,
+      "title": "Clarify Anthropic quickstart, approvals and remote files",
+      "url": "https://github.com/browser-use/browser-use/pull/5968",
+      "author": "MagMueller",
+      "at": "2026-10-02T02:40:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2708,
-      "title": "feat(release): consolidate reviewed Instructor 1.18 changes",
-      "url": "https://github.com/567-labs/instructor/pull/2708",
-      "author": "jxnl",
-      "at": "2026-09-27T02:48:57Z"
+      "number": 2733,
+      "title": "fix(usage): guard optional openai imports with ImportError in v2 usage accumulator",
+      "url": "https://github.com/567-labs/instructor/pull/2733",
+      "author": "chauvuusvn",
+      "at": "2026-10-02T03:06:05Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 40982,
-      "title": "chore(langchain): model router review edits",
-      "url": "https://github.com/langchain-ai/langchain/pull/40982",
-      "author": "hntrl",
-      "at": "2026-10-01T14:39:16Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 40977,
-      "title": "Two type contracts allow values that the implementations cannot handle or do not return as declared.",
-      "url": "https://github.com/langchain-ai/langchain/issues/40977",
-      "author": "AGFACBNNR",
-      "at": "2026-10-01T10:02:48Z"
+      "number": 2732,
+      "title": "Bug: ModuleNotFoundError in has_compatible_usage/update_total_usage when openai is not installed",
+      "url": "https://github.com/567-labs/instructor/issues/2732",
+      "author": "chauvuusvn",
+      "at": "2026-10-02T03:05:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99545,
-      "title": "Rename the upgrade flag to --agent",
-      "url": "https://github.com/vercel/next.js/pull/99545",
+      "number": 99574,
+      "title": "Turbopack: report next/font/google font file fetch failures instead of Module not found",
+      "url": "https://github.com/vercel/next.js/pull/99574",
+      "author": "abhayymishraa",
+      "at": "2026-10-02T09:07:45Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 99571,
+      "title": "Respect release-age policies when bootstrapping agent upgrades",
+      "url": "https://github.com/vercel/next.js/pull/99571",
       "author": "devjiwonchoi",
-      "at": "2026-10-01T19:11:09Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99544,
-      "title": "Support TypeScript 7.1 content mappers in `next build`",
-      "url": "https://github.com/vercel/next.js/pull/99544",
-      "author": "colinhacks",
-      "at": "2026-10-01T19:05:41Z"
+      "at": "2026-10-02T05:39:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51146,
-      "title": "chore: Add telemetry to search v2 user actions",
-      "url": "https://github.com/supabase/supabase/pull/51146",
-      "author": "jeremenichelli",
-      "at": "2026-10-01T19:07:11Z"
+      "number": 51176,
+      "title": "docs(pg_net): clarify default permissions and public schema warning",
+      "url": "https://github.com/supabase/supabase/pull/51176",
+      "author": "peekknuf",
+      "at": "2026-10-02T08:45:58Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51145,
-      "title": "Add Carlos Robles to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/51145",
-      "author": "croblesm",
-      "at": "2026-10-01T18:45:35Z"
+      "number": 51175,
+      "title": "feat(docs): update search v2 ui",
+      "url": "https://github.com/supabase/supabase/pull/51175",
+      "author": "antlio",
+      "at": "2026-10-02T08:45:42Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4143,
+      "title": "Status of Python 3.15 support",
+      "url": "https://github.com/modal-labs/modal-client/issues/4143",
+      "author": "Filimoa",
+      "at": "2026-10-02T03:57:53Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4142,
+      "title": "Deploying an App with many distinct mounts fails with \"can't start new thread\" (one thread pool per mount)",
+      "url": "https://github.com/modal-labs/modal-client/issues/4142",
+      "author": "Batuhan1999",
+      "at": "2026-10-01T19:49:14Z"
     }
   ]
 }
