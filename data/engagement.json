@@ -1,94 +1,116 @@
 {
-  "updatedAt": "2026-10-02T09:24:16.779Z",
-  "count": 10,
+  "updatedAt": "2026-10-02T18:56:01.112Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5970,
-      "title": "fix(browser): select dropdown options with one real click",
-      "url": "https://github.com/browser-use/browser-use/pull/5970",
-      "author": "chang-pro",
-      "at": "2026-10-02T05:55:28Z"
+      "kind": "issue",
+      "number": 5977,
+      "title": "Bug: Agent.run raises CancelledError from a bubus parent timeout in a task nobody cancelled",
+      "url": "https://github.com/browser-use/browser-use/issues/5977",
+      "author": "HardMax71",
+      "at": "2026-10-02T15:20:53Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5968,
-      "title": "Clarify Anthropic quickstart, approvals and remote files",
-      "url": "https://github.com/browser-use/browser-use/pull/5968",
-      "author": "MagMueller",
-      "at": "2026-10-02T02:40:32Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2733,
-      "title": "fix(usage): guard optional openai imports with ImportError in v2 usage accumulator",
-      "url": "https://github.com/567-labs/instructor/pull/2733",
-      "author": "chauvuusvn",
-      "at": "2026-10-02T03:06:05Z"
+      "number": 5976,
+      "title": "fix: use the exception type when an error has no message",
+      "url": "https://github.com/browser-use/browser-use/pull/5976",
+      "author": "HardMax71",
+      "at": "2026-10-02T15:20:25Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 2732,
-      "title": "Bug: ModuleNotFoundError in has_compatible_usage/update_total_usage when openai is not installed",
-      "url": "https://github.com/567-labs/instructor/issues/2732",
-      "author": "chauvuusvn",
-      "at": "2026-10-02T03:05:55Z"
+      "number": 2735,
+      "title": "gpt-3.5-turbo defaults stop working on October 23, 2026 (OpenAI)",
+      "url": "https://github.com/567-labs/instructor/issues/2735",
+      "author": "23821",
+      "at": "2026-10-02T15:58:14Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2734,
+      "title": "build(deps): allow current OpenAI SDK Jiter versions",
+      "url": "https://github.com/567-labs/instructor/pull/2734",
+      "author": "Amazinghorseli",
+      "at": "2026-10-02T11:22:24Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40999,
+      "title": "v3 streaming: tool-call block-delta events are snapshots, so their size grows quadratically with the tool-call arguments",
+      "url": "https://github.com/langchain-ai/langchain/issues/40999",
+      "author": "Nicolas-Ding",
+      "at": "2026-10-02T13:30:24Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 40996,
+      "title": "ModelFallbackMiddleware strips cache_control when falling back to ChatAnthropicMantle",
+      "url": "https://github.com/langchain-ai/langchain/issues/40996",
+      "author": "jeon-jihyeon",
+      "at": "2026-10-02T11:50:18Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 99603,
+      "title": "Turbopack: rules.*.type: 'asset' for .css fails when imported from a Server Component",
+      "url": "https://github.com/vercel/next.js/issues/99603",
+      "author": "artola",
+      "at": "2026-10-02T18:43:23Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99574,
-      "title": "Turbopack: report next/font/google font file fetch failures instead of Module not found",
-      "url": "https://github.com/vercel/next.js/pull/99574",
-      "author": "abhayymishraa",
-      "at": "2026-10-02T09:07:45Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99571,
-      "title": "Respect release-age policies when bootstrapping agent upgrades",
-      "url": "https://github.com/vercel/next.js/pull/99571",
-      "author": "devjiwonchoi",
-      "at": "2026-10-02T05:39:09Z"
+      "number": 99602,
+      "title": "Fix getTypeScriptPackageInfo tests on macOS by resolving tmpdir symlinks",
+      "url": "https://github.com/vercel/next.js/pull/99602",
+      "author": "qtruffy",
+      "at": "2026-10-02T18:42:19Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51176,
-      "title": "docs(pg_net): clarify default permissions and public schema warning",
-      "url": "https://github.com/supabase/supabase/pull/51176",
-      "author": "peekknuf",
-      "at": "2026-10-02T08:45:58Z"
+      "number": 51196,
+      "title": "chore(kb) - add codeowner line",
+      "url": "https://github.com/supabase/supabase/pull/51196",
+      "author": "kodster28",
+      "at": "2026-10-02T18:34:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51175,
-      "title": "feat(docs): update search v2 ui",
-      "url": "https://github.com/supabase/supabase/pull/51175",
-      "author": "antlio",
-      "at": "2026-10-02T08:45:42Z"
+      "number": 51193,
+      "title": "[DRAFT] - feat(www) - Vercel bulk redirects",
+      "url": "https://github.com/supabase/supabase/pull/51193",
+      "author": "kodster28",
+      "at": "2026-10-02T16:20:59Z"
     },
     {
       "founder": "Erik Bernhardsson",
