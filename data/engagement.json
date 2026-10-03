@@ -1,39 +1,61 @@
 {
-  "updatedAt": "2026-10-03T08:53:21.516Z",
-  "count": 11,
+  "updatedAt": "2026-10-03T17:43:37.928Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5977,
-      "title": "Bug: Agent.run raises CancelledError from a bubus parent timeout in a task nobody cancelled",
-      "url": "https://github.com/browser-use/browser-use/issues/5977",
-      "author": "HardMax71",
-      "at": "2026-10-02T15:20:53Z"
+      "kind": "pr",
+      "number": 5986,
+      "title": "fix(llm): keep $ref for self-referencing models in SchemaOptimizer",
+      "url": "https://github.com/browser-use/browser-use/pull/5986",
+      "author": "JoeyTan21",
+      "at": "2026-10-03T16:46:24Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5976,
-      "title": "fix: use the exception type when an error has no message",
-      "url": "https://github.com/browser-use/browser-use/pull/5976",
-      "author": "HardMax71",
-      "at": "2026-10-02T15:20:25Z"
+      "kind": "issue",
+      "number": 5985,
+      "title": "Bug: SchemaOptimizer raises RecursionError for self-referencing output models",
+      "url": "https://github.com/browser-use/browser-use/issues/5985",
+      "author": "JoeyTan21",
+      "at": "2026-10-03T14:43:32Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4744,
+      "title": "[Feature]: CLI execute/proxy should fail when --account is omitted and several accounts are connected",
+      "url": "https://github.com/ComposioHQ/composio/issues/4744",
+      "author": "lcswillems",
+      "at": "2026-10-03T15:04:56Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4740,
-      "title": "docs: document the COMPOSIO_PROXY_EXECUTE meta tool (PLEN-4069)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4740",
-      "author": "DavidTeju",
-      "at": "2026-10-03T01:10:32Z"
+      "number": 4743,
+      "title": "fix(docs): show error and retry when Ask AI model call fails",
+      "url": "https://github.com/ComposioHQ/composio/pull/4743",
+      "author": "tarunvashishth",
+      "at": "2026-10-03T13:39:40Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2738,
+      "title": "fix(validation): collect all async container errors",
+      "url": "https://github.com/567-labs/instructor/pull/2738",
+      "author": "pei711",
+      "at": "2026-10-03T12:01:48Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +69,70 @@
       "at": "2026-10-03T08:20:31Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2736,
-      "title": "fix: replace deprecated gpt-3.5-turbo defaults with gpt-4.1-mini",
-      "url": "https://github.com/567-labs/instructor/pull/2736",
-      "author": "inchang-ing",
-      "at": "2026-10-03T05:36:24Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41021,
+      "title": "core: `convert_to_openai_messages` raises `KeyError: 'type'` for any content block without a `type` key",
+      "url": "https://github.com/langchain-ai/langchain/issues/41021",
+      "author": "kodurd",
+      "at": "2026-10-03T12:26:43Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41016,
-      "title": "feat(fireworks): surface LangSmith gateway metadata on successful responses",
-      "url": "https://github.com/langchain-ai/langchain/issues/41016",
-      "author": "aminesbdev",
-      "at": "2026-10-03T07:25:14Z"
+      "number": 41020,
+      "title": "nomic: `NomicEmbeddings.embed_image` raises a bare `AssertionError` unless `vision_model` is set, and `vision_model` is rejected by type che",
+      "url": "https://github.com/langchain-ai/langchain/issues/41020",
+      "author": "kodurd",
+      "at": "2026-10-03T12:08:05Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99630,
-      "title": "注释",
-      "url": "https://github.com/vercel/next.js/pull/99630",
-      "author": "gyd1010",
-      "at": "2026-10-03T08:45:31Z"
+      "number": 99637,
+      "title": "docs(cache-handler): note that the handler class is constructed once per request",
+      "url": "https://github.com/vercel/next.js/pull/99637",
+      "author": "leejpsd",
+      "at": "2026-10-03T16:12:03Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99629,
-      "title": "Fix handling of stale dependencies",
-      "url": "https://github.com/vercel/next.js/pull/99629",
-      "author": "lukesandberg",
-      "at": "2026-10-03T07:10:07Z"
+      "number": 99636,
+      "title": "fix: CSS shared by a page and a next/dynamic component is removed after client navigation",
+      "url": "https://github.com/vercel/next.js/pull/99636",
+      "author": "Samiislam851",
+      "at": "2026-10-03T14:18:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51209,
-      "title": "Free-tier project stuck in WAL recovery: 57P03 and “No space left on device”",
-      "url": "https://github.com/supabase/supabase/issues/51209",
-      "author": "Avani-Media",
-      "at": "2026-10-03T06:33:35Z"
+      "kind": "pr",
+      "number": 51217,
+      "title": "docs(cli): address final review feedback on supabase stack guides",
+      "url": "https://github.com/supabase/supabase/pull/51217",
+      "author": "w3b6x9",
+      "at": "2026-10-03T17:24:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51208,
-      "title": "fix(docs): contribution guide points JavaScript v2 authors at retired YAML pipeline",
-      "url": "https://github.com/supabase/supabase/issues/51208",
-      "author": "coygeek",
-      "at": "2026-10-03T02:51:37Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4143,
-      "title": "Status of Python 3.15 support",
-      "url": "https://github.com/modal-labs/modal-client/issues/4143",
-      "author": "Filimoa",
-      "at": "2026-10-02T03:57:53Z"
+      "kind": "pr",
+      "number": 51212,
+      "title": "fix(realtime-prompt): use WITH CHECK for INSERT policy",
+      "url": "https://github.com/supabase/supabase/pull/51212",
+      "author": "Chanduchennuri",
+      "at": "2026-10-03T12:25:23Z"
     }
   ]
 }
