@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-02T18:56:01.112Z",
-  "count": 12,
+  "updatedAt": "2026-10-03T08:53:21.516Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -25,92 +25,92 @@
       "at": "2026-10-02T15:20:25Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2735,
-      "title": "gpt-3.5-turbo defaults stop working on October 23, 2026 (OpenAI)",
-      "url": "https://github.com/567-labs/instructor/issues/2735",
-      "author": "23821",
-      "at": "2026-10-02T15:58:14Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4740,
+      "title": "docs: document the COMPOSIO_PROXY_EXECUTE meta tool (PLEN-4069)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4740",
+      "author": "DavidTeju",
+      "at": "2026-10-03T01:10:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2734,
-      "title": "build(deps): allow current OpenAI SDK Jiter versions",
-      "url": "https://github.com/567-labs/instructor/pull/2734",
-      "author": "Amazinghorseli",
-      "at": "2026-10-02T11:22:24Z"
+      "number": 2737,
+      "title": "fix(schema): support recursive Pydantic root references",
+      "url": "https://github.com/567-labs/instructor/pull/2737",
+      "author": "hulkbig",
+      "at": "2026-10-03T08:20:31Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2736,
+      "title": "fix: replace deprecated gpt-3.5-turbo defaults with gpt-4.1-mini",
+      "url": "https://github.com/567-labs/instructor/pull/2736",
+      "author": "inchang-ing",
+      "at": "2026-10-03T05:36:24Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 40999,
-      "title": "v3 streaming: tool-call block-delta events are snapshots, so their size grows quadratically with the tool-call arguments",
-      "url": "https://github.com/langchain-ai/langchain/issues/40999",
-      "author": "Nicolas-Ding",
-      "at": "2026-10-02T13:30:24Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 40996,
-      "title": "ModelFallbackMiddleware strips cache_control when falling back to ChatAnthropicMantle",
-      "url": "https://github.com/langchain-ai/langchain/issues/40996",
-      "author": "jeon-jihyeon",
-      "at": "2026-10-02T11:50:18Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 99603,
-      "title": "Turbopack: rules.*.type: 'asset' for .css fails when imported from a Server Component",
-      "url": "https://github.com/vercel/next.js/issues/99603",
-      "author": "artola",
-      "at": "2026-10-02T18:43:23Z"
+      "number": 41016,
+      "title": "feat(fireworks): surface LangSmith gateway metadata on successful responses",
+      "url": "https://github.com/langchain-ai/langchain/issues/41016",
+      "author": "aminesbdev",
+      "at": "2026-10-03T07:25:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99602,
-      "title": "Fix getTypeScriptPackageInfo tests on macOS by resolving tmpdir symlinks",
-      "url": "https://github.com/vercel/next.js/pull/99602",
-      "author": "qtruffy",
-      "at": "2026-10-02T18:42:19Z"
+      "number": 99630,
+      "title": "注释",
+      "url": "https://github.com/vercel/next.js/pull/99630",
+      "author": "gyd1010",
+      "at": "2026-10-03T08:45:31Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 99629,
+      "title": "Fix handling of stale dependencies",
+      "url": "https://github.com/vercel/next.js/pull/99629",
+      "author": "lukesandberg",
+      "at": "2026-10-03T07:10:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51196,
-      "title": "chore(kb) - add codeowner line",
-      "url": "https://github.com/supabase/supabase/pull/51196",
-      "author": "kodster28",
-      "at": "2026-10-02T18:34:14Z"
+      "kind": "issue",
+      "number": 51209,
+      "title": "Free-tier project stuck in WAL recovery: 57P03 and “No space left on device”",
+      "url": "https://github.com/supabase/supabase/issues/51209",
+      "author": "Avani-Media",
+      "at": "2026-10-03T06:33:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51193,
-      "title": "[DRAFT] - feat(www) - Vercel bulk redirects",
-      "url": "https://github.com/supabase/supabase/pull/51193",
-      "author": "kodster28",
-      "at": "2026-10-02T16:20:59Z"
+      "kind": "issue",
+      "number": 51208,
+      "title": "fix(docs): contribution guide points JavaScript v2 authors at retired YAML pipeline",
+      "url": "https://github.com/supabase/supabase/issues/51208",
+      "author": "coygeek",
+      "at": "2026-10-03T02:51:37Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -122,17 +122,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4143",
       "author": "Filimoa",
       "at": "2026-10-02T03:57:53Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4142,
-      "title": "Deploying an App with many distinct mounts fails with \"can't start new thread\" (one thread pool per mount)",
-      "url": "https://github.com/modal-labs/modal-client/issues/4142",
-      "author": "Batuhan1999",
-      "at": "2026-10-01T19:49:14Z"
     }
   ]
 }
