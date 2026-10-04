@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T17:43:37.928Z",
+  "updatedAt": "2026-10-04T09:22:46.536Z",
   "count": 12,
   "signals": [
     {
@@ -7,22 +7,33 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5986,
-      "title": "fix(llm): keep $ref for self-referencing models in SchemaOptimizer",
-      "url": "https://github.com/browser-use/browser-use/pull/5986",
-      "author": "JoeyTan21",
-      "at": "2026-10-03T16:46:24Z"
+      "number": 5992,
+      "title": "feat(llm): forward session_id as x-episod-session header in ChatOpenAI",
+      "url": "https://github.com/browser-use/browser-use/pull/5992",
+      "author": "hemanth",
+      "at": "2026-10-04T06:32:51Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5985,
-      "title": "Bug: SchemaOptimizer raises RecursionError for self-referencing output models",
-      "url": "https://github.com/browser-use/browser-use/issues/5985",
-      "author": "JoeyTan21",
-      "at": "2026-10-03T14:43:32Z"
+      "kind": "pr",
+      "number": 5991,
+      "title": "fix: honor accept_downloads in CDP browsers",
+      "url": "https://github.com/browser-use/browser-use/pull/5991",
+      "author": "Dante-dan",
+      "at": "2026-10-03T22:45:25Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4745,
+      "title": "fix(cli): fail with a clear error when --account is ambiguous",
+      "url": "https://github.com/ComposioHQ/composio/pull/4745",
+      "author": "manobhisriram",
+      "at": "2026-10-03T18:16:12Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,103 +47,92 @@
       "at": "2026-10-03T15:04:56Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4743,
-      "title": "fix(docs): show error and retry when Ask AI model call fails",
-      "url": "https://github.com/ComposioHQ/composio/pull/4743",
-      "author": "tarunvashishth",
-      "at": "2026-10-03T13:39:40Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2738,
-      "title": "fix(validation): collect all async container errors",
-      "url": "https://github.com/567-labs/instructor/pull/2738",
+      "number": 2741,
+      "title": "fix(core): detect async callable objects when patching create",
+      "url": "https://github.com/567-labs/instructor/pull/2741",
       "author": "pei711",
-      "at": "2026-10-03T12:01:48Z"
+      "at": "2026-10-04T07:56:25Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2737,
-      "title": "fix(schema): support recursive Pydantic root references",
-      "url": "https://github.com/567-labs/instructor/pull/2737",
-      "author": "hulkbig",
-      "at": "2026-10-03T08:20:31Z"
+      "kind": "issue",
+      "number": 2740,
+      "title": "patch(create=...) routes async callable objects through the synchronous parser",
+      "url": "https://github.com/567-labs/instructor/issues/2740",
+      "author": "pei711",
+      "at": "2026-10-04T07:54:27Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41021,
-      "title": "core: `convert_to_openai_messages` raises `KeyError: 'type'` for any content block without a `type` key",
-      "url": "https://github.com/langchain-ai/langchain/issues/41021",
-      "author": "kodurd",
-      "at": "2026-10-03T12:26:43Z"
+      "number": 41029,
+      "title": "[Feature] Security Docs: Add Runtime Security Middleware for Agents (Prompt/Command Injection)",
+      "url": "https://github.com/langchain-ai/langchain/issues/41029",
+      "author": "pratikkmishra02-gif",
+      "at": "2026-10-03T20:46:50Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41020,
-      "title": "nomic: `NomicEmbeddings.embed_image` raises a bare `AssertionError` unless `vision_model` is set, and `vision_model` is rejected by type che",
-      "url": "https://github.com/langchain-ai/langchain/issues/41020",
-      "author": "kodurd",
-      "at": "2026-10-03T12:08:05Z"
+      "number": 41028,
+      "title": "docs(langchain): `CodexSandboxExecutionPolicy` docstring attributes macOS Seatbelt to Anthropic",
+      "url": "https://github.com/langchain-ai/langchain/issues/41028",
+      "author": "sauravsolanki",
+      "at": "2026-10-03T19:14:29Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99637,
-      "title": "docs(cache-handler): note that the handler class is constructed once per request",
-      "url": "https://github.com/vercel/next.js/pull/99637",
-      "author": "leejpsd",
-      "at": "2026-10-03T16:12:03Z"
+      "number": 99654,
+      "title": "fix(server): prioritize ISR cache-control over _app.getInitialProps",
+      "url": "https://github.com/vercel/next.js/pull/99654",
+      "author": "aryansirohi2121-coder",
+      "at": "2026-10-04T07:31:44Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99636,
-      "title": "fix: CSS shared by a page and a next/dynamic component is removed after client navigation",
-      "url": "https://github.com/vercel/next.js/pull/99636",
-      "author": "Samiislam851",
-      "at": "2026-10-03T14:18:18Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 51237,
+      "title": "Project restore has stacked for a long time",
+      "url": "https://github.com/supabase/supabase/issues/51237",
+      "author": "NatashaMerenbach",
+      "at": "2026-10-04T09:20:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51217,
-      "title": "docs(cli): address final review feedback on supabase stack guides",
-      "url": "https://github.com/supabase/supabase/pull/51217",
-      "author": "w3b6x9",
-      "at": "2026-10-03T17:24:05Z"
+      "number": 51234,
+      "title": "fix(realtime-prompt): correct dollar quoting in trigger examples",
+      "url": "https://github.com/supabase/supabase/pull/51234",
+      "author": "adwaitm1301",
+      "at": "2026-10-04T08:28:57Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51212,
-      "title": "fix(realtime-prompt): use WITH CHECK for INSERT policy",
-      "url": "https://github.com/supabase/supabase/pull/51212",
-      "author": "Chanduchennuri",
-      "at": "2026-10-03T12:25:23Z"
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4144,
+      "title": "A one-character environment name is refused with a message that names no rule",
+      "url": "https://github.com/modal-labs/modal-client/issues/4144",
+      "author": "chrikrah",
+      "at": "2026-10-04T06:56:16Z"
     }
   ]
 }
