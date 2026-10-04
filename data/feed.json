@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T16:19:32.590Z",
+  "updatedAt": "2026-10-04T22:40:07.648Z",
   "count": 1,
   "postings": [
     {
@@ -10,7 +10,7 @@
       "body": "Tahoma AI | tahoma.io | Austin, TX or Seattle, WA (ONSITE optional) | REMOTE (US) | Full-time | Founding Engineer Tahoma builds AI agents that automate healthcare Revenue Cycle Management (RCM): eligibility, claim status, claim submission, denials, and payment posting. We&#x27;re live in production with paying enterprise customers. Our agents operate payer portals behind MFA, green-screen terminals over SSH, and Windows desktop software, where some actions are irreversible. They run on a deterministic orchestration layer we built in-house, with model calls as bounded steps, not the control loop. Stack: TypeScript&#x2F;Node.js, Playwright, computer-use agents, Claude, Postgres, Azure, K8s. You&#x27;ll get to own the core platform end to end and make the real architecture calls: resilience to portal changes, exactly-once guarantees, observability, and cost per run. Team: Founder from AWS, the former UnitedHealthcare CIO,  advisors from Microsoft Research and Shopify&#x27;s AI team, and a remote engineering team in-flight. Please write us at careers@tahoma.io with your resume and one thing you&#x27;ve shipped. You can see more at  https:&#x2F;&#x2F;www.tahoma.io&#x2F;careers  Thanks!",
       "remote": true,
       "postedAt": "2026-10-02T04:18:30.000Z",
-      "fetchedAt": "2026-10-04T16:19:32.580Z",
+      "fetchedAt": "2026-10-04T22:40:07.638Z",
       "reasons": [
         "title match: founding engineer",
         "core stack: typescript, node",
