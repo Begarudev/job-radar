@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-04T09:22:46.536Z",
-  "count": 12,
+  "updatedAt": "2026-10-04T17:57:11.500Z",
+  "count": 13,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 5994,
+      "title": "Document DemonRoute as an OpenAI-compatible provider option",
+      "url": "https://github.com/browser-use/browser-use/issues/5994",
+      "author": "haterfactory",
+      "at": "2026-10-04T17:31:18Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,59 +25,48 @@
       "at": "2026-10-04T06:32:51Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 5991,
-      "title": "fix: honor accept_downloads in CDP browsers",
-      "url": "https://github.com/browser-use/browser-use/pull/5991",
-      "author": "Dante-dan",
-      "at": "2026-10-03T22:45:25Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4745,
-      "title": "fix(cli): fail with a clear error when --account is ambiguous",
-      "url": "https://github.com/ComposioHQ/composio/pull/4745",
-      "author": "manobhisriram",
-      "at": "2026-10-03T18:16:12Z"
+      "number": 4748,
+      "title": "fix(json-schema-to-zod): stop validating format binary as base64",
+      "url": "https://github.com/ComposioHQ/composio/pull/4748",
+      "author": "tarunvashishth",
+      "at": "2026-10-04T16:51:21Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4744,
-      "title": "[Feature]: CLI execute/proxy should fail when --account is omitted and several accounts are connected",
-      "url": "https://github.com/ComposioHQ/composio/issues/4744",
-      "author": "lcswillems",
-      "at": "2026-10-03T15:04:56Z"
+      "number": 4747,
+      "title": "[Bug]: Tool calls rejected for string parameters with format \"binary\" or a non-base64 contentEncoding",
+      "url": "https://github.com/ComposioHQ/composio/issues/4747",
+      "author": "tarunvashishth",
+      "at": "2026-10-04T16:51:14Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2741,
-      "title": "fix(core): detect async callable objects when patching create",
-      "url": "https://github.com/567-labs/instructor/pull/2741",
-      "author": "pei711",
-      "at": "2026-10-04T07:56:25Z"
+      "number": 2744,
+      "title": "Fix #2742: Batch result parsers reject valid RootModel objects with a root field",
+      "url": "https://github.com/567-labs/instructor/pull/2744",
+      "author": "nandanadileep",
+      "at": "2026-10-04T15:30:43Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2740,
-      "title": "patch(create=...) routes async callable objects through the synchronous parser",
-      "url": "https://github.com/567-labs/instructor/issues/2740",
-      "author": "pei711",
-      "at": "2026-10-04T07:54:27Z"
+      "kind": "pr",
+      "number": 2743,
+      "title": "fix(batch): validate complete root model payloads",
+      "url": "https://github.com/567-labs/instructor/pull/2743",
+      "author": "imharjot",
+      "at": "2026-10-04T14:50:27Z"
     },
     {
       "founder": "Harrison Chase",
@@ -95,11 +95,33 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99654,
-      "title": "fix(server): prioritize ISR cache-control over _app.getInitialProps",
-      "url": "https://github.com/vercel/next.js/pull/99654",
-      "author": "aryansirohi2121-coder",
-      "at": "2026-10-04T07:31:44Z"
+      "number": 99663,
+      "title": "fix(app-router): preserve Next-Url for parallel refreshes",
+      "url": "https://github.com/vercel/next.js/pull/99663",
+      "author": "mikamikasuki",
+      "at": "2026-10-04T17:05:31Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 99662,
+      "title": "test(e2e): deterministic prerender validation errors are retried once per configured attempt",
+      "url": "https://github.com/vercel/next.js/pull/99662",
+      "author": "aurorascharff",
+      "at": "2026-10-04T16:47:09Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 51241,
+      "title": "Supabase Free Plan: Unable to Create a Second Project in an Organization",
+      "url": "https://github.com/supabase/supabase/issues/51241",
+      "author": "umerjs",
+      "at": "2026-10-04T15:29:04Z"
     },
     {
       "founder": "Paul Copplestone",
@@ -111,17 +133,6 @@
       "url": "https://github.com/supabase/supabase/issues/51237",
       "author": "NatashaMerenbach",
       "at": "2026-10-04T09:20:09Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51234,
-      "title": "fix(realtime-prompt): correct dollar quoting in trigger examples",
-      "url": "https://github.com/supabase/supabase/pull/51234",
-      "author": "adwaitm1301",
-      "at": "2026-10-04T08:28:57Z"
     },
     {
       "founder": "Erik Bernhardsson",
