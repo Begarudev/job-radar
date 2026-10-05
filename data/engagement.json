@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-05T10:02:45.158Z",
+  "updatedAt": "2026-10-05T21:20:08.949Z",
   "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6000,
+      "title": "fix: keep fresh browser sessions to one initial tab",
+      "url": "https://github.com/browser-use/browser-use/pull/6000",
+      "author": "MagMueller",
+      "at": "2026-10-05T15:57:12Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,114 +25,103 @@
       "at": "2026-10-05T09:36:37Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 5998,
-      "title": "Bug: keyword-only custom action parameters are passed positionally",
-      "url": "https://github.com/browser-use/browser-use/issues/5998",
-      "author": "fhgffy",
-      "at": "2026-10-05T09:23:28Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4751,
-      "title": "fix(google): send tool schemas Gemini and Vertex accept",
-      "url": "https://github.com/ComposioHQ/composio/pull/4751",
-      "author": "tarunvashishth",
-      "at": "2026-10-05T06:56:42Z"
+      "kind": "issue",
+      "number": 4758,
+      "title": "[Bug]: SLACK_FIND_USERS treats any single word starting with U or W as a user ID",
+      "url": "https://github.com/ComposioHQ/composio/issues/4758",
+      "author": "karan-symmetry",
+      "at": "2026-10-05T18:46:00Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 4750,
-      "title": "[Bug]: Google providers send schema keywords Gemini and Vertex reject (`Unknown name \"examples\"`)",
-      "url": "https://github.com/ComposioHQ/composio/issues/4750",
-      "author": "tarunvashishth",
-      "at": "2026-10-05T06:55:24Z"
+      "number": 4757,
+      "title": "[Bug]: `getRawComposioTools` throws ZodError for a whole toolkit when one tool's inputParameters isn't a strict JSON-schema object (8 toolki",
+      "url": "https://github.com/ComposioHQ/composio/issues/4757",
+      "author": "KrishP147",
+      "at": "2026-10-05T18:01:44Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2746,
-      "title": "Fix Gemini/VertexAI handlers accepting responses truncated at max_tokens",
-      "url": "https://github.com/567-labs/instructor/pull/2746",
+      "number": 2749,
+      "title": "Gemini JSON reask handler crashes when response.text raises ValueError",
+      "url": "https://github.com/567-labs/instructor/pull/2749",
       "author": "feiiiiii5",
-      "at": "2026-10-05T06:08:22Z"
+      "at": "2026-10-05T16:50:31Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2745,
-      "title": "Streaming extractor drops parallel tool calls whose deltas interleave in one chunk",
-      "url": "https://github.com/567-labs/instructor/issues/2745",
+      "kind": "pr",
+      "number": 2748,
+      "title": "Gemini reask crashes with AttributeError when the model replies in prose",
+      "url": "https://github.com/567-labs/instructor/pull/2748",
       "author": "feiiiiii5",
-      "at": "2026-10-05T01:14:31Z"
+      "at": "2026-10-05T16:41:59Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41041,
-      "title": "fix(openai): require an explicit model in `ChatOpenAI`",
-      "url": "https://github.com/langchain-ai/langchain/pull/41041",
-      "author": "mdrxy",
-      "at": "2026-10-04T21:03:40Z"
+      "number": 41059,
+      "title": "fix(core): python 3.14 hardening around `inspect.signature`",
+      "url": "https://github.com/langchain-ai/langchain/pull/41059",
+      "author": "ccurme",
+      "at": "2026-10-05T18:20:38Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99676,
-      "title": "Fix spurious CLIENT_HOOK_DYNAMIC error when render signal is already aborted",
-      "url": "https://github.com/vercel/next.js/pull/99676",
-      "author": "Atharvsinh-codez",
-      "at": "2026-10-05T09:59:06Z"
+      "number": 99707,
+      "title": "Error on directives in positions where they are silently ignored",
+      "url": "https://github.com/vercel/next.js/pull/99707",
+      "author": "mischnic",
+      "at": "2026-10-05T21:13:41Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 99675,
-      "title": "Prefetched optional catch-all index page is rendered for sibling URLs",
-      "url": "https://github.com/vercel/next.js/issues/99675",
-      "author": "nickolaj-jepsen",
-      "at": "2026-10-05T09:24:00Z"
+      "kind": "pr",
+      "number": 99706,
+      "title": "Refactor fetchStrategy -> stage and completeness",
+      "url": "https://github.com/vercel/next.js/pull/99706",
+      "author": "acdlite",
+      "at": "2026-10-05T20:51:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51258,
-      "title": "`getTableDefinitionSql` to escape SQL identifiers",
-      "url": "https://github.com/supabase/supabase/pull/51258",
-      "author": "joshenlim",
-      "at": "2026-10-05T09:05:51Z"
+      "number": 51289,
+      "title": "[FE-4414] feat(www): serve InstantDB migration app at /migrate/instantdb",
+      "url": "https://github.com/supabase/supabase/pull/51289",
+      "author": "alaister",
+      "at": "2026-10-05T19:31:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51257,
-      "title": "feat(studio): add dotnet framework to Connect flow",
-      "url": "https://github.com/supabase/supabase/pull/51257",
-      "author": "Tr00d",
-      "at": "2026-10-05T08:58:08Z"
+      "number": 51288,
+      "title": "fix(studio): don't drop the primary key in Edit table when it hasn't changed",
+      "url": "https://github.com/supabase/supabase/pull/51288",
+      "author": "mandar1045",
+      "at": "2026-10-05T19:16:44Z"
     }
   ]
 }
