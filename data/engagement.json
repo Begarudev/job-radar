@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-05T21:20:08.949Z",
-  "count": 11,
+  "updatedAt": "2026-10-06T09:48:17.753Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -18,11 +18,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 5999,
-      "title": "fix(registry): preserve keyword-only custom action parameters",
-      "url": "https://github.com/browser-use/browser-use/pull/5999",
-      "author": "fhgffy",
-      "at": "2026-10-05T09:36:37Z"
+      "number": 5974,
+      "title": "fix(logging): log Agent and BrowserSession under fixed logger names",
+      "url": "https://github.com/browser-use/browser-use/pull/5974",
+      "author": "HardMax71",
+      "at": "2026-10-02T15:19:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4759,
+      "title": "docs(security): use Zero Trust Credential Proxy terminology in #4325",
+      "url": "https://github.com/ComposioHQ/composio/pull/4759",
+      "author": "abhishekpatil4",
+      "at": "2026-10-06T09:32:21Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,17 +47,6 @@
       "at": "2026-10-05T18:46:00Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4757,
-      "title": "[Bug]: `getRawComposioTools` throws ZodError for a whole toolkit when one tool's inputParameters isn't a strict JSON-schema object (8 toolki",
-      "url": "https://github.com/ComposioHQ/composio/issues/4757",
-      "author": "KrishP147",
-      "at": "2026-10-05T18:01:44Z"
-    },
-    {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
@@ -58,70 +58,48 @@
       "at": "2026-10-05T16:50:31Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2748,
-      "title": "Gemini reask crashes with AttributeError when the model replies in prose",
-      "url": "https://github.com/567-labs/instructor/pull/2748",
-      "author": "feiiiiii5",
-      "at": "2026-10-05T16:41:59Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41059,
-      "title": "fix(core): python 3.14 hardening around `inspect.signature`",
-      "url": "https://github.com/langchain-ai/langchain/pull/41059",
-      "author": "ccurme",
-      "at": "2026-10-05T18:20:38Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99707,
-      "title": "Error on directives in positions where they are silently ignored",
-      "url": "https://github.com/vercel/next.js/pull/99707",
+      "number": 99722,
+      "title": "Turbopack: batch EsmBinding codegen",
+      "url": "https://github.com/vercel/next.js/pull/99722",
       "author": "mischnic",
-      "at": "2026-10-05T21:13:41Z"
+      "at": "2026-10-06T09:23:08Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99706,
-      "title": "Refactor fetchStrategy -> stage and completeness",
-      "url": "https://github.com/vercel/next.js/pull/99706",
-      "author": "acdlite",
-      "at": "2026-10-05T20:51:04Z"
+      "number": 99720,
+      "title": "Bump to swc v81",
+      "url": "https://github.com/vercel/next.js/pull/99720",
+      "author": "mischnic",
+      "at": "2026-10-06T08:19:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51289,
-      "title": "[FE-4414] feat(www): serve InstantDB migration app at /migrate/instantdb",
-      "url": "https://github.com/supabase/supabase/pull/51289",
-      "author": "alaister",
-      "at": "2026-10-05T19:31:35Z"
+      "number": 51327,
+      "title": "fix(docs): link to Database Settings for SSL certificate download",
+      "url": "https://github.com/supabase/supabase/pull/51327",
+      "author": "shobhit26-09",
+      "at": "2026-10-06T09:37:21Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51288,
-      "title": "fix(studio): don't drop the primary key in Edit table when it hasn't changed",
-      "url": "https://github.com/supabase/supabase/pull/51288",
-      "author": "mandar1045",
-      "at": "2026-10-05T19:16:44Z"
+      "number": 51326,
+      "title": "chore(docs): remove unused API parameter components",
+      "url": "https://github.com/supabase/supabase/pull/51326",
+      "author": "Src-Bhavesh",
+      "at": "2026-10-06T09:15:01Z"
     }
   ]
 }
