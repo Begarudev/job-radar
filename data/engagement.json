@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-07T09:52:58.541Z",
-  "count": 11,
+  "updatedAt": "2026-10-07T19:41:08.918Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6013,
-      "title": "fix(dom): eliminate zero-width chunk on trailing newline overflow (#6003)",
-      "url": "https://github.com/browser-use/browser-use/pull/6013",
-      "author": "jgfurlan",
-      "at": "2026-10-07T04:57:20Z"
+      "number": 6016,
+      "title": "fix: support Anthropic browser SDK 1.12",
+      "url": "https://github.com/browser-use/browser-use/pull/6016",
+      "author": "MagMueller",
+      "at": "2026-10-07T18:42:44Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6010,
-      "title": "docs: add Opper OpenAI-compatible provider example (#6009)",
-      "url": "https://github.com/browser-use/browser-use/pull/6010",
-      "author": "Felixkw12",
-      "at": "2026-10-06T23:20:16Z"
+      "number": 6015,
+      "title": "docs: fix effect to affect in AGENTS.md",
+      "url": "https://github.com/browser-use/browser-use/pull/6015",
+      "author": "xiechimon",
+      "at": "2026-10-07T15:50:16Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,88 +40,121 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4764,
-      "title": "feat(core): accept proxyExecute on session create and update (PLEN-4324)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4764",
-      "author": "DavidTeju",
-      "at": "2026-10-06T23:39:39Z"
+      "number": 4775,
+      "title": "feat(core)!: update owned clients to 2.0.0-rc.10",
+      "url": "https://github.com/ComposioHQ/composio/pull/4775",
+      "author": "jkomyno",
+      "at": "2026-10-07T16:31:15Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4774,
+      "title": "docs(cli): record the 0.4.3 release that routes execute through the dashboard",
+      "url": "https://github.com/ComposioHQ/composio/pull/4774",
+      "author": "jkomyno",
+      "at": "2026-10-07T16:24:58Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2751,
-      "title": "fix(iterable): raise IncompleteOutputException when a stream ends inside an item",
-      "url": "https://github.com/567-labs/instructor/pull/2751",
-      "author": "ericdelorefice",
-      "at": "2026-10-06T14:59:55Z"
+      "number": 2753,
+      "title": "docs: add Tsubasa OpenAI-compatible example",
+      "url": "https://github.com/567-labs/instructor/pull/2753",
+      "author": "nightcityblade",
+      "at": "2026-10-07T15:46:40Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2752,
+      "title": "fix(multimodal): normalize media types when parsing data URIs",
+      "url": "https://github.com/567-labs/instructor/pull/2752",
+      "author": "D41910",
+      "at": "2026-10-07T14:13:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41093,
-      "title": "fix(fireworks): preserve reasoning in streaming and tool loops",
-      "url": "https://github.com/langchain-ai/langchain/pull/41093",
-      "author": "nm-fireworks",
-      "at": "2026-10-06T20:56:20Z"
+      "number": 41126,
+      "title": "fix(core): build the run URL of a tracer that sends runs to an agent",
+      "url": "https://github.com/langchain-ai/langchain/pull/41126",
+      "author": "KiewanVillatel",
+      "at": "2026-10-07T18:52:02Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41125,
+      "title": "feat(openai): support decisions api",
+      "url": "https://github.com/langchain-ai/langchain/pull/41125",
+      "author": "ccurme",
+      "at": "2026-10-07T14:54:51Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99784,
-      "title": "[test] Report deploy queue vs build timings in deploy tests",
-      "url": "https://github.com/vercel/next.js/pull/99784",
-      "author": "eps1lon",
-      "at": "2026-10-07T09:38:48Z"
+      "number": 99832,
+      "title": "Move upgrade workflows into @next/upgrade",
+      "url": "https://github.com/vercel/next.js/pull/99832",
+      "author": "devjiwonchoi",
+      "at": "2026-10-07T19:34:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99782,
-      "title": "Turbopack: don't treat events as relevant because their parent dir is in the watcher batch",
-      "url": "https://github.com/vercel/next.js/pull/99782",
-      "author": "sokra",
-      "at": "2026-10-07T09:19:18Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51382,
-      "title": "Joshenlim/fe 4590 studio sql export can silently swap values for numeric",
-      "url": "https://github.com/supabase/supabase/pull/51382",
-      "author": "joshenlim",
-      "at": "2026-10-07T09:49:18Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51381,
-      "title": "chore: bump vulnerable dependencies",
-      "url": "https://github.com/supabase/supabase/pull/51381",
-      "author": "ivasilov",
-      "at": "2026-10-07T09:10:59Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
       "kind": "issue",
-      "number": 2191,
-      "title": "feat: adding shadcn login/register page template with custom auth option",
-      "url": "https://github.com/t3-oss/create-t3-app/issues/2191",
-      "author": "Aziz097",
-      "at": "2026-02-05T15:11:33Z"
+      "number": 99830,
+      "title": "Strict route matching drops a page in one route group when a sibling route group has a @slot/[...catchAll]",
+      "url": "https://github.com/vercel/next.js/issues/99830",
+      "author": "adamtowerz",
+      "at": "2026-10-07T19:06:55Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": " released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0",
+      "author": "eps1lon",
+      "at": "2026-10-07T10:03:29Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51411,
+      "title": "feat(studio): prompt for a higher AI opt-in level instead of \"no tool access\"",
+      "url": "https://github.com/supabase/supabase/pull/51411",
+      "author": "mattrossman",
+      "at": "2026-10-07T19:20:00Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51410,
+      "title": "feat(kb) - add aiAssisted prop to pages for rendering disclaimer",
+      "url": "https://github.com/supabase/supabase/pull/51410",
+      "author": "kodster28",
+      "at": "2026-10-07T19:03:23Z"
     }
   ]
 }
