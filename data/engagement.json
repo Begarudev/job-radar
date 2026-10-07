@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-10-06T19:16:48.628Z",
-  "count": 10,
+  "updatedAt": "2026-10-07T09:52:58.541Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6008,
-      "title": "fix(browser): skip CDP acquisition for no-op storage saves",
-      "url": "https://github.com/browser-use/browser-use/pull/6008",
-      "author": "jipeng6036-del",
-      "at": "2026-10-06T17:41:56Z"
+      "number": 6013,
+      "title": "fix(dom): eliminate zero-width chunk on trailing newline overflow (#6003)",
+      "url": "https://github.com/browser-use/browser-use/pull/6013",
+      "author": "jgfurlan",
+      "at": "2026-10-07T04:57:20Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6006,
-      "title": "docs(models): add DemonRoute provider example",
-      "url": "https://github.com/browser-use/browser-use/pull/6006",
-      "author": "nikhiljangid120",
-      "at": "2026-10-06T14:53:15Z"
+      "number": 6010,
+      "title": "docs: add Opper OpenAI-compatible provider example (#6009)",
+      "url": "https://github.com/browser-use/browser-use/pull/6010",
+      "author": "Felixkw12",
+      "at": "2026-10-06T23:20:16Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.11 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.11",
+      "author": "MagMueller",
+      "at": "2026-10-07T04:23:18Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4762,
-      "title": "fix(ci): gate issue triage and remove local agent execution",
-      "url": "https://github.com/ComposioHQ/composio/pull/4762",
-      "author": "jkomyno",
-      "at": "2026-10-06T11:49:01Z"
+      "number": 4764,
+      "title": "feat(core): accept proxyExecute on session create and update (PLEN-4324)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4764",
+      "author": "DavidTeju",
+      "at": "2026-10-06T23:39:39Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,56 +61,56 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41085,
-      "title": "ollama: `ChatOllama` sends tool results without `tool_name`, so models see them as an unknown tool",
-      "url": "https://github.com/langchain-ai/langchain/issues/41085",
-      "author": "roydonsequeira",
-      "at": "2026-10-06T11:05:48Z"
+      "kind": "pr",
+      "number": 41093,
+      "title": "fix(fireworks): preserve reasoning in streaming and tool loops",
+      "url": "https://github.com/langchain-ai/langchain/pull/41093",
+      "author": "nm-fireworks",
+      "at": "2026-10-06T20:56:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99747,
-      "title": "[turbo-tasks] Experiment: capture snapshot pending bits under exclusion",
-      "url": "https://github.com/vercel/next.js/pull/99747",
-      "author": "lukesandberg",
-      "at": "2026-10-06T18:34:14Z"
+      "number": 99784,
+      "title": "[test] Report deploy queue vs build timings in deploy tests",
+      "url": "https://github.com/vercel/next.js/pull/99784",
+      "author": "eps1lon",
+      "at": "2026-10-07T09:38:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99744,
-      "title": "Migrate ProjectContainer to mutable cells",
-      "url": "https://github.com/vercel/next.js/pull/99744",
-      "author": "lukesandberg",
-      "at": "2026-10-06T18:31:36Z"
+      "number": 99782,
+      "title": "Turbopack: don't treat events as relevant because their parent dir is in the watcher batch",
+      "url": "https://github.com/vercel/next.js/pull/99782",
+      "author": "sokra",
+      "at": "2026-10-07T09:19:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51360,
-      "title": "Add Connor Davis to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/51360",
-      "author": "dav-is",
-      "at": "2026-10-06T19:07:33Z"
+      "number": 51382,
+      "title": "Joshenlim/fe 4590 studio sql export can silently swap values for numeric",
+      "url": "https://github.com/supabase/supabase/pull/51382",
+      "author": "joshenlim",
+      "at": "2026-10-07T09:49:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51358,
-      "title": "docs: give a real path to the SSL certificate on the psql page",
-      "url": "https://github.com/supabase/supabase/pull/51358",
-      "author": "Sweta0519",
-      "at": "2026-10-06T18:38:29Z"
+      "number": 51381,
+      "title": "chore: bump vulnerable dependencies",
+      "url": "https://github.com/supabase/supabase/pull/51381",
+      "author": "ivasilov",
+      "at": "2026-10-07T09:10:59Z"
     },
     {
       "founder": "Theo Browne",
