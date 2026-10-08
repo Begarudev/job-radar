@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-10-08T10:04:38.793Z",
-  "count": 11,
+  "updatedAt": "2026-10-08T19:37:49.222Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6018,
-      "title": "fix: preserve underscore-prefixed keys in structured extraction",
-      "url": "https://github.com/browser-use/browser-use/pull/6018",
-      "author": "lux-liang",
-      "at": "2026-10-08T04:49:43Z"
+      "kind": "issue",
+      "number": 6020,
+      "title": "Documentation: profile sync one-liner (https://browser-use.com/profile.sh) is still 404 — stale in CLOUD.md, bundled skills, and the linked ",
+      "url": "https://github.com/browser-use/browser-use/issues/6020",
+      "author": "rahit",
+      "at": "2026-10-08T18:59:37Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6017,
-      "title": "fix: skip storage save when no file path is configured",
-      "url": "https://github.com/browser-use/browser-use/pull/6017",
-      "author": "Li-AmG",
-      "at": "2026-10-08T01:43:15Z"
+      "number": 6019,
+      "title": "fix(browser): skip storage state save when no CDP client is available (#6005)",
+      "url": "https://github.com/browser-use/browser-use/pull/6019",
+      "author": "enriquealonso01",
+      "at": "2026-10-08T10:32:58Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4783,
-      "title": "docs: simplify the Instant Tools first-run walkthrough",
-      "url": "https://github.com/ComposioHQ/composio/pull/4783",
-      "author": "palash-c",
-      "at": "2026-10-08T09:46:24Z"
+      "number": 4781,
+      "title": "docs: clarify Pro self-serve DPA in compliance guides",
+      "url": "https://github.com/ComposioHQ/composio/pull/4781",
+      "author": "abhishekpatil4",
+      "at": "2026-10-08T07:39:11Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4782,
-      "title": "feat(core)!: update owned clients to 2.0.0-rc.11 and drop dead API surface",
-      "url": "https://github.com/ComposioHQ/composio/pull/4782",
-      "author": "jkomyno",
-      "at": "2026-10-08T09:19:58Z"
+      "number": 4780,
+      "title": "fix(core): tolerate malformed tool schemas instead of failing the whole call",
+      "url": "https://github.com/ComposioHQ/composio/pull/4780",
+      "author": "insuffer",
+      "at": "2026-10-08T02:31:13Z"
     },
     {
       "founder": "Jason Liu",
@@ -72,56 +72,78 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41159,
+      "title": "fix(langchain): (SummarizationMiddleware) retry summary step on context overflow",
+      "url": "https://github.com/langchain-ai/langchain/pull/41159",
+      "author": "ccurme",
+      "at": "2026-10-08T19:31:07Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41146,
-      "title": "SummarizationMiddleware replaces history with a placeholder when no HumanMessage falls in the trim window",
-      "url": "https://github.com/langchain-ai/langchain/issues/41146",
-      "author": "Shaswathhere",
-      "at": "2026-10-08T08:28:41Z"
+      "number": 41157,
+      "title": "convert_to_openai_messages drops invalid tool calls from exported conversations",
+      "url": "https://github.com/langchain-ai/langchain/issues/41157",
+      "author": "aalquwayfili",
+      "at": "2026-10-08T16:48:34Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99851,
-      "title": "Send the export worker RDC back only for fallback shell seeds",
-      "url": "https://github.com/vercel/next.js/pull/99851",
-      "author": "AdzerKI",
-      "at": "2026-10-08T08:33:20Z"
+      "number": 99891,
+      "title": "Increase timeout on module-scope deployment test",
+      "url": "https://github.com/vercel/next.js/pull/99891",
+      "author": "bgw",
+      "at": "2026-10-08T19:05:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 99850,
-      "title": "next build hangs when a static generation worker batch exceeds V8 max string length",
-      "url": "https://github.com/vercel/next.js/issues/99850",
-      "author": "AdzerKI",
-      "at": "2026-10-08T08:32:59Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51436,
-      "title": "Management API /analytics/endpoints/logs: source_name missing and 'Backend error' on basic queries",
-      "url": "https://github.com/supabase/supabase/issues/51436",
-      "author": "TomasSestak",
-      "at": "2026-10-08T09:58:07Z"
+      "kind": "pr",
+      "number": 99890,
+      "title": "test: add regression test for next/image LCP warning with duplicated src",
+      "url": "https://github.com/vercel/next.js/pull/99890",
+      "author": "aurorascharff",
+      "at": "2026-10-08T19:01:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51435,
-      "title": "fix(studio): stop password managers autofilling database password fields",
-      "url": "https://github.com/supabase/supabase/pull/51435",
-      "author": "aniketatgithub",
-      "at": "2026-10-08T08:43:13Z"
+      "number": 51455,
+      "title": "fix(studio): make detail panel close buttons clickable",
+      "url": "https://github.com/supabase/supabase/pull/51455",
+      "author": "awaseem",
+      "at": "2026-10-08T19:27:18Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51454,
+      "title": "docs: add troubleshooting guide for read-only mode and write freeze during migration",
+      "url": "https://github.com/supabase/supabase/pull/51454",
+      "author": "tina-wh",
+      "at": "2026-10-08T18:16:44Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4145,
+      "title": "Cross-workspace Sandbox.exec Secret injection returns INTERNAL instead of a clear authorization error",
+      "url": "https://github.com/modal-labs/modal-client/issues/4145",
+      "author": "Cubus32",
+      "at": "2026-10-08T12:59:49Z"
     }
   ]
 }
