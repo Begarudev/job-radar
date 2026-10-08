@@ -1,160 +1,127 @@
 {
-  "updatedAt": "2026-10-07T19:41:08.918Z",
-  "count": 14,
+  "updatedAt": "2026-10-08T10:04:38.793Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6016,
-      "title": "fix: support Anthropic browser SDK 1.12",
-      "url": "https://github.com/browser-use/browser-use/pull/6016",
-      "author": "MagMueller",
-      "at": "2026-10-07T18:42:44Z"
+      "number": 6018,
+      "title": "fix: preserve underscore-prefixed keys in structured extraction",
+      "url": "https://github.com/browser-use/browser-use/pull/6018",
+      "author": "lux-liang",
+      "at": "2026-10-08T04:49:43Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6015,
-      "title": "docs: fix effect to affect in AGENTS.md",
-      "url": "https://github.com/browser-use/browser-use/pull/6015",
-      "author": "xiechimon",
-      "at": "2026-10-07T15:50:16Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.11 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.11",
-      "author": "MagMueller",
-      "at": "2026-10-07T04:23:18Z"
+      "number": 6017,
+      "title": "fix: skip storage save when no file path is configured",
+      "url": "https://github.com/browser-use/browser-use/pull/6017",
+      "author": "Li-AmG",
+      "at": "2026-10-08T01:43:15Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4775,
-      "title": "feat(core)!: update owned clients to 2.0.0-rc.10",
-      "url": "https://github.com/ComposioHQ/composio/pull/4775",
-      "author": "jkomyno",
-      "at": "2026-10-07T16:31:15Z"
+      "number": 4783,
+      "title": "docs: simplify the Instant Tools first-run walkthrough",
+      "url": "https://github.com/ComposioHQ/composio/pull/4783",
+      "author": "palash-c",
+      "at": "2026-10-08T09:46:24Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4774,
-      "title": "docs(cli): record the 0.4.3 release that routes execute through the dashboard",
-      "url": "https://github.com/ComposioHQ/composio/pull/4774",
+      "number": 4782,
+      "title": "feat(core)!: update owned clients to 2.0.0-rc.11 and drop dead API surface",
+      "url": "https://github.com/ComposioHQ/composio/pull/4782",
       "author": "jkomyno",
-      "at": "2026-10-07T16:24:58Z"
+      "at": "2026-10-08T09:19:58Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2753,
-      "title": "docs: add Tsubasa OpenAI-compatible example",
-      "url": "https://github.com/567-labs/instructor/pull/2753",
-      "author": "nightcityblade",
-      "at": "2026-10-07T15:46:40Z"
+      "number": 2757,
+      "title": "fix(typeddict): preserve underscore-prefixed response keys",
+      "url": "https://github.com/567-labs/instructor/pull/2757",
+      "author": "lux-liang",
+      "at": "2026-10-08T08:16:36Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2752,
-      "title": "fix(multimodal): normalize media types when parsing data URIs",
-      "url": "https://github.com/567-labs/instructor/pull/2752",
-      "author": "D41910",
-      "at": "2026-10-07T14:13:51Z"
+      "kind": "issue",
+      "number": 2756,
+      "title": "TypedDict response models silently drop required underscore-prefixed keys",
+      "url": "https://github.com/567-labs/instructor/issues/2756",
+      "author": "lux-liang",
+      "at": "2026-10-08T07:50:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41126,
-      "title": "fix(core): build the run URL of a tracer that sends runs to an agent",
-      "url": "https://github.com/langchain-ai/langchain/pull/41126",
-      "author": "KiewanVillatel",
-      "at": "2026-10-07T18:52:02Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41125,
-      "title": "feat(openai): support decisions api",
-      "url": "https://github.com/langchain-ai/langchain/pull/41125",
-      "author": "ccurme",
-      "at": "2026-10-07T14:54:51Z"
+      "kind": "issue",
+      "number": 41146,
+      "title": "SummarizationMiddleware replaces history with a placeholder when no HumanMessage falls in the trim window",
+      "url": "https://github.com/langchain-ai/langchain/issues/41146",
+      "author": "Shaswathhere",
+      "at": "2026-10-08T08:28:41Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99832,
-      "title": "Move upgrade workflows into @next/upgrade",
-      "url": "https://github.com/vercel/next.js/pull/99832",
-      "author": "devjiwonchoi",
-      "at": "2026-10-07T19:34:19Z"
+      "number": 99851,
+      "title": "Send the export worker RDC back only for fallback shell seeds",
+      "url": "https://github.com/vercel/next.js/pull/99851",
+      "author": "AdzerKI",
+      "at": "2026-10-08T08:33:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 99830,
-      "title": "Strict route matching drops a page in one route group when a sibling route group has a @slot/[...catchAll]",
-      "url": "https://github.com/vercel/next.js/issues/99830",
-      "author": "adamtowerz",
-      "at": "2026-10-07T19:06:55Z"
+      "number": 99850,
+      "title": "next build hangs when a static generation worker batch exceeds V8 max string length",
+      "url": "https://github.com/vercel/next.js/issues/99850",
+      "author": "AdzerKI",
+      "at": "2026-10-08T08:32:59Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": " released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.0",
-      "author": "eps1lon",
-      "at": "2026-10-07T10:03:29Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 51436,
+      "title": "Management API /analytics/endpoints/logs: source_name missing and 'Backend error' on basic queries",
+      "url": "https://github.com/supabase/supabase/issues/51436",
+      "author": "TomasSestak",
+      "at": "2026-10-08T09:58:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51411,
-      "title": "feat(studio): prompt for a higher AI opt-in level instead of \"no tool access\"",
-      "url": "https://github.com/supabase/supabase/pull/51411",
-      "author": "mattrossman",
-      "at": "2026-10-07T19:20:00Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51410,
-      "title": "feat(kb) - add aiAssisted prop to pages for rendering disclaimer",
-      "url": "https://github.com/supabase/supabase/pull/51410",
-      "author": "kodster28",
-      "at": "2026-10-07T19:03:23Z"
+      "number": 51435,
+      "title": "fix(studio): stop password managers autofilling database password fields",
+      "url": "https://github.com/supabase/supabase/pull/51435",
+      "author": "aniketatgithub",
+      "at": "2026-10-08T08:43:13Z"
     }
   ]
 }
