@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-10-09T10:06:59.273Z",
-  "count": 12,
+  "updatedAt": "2026-10-09T19:12:50.688Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6023,
-      "title": "fix(registry): accept X | None annotations on special action params",
-      "url": "https://github.com/browser-use/browser-use/pull/6023",
-      "author": "adimalkar",
-      "at": "2026-10-09T05:35:32Z"
+      "number": 6027,
+      "title": "fix(browser): monitor network downloads in every tab",
+      "url": "https://github.com/browser-use/browser-use/pull/6027",
+      "author": "Timotty",
+      "at": "2026-10-09T19:10:28Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6022,
-      "title": "fix(browser): register watchdog CDP handlers again after reconnect",
-      "url": "https://github.com/browser-use/browser-use/pull/6022",
-      "author": "TanishGudise",
-      "at": "2026-10-08T23:56:05Z"
+      "number": 6026,
+      "title": "Report ChatBrowserUse tokens and cost to Laminar",
+      "url": "https://github.com/browser-use/browser-use/pull/6026",
+      "author": "gregpr07",
+      "at": "2026-10-09T17:27:15Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4797,
-      "title": "composio listen silently picks a connected account when ambiguous, unlike execute/proxy",
-      "url": "https://github.com/ComposioHQ/composio/issues/4797",
-      "author": "manobhisriram",
-      "at": "2026-10-09T07:47:30Z"
+      "kind": "pr",
+      "number": 4803,
+      "title": "docs: make per-call tool version pinning easier to find",
+      "url": "https://github.com/ComposioHQ/composio/pull/4803",
+      "author": "olearycrew",
+      "at": "2026-10-09T18:51:51Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4802,
+      "title": "refactor(cli): centralize environment config in `src/config`",
+      "url": "https://github.com/ComposioHQ/composio/pull/4802",
+      "author": "jkomyno",
+      "at": "2026-10-09T16:05:58Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,77 +73,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41169,
-      "title": "core: mustache `ChatPromptTemplate` input schema types nested variables as `str`, so `as_tool` rejects valid input",
-      "url": "https://github.com/langchain-ai/langchain/issues/41169",
-      "author": "sahil-mangla",
-      "at": "2026-10-09T06:00:12Z"
+      "number": 41179,
+      "title": "[RFC] Feature: Add Runnable.with_rescue() / RunnableRescue for inline step recovery in LCEL",
+      "url": "https://github.com/langchain-ai/langchain/issues/41179",
+      "author": "powerofaisinstudy-debug",
+      "at": "2026-10-09T14:36:59Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41166,
-      "title": "count_tokens_approximately omits tool calls when AIMessage content is a list",
-      "url": "https://github.com/langchain-ai/langchain/issues/41166",
-      "author": "bnkaiteam",
-      "at": "2026-10-09T03:08:07Z"
+      "number": 41177,
+      "title": "sanitize_for_postgres docstring examples pass literal escapes instead of NUL characters",
+      "url": "https://github.com/langchain-ai/langchain/issues/41177",
+      "author": "normaltank",
+      "at": "2026-10-09T11:39:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99921,
-      "title": "Decouple codemod versions and support Windows runners",
-      "url": "https://github.com/vercel/next.js/pull/99921",
-      "author": "devjiwonchoi",
-      "at": "2026-10-09T09:59:52Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99920,
-      "title": "fix: avoid unused route-handler imports in dev validator for metadata-only apps",
-      "url": "https://github.com/vercel/next.js/pull/99920",
-      "author": "lyonzin",
-      "at": "2026-10-09T09:33:08Z"
+      "number": 99950,
+      "title": "fix: Fix standalone package detection with custom output directories",
+      "url": "https://github.com/vercel/next.js/pull/99950",
+      "author": "avens19",
+      "at": "2026-10-09T17:14:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51484,
-      "title": "fix(studio): show correct timezone offsets FE-4612",
-      "url": "https://github.com/supabase/supabase/pull/51484",
-      "author": "jordienr",
-      "at": "2026-10-09T09:57:46Z"
+      "number": 51495,
+      "title": "fix(docs): remove orphaned cli.mdx and update stale /guides/cli link",
+      "url": "https://github.com/supabase/supabase/pull/51495",
+      "author": "alexisintech",
+      "at": "2026-10-09T18:49:00Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51483,
-      "title": "Harden profile creation logic from dashboard",
-      "url": "https://github.com/supabase/supabase/pull/51483",
-      "author": "joshenlim",
-      "at": "2026-10-09T09:21:20Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4145,
-      "title": "Cross-workspace Sandbox.exec Secret injection returns INTERNAL instead of a clear authorization error",
-      "url": "https://github.com/modal-labs/modal-client/issues/4145",
-      "author": "Cubus32",
-      "at": "2026-10-08T12:59:49Z"
+      "number": 51494,
+      "title": "docs: drop stale alpha labels from server and middleware reference",
+      "url": "https://github.com/supabase/supabase/pull/51494",
+      "author": "mandarini",
+      "at": "2026-10-09T17:37:08Z"
     }
   ]
 }
