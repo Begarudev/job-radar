@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-09T13:36:56.656Z",
-  "count": 3,
+  "updatedAt": "2026-10-10T12:53:38.539Z",
+  "count": 4,
   "events": [
     {
       "id": "github-blog:https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
@@ -10,7 +10,7 @@
       "description": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
       "publishedAt": "Thu, 08 Oct 2026 17:02:52 +0000",
-      "fetchedAt": "2026-10-09T13:36:56.422Z",
+      "fetchedAt": "2026-10-10T12:53:38.478Z",
       "company": "GitHub",
       "tags": []
     },
@@ -22,8 +22,20 @@
       "description": "What eleven teams built at the Runpod Flash Hack Day, and the three demos that took home the top prizes.",
       "url": "https://www.runpod.io/blog/flash-hack-day",
       "publishedAt": "Sun, 13 Sep 2026 15:06:30 GMT",
-      "fetchedAt": "2026-10-09T13:36:56.379Z",
+      "fetchedAt": "2026-10-10T12:53:38.472Z",
       "company": "RunPod",
+      "tags": []
+    },
+    {
+      "id": "github-blog:https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "source": "github-blog",
+      "kind": "hackathon",
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "description": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog .",
+      "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "publishedAt": "Fri, 09 Oct 2026 16:00:00 +0000",
+      "fetchedAt": "2026-10-10T12:53:38.478Z",
+      "company": "GitHub",
       "tags": []
     },
     {
@@ -34,7 +46,7 @@
       "description": "In 2022, we launched a private bug bounty program through HackerOne. Over the last several years, we've worked with HackerOne's VIP program to refine our process, targets, and scope, onboarding thousands of their best researchers and hardening security across our platform. We've translated those learnings into several public bounty programs: The $1 million React2Shell hacker challenge The $1 million Vercel Sandbox hacker challenge Our OSS bug bounty program Today, we are combining our private and OSS bounty programs into a single, public Vercel bug bounty program . Why now AI has fundamentally",
       "url": "https://vercel.com/blog/the-vercel-bug-bounty-program-is-now-publicly-available",
       "publishedAt": "2026-09-24T07:00:00.000Z",
-      "fetchedAt": "2026-10-09T13:36:56.359Z",
+      "fetchedAt": "2026-10-10T12:53:38.438Z",
       "company": "Vercel",
       "tags": []
     }
