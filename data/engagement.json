@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T09:28:01.028Z",
+  "updatedAt": "2026-10-10T18:12:04.853Z",
   "count": 11,
   "signals": [
     {
@@ -29,11 +29,11 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4804,
-      "title": "fix(cli): prevent ambiguous account selection in listen",
-      "url": "https://github.com/ComposioHQ/composio/pull/4804",
-      "author": "gabrieledellamalva06-coding",
-      "at": "2026-10-09T21:59:38Z"
+      "number": 4806,
+      "title": "Update bump.py",
+      "url": "https://github.com/ComposioHQ/composio/pull/4806",
+      "author": "MaddipatlaChetan24",
+      "at": "2026-10-10T12:05:22Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,44 +62,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41190,
-      "title": "text-splitters: add_start_index returns an earlier duplicate's position when a chunk is shorter than chunk_overlap",
-      "url": "https://github.com/langchain-ai/langchain/issues/41190",
-      "author": "SANJANAKUMARI83",
-      "at": "2026-10-10T02:47:23Z"
+      "number": 41194,
+      "title": "langchain-core: add a shared `BaseDecisionModel` interface",
+      "url": "https://github.com/langchain-ai/langchain/issues/41194",
+      "author": "teenaxta",
+      "at": "2026-10-10T16:56:19Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41186,
-      "title": "HTMLSemanticPreservingSplitter corrupts text containing the literal PRESERVED_<n> (in-band placeholder) and _reinsert_preserved_elements is ",
-      "url": "https://github.com/langchain-ai/langchain/issues/41186",
-      "author": "moneebullah25",
-      "at": "2026-10-09T20:36:09Z"
+      "number": 41193,
+      "title": "langchain-core: add a beta BaseDecisionModel interface for bounded judgments",
+      "url": "https://github.com/langchain-ai/langchain/issues/41193",
+      "author": "teenaxta",
+      "at": "2026-10-10T16:32:57Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 99983,
+      "title": "`next dev` retains heap on every App Router render (16.4.0): linear growth that survives forced GC",
+      "url": "https://github.com/vercel/next.js/issues/99983",
+      "author": "vlegacy",
+      "at": "2026-10-10T16:07:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99976,
-      "title": "Organize upgrade sources by feature",
-      "url": "https://github.com/vercel/next.js/pull/99976",
-      "author": "devjiwonchoi",
-      "at": "2026-10-10T09:13:51Z"
+      "number": 99982,
+      "title": "test: capture hidden-document ViewTransition runtime error",
+      "url": "https://github.com/vercel/next.js/pull/99982",
+      "author": "aurorascharff",
+      "at": "2026-10-10T16:04:35Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 99973,
-      "title": "Move upgrade sources into @next/upgrade",
-      "url": "https://github.com/vercel/next.js/pull/99973",
-      "author": "devjiwonchoi",
-      "at": "2026-10-10T07:17:18Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 51510,
+      "title": "sb_secret_ keys cost ~10× the instance CPU of the legacy service_role key per Data API request",
+      "url": "https://github.com/supabase/supabase/issues/51510",
+      "author": "Honigbrot",
+      "at": "2026-10-10T11:02:32Z"
     },
     {
       "founder": "Paul Copplestone",
@@ -111,17 +122,6 @@
       "url": "https://github.com/supabase/supabase/pull/51508",
       "author": "haranishi",
       "at": "2026-10-10T08:09:03Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51506,
-      "title": "fix(ui-library): reject protocol-relative redirects in auth callback routes",
-      "url": "https://github.com/supabase/supabase/pull/51506",
-      "author": "haranishi",
-      "at": "2026-10-10T07:08:27Z"
     }
   ]
 }
