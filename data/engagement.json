@@ -1,127 +1,127 @@
 {
-  "updatedAt": "2026-10-09T19:12:50.688Z",
+  "updatedAt": "2026-10-10T09:28:01.028Z",
   "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6027,
-      "title": "fix(browser): monitor network downloads in every tab",
-      "url": "https://github.com/browser-use/browser-use/pull/6027",
-      "author": "Timotty",
-      "at": "2026-10-09T19:10:28Z"
+      "kind": "issue",
+      "number": 6031,
+      "title": "Known-answer false-success regression cases (403 block, disabled click, 6 more)",
+      "url": "https://github.com/browser-use/browser-use/issues/6031",
+      "author": "Adam13y",
+      "at": "2026-10-10T09:24:03Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6026,
-      "title": "Report ChatBrowserUse tokens and cost to Laminar",
-      "url": "https://github.com/browser-use/browser-use/pull/6026",
-      "author": "gregpr07",
-      "at": "2026-10-09T17:27:15Z"
+      "number": 6030,
+      "title": "fix(replay): re-resolve a recorded tab instead of replaying its id",
+      "url": "https://github.com/browser-use/browser-use/pull/6030",
+      "author": "blgbr0",
+      "at": "2026-10-10T07:56:23Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4803,
-      "title": "docs: make per-call tool version pinning easier to find",
-      "url": "https://github.com/ComposioHQ/composio/pull/4803",
-      "author": "olearycrew",
-      "at": "2026-10-09T18:51:51Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4802,
-      "title": "refactor(cli): centralize environment config in `src/config`",
-      "url": "https://github.com/ComposioHQ/composio/pull/4802",
-      "author": "jkomyno",
-      "at": "2026-10-09T16:05:58Z"
+      "number": 4804,
+      "title": "fix(cli): prevent ambiguous account selection in listen",
+      "url": "https://github.com/ComposioHQ/composio/pull/4804",
+      "author": "gabrieledellamalva06-coding",
+      "at": "2026-10-09T21:59:38Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2759,
-      "title": "fix(multimodal): sanitize Bedrock PDF document names",
-      "url": "https://github.com/567-labs/instructor/pull/2759",
-      "author": "ktz03",
-      "at": "2026-10-09T08:09:13Z"
+      "number": 2765,
+      "title": "docs(maybe): replace broken examples with the public API",
+      "url": "https://github.com/567-labs/instructor/pull/2765",
+      "author": "waoywssy",
+      "at": "2026-10-10T03:02:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2758,
-      "title": "fix(batch): preserve Anthropic errored result details",
-      "url": "https://github.com/567-labs/instructor/pull/2758",
-      "author": "ktz03",
-      "at": "2026-10-09T03:05:46Z"
+      "number": 2764,
+      "title": "docs(debugging): make the recommended logging setup work",
+      "url": "https://github.com/567-labs/instructor/pull/2764",
+      "author": "waoywssy",
+      "at": "2026-10-10T03:02:17Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41179,
-      "title": "[RFC] Feature: Add Runnable.with_rescue() / RunnableRescue for inline step recovery in LCEL",
-      "url": "https://github.com/langchain-ai/langchain/issues/41179",
-      "author": "powerofaisinstudy-debug",
-      "at": "2026-10-09T14:36:59Z"
+      "number": 41190,
+      "title": "text-splitters: add_start_index returns an earlier duplicate's position when a chunk is shorter than chunk_overlap",
+      "url": "https://github.com/langchain-ai/langchain/issues/41190",
+      "author": "SANJANAKUMARI83",
+      "at": "2026-10-10T02:47:23Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41177,
-      "title": "sanitize_for_postgres docstring examples pass literal escapes instead of NUL characters",
-      "url": "https://github.com/langchain-ai/langchain/issues/41177",
-      "author": "normaltank",
-      "at": "2026-10-09T11:39:47Z"
+      "number": 41186,
+      "title": "HTMLSemanticPreservingSplitter corrupts text containing the literal PRESERVED_<n> (in-band placeholder) and _reinsert_preserved_elements is ",
+      "url": "https://github.com/langchain-ai/langchain/issues/41186",
+      "author": "moneebullah25",
+      "at": "2026-10-09T20:36:09Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99950,
-      "title": "fix: Fix standalone package detection with custom output directories",
-      "url": "https://github.com/vercel/next.js/pull/99950",
-      "author": "avens19",
-      "at": "2026-10-09T17:14:55Z"
+      "number": 99976,
+      "title": "Organize upgrade sources by feature",
+      "url": "https://github.com/vercel/next.js/pull/99976",
+      "author": "devjiwonchoi",
+      "at": "2026-10-10T09:13:51Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 99973,
+      "title": "Move upgrade sources into @next/upgrade",
+      "url": "https://github.com/vercel/next.js/pull/99973",
+      "author": "devjiwonchoi",
+      "at": "2026-10-10T07:17:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51495,
-      "title": "fix(docs): remove orphaned cli.mdx and update stale /guides/cli link",
-      "url": "https://github.com/supabase/supabase/pull/51495",
-      "author": "alexisintech",
-      "at": "2026-10-09T18:49:00Z"
+      "number": 51508,
+      "title": "fix(ui-library): reject protocol-relative redirects in the Nuxt confirm route",
+      "url": "https://github.com/supabase/supabase/pull/51508",
+      "author": "haranishi",
+      "at": "2026-10-10T08:09:03Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51494,
-      "title": "docs: drop stale alpha labels from server and middleware reference",
-      "url": "https://github.com/supabase/supabase/pull/51494",
-      "author": "mandarini",
-      "at": "2026-10-09T17:37:08Z"
+      "number": 51506,
+      "title": "fix(ui-library): reject protocol-relative redirects in auth callback routes",
+      "url": "https://github.com/supabase/supabase/pull/51506",
+      "author": "haranishi",
+      "at": "2026-10-10T07:08:27Z"
     }
   ]
 }
