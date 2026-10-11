@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-10T18:12:04.853Z",
+  "updatedAt": "2026-10-11T09:42:11.681Z",
   "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6031,
-      "title": "Known-answer false-success regression cases (403 block, disabled click, 6 more)",
-      "url": "https://github.com/browser-use/browser-use/issues/6031",
-      "author": "Adam13y",
-      "at": "2026-10-10T09:24:03Z"
+      "kind": "pr",
+      "number": 6037,
+      "title": "fix(browser): defer change event until after typing",
+      "url": "https://github.com/browser-use/browser-use/pull/6037",
+      "author": "nightcityblade",
+      "at": "2026-10-11T03:27:32Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6030,
-      "title": "fix(replay): re-resolve a recorded tab instead of replaying its id",
-      "url": "https://github.com/browser-use/browser-use/pull/6030",
-      "author": "blgbr0",
-      "at": "2026-10-10T07:56:23Z"
+      "number": 6036,
+      "title": "fix: preserve extraction keys and update Anthropic browser imports",
+      "url": "https://github.com/browser-use/browser-use/pull/6036",
+      "author": "Dekaz4",
+      "at": "2026-10-11T02:58:47Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,33 +40,22 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2765,
-      "title": "docs(maybe): replace broken examples with the public API",
-      "url": "https://github.com/567-labs/instructor/pull/2765",
-      "author": "waoywssy",
-      "at": "2026-10-10T03:02:32Z"
+      "number": 2771,
+      "title": "fix(distil): resolve string return annotations",
+      "url": "https://github.com/567-labs/instructor/pull/2771",
+      "author": "j45856021-dev",
+      "at": "2026-10-11T05:39:12Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2764,
-      "title": "docs(debugging): make the recommended logging setup work",
-      "url": "https://github.com/567-labs/instructor/pull/2764",
-      "author": "waoywssy",
-      "at": "2026-10-10T03:02:17Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41194,
-      "title": "langchain-core: add a shared `BaseDecisionModel` interface",
-      "url": "https://github.com/langchain-ai/langchain/issues/41194",
-      "author": "teenaxta",
-      "at": "2026-10-10T16:56:19Z"
+      "number": 2770,
+      "title": "fix(citations): skip empty quotes and source chunks",
+      "url": "https://github.com/567-labs/instructor/pull/2770",
+      "author": "WitBlue6",
+      "at": "2026-10-11T05:17:17Z"
     },
     {
       "founder": "Harrison Chase",
@@ -80,48 +69,59 @@
       "at": "2026-10-10T16:32:57Z"
     },
     {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41191,
+      "title": "perf(text-splitters): reduce repeated list copying during chunk eviction",
+      "url": "https://github.com/langchain-ai/langchain/issues/41191",
+      "author": "mowne67",
+      "at": "2026-10-10T12:36:23Z"
+    },
+    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 99983,
-      "title": "`next dev` retains heap on every App Router render (16.4.0): linear growth that survives forced GC",
-      "url": "https://github.com/vercel/next.js/issues/99983",
-      "author": "vlegacy",
-      "at": "2026-10-10T16:07:59Z"
+      "number": 99993,
+      "title": "Turbopack: chunk loader scans the whole DOM with querySelectorAll for every chunk (O(DOM × chunks) main-thread cost at boot)",
+      "url": "https://github.com/vercel/next.js/issues/99993",
+      "author": "ylcn91",
+      "at": "2026-10-11T07:05:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99982,
-      "title": "test: capture hidden-document ViewTransition runtime error",
-      "url": "https://github.com/vercel/next.js/pull/99982",
-      "author": "aurorascharff",
-      "at": "2026-10-10T16:04:35Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51510,
-      "title": "sb_secret_ keys cost ~10× the instance CPU of the legacy service_role key per Data API request",
-      "url": "https://github.com/supabase/supabase/issues/51510",
-      "author": "Honigbrot",
-      "at": "2026-10-10T11:02:32Z"
+      "number": 99991,
+      "title": "fix(next-codemod): do not treat the path after --fix as its value",
+      "url": "https://github.com/vercel/next.js/pull/99991",
+      "author": "adityapratap0077-cloud",
+      "at": "2026-10-11T06:03:52Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51508,
-      "title": "fix(ui-library): reject protocol-relative redirects in the Nuxt confirm route",
-      "url": "https://github.com/supabase/supabase/pull/51508",
+      "number": 51526,
+      "title": "fix(studio): clarify system role grouping and deletion actions",
+      "url": "https://github.com/supabase/supabase/pull/51526",
       "author": "haranishi",
-      "at": "2026-10-10T08:09:03Z"
+      "at": "2026-10-11T05:59:16Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "issue",
+      "number": 51525,
+      "title": "Dashboard: misleading role grouping and Delete action for postgres",
+      "url": "https://github.com/supabase/supabase/issues/51525",
+      "author": "max2697",
+      "at": "2026-10-11T01:43:18Z"
     }
   ]
 }
