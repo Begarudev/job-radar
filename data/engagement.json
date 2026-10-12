@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-10-12T10:17:27.642Z",
-  "count": 12,
+  "updatedAt": "2026-10-12T21:56:59.580Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6041,
-      "title": "fix(utils): respect empty interruptible task patterns",
-      "url": "https://github.com/browser-use/browser-use/pull/6041",
-      "author": "xlyy1",
-      "at": "2026-10-12T03:18:08Z"
+      "number": 6045,
+      "title": "fix: Emit one FileDownloadedEvent per attachment download",
+      "url": "https://github.com/browser-use/browser-use/pull/6045",
+      "author": "vishal-tambi",
+      "at": "2026-10-12T15:05:24Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6040,
-      "title": "fix(tools): report the wait duration that actually elapsed",
-      "url": "https://github.com/browser-use/browser-use/pull/6040",
-      "author": "jimpablo",
-      "at": "2026-10-11T15:33:38Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4818,
-      "title": "[Feature]: Shareable setup link: let non-technical people connect apps and add Composio to their AI client in one page",
-      "url": "https://github.com/ComposioHQ/composio/issues/4818",
-      "author": "nikhil008-git",
-      "at": "2026-10-12T09:53:25Z"
+      "number": 6044,
+      "title": "fix(dom): treat snapshot stackingContexts as sparse RareBooleanData",
+      "url": "https://github.com/browser-use/browser-use/pull/6044",
+      "author": "vishal-tambi",
+      "at": "2026-10-12T14:15:37Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4817,
-      "title": "feat(cli): remove a connection without a prompt with connections remove --yes",
-      "url": "https://github.com/ComposioHQ/composio/pull/4817",
-      "author": "immakermatty",
-      "at": "2026-10-12T09:36:56Z"
+      "number": 4826,
+      "title": "chore(deps): consolidate updates and upgrade Effect and Bun",
+      "url": "https://github.com/ComposioHQ/composio/pull/4826",
+      "author": "jkomyno",
+      "at": "2026-10-12T20:28:55Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +62,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41219,
-      "title": "`as_langchain_tool` reads the interrupt-driving decision at conversion time; converting after the session closes breaks elicitation tools wi",
-      "url": "https://github.com/langchain-ai/langchain/issues/41219",
-      "author": "Iris070308",
-      "at": "2026-10-12T08:53:02Z"
+      "number": 41227,
+      "title": "A `text-plain` content block with inline `text` is rejected by the Bedrock, Gemini and OpenAI converters",
+      "url": "https://github.com/langchain-ai/langchain/issues/41227",
+      "author": "awg66",
+      "at": "2026-10-12T19:59:41Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41218,
-      "title": "`InMemoryVectorStore` stores and returns metadata by reference: out-of-store mutation silently rewrites stored documents",
-      "url": "https://github.com/langchain-ai/langchain/issues/41218",
-      "author": "Iris070308",
-      "at": "2026-10-12T08:49:55Z"
+      "number": 41214,
+      "title": "langchain-typesafe: NaN/Infinity in state or criteria crash invoke with uncaught ValueError from httpx2 internals",
+      "url": "https://github.com/langchain-ai/langchain/issues/41214",
+      "author": "kittimzhe",
+      "at": "2026-10-12T08:22:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100026,
-      "title": "fix: avoid unused route handler imports in generated validators",
-      "url": "https://github.com/vercel/next.js/pull/100026",
-      "author": "PRADHUMAN-SINGH-1",
-      "at": "2026-10-12T10:02:09Z"
+      "number": 100079,
+      "title": "Respect release-age policies in agent upgrades",
+      "url": "https://github.com/vercel/next.js/pull/100079",
+      "author": "devjiwonchoi",
+      "at": "2026-10-12T17:51:19Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100025,
-      "title": "dev: run long-lived Turbopack subscription loops in fresh async contexts",
-      "url": "https://github.com/vercel/next.js/pull/100025",
-      "author": "sokra",
-      "at": "2026-10-12T10:00:20Z"
+      "number": 100078,
+      "title": "Remove dead getParams matcher cache",
+      "url": "https://github.com/vercel/next.js/pull/100078",
+      "author": "mischnic",
+      "at": "2026-10-12T17:40:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51550,
-      "title": "Chore/tiny refactor org limit",
-      "url": "https://github.com/supabase/supabase/pull/51550",
-      "author": "joshenlim",
-      "at": "2026-10-12T08:46:34Z"
+      "number": 51566,
+      "title": "docs(storage): add object versioning and lifecycle policies guides",
+      "url": "https://github.com/supabase/supabase/pull/51566",
+      "author": "TylerHillery",
+      "at": "2026-10-12T21:32:26Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51546,
-      "title": "docs(troubleshooting): Update Migrating Auth Users guide",
-      "url": "https://github.com/supabase/supabase/pull/51546",
-      "author": "thewheat",
-      "at": "2026-10-12T06:35:59Z"
+      "number": 51565,
+      "title": "feat(kb): design overhaul",
+      "url": "https://github.com/supabase/supabase/pull/51565",
+      "author": "antlio",
+      "at": "2026-10-12T20:23:01Z"
     }
   ]
 }
