@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-11T18:35:00.645Z",
+  "updatedAt": "2026-10-12T10:17:27.642Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6041,
+      "title": "fix(utils): respect empty interruptible task patterns",
+      "url": "https://github.com/browser-use/browser-use/pull/6041",
+      "author": "xlyy1",
+      "at": "2026-10-12T03:18:08Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,125 +25,114 @@
       "at": "2026-10-11T15:33:38Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6037,
-      "title": "fix(browser): defer change event until after typing",
-      "url": "https://github.com/browser-use/browser-use/pull/6037",
-      "author": "nightcityblade",
-      "at": "2026-10-11T03:27:32Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4818,
+      "title": "[Feature]: Shareable setup link: let non-technical people connect apps and add Composio to their AI client in one page",
+      "url": "https://github.com/ComposioHQ/composio/issues/4818",
+      "author": "nikhil008-git",
+      "at": "2026-10-12T09:53:25Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4813,
-      "title": "fix(core): contain rejections from async trigger handlers",
-      "url": "https://github.com/ComposioHQ/composio/pull/4813",
-      "author": "TanishGudise",
-      "at": "2026-10-11T18:24:43Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4812,
-      "title": "[Bug]: TS `triggers.unsubscribe()` leaves the realtime connection open, so the Node process never exits",
-      "url": "https://github.com/ComposioHQ/composio/issues/4812",
-      "author": "TanishGudise",
-      "at": "2026-10-11T18:19:26Z"
+      "number": 4817,
+      "title": "feat(cli): remove a connection without a prompt with connections remove --yes",
+      "url": "https://github.com/ComposioHQ/composio/pull/4817",
+      "author": "immakermatty",
+      "at": "2026-10-12T09:36:56Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2772,
-      "title": "fix: preserve validation details when suppressing error URLs",
-      "url": "https://github.com/567-labs/instructor/pull/2772",
-      "author": "shayanxcyber",
-      "at": "2026-10-11T14:07:55Z"
+      "number": 2777,
+      "title": "fix(citation): guard empty quote/context and cap fuzzy-match budget at len//3",
+      "url": "https://github.com/567-labs/instructor/pull/2777",
+      "author": "Aftabbs",
+      "at": "2026-10-12T07:55:41Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2771,
-      "title": "fix(distil): resolve string return annotations",
-      "url": "https://github.com/567-labs/instructor/pull/2771",
-      "author": "j45856021-dev",
-      "at": "2026-10-11T05:39:12Z"
+      "kind": "issue",
+      "number": 2776,
+      "title": "CitationMixin accepts any quote of five characters or fewer as a match",
+      "url": "https://github.com/567-labs/instructor/issues/2776",
+      "author": "chrikrah",
+      "at": "2026-10-12T07:07:46Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41203,
-      "title": "Streaming Chat Completions drops the provider response `id` from `response_metadata`, while `invoke` and structured-output streaming keep it",
-      "url": "https://github.com/langchain-ai/langchain/issues/41203",
+      "number": 41219,
+      "title": "`as_langchain_tool` reads the interrupt-driving decision at conversion time; converting after the session closes breaks elicitation tools wi",
+      "url": "https://github.com/langchain-ai/langchain/issues/41219",
       "author": "Iris070308",
-      "at": "2026-10-11T14:15:19Z"
+      "at": "2026-10-12T08:53:02Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41202,
-      "title": "`ToolMessage(content=None)` is coerced to the literal string `\"None\"`",
-      "url": "https://github.com/langchain-ai/langchain/issues/41202",
+      "number": 41218,
+      "title": "`InMemoryVectorStore` stores and returns metadata by reference: out-of-store mutation silently rewrites stored documents",
+      "url": "https://github.com/langchain-ai/langchain/issues/41218",
       "author": "Iris070308",
-      "at": "2026-10-11T14:13:04Z"
+      "at": "2026-10-12T08:49:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99997,
-      "title": "fix(pages): accept unstable_runtimeJS and unstable_JsPreload in the route validator",
-      "url": "https://github.com/vercel/next.js/pull/99997",
-      "author": "franpeza",
-      "at": "2026-10-11T16:30:48Z"
+      "number": 100026,
+      "title": "fix: avoid unused route handler imports in generated validators",
+      "url": "https://github.com/vercel/next.js/pull/100026",
+      "author": "PRADHUMAN-SINGH-1",
+      "at": "2026-10-12T10:02:09Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 99994,
-      "title": "[Draft] Avoid flattening an extra string for large inline Flight scripts",
-      "url": "https://github.com/vercel/next.js/pull/99994",
-      "author": "gaearon",
-      "at": "2026-10-11T11:33:39Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51535,
-      "title": "Branching: git-triggered `branch-action` redeploys edge functions without custom secrets in their environment",
-      "url": "https://github.com/supabase/supabase/issues/51535",
-      "author": "jason-merrell",
-      "at": "2026-10-11T17:55:24Z"
+      "number": 100025,
+      "title": "dev: run long-lived Turbopack subscription loops in fresh async contexts",
+      "url": "https://github.com/vercel/next.js/pull/100025",
+      "author": "sokra",
+      "at": "2026-10-12T10:00:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51534,
-      "title": "docs(realtime): clarify private flag behavior in broadcast examples",
-      "url": "https://github.com/supabase/supabase/pull/51534",
-      "author": "thxjude",
-      "at": "2026-10-11T17:21:32Z"
+      "number": 51550,
+      "title": "Chore/tiny refactor org limit",
+      "url": "https://github.com/supabase/supabase/pull/51550",
+      "author": "joshenlim",
+      "at": "2026-10-12T08:46:34Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51546,
+      "title": "docs(troubleshooting): Update Migrating Auth Users guide",
+      "url": "https://github.com/supabase/supabase/pull/51546",
+      "author": "thewheat",
+      "at": "2026-10-12T06:35:59Z"
     }
   ]
 }
