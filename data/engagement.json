@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-10-12T21:56:59.580Z",
-  "count": 11,
+  "updatedAt": "2026-10-13T10:08:20.995Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6045,
-      "title": "fix: Emit one FileDownloadedEvent per attachment download",
-      "url": "https://github.com/browser-use/browser-use/pull/6045",
-      "author": "vishal-tambi",
-      "at": "2026-10-12T15:05:24Z"
+      "number": 6055,
+      "title": "skills(cloud): Free session max 15 min → 4 hours for all users",
+      "url": "https://github.com/browser-use/browser-use/pull/6055",
+      "author": "ninglinLiu",
+      "at": "2026-10-13T07:54:26Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6044,
-      "title": "fix(dom): treat snapshot stackingContexts as sparse RareBooleanData",
-      "url": "https://github.com/browser-use/browser-use/pull/6044",
-      "author": "vishal-tambi",
-      "at": "2026-10-12T14:15:37Z"
+      "number": 6054,
+      "title": "skills(qa): Free concurrent sessions 3 → 10",
+      "url": "https://github.com/browser-use/browser-use/pull/6054",
+      "author": "ninglinLiu",
+      "at": "2026-10-13T07:54:22Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4826,
-      "title": "chore(deps): consolidate updates and upgrade Effect and Bun",
-      "url": "https://github.com/ComposioHQ/composio/pull/4826",
-      "author": "jkomyno",
-      "at": "2026-10-12T20:28:55Z"
+      "number": 4831,
+      "title": "docs: make toolkit description web links clickable",
+      "url": "https://github.com/ComposioHQ/composio/pull/4831",
+      "author": "Sushmithamallesh",
+      "at": "2026-10-13T07:09:22Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2777,
-      "title": "fix(citation): guard empty quote/context and cap fuzzy-match budget at len//3",
-      "url": "https://github.com/567-labs/instructor/pull/2777",
-      "author": "Aftabbs",
-      "at": "2026-10-12T07:55:41Z"
+      "number": 2790,
+      "title": "build: raise litellm upper bound to <2",
+      "url": "https://github.com/567-labs/instructor/pull/2790",
+      "author": "misbahsy",
+      "at": "2026-10-13T09:09:49Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2776,
-      "title": "CitationMixin accepts any quote of five characters or fewer as a match",
-      "url": "https://github.com/567-labs/instructor/issues/2776",
-      "author": "chrikrah",
-      "at": "2026-10-12T07:07:46Z"
+      "kind": "pr",
+      "number": 2789,
+      "title": "docs(tutorials): stop teaching instructor.patch() as the core path",
+      "url": "https://github.com/567-labs/instructor/pull/2789",
+      "author": "ninglinLiu",
+      "at": "2026-10-13T07:55:22Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41227,
-      "title": "A `text-plain` content block with inline `text` is rejected by the Bedrock, Gemini and OpenAI converters",
-      "url": "https://github.com/langchain-ai/langchain/issues/41227",
-      "author": "awg66",
-      "at": "2026-10-12T19:59:41Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41214,
-      "title": "langchain-typesafe: NaN/Infinity in state or criteria crash invoke with uncaught ValueError from httpx2 internals",
-      "url": "https://github.com/langchain-ai/langchain/issues/41214",
-      "author": "kittimzhe",
-      "at": "2026-10-12T08:22:19Z"
+      "number": 41228,
+      "title": "ShellSession.execute: Command include \"exit N\" can lead to a TimeOut",
+      "url": "https://github.com/langchain-ai/langchain/issues/41228",
+      "author": "master1018",
+      "at": "2026-10-13T07:35:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100079,
-      "title": "Respect release-age policies in agent upgrades",
-      "url": "https://github.com/vercel/next.js/pull/100079",
-      "author": "devjiwonchoi",
-      "at": "2026-10-12T17:51:19Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100078,
-      "title": "Remove dead getParams matcher cache",
-      "url": "https://github.com/vercel/next.js/pull/100078",
+      "number": 100118,
+      "title": "chore: Prevent concurrent pack-for-isolated-tests",
+      "url": "https://github.com/vercel/next.js/pull/100118",
       "author": "mischnic",
-      "at": "2026-10-12T17:40:27Z"
+      "at": "2026-10-13T09:34:30Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100117,
+      "title": "Rename create-next-app.mdx to create-next-app.md",
+      "url": "https://github.com/vercel/next.js/pull/100117",
+      "author": "bin-julayyil",
+      "at": "2026-10-13T09:24:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51566,
-      "title": "docs(storage): add object versioning and lifecycle policies guides",
-      "url": "https://github.com/supabase/supabase/pull/51566",
-      "author": "TylerHillery",
-      "at": "2026-10-12T21:32:26Z"
+      "number": 51585,
+      "title": "Make project vercel integrations collapsible",
+      "url": "https://github.com/supabase/supabase/pull/51585",
+      "author": "joshenlim",
+      "at": "2026-10-13T09:57:29Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51565,
-      "title": "feat(kb): design overhaul",
-      "url": "https://github.com/supabase/supabase/pull/51565",
+      "number": 51584,
+      "title": "ci(kb): run the shadcn lint ratchet on kb",
+      "url": "https://github.com/supabase/supabase/pull/51584",
       "author": "antlio",
-      "at": "2026-10-12T20:23:01Z"
+      "at": "2026-10-13T09:53:09Z"
     }
   ]
 }
