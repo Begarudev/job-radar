@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-13T10:08:20.995Z",
-  "count": 10,
+  "updatedAt": "2026-10-13T20:01:20.919Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -29,88 +29,110 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4831,
-      "title": "docs: make toolkit description web links clickable",
-      "url": "https://github.com/ComposioHQ/composio/pull/4831",
-      "author": "Sushmithamallesh",
-      "at": "2026-10-13T07:09:22Z"
+      "number": 4849,
+      "title": "refactor(cli): split session context and name the tool executor's stages",
+      "url": "https://github.com/ComposioHQ/composio/pull/4849",
+      "author": "jkomyno",
+      "at": "2026-10-13T16:40:54Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4847,
+      "title": "Instagram INSTAGRAM_SEND_TEXT_MESSAGE always fails with 403 code 10 / subcode 2534022 (\"outside of allowed window\") for a Creator account, e",
+      "url": "https://github.com/ComposioHQ/composio/issues/4847",
+      "author": "kanishkgarg",
+      "at": "2026-10-13T15:10:46Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2790,
-      "title": "build: raise litellm upper bound to <2",
-      "url": "https://github.com/567-labs/instructor/pull/2790",
-      "author": "misbahsy",
-      "at": "2026-10-13T09:09:49Z"
+      "number": 2795,
+      "title": "fix(anthropic): support adaptive thinking and models rejecting forced tool_choice",
+      "url": "https://github.com/567-labs/instructor/pull/2795",
+      "author": "lx3133584",
+      "at": "2026-10-13T17:13:03Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2789,
-      "title": "docs(tutorials): stop teaching instructor.patch() as the core path",
-      "url": "https://github.com/567-labs/instructor/pull/2789",
+      "number": 2794,
+      "title": "docs(llms.txt): fix Maybe factory and result/error/message fields",
+      "url": "https://github.com/567-labs/instructor/pull/2794",
       "author": "ninglinLiu",
-      "at": "2026-10-13T07:55:22Z"
+      "at": "2026-10-13T17:11:23Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41228,
-      "title": "ShellSession.execute: Command include \"exit N\" can lead to a TimeOut",
-      "url": "https://github.com/langchain-ai/langchain/issues/41228",
-      "author": "master1018",
-      "at": "2026-10-13T07:35:28Z"
+      "number": 41235,
+      "title": "core: expose the prompt template to chat model and LLM callbacks so tracers can attach it to GenAI spans",
+      "url": "https://github.com/langchain-ai/langchain/issues/41235",
+      "author": "theshubhamgoel",
+      "at": "2026-10-13T16:45:28Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41232,
+      "title": "feat(langchain): apply input inserted into a running agent before its next model call",
+      "url": "https://github.com/langchain-ai/langchain/pull/41232",
+      "author": "thushanth-bengre-langchain",
+      "at": "2026-10-13T14:33:50Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100118,
-      "title": "chore: Prevent concurrent pack-for-isolated-tests",
-      "url": "https://github.com/vercel/next.js/pull/100118",
-      "author": "mischnic",
-      "at": "2026-10-13T09:34:30Z"
+      "number": 100142,
+      "title": "[Draft] Preserve native Flight chunks through SSR and hydration",
+      "url": "https://github.com/vercel/next.js/pull/100142",
+      "author": "gaearon",
+      "at": "2026-10-13T19:40:58Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100117,
-      "title": "Rename create-next-app.mdx to create-next-app.md",
-      "url": "https://github.com/vercel/next.js/pull/100117",
-      "author": "bin-julayyil",
-      "at": "2026-10-13T09:24:10Z"
+      "kind": "issue",
+      "number": 100139,
+      "title": "Turbopack scope hoisting evaluates a merged module twice, duplicating module singletons",
+      "url": "https://github.com/vercel/next.js/issues/100139",
+      "author": "JalilArfaoui",
+      "at": "2026-10-13T16:42:30Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51585,
-      "title": "Make project vercel integrations collapsible",
-      "url": "https://github.com/supabase/supabase/pull/51585",
-      "author": "joshenlim",
-      "at": "2026-10-13T09:57:29Z"
+      "number": 51619,
+      "title": "chore: Rotate env vars name correctly",
+      "url": "https://github.com/supabase/supabase/pull/51619",
+      "author": "jeremenichelli",
+      "at": "2026-10-13T19:59:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 51584,
-      "title": "ci(kb): run the shadcn lint ratchet on kb",
-      "url": "https://github.com/supabase/supabase/pull/51584",
-      "author": "antlio",
-      "at": "2026-10-13T09:53:09Z"
+      "kind": "issue",
+      "number": 51618,
+      "title": "Self-hosted: Envoy's 30s route timeout cuts off storage downloads and long Studio queries",
+      "url": "https://github.com/supabase/supabase/issues/51618",
+      "author": "mandar1045",
+      "at": "2026-10-13T19:55:13Z"
     }
   ]
 }
