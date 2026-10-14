@@ -1,138 +1,116 @@
 {
-  "updatedAt": "2026-10-13T20:01:20.919Z",
-  "count": 12,
+  "updatedAt": "2026-10-14T08:25:07.096Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6055,
-      "title": "skills(cloud): Free session max 15 min → 4 hours for all users",
-      "url": "https://github.com/browser-use/browser-use/pull/6055",
-      "author": "ninglinLiu",
-      "at": "2026-10-13T07:54:26Z"
+      "number": 6060,
+      "title": "feat: integrate backend factory with camoufox channel suppor",
+      "url": "https://github.com/browser-use/browser-use/pull/6060",
+      "author": "aurangozebsajib-glitch",
+      "at": "2026-10-14T07:51:58Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6054,
-      "title": "skills(qa): Free concurrent sessions 3 → 10",
-      "url": "https://github.com/browser-use/browser-use/pull/6054",
-      "author": "ninglinLiu",
-      "at": "2026-10-13T07:54:22Z"
+      "number": 6059,
+      "title": "fix(browser): keep browser-use-managed profiles off the OS keychain",
+      "url": "https://github.com/browser-use/browser-use/pull/6059",
+      "author": "FanouZeng-TT",
+      "at": "2026-10-14T06:56:25Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4849,
-      "title": "refactor(cli): split session context and name the tool executor's stages",
-      "url": "https://github.com/ComposioHQ/composio/pull/4849",
+      "number": 4860,
+      "title": "fix(cli): retry only API calls that are safe to repeat",
+      "url": "https://github.com/ComposioHQ/composio/pull/4860",
       "author": "jkomyno",
-      "at": "2026-10-13T16:40:54Z"
+      "at": "2026-10-14T08:20:19Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4847,
-      "title": "Instagram INSTAGRAM_SEND_TEXT_MESSAGE always fails with 403 code 10 / subcode 2534022 (\"outside of allowed window\") for a Creator account, e",
-      "url": "https://github.com/ComposioHQ/composio/issues/4847",
-      "author": "kanishkgarg",
-      "at": "2026-10-13T15:10:46Z"
+      "kind": "pr",
+      "number": 4857,
+      "title": "fix(cli): report the instant charge on execute",
+      "url": "https://github.com/ComposioHQ/composio/pull/4857",
+      "author": "KJ-11",
+      "at": "2026-10-13T23:48:51Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2795,
-      "title": "fix(anthropic): support adaptive thinking and models rejecting forced tool_choice",
-      "url": "https://github.com/567-labs/instructor/pull/2795",
-      "author": "lx3133584",
-      "at": "2026-10-13T17:13:03Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2794,
-      "title": "docs(llms.txt): fix Maybe factory and result/error/message fields",
-      "url": "https://github.com/567-labs/instructor/pull/2794",
-      "author": "ninglinLiu",
-      "at": "2026-10-13T17:11:23Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41235,
-      "title": "core: expose the prompt template to chat model and LLM callbacks so tracers can attach it to GenAI spans",
-      "url": "https://github.com/langchain-ai/langchain/issues/41235",
-      "author": "theshubhamgoel",
-      "at": "2026-10-13T16:45:28Z"
+      "number": 2800,
+      "title": "fix(usage): tolerate missing openai in usage helpers",
+      "url": "https://github.com/567-labs/instructor/pull/2800",
+      "author": "Li-john1021",
+      "at": "2026-10-14T05:31:03Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41232,
-      "title": "feat(langchain): apply input inserted into a running agent before its next model call",
-      "url": "https://github.com/langchain-ai/langchain/pull/41232",
-      "author": "thushanth-bengre-langchain",
-      "at": "2026-10-13T14:33:50Z"
+      "number": 41241,
+      "title": "fix(typesafe): reject empty `questions` in `TypeSafeClassifier`",
+      "url": "https://github.com/langchain-ai/langchain/pull/41241",
+      "author": "ChampionsZhang",
+      "at": "2026-10-14T08:00:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100142,
-      "title": "[Draft] Preserve native Flight chunks through SSR and hydration",
-      "url": "https://github.com/vercel/next.js/pull/100142",
-      "author": "gaearon",
-      "at": "2026-10-13T19:40:58Z"
+      "number": 100166,
+      "title": "fix(typedRoutes): handle prefixed dynamic segments in rewrite sources",
+      "url": "https://github.com/vercel/next.js/pull/100166",
+      "author": "i098",
+      "at": "2026-10-14T08:09:56Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 100139,
-      "title": "Turbopack scope hoisting evaluates a merged module twice, duplicating module singletons",
-      "url": "https://github.com/vercel/next.js/issues/100139",
-      "author": "JalilArfaoui",
-      "at": "2026-10-13T16:42:30Z"
+      "kind": "pr",
+      "number": 100165,
+      "title": "turbo-tasks-backend: net collectibles in AggregatedDataUpdate::from_task",
+      "url": "https://github.com/vercel/next.js/pull/100165",
+      "author": "sokra",
+      "at": "2026-10-14T08:07:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51619,
-      "title": "chore: Rotate env vars name correctly",
-      "url": "https://github.com/supabase/supabase/pull/51619",
-      "author": "jeremenichelli",
-      "at": "2026-10-13T19:59:20Z"
+      "number": 51650,
+      "title": "fix(config): resolve PostCSS plugin from shared config",
+      "url": "https://github.com/supabase/supabase/pull/51650",
+      "author": "vishal590",
+      "at": "2026-10-14T07:29:16Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51618,
-      "title": "Self-hosted: Envoy's 30s route timeout cuts off storage downloads and long Studio queries",
-      "url": "https://github.com/supabase/supabase/issues/51618",
-      "author": "mandar1045",
-      "at": "2026-10-13T19:55:13Z"
+      "kind": "pr",
+      "number": 51648,
+      "title": "feat(studio): add support satisfaction survey page",
+      "url": "https://github.com/supabase/supabase/pull/51648",
+      "author": "barcofourie",
+      "at": "2026-10-14T06:40:59Z"
     }
   ]
 }
