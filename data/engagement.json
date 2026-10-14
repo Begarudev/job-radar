@@ -1,50 +1,28 @@
 {
-  "updatedAt": "2026-10-14T08:25:07.096Z",
-  "count": 10,
+  "updatedAt": "2026-10-14T18:16:18.195Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6060,
-      "title": "feat: integrate backend factory with camoufox channel suppor",
-      "url": "https://github.com/browser-use/browser-use/pull/6060",
-      "author": "aurangozebsajib-glitch",
-      "at": "2026-10-14T07:51:58Z"
+      "number": 6067,
+      "title": "fix(downloads): respect BrowserProfile.accept_downloads",
+      "url": "https://github.com/browser-use/browser-use/pull/6067",
+      "author": "marcardenas",
+      "at": "2026-10-14T17:13:10Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6059,
-      "title": "fix(browser): keep browser-use-managed profiles off the OS keychain",
-      "url": "https://github.com/browser-use/browser-use/pull/6059",
-      "author": "FanouZeng-TT",
-      "at": "2026-10-14T06:56:25Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4860,
-      "title": "fix(cli): retry only API calls that are safe to repeat",
-      "url": "https://github.com/ComposioHQ/composio/pull/4860",
-      "author": "jkomyno",
-      "at": "2026-10-14T08:20:19Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4857,
-      "title": "fix(cli): report the instant charge on execute",
-      "url": "https://github.com/ComposioHQ/composio/pull/4857",
-      "author": "KJ-11",
-      "at": "2026-10-13T23:48:51Z"
+      "number": 6066,
+      "title": "fix(dom): raise on inverted Rect bounds instead of ignoring them",
+      "url": "https://github.com/browser-use/browser-use/pull/6066",
+      "author": "D41910",
+      "at": "2026-10-14T17:07:47Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,6 +40,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
+      "number": 41246,
+      "title": "feat(core,langchain,standard-tests): read `tool-call-delta` in stream consumers",
+      "url": "https://github.com/langchain-ai/langchain/pull/41246",
+      "author": "richardscarrott",
+      "at": "2026-10-14T15:24:44Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
       "number": 41241,
       "title": "fix(typesafe): reject empty `questions` in `TypeSafeClassifier`",
       "url": "https://github.com/langchain-ai/langchain/pull/41241",
@@ -73,44 +62,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100166,
-      "title": "fix(typedRoutes): handle prefixed dynamic segments in rewrite sources",
-      "url": "https://github.com/vercel/next.js/pull/100166",
-      "author": "i098",
-      "at": "2026-10-14T08:09:56Z"
+      "number": 100195,
+      "title": "fix(image): preserve SVG URL fragments",
+      "url": "https://github.com/vercel/next.js/pull/100195",
+      "author": "Stackforge-07",
+      "at": "2026-10-14T17:00:03Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100165,
-      "title": "turbo-tasks-backend: net collectibles in AggregatedDataUpdate::from_task",
-      "url": "https://github.com/vercel/next.js/pull/100165",
-      "author": "sokra",
-      "at": "2026-10-14T08:07:04Z"
+      "kind": "release",
+      "number": 0,
+      "title": "v16.4.1 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.1",
+      "author": "eps1lon",
+      "at": "2026-10-14T17:47:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51650,
-      "title": "fix(config): resolve PostCSS plugin from shared config",
-      "url": "https://github.com/supabase/supabase/pull/51650",
-      "author": "vishal590",
-      "at": "2026-10-14T07:29:16Z"
+      "number": 51755,
+      "title": "test(studio): raise timeout for NewScopedTokenSheet tests",
+      "url": "https://github.com/supabase/supabase/pull/51755",
+      "author": "charislam",
+      "at": "2026-10-14T17:54:38Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51648,
-      "title": "feat(studio): add support satisfaction survey page",
-      "url": "https://github.com/supabase/supabase/pull/51648",
-      "author": "barcofourie",
-      "at": "2026-10-14T06:40:59Z"
+      "number": 51754,
+      "title": "refactor(studio): migrate create, delete, and run notebook tools to tool contracts",
+      "url": "https://github.com/supabase/supabase/pull/51754",
+      "author": "charislam",
+      "at": "2026-10-14T16:50:45Z"
     }
   ]
 }
