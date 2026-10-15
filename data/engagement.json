@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-15T08:00:37.760Z",
-  "count": 12,
+  "updatedAt": "2026-10-15T17:57:59.413Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6075,
+      "title": "docs(examples): read ARC precheck before trying to reach checkout",
+      "url": "https://github.com/browser-use/browser-use/pull/6075",
+      "author": "abab7575",
+      "at": "2026-10-15T11:37:28Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,125 +25,103 @@
       "at": "2026-10-15T06:06:14Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6073,
-      "title": "fix: Route gemini-3.5-flash to the Gemini 3 thinking config (#6063)",
-      "url": "https://github.com/browser-use/browser-use/pull/6073",
-      "author": "vishal-tambi",
-      "at": "2026-10-15T06:03:10Z"
-    },
-    {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4874,
-      "title": "docs: add agent-readable discovery and freshness metadata",
-      "url": "https://github.com/ComposioHQ/composio/pull/4874",
-      "author": "olearycrew",
-      "at": "2026-10-15T05:26:13Z"
+      "number": 4897,
+      "title": "refactor(cli): collapse `generate` into the directory shape",
+      "url": "https://github.com/ComposioHQ/composio/pull/4897",
+      "author": "jkomyno",
+      "at": "2026-10-15T14:35:35Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2805,
-      "title": "fix(multimodal): keep tool-call turns without content as they came",
-      "url": "https://github.com/567-labs/instructor/pull/2805",
-      "author": "pacocartones",
-      "at": "2026-10-15T06:06:44Z"
+      "number": 2808,
+      "title": "fix(batch): validate RootModel objects and allow empty dict with defaults",
+      "url": "https://github.com/567-labs/instructor/pull/2808",
+      "author": "littfed",
+      "at": "2026-10-15T10:38:39Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2804,
-      "title": "fix(batch): write downloaded results as UTF-8",
-      "url": "https://github.com/567-labs/instructor/pull/2804",
-      "author": "SWAPI03",
-      "at": "2026-10-15T05:56:29Z"
+      "number": 2807,
+      "title": "fix(response_model): preserve underscore-prefixed keys in TypedDict models",
+      "url": "https://github.com/567-labs/instructor/pull/2807",
+      "author": "littfed",
+      "at": "2026-10-15T10:26:07Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41252,
-      "title": "Restore Codex sandbox CLI compatibility and scope native Windows shell support",
-      "url": "https://github.com/langchain-ai/langchain/issues/41252",
-      "author": "ChampionsZhang",
-      "at": "2026-10-15T06:20:40Z"
+      "number": 41259,
+      "title": "`trim_messages(strategy=\"last\", allow_partial=True)` can return messages that exceed `max_tokens`",
+      "url": "https://github.com/langchain-ai/langchain/issues/41259",
+      "author": "djedi-knight",
+      "at": "2026-10-15T17:10:20Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41250,
-      "title": "trim_messages double-counts request-level token costs and drops messages that fit",
-      "url": "https://github.com/langchain-ai/langchain/issues/41250",
-      "author": "ys0v9",
-      "at": "2026-10-15T02:29:47Z"
+      "kind": "pr",
+      "number": 41257,
+      "title": "feat(core): emit `tool-call-delta` for streamed tool-call args",
+      "url": "https://github.com/langchain-ai/langchain/pull/41257",
+      "author": "richardscarrott",
+      "at": "2026-10-15T14:30:32Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100228,
-      "title": "Don't externalize new URL() asset references to serverExternalPackages",
-      "url": "https://github.com/vercel/next.js/pull/100228",
-      "author": "HardMax71",
-      "at": "2026-10-15T07:38:55Z"
+      "number": 100261,
+      "title": "[lts-active] Backport additional documentation fixes since v16.4.0",
+      "url": "https://github.com/vercel/next.js/pull/100261",
+      "author": "aurorascharff",
+      "at": "2026-10-15T17:33:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 100227,
-      "title": "new URL() to a package in serverExternalPackages is treated as a require() (Turbopack warning, webpack build error)",
-      "url": "https://github.com/vercel/next.js/issues/100227",
-      "author": "HardMax71",
-      "at": "2026-10-15T07:38:52Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.4.1 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.1",
-      "author": "eps1lon",
-      "at": "2026-10-14T17:47:59Z"
+      "number": 100260,
+      "title": "Turbopack: client-reference manifests and server chunks grow on 16.4 (standalone output larger, server RSS up)",
+      "url": "https://github.com/vercel/next.js/issues/100260",
+      "author": "nextor2k",
+      "at": "2026-10-15T16:52:13Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51781,
-      "title": "Fix: improve accessibility of icon only buttons related to signin",
-      "url": "https://github.com/supabase/supabase/pull/51781",
-      "author": "ChloeGarciaMillerand",
-      "at": "2026-10-15T07:48:03Z"
+      "number": 51805,
+      "title": "chore(kb) - hide unused topics from the homepage and nav entry",
+      "url": "https://github.com/supabase/supabase/pull/51805",
+      "author": "kodster28",
+      "at": "2026-10-15T17:16:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51780,
-      "title": "fix(studio): load all org projects in UpdateRolesPanel",
-      "url": "https://github.com/supabase/supabase/pull/51780",
-      "author": "ivasilov",
-      "at": "2026-10-15T07:39:54Z"
+      "number": 51804,
+      "title": "don't merge -- chore(kb) - update visibility across properties",
+      "url": "https://github.com/supabase/supabase/pull/51804",
+      "author": "kodster28",
+      "at": "2026-10-15T16:50:18Z"
     }
   ]
 }
