@@ -1,72 +1,105 @@
 {
-  "updatedAt": "2026-10-14T18:16:18.195Z",
-  "count": 9,
+  "updatedAt": "2026-10-15T08:00:37.760Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6067,
-      "title": "fix(downloads): respect BrowserProfile.accept_downloads",
-      "url": "https://github.com/browser-use/browser-use/pull/6067",
-      "author": "marcardenas",
-      "at": "2026-10-14T17:13:10Z"
+      "number": 6074,
+      "title": "fix(filesystem): read external files as UTF-8",
+      "url": "https://github.com/browser-use/browser-use/pull/6074",
+      "author": "SWAPI03",
+      "at": "2026-10-15T06:06:14Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6066,
-      "title": "fix(dom): raise on inverted Rect bounds instead of ignoring them",
-      "url": "https://github.com/browser-use/browser-use/pull/6066",
-      "author": "D41910",
-      "at": "2026-10-14T17:07:47Z"
+      "number": 6073,
+      "title": "fix: Route gemini-3.5-flash to the Gemini 3 thinking config (#6063)",
+      "url": "https://github.com/browser-use/browser-use/pull/6073",
+      "author": "vishal-tambi",
+      "at": "2026-10-15T06:03:10Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4874,
+      "title": "docs: add agent-readable discovery and freshness metadata",
+      "url": "https://github.com/ComposioHQ/composio/pull/4874",
+      "author": "olearycrew",
+      "at": "2026-10-15T05:26:13Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2800,
-      "title": "fix(usage): tolerate missing openai in usage helpers",
-      "url": "https://github.com/567-labs/instructor/pull/2800",
-      "author": "Li-john1021",
-      "at": "2026-10-14T05:31:03Z"
+      "number": 2805,
+      "title": "fix(multimodal): keep tool-call turns without content as they came",
+      "url": "https://github.com/567-labs/instructor/pull/2805",
+      "author": "pacocartones",
+      "at": "2026-10-15T06:06:44Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2804,
+      "title": "fix(batch): write downloaded results as UTF-8",
+      "url": "https://github.com/567-labs/instructor/pull/2804",
+      "author": "SWAPI03",
+      "at": "2026-10-15T05:56:29Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41246,
-      "title": "feat(core,langchain,standard-tests): read `tool-call-delta` in stream consumers",
-      "url": "https://github.com/langchain-ai/langchain/pull/41246",
-      "author": "richardscarrott",
-      "at": "2026-10-14T15:24:44Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41241,
-      "title": "fix(typesafe): reject empty `questions` in `TypeSafeClassifier`",
-      "url": "https://github.com/langchain-ai/langchain/pull/41241",
+      "kind": "issue",
+      "number": 41252,
+      "title": "Restore Codex sandbox CLI compatibility and scope native Windows shell support",
+      "url": "https://github.com/langchain-ai/langchain/issues/41252",
       "author": "ChampionsZhang",
-      "at": "2026-10-14T08:00:47Z"
+      "at": "2026-10-15T06:20:40Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41250,
+      "title": "trim_messages double-counts request-level token costs and drops messages that fit",
+      "url": "https://github.com/langchain-ai/langchain/issues/41250",
+      "author": "ys0v9",
+      "at": "2026-10-15T02:29:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100195,
-      "title": "fix(image): preserve SVG URL fragments",
-      "url": "https://github.com/vercel/next.js/pull/100195",
-      "author": "Stackforge-07",
-      "at": "2026-10-14T17:00:03Z"
+      "number": 100228,
+      "title": "Don't externalize new URL() asset references to serverExternalPackages",
+      "url": "https://github.com/vercel/next.js/pull/100228",
+      "author": "HardMax71",
+      "at": "2026-10-15T07:38:55Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 100227,
+      "title": "new URL() to a package in serverExternalPackages is treated as a require() (Turbopack warning, webpack build error)",
+      "url": "https://github.com/vercel/next.js/issues/100227",
+      "author": "HardMax71",
+      "at": "2026-10-15T07:38:52Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -84,22 +117,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51755,
-      "title": "test(studio): raise timeout for NewScopedTokenSheet tests",
-      "url": "https://github.com/supabase/supabase/pull/51755",
-      "author": "charislam",
-      "at": "2026-10-14T17:54:38Z"
+      "number": 51781,
+      "title": "Fix: improve accessibility of icon only buttons related to signin",
+      "url": "https://github.com/supabase/supabase/pull/51781",
+      "author": "ChloeGarciaMillerand",
+      "at": "2026-10-15T07:48:03Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51754,
-      "title": "refactor(studio): migrate create, delete, and run notebook tools to tool contracts",
-      "url": "https://github.com/supabase/supabase/pull/51754",
-      "author": "charislam",
-      "at": "2026-10-14T16:50:45Z"
+      "number": 51780,
+      "title": "fix(studio): load all org projects in UpdateRolesPanel",
+      "url": "https://github.com/supabase/supabase/pull/51780",
+      "author": "ivasilov",
+      "at": "2026-10-15T07:39:54Z"
     }
   ]
 }
