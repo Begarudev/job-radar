@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-15T11:12:03.742Z",
-  "events": [],
+  "updatedAt": "2026-10-16T11:06:40.417Z",
+  "events": [
+    {
+      "type": "CreateEvent",
+      "repo": "Begarudev/t3code",
+      "summary": "created repo",
+      "at": "2026-10-14T16:50:35Z"
+    }
+  ],
   "currently": [
     "Building a public RAG benchmark (BM25 + ColBERT + RRF)",
     "Porting the Go limit-order-book matching engine to C++",
