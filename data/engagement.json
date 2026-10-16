@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-16T07:54:53.974Z",
-  "count": 12,
+  "updatedAt": "2026-10-16T17:47:00.133Z",
+  "count": 15,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6101,
-      "title": "CLOUD.md: browsers are billed per second, no minimum",
-      "url": "https://github.com/browser-use/browser-use/pull/6101",
-      "author": "gregpr07",
-      "at": "2026-10-16T06:10:07Z"
+      "number": 6106,
+      "title": "fix(agent): warn when evaluate removes disabled control restrictions",
+      "url": "https://github.com/browser-use/browser-use/pull/6106",
+      "author": "pei711",
+      "at": "2026-10-16T14:21:30Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6100,
-      "title": "docs: add Baizhi Cloud Browser temporary session example",
-      "url": "https://github.com/browser-use/browser-use/pull/6100",
-      "author": "ctcbyzx",
-      "at": "2026-10-16T05:38:35Z"
+      "number": 6104,
+      "title": "fix(agent): freeze step timeout while paused",
+      "url": "https://github.com/browser-use/browser-use/pull/6104",
+      "author": "IRONICBo",
+      "at": "2026-10-16T13:06:53Z"
     },
     {
       "founder": "Magnus Müller",
@@ -36,70 +36,81 @@
       "at": "2026-10-15T23:50:45Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 2811,
-      "title": "docs(core): clarify slashes in provider model names",
-      "url": "https://github.com/567-labs/instructor/pull/2811",
-      "author": "original4422",
-      "at": "2026-10-16T04:02:12Z"
+      "number": 4936,
+      "title": "fix(core): strip string formats strict mode rejects",
+      "url": "https://github.com/ComposioHQ/composio/pull/4936",
+      "author": "jkomyno",
+      "at": "2026-10-16T15:24:28Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2810,
-      "title": "docs(unions): repair malformed guide examples",
-      "url": "https://github.com/567-labs/instructor/pull/2810",
-      "author": "Lushiyao5",
-      "at": "2026-10-16T00:47:29Z"
+      "number": 2813,
+      "title": "perf(iterable): resume object scan across streamed chunks",
+      "url": "https://github.com/567-labs/instructor/pull/2813",
+      "author": "deadstrobe5",
+      "at": "2026-10-16T14:59:58Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 41262,
-      "title": "feat(langchain): resumable hosted OAuth provider in `langchain.mcp.oauth`",
-      "url": "https://github.com/langchain-ai/langchain/pull/41262",
-      "author": "mdrxy",
-      "at": "2026-10-15T20:00:37Z"
+      "number": 2812,
+      "title": "fix(patch): detect callable objects with async __call__ in is_async",
+      "url": "https://github.com/567-labs/instructor/pull/2812",
+      "author": "Aftabbs",
+      "at": "2026-10-16T08:08:53Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41259,
-      "title": "`trim_messages(strategy=\"last\", allow_partial=True)` can return messages that exceed `max_tokens`",
-      "url": "https://github.com/langchain-ai/langchain/issues/41259",
-      "author": "djedi-knight",
-      "at": "2026-10-15T17:10:20Z"
+      "number": 41276,
+      "title": "core: `batch`/`abatch` are typed `list[Output]` even with `return_exceptions=True`",
+      "url": "https://github.com/langchain-ai/langchain/issues/41276",
+      "author": "ramon-langchain",
+      "at": "2026-10-16T17:35:01Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41268,
+      "title": "feat: Remove EOL'd Python 3.10 from partner packages",
+      "url": "https://github.com/langchain-ai/langchain/pull/41268",
+      "author": "cbornet",
+      "at": "2026-10-16T14:38:05Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 100300,
-      "title": "next/image: SVG starting with <!--ftypavif--> is typed as AVIF and sent to sharp",
-      "url": "https://github.com/vercel/next.js/issues/100300",
-      "author": "lion9453",
-      "at": "2026-10-16T07:30:31Z"
+      "number": 100326,
+      "title": "Turbopack: after a persistent build-cache restore, webpack loaders run on the previous build's file content, and stateful loaders ship it",
+      "url": "https://github.com/vercel/next.js/issues/100326",
+      "author": "theravengroup",
+      "at": "2026-10-16T17:18:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100297,
-      "title": "Replace jest-worker with custom worker pool",
-      "url": "https://github.com/vercel/next.js/pull/100297",
+      "number": 100324,
+      "title": "docs: note that instrumentation-time spans don't join request traces",
+      "url": "https://github.com/vercel/next.js/pull/100324",
       "author": "sokra",
-      "at": "2026-10-16T07:22:26Z"
+      "at": "2026-10-16T17:05:25Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -117,22 +128,44 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51829,
-      "title": "Fix: ensure the scoped oauth apps new UI doesn't show if mocks are enabled",
-      "url": "https://github.com/supabase/supabase/pull/51829",
-      "author": "djhi",
-      "at": "2026-10-16T07:41:52Z"
+      "number": 51851,
+      "title": "feat(kb) - switch markdown generation to HTML source instead of .mdx files",
+      "url": "https://github.com/supabase/supabase/pull/51851",
+      "author": "kodster28",
+      "at": "2026-10-16T17:04:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51847,
+      "title": "docs(ai): update guide",
+      "url": "https://github.com/supabase/supabase/pull/51847",
+      "author": "raulb",
+      "at": "2026-10-16T15:38:37Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 51827,
-      "title": "Table Editor numeric filters round high-precision decimal values",
-      "url": "https://github.com/supabase/supabase/issues/51827",
-      "author": "Gaurav598",
-      "at": "2026-10-16T04:39:39Z"
+      "number": 4146,
+      "title": "Image.from_dockerfile: different build_args resolve to the same image",
+      "url": "https://github.com/modal-labs/modal-client/issues/4146",
+      "author": "wlamnorman",
+      "at": "2026-10-16T08:26:32Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "issue",
+      "number": 1632,
+      "title": "native_venv tier admits os/subprocess/ctypes imports, real host code execution from bundle source",
+      "url": "https://github.com/julep-ai/julep/issues/1632",
+      "author": "carfeii",
+      "at": "2026-10-16T15:02:57Z"
     }
   ]
 }
