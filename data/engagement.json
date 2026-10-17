@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-17T07:32:46.614Z",
+  "updatedAt": "2026-10-17T16:48:12.237Z",
   "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 6119,
+      "title": "Feature Request: Pre-execution guardrails and security middleware for subshell/CLI actions",
+      "url": "https://github.com/browser-use/browser-use/issues/6119",
+      "author": "Jayanthpulisheri",
+      "at": "2026-10-17T15:42:12Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,125 +25,114 @@
       "at": "2026-10-17T06:46:16Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 6117,
-      "title": "docs(skills): fix broken relative reference paths in skill guides",
-      "url": "https://github.com/browser-use/browser-use/pull/6117",
-      "author": "ml-lubich",
-      "at": "2026-10-17T06:42:01Z"
+      "number": 4950,
+      "title": "feat: prepare core, CLI and Python SDK for `@composio/client` rc.20",
+      "url": "https://github.com/ComposioHQ/composio/pull/4950",
+      "author": "jkomyno",
+      "at": "2026-10-17T15:38:13Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4946,
-      "title": "feat(cli): show account id, alias, and display name in connections list",
-      "url": "https://github.com/ComposioHQ/composio/pull/4946",
-      "author": "CloudCorpRecords",
-      "at": "2026-10-17T04:09:45Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4943,
-      "title": "fix(python): ship the LICENSE in package sdists and wheels",
-      "url": "https://github.com/ComposioHQ/composio/pull/4943",
-      "author": "SWAPI03",
-      "at": "2026-10-17T02:15:13Z"
+      "kind": "issue",
+      "number": 4949,
+      "title": "[Feature]: CLI/API: create and rename an organization with the user key (composio orgs create)",
+      "url": "https://github.com/ComposioHQ/composio/issues/4949",
+      "author": "immakermatty",
+      "at": "2026-10-17T13:53:06Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2814,
-      "title": "fix(core): classify GenAI JSON mode aliases",
-      "url": "https://github.com/567-labs/instructor/pull/2814",
-      "author": "AryanRG",
-      "at": "2026-10-16T18:10:55Z"
+      "number": 2824,
+      "title": "fix(batch): reject truncated token-limited responses in parse_results",
+      "url": "https://github.com/567-labs/instructor/pull/2824",
+      "author": "lx3133584",
+      "at": "2026-10-17T15:55:37Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2813,
-      "title": "perf(iterable): resume object scan across streamed chunks",
-      "url": "https://github.com/567-labs/instructor/pull/2813",
-      "author": "deadstrobe5",
-      "at": "2026-10-16T14:59:58Z"
+      "number": 2823,
+      "title": "fix(batch): atomically write batch requests to avoid partial files on failure",
+      "url": "https://github.com/567-labs/instructor/pull/2823",
+      "author": "lx3133584",
+      "at": "2026-10-17T15:37:20Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41281,
-      "title": "core: mustache dotted name inside a section falls back to an outer scope and renders unrelated data",
-      "url": "https://github.com/langchain-ai/langchain/issues/41281",
-      "author": "kakiuwang-ui",
-      "at": "2026-10-17T02:55:40Z"
+      "number": 41290,
+      "title": "core: filter_messages(exclude_tool_calls=[...]) does not remove invalid_tool_calls",
+      "url": "https://github.com/langchain-ai/langchain/issues/41290",
+      "author": "saivinaypotluri",
+      "at": "2026-10-17T15:16:28Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41280,
-      "title": "RouterRunnable batch ignores return_exceptions=True for unknown routes",
-      "url": "https://github.com/langchain-ai/langchain/issues/41280",
-      "author": "AryanRG",
-      "at": "2026-10-16T22:19:39Z"
+      "number": 41289,
+      "title": "core: count_tokens_approximately crashes on plain callables in tools= despite docstring",
+      "url": "https://github.com/langchain-ai/langchain/issues/41289",
+      "author": "saivinaypotluri",
+      "at": "2026-10-17T15:07:43Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100353,
+      "title": "fix: discard stale cross-request 'use cache' fills joined after updateTag",
+      "url": "https://github.com/vercel/next.js/pull/100353",
+      "author": "bunnysayzz",
+      "at": "2026-10-17T16:13:55Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100352,
+      "title": "docs: clarify reserved metadata file collisions in prerender error",
+      "url": "https://github.com/vercel/next.js/pull/100352",
+      "author": "Aditya-kumar-yadav",
+      "at": "2026-10-17T11:10:37Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51859,
-      "title": "fix(www) - add in canonical URLs for product, blogs, partners, pricing pages",
-      "url": "https://github.com/supabase/supabase/pull/51859",
-      "author": "kodster28",
-      "at": "2026-10-16T21:16:01Z"
+      "number": 51865,
+      "title": "docs(nuxt): use user.value.sub instead of user.value.id in the Nuxt tutorial",
+      "url": "https://github.com/supabase/supabase/pull/51865",
+      "author": "zeeshanqadir568",
+      "at": "2026-10-17T16:19:05Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51858,
-      "title": "docs: add cross-links to related guides (part 3)",
-      "url": "https://github.com/supabase/supabase/pull/51858",
-      "author": "kodster28",
-      "at": "2026-10-16T20:43:53Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4146,
-      "title": "Image.from_dockerfile: different build_args resolve to the same image",
-      "url": "https://github.com/modal-labs/modal-client/issues/4146",
-      "author": "wlamnorman",
-      "at": "2026-10-16T08:26:32Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1632,
-      "title": "native_venv tier admits os/subprocess/ctypes imports, real host code execution from bundle source",
-      "url": "https://github.com/julep-ai/julep/issues/1632",
-      "author": "carfeii",
-      "at": "2026-10-16T15:02:57Z"
+      "number": 51864,
+      "title": "docs(ai): fix Mixpeek video search guide calling non-existent supabase-py methods",
+      "url": "https://github.com/supabase/supabase/pull/51864",
+      "author": "zeeshanqadir568",
+      "at": "2026-10-17T16:19:02Z"
     }
   ]
 }
