@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-10-16T17:47:00.133Z",
-  "count": 15,
+  "updatedAt": "2026-10-17T07:32:46.614Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6106,
-      "title": "fix(agent): warn when evaluate removes disabled control restrictions",
-      "url": "https://github.com/browser-use/browser-use/pull/6106",
-      "author": "pei711",
-      "at": "2026-10-16T14:21:30Z"
+      "number": 6118,
+      "title": "fix(dom): validate Rect bounds and skip non-positive dimensions in paint order",
+      "url": "https://github.com/browser-use/browser-use/pull/6118",
+      "author": "ml-lubich",
+      "at": "2026-10-17T06:46:16Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6104,
-      "title": "fix(agent): freeze step timeout while paused",
-      "url": "https://github.com/browser-use/browser-use/pull/6104",
-      "author": "IRONICBo",
-      "at": "2026-10-16T13:06:53Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.13: OpenAI browser tools and Cloud fixes released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.13",
-      "author": "MagMueller",
-      "at": "2026-10-15T23:50:45Z"
+      "number": 6117,
+      "title": "docs(skills): fix broken relative reference paths in skill guides",
+      "url": "https://github.com/browser-use/browser-use/pull/6117",
+      "author": "ml-lubich",
+      "at": "2026-10-17T06:42:01Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4936,
-      "title": "fix(core): strip string formats strict mode rejects",
-      "url": "https://github.com/ComposioHQ/composio/pull/4936",
-      "author": "jkomyno",
-      "at": "2026-10-16T15:24:28Z"
+      "number": 4946,
+      "title": "feat(cli): show account id, alias, and display name in connections list",
+      "url": "https://github.com/ComposioHQ/composio/pull/4946",
+      "author": "CloudCorpRecords",
+      "at": "2026-10-17T04:09:45Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4943,
+      "title": "fix(python): ship the LICENSE in package sdists and wheels",
+      "url": "https://github.com/ComposioHQ/composio/pull/4943",
+      "author": "SWAPI03",
+      "at": "2026-10-17T02:15:13Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2814,
+      "title": "fix(core): classify GenAI JSON mode aliases",
+      "url": "https://github.com/567-labs/instructor/pull/2814",
+      "author": "AryanRG",
+      "at": "2026-10-16T18:10:55Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,92 +69,48 @@
       "at": "2026-10-16T14:59:58Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2812,
-      "title": "fix(patch): detect callable objects with async __call__ in is_async",
-      "url": "https://github.com/567-labs/instructor/pull/2812",
-      "author": "Aftabbs",
-      "at": "2026-10-16T08:08:53Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41281,
+      "title": "core: mustache dotted name inside a section falls back to an outer scope and renders unrelated data",
+      "url": "https://github.com/langchain-ai/langchain/issues/41281",
+      "author": "kakiuwang-ui",
+      "at": "2026-10-17T02:55:40Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41276,
-      "title": "core: `batch`/`abatch` are typed `list[Output]` even with `return_exceptions=True`",
-      "url": "https://github.com/langchain-ai/langchain/issues/41276",
-      "author": "ramon-langchain",
-      "at": "2026-10-16T17:35:01Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41268,
-      "title": "feat: Remove EOL'd Python 3.10 from partner packages",
-      "url": "https://github.com/langchain-ai/langchain/pull/41268",
-      "author": "cbornet",
-      "at": "2026-10-16T14:38:05Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 100326,
-      "title": "Turbopack: after a persistent build-cache restore, webpack loaders run on the previous build's file content, and stateful loaders ship it",
-      "url": "https://github.com/vercel/next.js/issues/100326",
-      "author": "theravengroup",
-      "at": "2026-10-16T17:18:18Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100324,
-      "title": "docs: note that instrumentation-time spans don't join request traces",
-      "url": "https://github.com/vercel/next.js/pull/100324",
-      "author": "sokra",
-      "at": "2026-10-16T17:05:25Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.4.2 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.2",
-      "author": "lukesandberg",
-      "at": "2026-10-15T20:44:37Z"
+      "number": 41280,
+      "title": "RouterRunnable batch ignores return_exceptions=True for unknown routes",
+      "url": "https://github.com/langchain-ai/langchain/issues/41280",
+      "author": "AryanRG",
+      "at": "2026-10-16T22:19:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51851,
-      "title": "feat(kb) - switch markdown generation to HTML source instead of .mdx files",
-      "url": "https://github.com/supabase/supabase/pull/51851",
+      "number": 51859,
+      "title": "fix(www) - add in canonical URLs for product, blogs, partners, pricing pages",
+      "url": "https://github.com/supabase/supabase/pull/51859",
       "author": "kodster28",
-      "at": "2026-10-16T17:04:40Z"
+      "at": "2026-10-16T21:16:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51847,
-      "title": "docs(ai): update guide",
-      "url": "https://github.com/supabase/supabase/pull/51847",
-      "author": "raulb",
-      "at": "2026-10-16T15:38:37Z"
+      "number": 51858,
+      "title": "docs: add cross-links to related guides (part 3)",
+      "url": "https://github.com/supabase/supabase/pull/51858",
+      "author": "kodster28",
+      "at": "2026-10-16T20:43:53Z"
     },
     {
       "founder": "Erik Bernhardsson",
