@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-10-18T07:47:59.291Z",
-  "count": 11,
+  "updatedAt": "2026-10-18T17:02:27.858Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6128,
-      "title": "browser-use skill: Browser Use Cloud connect code + stale plan text",
-      "url": "https://github.com/browser-use/browser-use/pull/6128",
-      "author": "gregpr07",
-      "at": "2026-10-17T19:53:52Z"
+      "number": 6130,
+      "title": "docs: add Simplified Chinese README translation (README_zh.md)",
+      "url": "https://github.com/browser-use/browser-use/pull/6130",
+      "author": "WanderLandWalker",
+      "at": "2026-10-18T16:35:42Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6127,
-      "title": "Beta agent: captcha cloud hint only for non-cloud browsers",
-      "url": "https://github.com/browser-use/browser-use/pull/6127",
-      "author": "gregpr07",
-      "at": "2026-10-17T19:50:20Z"
+      "number": 6129,
+      "title": "test: avoid module reload state leakage",
+      "url": "https://github.com/browser-use/browser-use/pull/6129",
+      "author": "daleselaji-dev",
+      "at": "2026-10-18T12:36:45Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4956,
+      "title": "docs: add Simplified Chinese README translation (README_zh.md)",
+      "url": "https://github.com/ComposioHQ/composio/pull/4956",
+      "author": "WanderLandWalker",
+      "at": "2026-10-18T16:13:10Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -34,17 +45,6 @@
       "url": "https://github.com/ComposioHQ/composio/pull/4954",
       "author": "Abhishek-B-R",
       "at": "2026-10-18T07:06:40Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4953,
-      "title": "[Feature / Test]: Synthetic Regression Suite for Ambiguous Retries and In-flight Token Expiration",
-      "url": "https://github.com/ComposioHQ/composio/issues/4953",
-      "author": "yunusarda-sudo",
-      "at": "2026-10-17T17:47:36Z"
     },
     {
       "founder": "Jason Liu",
@@ -91,26 +91,48 @@
       "at": "2026-10-17T15:07:43Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100368,
+      "title": "feat: allow configuring the TypeScript compiler package",
+      "url": "https://github.com/vercel/next.js/pull/100368",
+      "author": "jakeleventhal",
+      "at": "2026-10-18T12:25:10Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 51877,
-      "title": "Unauthenticated Remote SQL and Migration Execution via MCP Endpoint",
-      "url": "https://github.com/supabase/supabase/issues/51877",
-      "author": "suryaprakash0010",
-      "at": "2026-10-18T06:15:07Z"
+      "number": 100367,
+      "title": "`next dev` on Node 24: every server reload that goes through `deleteCache` keeps the previous compilation alive (Node's private module-paren",
+      "url": "https://github.com/vercel/next.js/issues/100367",
+      "author": "naderramez",
+      "at": "2026-10-18T09:19:21Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 51876,
-      "title": "Unauthenticated Disclosure of Project JWT Secret and Superuser Service Role Key",
-      "url": "https://github.com/supabase/supabase/issues/51876",
-      "author": "suryaprakash0010",
-      "at": "2026-10-18T06:13:58Z"
+      "number": 51890,
+      "title": "### Introducing the Explorer!",
+      "url": "https://github.com/supabase/supabase/issues/51890",
+      "author": "mdaran0195140-design",
+      "at": "2026-10-18T15:53:58Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51888,
+      "title": "docs: add self-hosted backup guide to third-party guides",
+      "url": "https://github.com/supabase/supabase/pull/51888",
+      "author": "supertj",
+      "at": "2026-10-18T14:36:47Z"
     },
     {
       "founder": "Diwank Tomer",
