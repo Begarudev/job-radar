@@ -1,149 +1,127 @@
 {
-  "updatedAt": "2026-10-18T17:02:27.858Z",
-  "count": 13,
+  "updatedAt": "2026-10-19T08:31:02.127Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6130,
-      "title": "docs: add Simplified Chinese README translation (README_zh.md)",
-      "url": "https://github.com/browser-use/browser-use/pull/6130",
-      "author": "WanderLandWalker",
-      "at": "2026-10-18T16:35:42Z"
+      "number": 6134,
+      "title": "fix: flash prompt lists switch_tab, the registered action is switch",
+      "url": "https://github.com/browser-use/browser-use/pull/6134",
+      "author": "padobrik",
+      "at": "2026-10-19T04:09:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6129,
-      "title": "test: avoid module reload state leakage",
-      "url": "https://github.com/browser-use/browser-use/pull/6129",
-      "author": "daleselaji-dev",
-      "at": "2026-10-18T12:36:45Z"
+      "number": 6132,
+      "title": "fix(llm): keep Field descriptions when flattening $ref in optimized schemas",
+      "url": "https://github.com/browser-use/browser-use/pull/6132",
+      "author": "surlymochan",
+      "at": "2026-10-19T01:45:43Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 4960,
+      "title": "`file_to_upload` broken: server SSRF filter blocks Composio's own staging host",
+      "url": "https://github.com/ComposioHQ/composio/issues/4960",
+      "author": "SergeySorokin",
+      "at": "2026-10-19T08:12:53Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4956,
-      "title": "docs: add Simplified Chinese README translation (README_zh.md)",
-      "url": "https://github.com/ComposioHQ/composio/pull/4956",
-      "author": "WanderLandWalker",
-      "at": "2026-10-18T16:13:10Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 4954,
-      "title": "fix(python): match the trigger toolkit filter for underscore toolkit slugs",
-      "url": "https://github.com/ComposioHQ/composio/pull/4954",
-      "author": "Abhishek-B-R",
-      "at": "2026-10-18T07:06:40Z"
+      "number": 4958,
+      "title": "feat(core): add session hooks to TS and Python sessions",
+      "url": "https://github.com/ComposioHQ/composio/pull/4958",
+      "author": "mukund-composio",
+      "at": "2026-10-19T08:02:54Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2827,
-      "title": "fix(response_model): preserve underscore-prefixed keys in TypedDict (#2756)",
-      "url": "https://github.com/567-labs/instructor/pull/2827",
-      "author": "agustin18",
-      "at": "2026-10-18T02:59:12Z"
+      "number": 2829,
+      "title": "fix(batch): preserve provider error codes and messages during OpenAI batch parsing",
+      "url": "https://github.com/567-labs/instructor/pull/2829",
+      "author": "ace-ify",
+      "at": "2026-10-18T18:11:57Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2826,
-      "title": "fix(patch): route async callable objects through the asynchronous parser (#2740)",
-      "url": "https://github.com/567-labs/instructor/pull/2826",
-      "author": "agustin18",
-      "at": "2026-10-18T02:45:19Z"
+      "number": 2828,
+      "title": "fix(core): preserve underscore-prefixed keys in TypedDict response models",
+      "url": "https://github.com/567-labs/instructor/pull/2828",
+      "author": "ace-ify",
+      "at": "2026-10-18T18:07:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41290,
-      "title": "core: filter_messages(exclude_tool_calls=[...]) does not remove invalid_tool_calls",
-      "url": "https://github.com/langchain-ai/langchain/issues/41290",
-      "author": "saivinaypotluri",
-      "at": "2026-10-17T15:16:28Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41289,
-      "title": "core: count_tokens_approximately crashes on plain callables in tools= despite docstring",
-      "url": "https://github.com/langchain-ai/langchain/issues/41289",
-      "author": "saivinaypotluri",
-      "at": "2026-10-17T15:07:43Z"
+      "number": 41294,
+      "title": "[text-splitters] Dead code in HTMLSemanticPreservingSplitter._process_links() + markdown links broken at chunk boundaries",
+      "url": "https://github.com/langchain-ai/langchain/issues/41294",
+      "author": "Inkesk-Dozing",
+      "at": "2026-10-18T17:02:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100368,
-      "title": "feat: allow configuring the TypeScript compiler package",
-      "url": "https://github.com/vercel/next.js/pull/100368",
-      "author": "jakeleventhal",
-      "at": "2026-10-18T12:25:10Z"
+      "number": 100383,
+      "title": "test: Pin react-virtualized",
+      "url": "https://github.com/vercel/next.js/pull/100383",
+      "author": "mischnic",
+      "at": "2026-10-19T08:18:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 100367,
-      "title": "`next dev` on Node 24: every server reload that goes through `deleteCache` keeps the previous compilation alive (Node's private module-paren",
-      "url": "https://github.com/vercel/next.js/issues/100367",
-      "author": "naderramez",
-      "at": "2026-10-18T09:19:21Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 51890,
-      "title": "### Introducing the Explorer!",
-      "url": "https://github.com/supabase/supabase/issues/51890",
-      "author": "mdaran0195140-design",
-      "at": "2026-10-18T15:53:58Z"
+      "kind": "pr",
+      "number": 100382,
+      "title": "test: extend webpack timeout for dynamic-params-retained-cache",
+      "url": "https://github.com/vercel/next.js/pull/100382",
+      "author": "sokra",
+      "at": "2026-10-19T07:45:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51888,
-      "title": "docs: add self-hosted backup guide to third-party guides",
-      "url": "https://github.com/supabase/supabase/pull/51888",
-      "author": "supertj",
-      "at": "2026-10-18T14:36:47Z"
+      "number": 51913,
+      "title": "fix(warehouse): disallow warehouse installation on orioledb",
+      "url": "https://github.com/supabase/supabase/pull/51913",
+      "author": "bnjjj",
+      "at": "2026-10-19T08:30:36Z"
     },
     {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1633,
-      "title": "Langfuse v4 cutover (Nov 16): langfuse_link.py uses removed endpoints",
-      "url": "https://github.com/julep-ai/julep/issues/1633",
-      "author": "volodymyrshk",
-      "at": "2026-10-18T00:51:04Z"
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 51912,
+      "title": "feat(www): add ChatGPT app-building landing page",
+      "url": "https://github.com/supabase/supabase/pull/51912",
+      "author": "4L3k51",
+      "at": "2026-10-19T08:17:54Z"
     }
   ]
 }
