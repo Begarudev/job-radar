@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T08:31:02.127Z",
+  "updatedAt": "2026-10-19T19:36:36.535Z",
   "count": 11,
   "signals": [
     {
@@ -7,121 +7,121 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6134,
-      "title": "fix: flash prompt lists switch_tab, the registered action is switch",
-      "url": "https://github.com/browser-use/browser-use/pull/6134",
-      "author": "padobrik",
-      "at": "2026-10-19T04:09:00Z"
+      "number": 6139,
+      "title": "fix(cloud): include server detail in 403 error message",
+      "url": "https://github.com/browser-use/browser-use/pull/6139",
+      "author": "heyncth",
+      "at": "2026-10-19T16:15:41Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6132,
-      "title": "fix(llm): keep Field descriptions when flattening $ref in optimized schemas",
-      "url": "https://github.com/browser-use/browser-use/pull/6132",
-      "author": "surlymochan",
-      "at": "2026-10-19T01:45:43Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 4960,
-      "title": "`file_to_upload` broken: server SSRF filter blocks Composio's own staging host",
-      "url": "https://github.com/ComposioHQ/composio/issues/4960",
-      "author": "SergeySorokin",
-      "at": "2026-10-19T08:12:53Z"
+      "number": 6138,
+      "title": "Move dev dependencies to dependency-groups.dev",
+      "url": "https://github.com/browser-use/browser-use/pull/6138",
+      "author": "wannT-1",
+      "at": "2026-10-19T12:23:29Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4958,
-      "title": "feat(core): add session hooks to TS and Python sessions",
-      "url": "https://github.com/ComposioHQ/composio/pull/4958",
-      "author": "mukund-composio",
-      "at": "2026-10-19T08:02:54Z"
+      "number": 4976,
+      "title": "refactor(cli): move `upgrade` into the directory shape",
+      "url": "https://github.com/ComposioHQ/composio/pull/4976",
+      "author": "jkomyno",
+      "at": "2026-10-19T18:06:54Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 4975,
+      "title": "refactor(cli): move `signup` into the directory shape",
+      "url": "https://github.com/ComposioHQ/composio/pull/4975",
+      "author": "jkomyno",
+      "at": "2026-10-19T18:06:48Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2829,
-      "title": "fix(batch): preserve provider error codes and messages during OpenAI batch parsing",
-      "url": "https://github.com/567-labs/instructor/pull/2829",
-      "author": "ace-ify",
-      "at": "2026-10-18T18:11:57Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2828,
-      "title": "fix(core): preserve underscore-prefixed keys in TypedDict response models",
-      "url": "https://github.com/567-labs/instructor/pull/2828",
-      "author": "ace-ify",
-      "at": "2026-10-18T18:07:51Z"
+      "number": 2641,
+      "title": "fix(batch): require defaulted fields in OpenAI strict schemas",
+      "url": "https://github.com/567-labs/instructor/pull/2641",
+      "author": "skulitom",
+      "at": "2026-09-12T15:58:08Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41294,
-      "title": "[text-splitters] Dead code in HTMLSemanticPreservingSplitter._process_links() + markdown links broken at chunk boundaries",
-      "url": "https://github.com/langchain-ai/langchain/issues/41294",
-      "author": "Inkesk-Dozing",
-      "at": "2026-10-18T17:02:52Z"
+      "number": 41307,
+      "title": "ModelCallLimitMiddleware: a tool-limit end jump skips accounting and defeats the thread limit",
+      "url": "https://github.com/langchain-ai/langchain/issues/41307",
+      "author": "W2000ds",
+      "at": "2026-10-19T18:09:52Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41306,
+      "title": "RunnableWithMessageHistory.batch/abatch silently drops input messages when items share a session",
+      "url": "https://github.com/langchain-ai/langchain/issues/41306",
+      "author": "W2000ds",
+      "at": "2026-10-19T18:01:57Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100383,
-      "title": "test: Pin react-virtualized",
-      "url": "https://github.com/vercel/next.js/pull/100383",
-      "author": "mischnic",
-      "at": "2026-10-19T08:18:28Z"
+      "number": 100416,
+      "title": "Reuse chunk loads within a render",
+      "url": "https://github.com/vercel/next.js/pull/100416",
+      "author": "tobiaslins",
+      "at": "2026-10-19T18:38:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100382,
-      "title": "test: extend webpack timeout for dynamic-params-retained-cache",
-      "url": "https://github.com/vercel/next.js/pull/100382",
-      "author": "sokra",
-      "at": "2026-10-19T07:45:41Z"
+      "number": 100413,
+      "title": "fix(next/dynamic): share in-flight preload promise across concurrent SSR requests",
+      "url": "https://github.com/vercel/next.js/pull/100413",
+      "author": "wasim-builds",
+      "at": "2026-10-19T17:48:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51913,
-      "title": "fix(warehouse): disallow warehouse installation on orioledb",
-      "url": "https://github.com/supabase/supabase/pull/51913",
-      "author": "bnjjj",
-      "at": "2026-10-19T08:30:36Z"
+      "number": 51958,
+      "title": "docs(self-hosted): explain Functions memory budgets and idle cleanup",
+      "url": "https://github.com/supabase/supabase/pull/51958",
+      "author": "luizfelmach",
+      "at": "2026-10-19T19:06:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51912,
-      "title": "feat(www): add ChatGPT app-building landing page",
-      "url": "https://github.com/supabase/supabase/pull/51912",
-      "author": "4L3k51",
-      "at": "2026-10-19T08:17:54Z"
+      "number": 51957,
+      "title": "feat(self-hosted): reclaim idle function workers under memory pressure",
+      "url": "https://github.com/supabase/supabase/pull/51957",
+      "author": "luizfelmach",
+      "at": "2026-10-19T18:59:23Z"
     }
   ]
 }
