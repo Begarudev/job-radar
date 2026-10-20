@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T19:36:36.535Z",
+  "updatedAt": "2026-10-20T08:12:58.120Z",
   "count": 11,
   "signals": [
     {
@@ -7,121 +7,121 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6139,
-      "title": "fix(cloud): include server detail in 403 error message",
-      "url": "https://github.com/browser-use/browser-use/pull/6139",
-      "author": "heyncth",
-      "at": "2026-10-19T16:15:41Z"
+      "number": 6142,
+      "title": "fix(dom): make markdown chunk char offsets describe the chunk content",
+      "url": "https://github.com/browser-use/browser-use/pull/6142",
+      "author": "simpleqt",
+      "at": "2026-10-20T07:55:22Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6138,
-      "title": "Move dev dependencies to dependency-groups.dev",
-      "url": "https://github.com/browser-use/browser-use/pull/6138",
-      "author": "wannT-1",
-      "at": "2026-10-19T12:23:29Z"
+      "number": 6141,
+      "title": "Add MiniMax chat provider with M3.1 Flash defaults",
+      "url": "https://github.com/browser-use/browser-use/pull/6141",
+      "author": "octo-patch",
+      "at": "2026-10-20T07:33:02Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4976,
-      "title": "refactor(cli): move `upgrade` into the directory shape",
-      "url": "https://github.com/ComposioHQ/composio/pull/4976",
-      "author": "jkomyno",
-      "at": "2026-10-19T18:06:54Z"
+      "number": 4982,
+      "title": "fix(cli): forward user ID when creating development triggers",
+      "url": "https://github.com/ComposioHQ/composio/pull/4982",
+      "author": "shenmuegit",
+      "at": "2026-10-20T05:56:12Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 4975,
-      "title": "refactor(cli): move `signup` into the directory shape",
-      "url": "https://github.com/ComposioHQ/composio/pull/4975",
-      "author": "jkomyno",
-      "at": "2026-10-19T18:06:48Z"
+      "number": 4981,
+      "title": "fix(cli): preserve project test user with directory env config",
+      "url": "https://github.com/ComposioHQ/composio/pull/4981",
+      "author": "shenmuegit",
+      "at": "2026-10-20T05:24:02Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2641,
-      "title": "fix(batch): require defaulted fields in OpenAI strict schemas",
-      "url": "https://github.com/567-labs/instructor/pull/2641",
-      "author": "skulitom",
-      "at": "2026-09-12T15:58:08Z"
+      "number": 2832,
+      "title": "fix(release): preserve validation details and reject empty citations",
+      "url": "https://github.com/567-labs/instructor/pull/2832",
+      "author": "jxnl",
+      "at": "2026-10-20T04:33:42Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2831,
+      "title": "fix(cache): recognize response envelope by shape so legacy entries with a `model` field restore correctly",
+      "url": "https://github.com/567-labs/instructor/pull/2831",
+      "author": "Nacl-HCl",
+      "at": "2026-10-20T04:16:51Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41307,
-      "title": "ModelCallLimitMiddleware: a tool-limit end jump skips accounting and defeats the thread limit",
-      "url": "https://github.com/langchain-ai/langchain/issues/41307",
-      "author": "W2000ds",
-      "at": "2026-10-19T18:09:52Z"
+      "number": 41323,
+      "title": "SummarizationMiddleware deletes conversation history when the summary model returns an empty reply",
+      "url": "https://github.com/langchain-ai/langchain/issues/41323",
+      "author": "Jingyi-A-Chen",
+      "at": "2026-10-20T06:41:46Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41306,
-      "title": "RunnableWithMessageHistory.batch/abatch silently drops input messages when items share a session",
-      "url": "https://github.com/langchain-ai/langchain/issues/41306",
+      "number": 41322,
+      "title": "[langchain-openai] Chat Completions URL citation annotations are lost in ChatOpenAI.invoke",
+      "url": "https://github.com/langchain-ai/langchain/issues/41322",
       "author": "W2000ds",
-      "at": "2026-10-19T18:01:57Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100416,
-      "title": "Reuse chunk loads within a render",
-      "url": "https://github.com/vercel/next.js/pull/100416",
-      "author": "tobiaslins",
-      "at": "2026-10-19T18:38:20Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100413,
-      "title": "fix(next/dynamic): share in-flight preload promise across concurrent SSR requests",
-      "url": "https://github.com/vercel/next.js/pull/100413",
-      "author": "wasim-builds",
-      "at": "2026-10-19T17:48:20Z"
+      "at": "2026-10-20T05:58:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51958,
-      "title": "docs(self-hosted): explain Functions memory budgets and idle cleanup",
-      "url": "https://github.com/supabase/supabase/pull/51958",
-      "author": "luizfelmach",
-      "at": "2026-10-19T19:06:18Z"
+      "number": 51991,
+      "title": "Add Rory Hunter to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/51991",
+      "author": "pugnascotia",
+      "at": "2026-10-20T07:16:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 51957,
-      "title": "feat(self-hosted): reclaim idle function workers under memory pressure",
-      "url": "https://github.com/supabase/supabase/pull/51957",
-      "author": "luizfelmach",
-      "at": "2026-10-19T18:59:23Z"
+      "number": 51990,
+      "title": "docs: call Edge Functions from Postgres with the secret key",
+      "url": "https://github.com/supabase/supabase/pull/51990",
+      "author": "alexisintech",
+      "at": "2026-10-20T06:13:43Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4146,
+      "title": "Image.from_dockerfile: different build_args resolve to the same image",
+      "url": "https://github.com/modal-labs/modal-client/issues/4146",
+      "author": "wlamnorman",
+      "at": "2026-10-16T08:26:32Z"
     }
   ]
 }
