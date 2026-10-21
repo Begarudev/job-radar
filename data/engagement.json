@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-10-21T08:17:50.381Z",
+  "updatedAt": "2026-10-21T18:20:09.880Z",
   "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6166,
-      "title": "docs(skills): fix broken relative reference paths",
-      "url": "https://github.com/browser-use/browser-use/pull/6166",
-      "author": "TINGyu123644",
-      "at": "2026-10-21T07:54:53Z"
+      "kind": "issue",
+      "number": 6173,
+      "title": "Bug: `Element.click` reports the mouse-release error and hides the press failure when both fail",
+      "url": "https://github.com/browser-use/browser-use/issues/6173",
+      "author": "yifanxiong272",
+      "at": "2026-10-21T18:07:09Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6165,
-      "title": "fix: track session activity for every browser_* tool in the dispatch layer",
-      "url": "https://github.com/browser-use/browser-use/pull/6165",
-      "author": "Wilson0511",
-      "at": "2026-10-21T07:23:57Z"
+      "number": 6172,
+      "title": "Send Enter's text on its keyDown so Shift+Enter types a newline",
+      "url": "https://github.com/browser-use/browser-use/pull/6172",
+      "author": "yichengq",
+      "at": "2026-10-21T16:13:36Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5023,
-      "title": "fix(py): require certifi>=2026.10.19 after eMudhra intermediate compromise (#5011)",
-      "url": "https://github.com/ComposioHQ/composio/pull/5023",
-      "author": "TINGyu123644",
-      "at": "2026-10-21T08:08:16Z"
+      "number": 5041,
+      "title": "fix(cli): stop showing a stale update hint during composio upgrade",
+      "url": "https://github.com/ComposioHQ/composio/pull/5041",
+      "author": "jkomyno",
+      "at": "2026-10-21T16:26:13Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5022,
-      "title": "[Bug]: experimental.tool: misleading \"must be annotated with a Pydantic BaseModel subclass\" error when the input annotation can't be resolve",
-      "url": "https://github.com/ComposioHQ/composio/issues/5022",
-      "author": "meemoprasad",
-      "at": "2026-10-21T06:46:21Z"
+      "kind": "pr",
+      "number": 5040,
+      "title": "fix(cli): exit 1 on the remaining silent failures",
+      "url": "https://github.com/ComposioHQ/composio/pull/5040",
+      "author": "jkomyno",
+      "at": "2026-10-21T16:24:55Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2836,
+      "title": "fix: replace deprecated OpenAI model defaults",
+      "url": "https://github.com/567-labs/instructor/pull/2836",
+      "author": "dajiaohuang",
+      "at": "2026-10-21T09:27:12Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,70 +69,59 @@
       "at": "2026-10-21T01:46:28Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2834,
-      "title": "docs(integrations): add AI Stupid Level router guide",
-      "url": "https://github.com/567-labs/instructor/pull/2834",
-      "author": "StudioPlatforms",
-      "at": "2026-10-20T10:56:45Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41355,
-      "title": "langchain-openai: citation annotations streamed for a function_call are merged into it and replayed, causing 400 Unknown parameter 'input[N]",
-      "url": "https://github.com/langchain-ai/langchain/issues/41355",
-      "author": "pyarun",
-      "at": "2026-10-21T08:17:41Z"
+      "kind": "pr",
+      "number": 41395,
+      "title": "fix(anthropic): resolve profiles for Bedrock and Vertex AI model IDs",
+      "url": "https://github.com/langchain-ai/langchain/pull/41395",
+      "author": "baskaryan",
+      "at": "2026-10-21T18:15:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100496,
-      "title": "docs: add Frontegg to authentication libraries",
-      "url": "https://github.com/vercel/next.js/pull/100496",
-      "author": "MichayKalika",
-      "at": "2026-10-21T08:02:16Z"
+      "number": 100530,
+      "title": "fix: log redirects during development",
+      "url": "https://github.com/vercel/next.js/pull/100530",
+      "author": "smit153",
+      "at": "2026-10-21T17:27:15Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100495,
-      "title": "fix: persist cacheControl for Pages Router ISR entries in FileSystemC…",
-      "url": "https://github.com/vercel/next.js/pull/100495",
-      "author": "koreahghg",
-      "at": "2026-10-21T07:13:58Z"
+      "number": 100529,
+      "title": "Settle pipeToNodeResponse when the socket closes before finish",
+      "url": "https://github.com/vercel/next.js/pull/100529",
+      "author": "umeraamir69",
+      "at": "2026-10-21T17:06:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52059,
-      "title": "docs: document matching crypto keys for local Studio",
-      "url": "https://github.com/supabase/supabase/pull/52059",
-      "author": "obaseyi2",
-      "at": "2026-10-21T08:05:29Z"
+      "number": 52097,
+      "title": "docs(python): pass CreateSignedUploadUrlOptions to create_signed_upload_url",
+      "url": "https://github.com/supabase/supabase/pull/52097",
+      "author": "Blacksujit",
+      "at": "2026-10-21T18:11:55Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52058,
-      "title": "Update blog post on Supabase storage updates",
-      "url": "https://github.com/supabase/supabase/pull/52058",
-      "author": "sudayavarman",
-      "at": "2026-10-21T07:47:59Z"
+      "number": 52096,
+      "title": "feat(kb): og image",
+      "url": "https://github.com/supabase/supabase/pull/52096",
+      "author": "antlio",
+      "at": "2026-10-21T17:51:23Z"
     }
   ]
 }
