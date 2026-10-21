@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-10-20T18:16:36.248Z",
-  "count": 13,
+  "updatedAt": "2026-10-21T08:17:50.381Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6151,
-      "title": "fix(llm): make ChatBrowserUse(max_retries=0) send the request",
-      "url": "https://github.com/browser-use/browser-use/pull/6151",
-      "author": "Blacksujit",
-      "at": "2026-10-20T15:23:40Z"
+      "number": 6166,
+      "title": "docs(skills): fix broken relative reference paths",
+      "url": "https://github.com/browser-use/browser-use/pull/6166",
+      "author": "TINGyu123644",
+      "at": "2026-10-21T07:54:53Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6150,
-      "title": "fix(registry): pass validated model objects to typed action parameters",
-      "url": "https://github.com/browser-use/browser-use/pull/6150",
-      "author": "Blacksujit",
-      "at": "2026-10-20T15:23:28Z"
+      "number": 6165,
+      "title": "fix: track session activity for every browser_* tool in the dispatch layer",
+      "url": "https://github.com/browser-use/browser-use/pull/6165",
+      "author": "Wilson0511",
+      "at": "2026-10-21T07:23:57Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5010,
-      "title": "test(cli): expect the redacted auth config id in `connected-accounts info` under CI",
-      "url": "https://github.com/ComposioHQ/composio/pull/5010",
-      "author": "jkomyno",
-      "at": "2026-10-20T17:32:34Z"
+      "number": 5023,
+      "title": "fix(py): require certifi>=2026.10.19 after eMudhra intermediate compromise (#5011)",
+      "url": "https://github.com/ComposioHQ/composio/pull/5023",
+      "author": "TINGyu123644",
+      "at": "2026-10-21T08:08:16Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5022,
+      "title": "[Bug]: experimental.tool: misleading \"must be annotated with a Pydantic BaseModel subclass\" error when the input annotation can't be resolve",
+      "url": "https://github.com/ComposioHQ/composio/issues/5022",
+      "author": "meemoprasad",
+      "at": "2026-10-21T06:46:21Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5009,
-      "title": "docs: generate focused Session configuration contracts",
-      "url": "https://github.com/ComposioHQ/composio/pull/5009",
-      "author": "olearycrew",
-      "at": "2026-10-20T17:19:48Z"
+      "number": 2835,
+      "title": "fix(cache): correctly load legacy entries when model has 'model' field",
+      "url": "https://github.com/567-labs/instructor/pull/2835",
+      "author": "ompatil1906",
+      "at": "2026-10-21T01:46:28Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,92 +69,59 @@
       "at": "2026-10-20T10:56:45Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2833,
-      "title": "fix(cache): include extra_body in public cache keys",
-      "url": "https://github.com/567-labs/instructor/pull/2833",
-      "author": "xuilen",
-      "at": "2026-10-20T09:10:00Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41346,
-      "title": "fix(core): require pydantic 2.13 on Python 3.14",
-      "url": "https://github.com/langchain-ai/langchain/pull/41346",
-      "author": "mdrxy",
-      "at": "2026-10-20T17:35:24Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41344,
-      "title": "feat(langchain-classic): Remove EOL'd Python 3.10 from langchain-classic",
-      "url": "https://github.com/langchain-ai/langchain/pull/41344",
-      "author": "cbornet",
-      "at": "2026-10-20T12:46:44Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100462,
-      "title": "turbopack-core: add synthetic benchmark for compute_chunk_group_info",
-      "url": "https://github.com/vercel/next.js/pull/100462",
-      "author": "sokra",
-      "at": "2026-10-20T17:40:59Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100460,
-      "title": "turbo-tasks-backend: skip dirtying removed cell dependents",
-      "url": "https://github.com/vercel/next.js/pull/100460",
-      "author": "sokra",
-      "at": "2026-10-20T17:17:33Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 52042,
-      "title": "docs - broken link in serverless drivers page",
-      "url": "https://github.com/supabase/supabase/pull/52042",
-      "author": "kodster28",
-      "at": "2026-10-20T18:10:41Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 52041,
-      "title": "chore(www) - Update robots.txt",
-      "url": "https://github.com/supabase/supabase/pull/52041",
-      "author": "kodster28",
-      "at": "2026-10-20T18:02:15Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4146,
-      "title": "Image.from_dockerfile: different build_args resolve to the same image",
-      "url": "https://github.com/modal-labs/modal-client/issues/4146",
-      "author": "wlamnorman",
-      "at": "2026-10-16T08:26:32Z"
+      "number": 41355,
+      "title": "langchain-openai: citation annotations streamed for a function_call are merged into it and replayed, causing 400 Unknown parameter 'input[N]",
+      "url": "https://github.com/langchain-ai/langchain/issues/41355",
+      "author": "pyarun",
+      "at": "2026-10-21T08:17:41Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100496,
+      "title": "docs: add Frontegg to authentication libraries",
+      "url": "https://github.com/vercel/next.js/pull/100496",
+      "author": "MichayKalika",
+      "at": "2026-10-21T08:02:16Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100495,
+      "title": "fix: persist cacheControl for Pages Router ISR entries in FileSystemC…",
+      "url": "https://github.com/vercel/next.js/pull/100495",
+      "author": "koreahghg",
+      "at": "2026-10-21T07:13:58Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52059,
+      "title": "docs: document matching crypto keys for local Studio",
+      "url": "https://github.com/supabase/supabase/pull/52059",
+      "author": "obaseyi2",
+      "at": "2026-10-21T08:05:29Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52058,
+      "title": "Update blog post on Supabase storage updates",
+      "url": "https://github.com/supabase/supabase/pull/52058",
+      "author": "sudayavarman",
+      "at": "2026-10-21T07:47:59Z"
     }
   ]
 }
