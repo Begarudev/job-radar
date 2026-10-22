@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-10-21T18:20:09.880Z",
-  "count": 11,
+  "updatedAt": "2026-10-22T08:19:39.299Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6173,
-      "title": "Bug: `Element.click` reports the mouse-release error and hides the press failure when both fail",
-      "url": "https://github.com/browser-use/browser-use/issues/6173",
-      "author": "yifanxiong272",
-      "at": "2026-10-21T18:07:09Z"
+      "kind": "pr",
+      "number": 6178,
+      "title": "fix: let structured done actions report task failure",
+      "url": "https://github.com/browser-use/browser-use/pull/6178",
+      "author": "aniketkrs",
+      "at": "2026-10-22T08:09:28Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6172,
-      "title": "Send Enter's text on its keyDown so Shift+Enter types a newline",
-      "url": "https://github.com/browser-use/browser-use/pull/6172",
-      "author": "yichengq",
-      "at": "2026-10-21T16:13:36Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5041,
-      "title": "fix(cli): stop showing a stale update hint during composio upgrade",
-      "url": "https://github.com/ComposioHQ/composio/pull/5041",
-      "author": "jkomyno",
-      "at": "2026-10-21T16:26:13Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5040,
-      "title": "fix(cli): exit 1 on the remaining silent failures",
-      "url": "https://github.com/ComposioHQ/composio/pull/5040",
-      "author": "jkomyno",
-      "at": "2026-10-21T16:24:55Z"
+      "number": 6177,
+      "title": "fix(tools): register saved screenshots in the FileSystem",
+      "url": "https://github.com/browser-use/browser-use/pull/6177",
+      "author": "Wilson0511",
+      "at": "2026-10-22T03:20:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2836,
-      "title": "fix: replace deprecated OpenAI model defaults",
-      "url": "https://github.com/567-labs/instructor/pull/2836",
-      "author": "dajiaohuang",
-      "at": "2026-10-21T09:27:12Z"
+      "number": 2838,
+      "title": "fix(dsl): cap CitationMixin edit budget and skip empty quotes/contexts (#2776, #2769)",
+      "url": "https://github.com/567-labs/instructor/pull/2838",
+      "author": "bonilokesh",
+      "at": "2026-10-22T07:34:20Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2835,
-      "title": "fix(cache): correctly load legacy entries when model has 'model' field",
-      "url": "https://github.com/567-labs/instructor/pull/2835",
-      "author": "ompatil1906",
-      "at": "2026-10-21T01:46:28Z"
+      "number": 2837,
+      "title": "fix(cohere): preserve all V2 response text blocks",
+      "url": "https://github.com/567-labs/instructor/pull/2837",
+      "author": "po-et",
+      "at": "2026-10-22T01:04:31Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41395,
-      "title": "fix(anthropic): resolve profiles for Bedrock and Vertex AI model IDs",
-      "url": "https://github.com/langchain-ai/langchain/pull/41395",
-      "author": "baskaryan",
-      "at": "2026-10-21T18:15:18Z"
+      "kind": "issue",
+      "number": 41414,
+      "title": "langchain-openai: support streaming partial images (partial_images) for the image_generation built-in tool",
+      "url": "https://github.com/langchain-ai/langchain/issues/41414",
+      "author": "hanjoonchoe",
+      "at": "2026-10-22T07:40:45Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100530,
-      "title": "fix: log redirects during development",
-      "url": "https://github.com/vercel/next.js/pull/100530",
-      "author": "smit153",
-      "at": "2026-10-21T17:27:15Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100529,
-      "title": "Settle pipeToNodeResponse when the socket closes before finish",
-      "url": "https://github.com/vercel/next.js/pull/100529",
-      "author": "umeraamir69",
-      "at": "2026-10-21T17:06:36Z"
+      "number": 100560,
+      "title": "Run unit tests on Node.js 24",
+      "url": "https://github.com/vercel/next.js/pull/100560",
+      "author": "sokra",
+      "at": "2026-10-22T07:35:43Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52097,
-      "title": "docs(python): pass CreateSignedUploadUrlOptions to create_signed_upload_url",
-      "url": "https://github.com/supabase/supabase/pull/52097",
-      "author": "Blacksujit",
-      "at": "2026-10-21T18:11:55Z"
+      "number": 52136,
+      "title": "fix(www): revert Next.js 15 router state header guard in proxy",
+      "url": "https://github.com/supabase/supabase/pull/52136",
+      "author": "ivasilov",
+      "at": "2026-10-22T07:54:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52096,
-      "title": "feat(kb): og image",
-      "url": "https://github.com/supabase/supabase/pull/52096",
-      "author": "antlio",
-      "at": "2026-10-21T17:51:23Z"
+      "number": 52135,
+      "title": "test(studio): wait for pipeline step url before continuing",
+      "url": "https://github.com/supabase/supabase/pull/52135",
+      "author": "alaister",
+      "at": "2026-10-22T07:53:37Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4147,
+      "title": "Unable to view effective workspace HTTP rate limits in Dashboard or CLI",
+      "url": "https://github.com/modal-labs/modal-client/issues/4147",
+      "author": "KyryloPikhno",
+      "at": "2026-10-21T21:20:18Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "issue",
+      "number": 2249,
+      "title": "bug: Openai is not allowing the use of T3 in our managed account",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2249",
+      "author": "cconner100",
+      "at": "2026-10-22T03:13:13Z"
     }
   ]
 }
