@@ -1,94 +1,105 @@
 {
-  "updatedAt": "2026-10-22T08:19:39.299Z",
-  "count": 10,
+  "updatedAt": "2026-10-22T18:14:17.680Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6178,
-      "title": "fix: let structured done actions report task failure",
-      "url": "https://github.com/browser-use/browser-use/pull/6178",
-      "author": "aniketkrs",
-      "at": "2026-10-22T08:09:28Z"
+      "number": 6184,
+      "title": "fix: include PDF formatting in the character budget",
+      "url": "https://github.com/browser-use/browser-use/pull/6184",
+      "author": "emme1t",
+      "at": "2026-10-22T16:55:25Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6177,
-      "title": "fix(tools): register saved screenshots in the FileSystem",
-      "url": "https://github.com/browser-use/browser-use/pull/6177",
-      "author": "Wilson0511",
-      "at": "2026-10-22T03:20:32Z"
+      "number": 6182,
+      "title": "Fix paint-order rectangle validation for inverted and non-positive bounds",
+      "url": "https://github.com/browser-use/browser-use/pull/6182",
+      "author": "OUAO-FRANK",
+      "at": "2026-10-22T15:40:46Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2838,
-      "title": "fix(dsl): cap CitationMixin edit budget and skip empty quotes/contexts (#2776, #2769)",
-      "url": "https://github.com/567-labs/instructor/pull/2838",
-      "author": "bonilokesh",
-      "at": "2026-10-22T07:34:20Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2837,
-      "title": "fix(cohere): preserve all V2 response text blocks",
-      "url": "https://github.com/567-labs/instructor/pull/2837",
-      "author": "po-et",
-      "at": "2026-10-22T01:04:31Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 41414,
-      "title": "langchain-openai: support streaming partial images (partial_images) for the image_generation built-in tool",
-      "url": "https://github.com/langchain-ai/langchain/issues/41414",
-      "author": "hanjoonchoe",
-      "at": "2026-10-22T07:40:45Z"
+      "number": 5078,
+      "title": "google_maps: GET_TIME_ZONE and DISTANCE_MATRIX_API return REQUEST_DENIED (\"You must use an API key\") on both transports",
+      "url": "https://github.com/ComposioHQ/composio/issues/5078",
+      "author": "SergeySorokin",
+      "at": "2026-10-22T17:41:48Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2840,
+      "title": "fix(core): preserve reserved TypedDict response keys",
+      "url": "https://github.com/567-labs/instructor/pull/2840",
+      "author": "kokyouu",
+      "at": "2026-10-22T17:47:01Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2839,
+      "title": "fix(core): support shallow copies of Instructor clients",
+      "url": "https://github.com/567-labs/instructor/pull/2839",
+      "author": "emme1t",
+      "at": "2026-10-22T15:56:10Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100560,
-      "title": "Run unit tests on Node.js 24",
-      "url": "https://github.com/vercel/next.js/pull/100560",
-      "author": "sokra",
-      "at": "2026-10-22T07:35:43Z"
+      "number": 100606,
+      "title": "fix(next/app-render): render not-found component in SSR error recovery",
+      "url": "https://github.com/vercel/next.js/pull/100606",
+      "author": "wasim-builds",
+      "at": "2026-10-22T18:13:41Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100605,
+      "title": "Simplify webpack loader build dependency caching",
+      "url": "https://github.com/vercel/next.js/pull/100605",
+      "author": "jimmyhmiller",
+      "at": "2026-10-22T18:06:42Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52136,
-      "title": "fix(www): revert Next.js 15 router state header guard in proxy",
-      "url": "https://github.com/supabase/supabase/pull/52136",
-      "author": "ivasilov",
-      "at": "2026-10-22T07:54:10Z"
+      "number": 52175,
+      "title": "refactor(studio): add remote tool contracts, starting with list_extensions",
+      "url": "https://github.com/supabase/supabase/pull/52175",
+      "author": "charislam",
+      "at": "2026-10-22T17:55:18Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52135,
-      "title": "test(studio): wait for pipeline step url before continuing",
-      "url": "https://github.com/supabase/supabase/pull/52135",
-      "author": "alaister",
-      "at": "2026-10-22T07:53:37Z"
+      "number": 52174,
+      "title": "test(docs): check anchors in docs E2E link checks",
+      "url": "https://github.com/supabase/supabase/pull/52174",
+      "author": "czenko",
+      "at": "2026-10-22T17:48:27Z"
     },
     {
       "founder": "Erik Bernhardsson",
