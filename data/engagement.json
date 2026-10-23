@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-23T08:16:11.744Z",
-  "count": 10,
+  "updatedAt": "2026-10-23T18:04:14.793Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 6190,
+      "title": "Pre-execution shell guardrails for [brower-use]",
+      "url": "https://github.com/browser-use/browser-use/issues/6190",
+      "author": "Jayanthpulisheri",
+      "at": "2026-10-23T13:45:30Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/6188",
       "author": "ninglinLiu",
       "at": "2026-10-23T05:40:30Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6187,
-      "title": "fix(actor): preserve press failure when mouse release also fails in Element.click",
-      "url": "https://github.com/browser-use/browser-use/pull/6187",
-      "author": "ompatil1906",
-      "at": "2026-10-23T01:49:32Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,56 +50,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41431,
-      "title": "LLM cache stores a generation that fails structured-output parsing and then replays it",
-      "url": "https://github.com/langchain-ai/langchain/issues/41431",
-      "author": "NEGU93",
-      "at": "2026-10-23T08:15:33Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41426,
-      "title": "langchain-openrouter: add a beta Runnable for OpenRouter's Decisions API (decision / System One models)",
-      "url": "https://github.com/langchain-ai/langchain/issues/41426",
-      "author": "melihzgvnc",
-      "at": "2026-10-22T18:17:54Z"
+      "kind": "pr",
+      "number": 41434,
+      "title": "feat(core): expose models.dev v2 modalities in model profiles",
+      "url": "https://github.com/langchain-ai/langchain/pull/41434",
+      "author": "ccurme",
+      "at": "2026-10-23T14:03:45Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100635,
-      "title": "Add e2e tests for webpack loader build dependencies regressions",
-      "url": "https://github.com/vercel/next.js/pull/100635",
-      "author": "mischnic",
-      "at": "2026-10-23T07:56:12Z"
+      "number": 100672,
+      "title": "adding iframe module",
+      "url": "https://github.com/vercel/next.js/pull/100672",
+      "author": "mohitarora8181",
+      "at": "2026-10-23T17:45:12Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100671,
+      "title": "Turbopack: Fix race condition with late dependents of async modules",
+      "url": "https://github.com/vercel/next.js/pull/100671",
+      "author": "jackeddisciple",
+      "at": "2026-10-23T17:35:28Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.4.3 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.3",
+      "author": "eps1lon",
+      "at": "2026-10-23T13:32:31Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52212,
-      "title": "Docs: free plan read only tweaks",
-      "url": "https://github.com/supabase/supabase/pull/52212",
-      "author": "peekknuf",
-      "at": "2026-10-23T08:07:48Z"
+      "number": 52246,
+      "title": "docs(ai): expose Fireworks documents as an MCP server",
+      "url": "https://github.com/supabase/supabase/pull/52246",
+      "author": "jm0ney337",
+      "at": "2026-10-23T17:54:57Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52211,
-      "title": "Cmd K to sort results based on relevance score",
-      "url": "https://github.com/supabase/supabase/pull/52211",
-      "author": "joshenlim",
-      "at": "2026-10-23T07:48:33Z"
+      "number": 52244,
+      "title": "feat(studio): block read replica creation when upgrade crosses collation lineage",
+      "url": "https://github.com/supabase/supabase/pull/52244",
+      "author": "charislam",
+      "at": "2026-10-23T17:32:06Z"
     },
     {
       "founder": "Theo Browne",
