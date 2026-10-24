@@ -1,83 +1,61 @@
 {
-  "updatedAt": "2026-10-23T18:04:14.793Z",
-  "count": 11,
+  "updatedAt": "2026-10-24T07:54:20.955Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6190,
-      "title": "Pre-execution shell guardrails for [brower-use]",
-      "url": "https://github.com/browser-use/browser-use/issues/6190",
-      "author": "Jayanthpulisheri",
-      "at": "2026-10-23T13:45:30Z"
+      "kind": "pr",
+      "number": 6202,
+      "title": "Make Pi the Browser Use engine and preserve Python installation",
+      "url": "https://github.com/browser-use/browser-use/pull/6202",
+      "author": "MagMueller",
+      "at": "2026-10-24T07:10:04Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6188,
-      "title": "docs(telemetry): disclose AgentTelemetryEvent run-transcript fields",
-      "url": "https://github.com/browser-use/browser-use/pull/6188",
-      "author": "ninglinLiu",
-      "at": "2026-10-23T05:40:30Z"
+      "number": 6201,
+      "title": "fix(browser): run Cmd+A, Cmd+Z and Cmd+Shift+Z editing commands on macOS",
+      "url": "https://github.com/browser-use/browser-use/pull/6201",
+      "author": "hsusul",
+      "at": "2026-10-24T05:25:20Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2842,
-      "title": "fix(streaming): preserve valid DEL and C1 JSON data",
-      "url": "https://github.com/567-labs/instructor/pull/2842",
-      "author": "xiaoheiai4719-collab",
-      "at": "2026-10-23T02:28:45Z"
+      "number": 2846,
+      "title": "Fix responses templating",
+      "url": "https://github.com/567-labs/instructor/pull/2846",
+      "author": "SaiMouli3",
+      "at": "2026-10-24T03:37:56Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2841,
-      "title": "fix(cache): don't treat legacy models with a `model` field as envelopes",
-      "url": "https://github.com/567-labs/instructor/pull/2841",
-      "author": "ninglinLiu",
-      "at": "2026-10-22T21:44:48Z"
+      "number": 2845,
+      "title": "fix(batch): recognize Anthropic cancellation requests",
+      "url": "https://github.com/567-labs/instructor/pull/2845",
+      "author": "shuaiyafei",
+      "at": "2026-10-24T03:31:57Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41434,
-      "title": "feat(core): expose models.dev v2 modalities in model profiles",
-      "url": "https://github.com/langchain-ai/langchain/pull/41434",
-      "author": "ccurme",
-      "at": "2026-10-23T14:03:45Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100672,
-      "title": "adding iframe module",
-      "url": "https://github.com/vercel/next.js/pull/100672",
-      "author": "mohitarora8181",
-      "at": "2026-10-23T17:45:12Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100671,
-      "title": "Turbopack: Fix race condition with late dependents of async modules",
-      "url": "https://github.com/vercel/next.js/pull/100671",
-      "author": "jackeddisciple",
-      "at": "2026-10-23T17:35:28Z"
+      "kind": "issue",
+      "number": 41448,
+      "title": "`HuggingFacePipeline.from_model_id` crashes on device strings and misplaces models on non-CUDA accelerators (e.g. Intel XPU)",
+      "url": "https://github.com/langchain-ai/langchain/issues/41448",
+      "author": "siju-samuel",
+      "at": "2026-10-24T04:14:24Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -95,33 +73,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52246,
-      "title": "docs(ai): expose Fireworks documents as an MCP server",
-      "url": "https://github.com/supabase/supabase/pull/52246",
-      "author": "jm0ney337",
-      "at": "2026-10-23T17:54:57Z"
+      "number": 52255,
+      "title": "fix(studio): add the current IANA names for six renamed timezones",
+      "url": "https://github.com/supabase/supabase/pull/52255",
+      "author": "yu2971512385-ui",
+      "at": "2026-10-24T06:17:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52244,
-      "title": "feat(studio): block read replica creation when upgrade crosses collation lineage",
-      "url": "https://github.com/supabase/supabase/pull/52244",
-      "author": "charislam",
-      "at": "2026-10-23T17:32:06Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2250,
-      "title": "docs: add Autostrum to T3 app list",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2250",
-      "author": "michaelongaro",
-      "at": "2026-10-23T01:52:00Z"
+      "number": 52254,
+      "title": "fix(studio): require a bearer token for the self-hosted MCP endpoint",
+      "url": "https://github.com/supabase/supabase/pull/52254",
+      "author": "AmoghAtreya",
+      "at": "2026-10-24T06:08:52Z"
     }
   ]
 }
