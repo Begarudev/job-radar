@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-10-24T07:54:20.955Z",
-  "count": 8,
+  "updatedAt": "2026-10-24T17:09:45.408Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -25,70 +25,125 @@
       "at": "2026-10-24T05:25:20Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5104,
+      "title": "[Bug]: Python schema corpus loaders use the locale encoding and fail Unicode tests on Windows",
+      "url": "https://github.com/ComposioHQ/composio/issues/5104",
+      "author": "gtdd123",
+      "at": "2026-10-24T14:22:15Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 2846,
-      "title": "Fix responses templating",
-      "url": "https://github.com/567-labs/instructor/pull/2846",
-      "author": "SaiMouli3",
-      "at": "2026-10-24T03:37:56Z"
+      "number": 5103,
+      "title": "feat(agents): add resumable SDK and CLI verification",
+      "url": "https://github.com/ComposioHQ/composio/pull/5103",
+      "author": "jkomyno",
+      "at": "2026-10-24T12:49:25Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2845,
-      "title": "fix(batch): recognize Anthropic cancellation requests",
-      "url": "https://github.com/567-labs/instructor/pull/2845",
-      "author": "shuaiyafei",
-      "at": "2026-10-24T03:31:57Z"
+      "number": 2848,
+      "title": "fix(batch): retain available results from expired OpenAI batches",
+      "url": "https://github.com/567-labs/instructor/pull/2848",
+      "author": "Rutvik552k",
+      "at": "2026-10-24T13:56:54Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2847,
+      "title": "fix(batch): preserve OpenAI job validation error details",
+      "url": "https://github.com/567-labs/instructor/pull/2847",
+      "author": "wToTw123",
+      "at": "2026-10-24T08:21:23Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41448,
-      "title": "`HuggingFacePipeline.from_model_id` crashes on device strings and misplaces models on non-CUDA accelerators (e.g. Intel XPU)",
-      "url": "https://github.com/langchain-ai/langchain/issues/41448",
-      "author": "siju-samuel",
-      "at": "2026-10-24T04:14:24Z"
+      "number": 41458,
+      "title": "core: InMemoryRateLimiter hangs forever on non-positive or non-finite configuration",
+      "url": "https://github.com/langchain-ai/langchain/issues/41458",
+      "author": "xiongQvQ",
+      "at": "2026-10-24T12:34:51Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41457,
+      "title": "core: InMemoryVectorStore returns arbitrary documents for negative k",
+      "url": "https://github.com/langchain-ai/langchain/issues/41457",
+      "author": "xiongQvQ",
+      "at": "2026-10-24T12:29:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.4.3 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.3",
-      "author": "eps1lon",
-      "at": "2026-10-23T13:32:31Z"
+      "kind": "pr",
+      "number": 100697,
+      "title": "fix(use-cache): do not warn unexpected cache miss in draft mode (#100680)",
+      "url": "https://github.com/vercel/next.js/pull/100697",
+      "author": "wasim-builds",
+      "at": "2026-10-24T16:02:09Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 100695,
+      "title": "ISR pages never revalidate when build output files have an epoch (0) mtime",
+      "url": "https://github.com/vercel/next.js/issues/100695",
+      "author": "MoeeinAali",
+      "at": "2026-10-24T12:18:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52255,
-      "title": "fix(studio): add the current IANA names for six renamed timezones",
-      "url": "https://github.com/supabase/supabase/pull/52255",
-      "author": "yu2971512385-ui",
-      "at": "2026-10-24T06:17:23Z"
+      "number": 52262,
+      "title": "fix(studio): correct Vonage and Twilio Verify provider icons in Auth Users",
+      "url": "https://github.com/supabase/supabase/pull/52262",
+      "author": "OddlyEvenn",
+      "at": "2026-10-24T16:22:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52254,
-      "title": "fix(studio): require a bearer token for the self-hosted MCP endpoint",
-      "url": "https://github.com/supabase/supabase/pull/52254",
-      "author": "AmoghAtreya",
-      "at": "2026-10-24T06:08:52Z"
+      "number": 52260,
+      "title": "fix(studio): avoid sending unmodified JSON columns in row update payload",
+      "url": "https://github.com/supabase/supabase/pull/52260",
+      "author": "OddlyEvenn",
+      "at": "2026-10-24T15:07:37Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4148,
+      "title": "Image.from_dockerfile: COPY in JSON form raises ValueError, and COPY ./ adds no files to the build context",
+      "url": "https://github.com/modal-labs/modal-client/issues/4148",
+      "author": "CyberNativeAI",
+      "at": "2026-10-24T08:24:14Z"
     }
   ]
 }
