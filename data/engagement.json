@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T08:07:54.302Z",
+  "updatedAt": "2026-10-25T17:22:15.477Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,33 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6205,
-      "title": "fix(llm): preserve assistant refusal content for Anthropic",
-      "url": "https://github.com/browser-use/browser-use/pull/6205",
-      "author": "passionworkeer",
-      "at": "2026-10-25T05:43:13Z"
+      "number": 6210,
+      "title": "fix(llm/google): surface Gemini thought summaries",
+      "url": "https://github.com/browser-use/browser-use/pull/6210",
+      "author": "ousamabenyounes",
+      "at": "2026-10-25T16:31:28Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 6204,
-      "title": "Bug: Anthropic serialization silently drops assistant refusal content",
-      "url": "https://github.com/browser-use/browser-use/issues/6204",
-      "author": "passionworkeer",
-      "at": "2026-10-25T05:39:32Z"
+      "number": 6209,
+      "title": "Bug: SchemaOptimizer skips strict-mode `required` for a nested model under a field named \"required\"",
+      "url": "https://github.com/browser-use/browser-use/issues/6209",
+      "author": "mengchen-atx",
+      "at": "2026-10-25T14:24:51Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5107,
+      "title": "fix(cli): bind browser login to the terminal that started it",
+      "url": "https://github.com/ComposioHQ/composio/pull/5107",
+      "author": "jkomyno",
+      "at": "2026-10-25T16:55:42Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,15 +47,15 @@
       "at": "2026-10-25T02:31:15Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5105,
-      "title": "[Bug]: Python SDK drops the extension of files fetched from extensionless URLs for Office, CSV, and other common types",
-      "url": "https://github.com/ComposioHQ/composio/issues/5105",
-      "author": "RaphaelFakhri",
-      "at": "2026-10-24T17:54:55Z"
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2850,
+      "title": "fix(batch): omit unset Anthropic batch temperatures",
+      "url": "https://github.com/567-labs/instructor/pull/2850",
+      "author": "wToTw123",
+      "at": "2026-10-25T11:35:13Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,70 +69,59 @@
       "at": "2026-10-24T21:50:07Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2848,
-      "title": "fix(batch): retain available results from expired OpenAI batches",
-      "url": "https://github.com/567-labs/instructor/pull/2848",
-      "author": "Rutvik552k",
-      "at": "2026-10-24T13:56:54Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41480,
+      "title": "create_agent ends mixed batches early when a non-direct tool is registered at runtime",
+      "url": "https://github.com/langchain-ai/langchain/issues/41480",
+      "author": "Ricky-RC",
+      "at": "2026-10-25T15:44:37Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41468,
-      "title": "perf(core): parse streamed tool call args lazily in `AIMessageChunk`",
-      "url": "https://github.com/langchain-ai/langchain/pull/41468",
-      "author": "mdrxy",
-      "at": "2026-10-25T04:41:10Z"
+      "kind": "issue",
+      "number": 41471,
+      "title": "_generate_response_from_error leaves an unawaited coroutine when the error's response comes from an async HTTP client",
+      "url": "https://github.com/langchain-ai/langchain/issues/41471",
+      "author": "popotam",
+      "at": "2026-10-25T09:31:53Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 41467,
-      "title": "perf(core): stop `parse_partial_json` from retrying one character at a time",
-      "url": "https://github.com/langchain-ai/langchain/pull/41467",
-      "author": "mdrxy",
-      "at": "2026-10-25T03:53:34Z"
+      "number": 100705,
+      "title": "perf(turbopack): canonicalize async loader availability",
+      "url": "https://github.com/vercel/next.js/pull/100705",
+      "author": "sokra",
+      "at": "2026-10-25T14:11:31Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 52267,
-      "title": "Sigin using password options fail",
-      "url": "https://github.com/supabase/supabase/issues/52267",
-      "author": "kkarthicknethaji",
-      "at": "2026-10-25T05:41:25Z"
+      "number": 52274,
+      "title": "[Auth] TOTP unenroll commits before notification timeout; gateway retry returns factor-not-found",
+      "url": "https://github.com/supabase/supabase/issues/52274",
+      "author": "storesmarthaven-source",
+      "at": "2026-10-25T15:58:32Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52266,
-      "title": "docs: fix missing verb in README architecture section",
-      "url": "https://github.com/supabase/supabase/pull/52266",
-      "author": "pei711",
-      "at": "2026-10-25T03:35:07Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4148,
-      "title": "Image.from_dockerfile: COPY in JSON form raises ValueError, and COPY ./ adds no files to the build context",
-      "url": "https://github.com/modal-labs/modal-client/issues/4148",
-      "author": "CyberNativeAI",
-      "at": "2026-10-24T08:24:14Z"
+      "number": 52273,
+      "title": "fix(studio): support controlled CommandMenuInput and fix context search empty state & backspace",
+      "url": "https://github.com/supabase/supabase/pull/52273",
+      "author": "ghazy2001",
+      "at": "2026-10-25T14:13:13Z"
     }
   ]
 }
