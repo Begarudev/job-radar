@@ -1,50 +1,61 @@
 {
-  "updatedAt": "2026-10-24T17:09:45.408Z",
-  "count": 13,
+  "updatedAt": "2026-10-25T08:07:54.302Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6202,
-      "title": "Make Pi the Browser Use engine and preserve Python installation",
-      "url": "https://github.com/browser-use/browser-use/pull/6202",
-      "author": "MagMueller",
-      "at": "2026-10-24T07:10:04Z"
+      "number": 6205,
+      "title": "fix(llm): preserve assistant refusal content for Anthropic",
+      "url": "https://github.com/browser-use/browser-use/pull/6205",
+      "author": "passionworkeer",
+      "at": "2026-10-25T05:43:13Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 6204,
+      "title": "Bug: Anthropic serialization silently drops assistant refusal content",
+      "url": "https://github.com/browser-use/browser-use/issues/6204",
+      "author": "passionworkeer",
+      "at": "2026-10-25T05:39:32Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 6201,
-      "title": "fix(browser): run Cmd+A, Cmd+Z and Cmd+Shift+Z editing commands on macOS",
-      "url": "https://github.com/browser-use/browser-use/pull/6201",
-      "author": "hsusul",
-      "at": "2026-10-24T05:25:20Z"
+      "number": 5106,
+      "title": "fix(cli): preserve array file inputs and infer local MIME types",
+      "url": "https://github.com/ComposioHQ/composio/pull/5106",
+      "author": "vin-bio",
+      "at": "2026-10-25T02:31:15Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 5104,
-      "title": "[Bug]: Python schema corpus loaders use the locale encoding and fail Unicode tests on Windows",
-      "url": "https://github.com/ComposioHQ/composio/issues/5104",
-      "author": "gtdd123",
-      "at": "2026-10-24T14:22:15Z"
+      "number": 5105,
+      "title": "[Bug]: Python SDK drops the extension of files fetched from extensionless URLs for Office, CSV, and other common types",
+      "url": "https://github.com/ComposioHQ/composio/issues/5105",
+      "author": "RaphaelFakhri",
+      "at": "2026-10-24T17:54:55Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5103,
-      "title": "feat(agents): add resumable SDK and CLI verification",
-      "url": "https://github.com/ComposioHQ/composio/pull/5103",
-      "author": "jkomyno",
-      "at": "2026-10-24T12:49:25Z"
+      "number": 2849,
+      "title": "docs(integrations): add Runcrate guide",
+      "url": "https://github.com/567-labs/instructor/pull/2849",
+      "author": "heydryft",
+      "at": "2026-10-24T21:50:07Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,81 +69,48 @@
       "at": "2026-10-24T13:56:54Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2847,
-      "title": "fix(batch): preserve OpenAI job validation error details",
-      "url": "https://github.com/567-labs/instructor/pull/2847",
-      "author": "wToTw123",
-      "at": "2026-10-24T08:21:23Z"
+      "number": 41468,
+      "title": "perf(core): parse streamed tool call args lazily in `AIMessageChunk`",
+      "url": "https://github.com/langchain-ai/langchain/pull/41468",
+      "author": "mdrxy",
+      "at": "2026-10-25T04:41:10Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41458,
-      "title": "core: InMemoryRateLimiter hangs forever on non-positive or non-finite configuration",
-      "url": "https://github.com/langchain-ai/langchain/issues/41458",
-      "author": "xiongQvQ",
-      "at": "2026-10-24T12:34:51Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41457,
-      "title": "core: InMemoryVectorStore returns arbitrary documents for negative k",
-      "url": "https://github.com/langchain-ai/langchain/issues/41457",
-      "author": "xiongQvQ",
-      "at": "2026-10-24T12:29:47Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100697,
-      "title": "fix(use-cache): do not warn unexpected cache miss in draft mode (#100680)",
-      "url": "https://github.com/vercel/next.js/pull/100697",
-      "author": "wasim-builds",
-      "at": "2026-10-24T16:02:09Z"
+      "number": 41467,
+      "title": "perf(core): stop `parse_partial_json` from retrying one character at a time",
+      "url": "https://github.com/langchain-ai/langchain/pull/41467",
+      "author": "mdrxy",
+      "at": "2026-10-25T03:53:34Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 100695,
-      "title": "ISR pages never revalidate when build output files have an epoch (0) mtime",
-      "url": "https://github.com/vercel/next.js/issues/100695",
-      "author": "MoeeinAali",
-      "at": "2026-10-24T12:18:09Z"
+      "number": 52267,
+      "title": "Sigin using password options fail",
+      "url": "https://github.com/supabase/supabase/issues/52267",
+      "author": "kkarthicknethaji",
+      "at": "2026-10-25T05:41:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52262,
-      "title": "fix(studio): correct Vonage and Twilio Verify provider icons in Auth Users",
-      "url": "https://github.com/supabase/supabase/pull/52262",
-      "author": "OddlyEvenn",
-      "at": "2026-10-24T16:22:06Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 52260,
-      "title": "fix(studio): avoid sending unmodified JSON columns in row update payload",
-      "url": "https://github.com/supabase/supabase/pull/52260",
-      "author": "OddlyEvenn",
-      "at": "2026-10-24T15:07:37Z"
+      "number": 52266,
+      "title": "docs: fix missing verb in README architecture section",
+      "url": "https://github.com/supabase/supabase/pull/52266",
+      "author": "pei711",
+      "at": "2026-10-25T03:35:07Z"
     },
     {
       "founder": "Erik Bernhardsson",
