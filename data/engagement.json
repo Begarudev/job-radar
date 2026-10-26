@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-25T17:22:15.477Z",
-  "count": 11,
+  "updatedAt": "2026-10-26T08:33:23.992Z",
+  "count": 9,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6211,
+      "title": "Bump aiohttp from 3.14.3 to 3.14.5 in pyproject.toml",
+      "url": "https://github.com/browser-use/browser-use/pull/6211",
+      "author": "katsugtgz",
+      "at": "2026-10-25T18:58:03Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/6210",
       "author": "ousamabenyounes",
       "at": "2026-10-25T16:31:28Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6209,
-      "title": "Bug: SchemaOptimizer skips strict-mode `required` for a nested model under a field named \"required\"",
-      "url": "https://github.com/browser-use/browser-use/issues/6209",
-      "author": "mengchen-atx",
-      "at": "2026-10-25T14:24:51Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,92 +36,70 @@
       "at": "2026-10-25T16:55:42Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5106,
-      "title": "fix(cli): preserve array file inputs and infer local MIME types",
-      "url": "https://github.com/ComposioHQ/composio/pull/5106",
-      "author": "vin-bio",
-      "at": "2026-10-25T02:31:15Z"
+      "number": 2853,
+      "title": "docs: add Simplified Chinese translation (README.zh.md)",
+      "url": "https://github.com/567-labs/instructor/pull/2853",
+      "author": "JasonYeYuhe",
+      "at": "2026-10-26T04:03:08Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2850,
-      "title": "fix(batch): omit unset Anthropic batch temperatures",
-      "url": "https://github.com/567-labs/instructor/pull/2850",
-      "author": "wToTw123",
-      "at": "2026-10-25T11:35:13Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2849,
-      "title": "docs(integrations): add Runcrate guide",
-      "url": "https://github.com/567-labs/instructor/pull/2849",
-      "author": "heydryft",
-      "at": "2026-10-24T21:50:07Z"
+      "number": 2852,
+      "title": "docs: select project extras in Poetry setup commands",
+      "url": "https://github.com/567-labs/instructor/pull/2852",
+      "author": "shuaiyafei",
+      "at": "2026-10-26T03:16:18Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41480,
-      "title": "create_agent ends mixed batches early when a non-direct tool is registered at runtime",
-      "url": "https://github.com/langchain-ai/langchain/issues/41480",
-      "author": "Ricky-RC",
-      "at": "2026-10-25T15:44:37Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41471,
-      "title": "_generate_response_from_error leaves an unawaited coroutine when the error's response comes from an async HTTP client",
-      "url": "https://github.com/langchain-ai/langchain/issues/41471",
-      "author": "popotam",
-      "at": "2026-10-25T09:31:53Z"
+      "number": 41490,
+      "title": "mistralai: an error event inside a chat stream is silently dropped, and the truncated output is returned as a successful response",
+      "url": "https://github.com/langchain-ai/langchain/issues/41490",
+      "author": "Jingyi-A-Chen",
+      "at": "2026-10-26T07:26:36Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100705,
-      "title": "perf(turbopack): canonicalize async loader availability",
-      "url": "https://github.com/vercel/next.js/pull/100705",
+      "number": 100712,
+      "title": "Turbopack: add minServerChunkSize and maxMergeServerChunkSize options",
+      "url": "https://github.com/vercel/next.js/pull/100712",
       "author": "sokra",
-      "at": "2026-10-25T14:11:31Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 52274,
-      "title": "[Auth] TOTP unenroll commits before notification timeout; gateway retry returns factor-not-found",
-      "url": "https://github.com/supabase/supabase/issues/52274",
-      "author": "storesmarthaven-source",
-      "at": "2026-10-25T15:58:32Z"
+      "at": "2026-10-26T08:06:57Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52273,
-      "title": "fix(studio): support controlled CommandMenuInput and fix context search empty state & backspace",
-      "url": "https://github.com/supabase/supabase/pull/52273",
-      "author": "ghazy2001",
-      "at": "2026-10-25T14:13:13Z"
+      "number": 52292,
+      "title": "fix: repair 404s from legacy dashboard routes, docs links, and the changelog feed",
+      "url": "https://github.com/supabase/supabase/pull/52292",
+      "author": "pamelachia",
+      "at": "2026-10-26T08:07:35Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52291,
+      "title": "fix(studio): validate JSON bodies in the Edge Function tester",
+      "url": "https://github.com/supabase/supabase/pull/52291",
+      "author": "vishal590",
+      "at": "2026-10-26T07:08:45Z"
     }
   ]
 }
