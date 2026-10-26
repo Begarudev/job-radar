@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-10-26T08:33:23.992Z",
-  "count": 9,
+  "updatedAt": "2026-10-26T19:41:50.636Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6211,
-      "title": "Bump aiohttp from 3.14.3 to 3.14.5 in pyproject.toml",
-      "url": "https://github.com/browser-use/browser-use/pull/6211",
-      "author": "katsugtgz",
-      "at": "2026-10-25T18:58:03Z"
+      "number": 6219,
+      "title": "fix(config): fail closed when an existing config.json cannot be loaded",
+      "url": "https://github.com/browser-use/browser-use/pull/6219",
+      "author": "ninglinLiu",
+      "at": "2026-10-26T18:16:40Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6210,
-      "title": "fix(llm/google): surface Gemini thought summaries",
-      "url": "https://github.com/browser-use/browser-use/pull/6210",
-      "author": "ousamabenyounes",
-      "at": "2026-10-25T16:31:28Z"
+      "kind": "issue",
+      "number": 6218,
+      "title": "Security: browser-use MCP server resets the browser security profile to allow-all when config.json cannot be parsed",
+      "url": "https://github.com/browser-use/browser-use/issues/6218",
+      "author": "EddieMurphy89",
+      "at": "2026-10-26T17:36:51Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5107,
-      "title": "fix(cli): bind browser login to the terminal that started it",
-      "url": "https://github.com/ComposioHQ/composio/pull/5107",
-      "author": "jkomyno",
-      "at": "2026-10-25T16:55:42Z"
+      "kind": "issue",
+      "number": 5112,
+      "title": "[Bug]: Python GeminiProvider.handle_response executes a function call as whichever user last called tools.get()",
+      "url": "https://github.com/ComposioHQ/composio/issues/5112",
+      "author": "avanish-garg",
+      "at": "2026-10-26T15:36:30Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5109,
+      "title": "[Bug]: GOOGLEDRIVE_DOWNLOAD_FILE fails in file staging with Apollo 401 for shared XLSX files",
+      "url": "https://github.com/ComposioHQ/composio/issues/5109",
+      "author": "cmt-t",
+      "at": "2026-10-26T12:15:42Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,44 +73,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41490,
-      "title": "mistralai: an error event inside a chat stream is silently dropped, and the truncated output is returned as a successful response",
-      "url": "https://github.com/langchain-ai/langchain/issues/41490",
-      "author": "Jingyi-A-Chen",
-      "at": "2026-10-26T07:26:36Z"
+      "number": 41507,
+      "title": "Multi-server MCPConfig tools all report MCPRouter as their server",
+      "url": "https://github.com/langchain-ai/langchain/issues/41507",
+      "author": "keenborder786",
+      "at": "2026-10-26T19:34:51Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41504,
+      "title": "fix(core): preserve gateway tracing metadata in v3 streams",
+      "url": "https://github.com/langchain-ai/langchain/pull/41504",
+      "author": "eyurtsev",
+      "at": "2026-10-26T18:51:12Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100712,
-      "title": "Turbopack: add minServerChunkSize and maxMergeServerChunkSize options",
-      "url": "https://github.com/vercel/next.js/pull/100712",
-      "author": "sokra",
-      "at": "2026-10-26T08:06:57Z"
+      "number": 100747,
+      "title": "Remove the experimental.lockDistDir opt-out option",
+      "url": "https://github.com/vercel/next.js/pull/100747",
+      "author": "bgw",
+      "at": "2026-10-26T19:20:04Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100745,
+      "title": "Turbopack: Use an absolute path for the React Compiler Babel plugin in an additional root",
+      "url": "https://github.com/vercel/next.js/pull/100745",
+      "author": "bgw",
+      "at": "2026-10-26T18:47:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52292,
-      "title": "fix: repair 404s from legacy dashboard routes, docs links, and the changelog feed",
-      "url": "https://github.com/supabase/supabase/pull/52292",
-      "author": "pamelachia",
-      "at": "2026-10-26T08:07:35Z"
+      "number": 52338,
+      "title": "chore: Create new table on global supabase project. Add search fn improvements.",
+      "url": "https://github.com/supabase/supabase/pull/52338",
+      "author": "jeremenichelli",
+      "at": "2026-10-26T19:34:59Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52291,
-      "title": "fix(studio): validate JSON bodies in the Edge Function tester",
-      "url": "https://github.com/supabase/supabase/pull/52291",
-      "author": "vishal590",
-      "at": "2026-10-26T07:08:45Z"
+      "number": 52337,
+      "title": "fix: preserve bracketed heading text in Markdown exports",
+      "url": "https://github.com/supabase/supabase/pull/52337",
+      "author": "Shubham-Padkonde",
+      "at": "2026-10-26T19:26:32Z"
     }
   ]
 }
