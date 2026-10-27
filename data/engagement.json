@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T19:41:50.636Z",
+  "updatedAt": "2026-10-27T08:40:38.344Z",
   "count": 12,
   "signals": [
     {
@@ -7,132 +7,132 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6219,
-      "title": "fix(config): fail closed when an existing config.json cannot be loaded",
-      "url": "https://github.com/browser-use/browser-use/pull/6219",
-      "author": "ninglinLiu",
-      "at": "2026-10-26T18:16:40Z"
+      "number": 6223,
+      "title": "Agent modular refactor merged main",
+      "url": "https://github.com/browser-use/browser-use/pull/6223",
+      "author": "MingXu-123",
+      "at": "2026-10-27T07:24:15Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6218,
-      "title": "Security: browser-use MCP server resets the browser security profile to allow-all when config.json cannot be parsed",
-      "url": "https://github.com/browser-use/browser-use/issues/6218",
-      "author": "EddieMurphy89",
-      "at": "2026-10-26T17:36:51Z"
+      "kind": "pr",
+      "number": 6221,
+      "title": "Preserve malformed browser security config",
+      "url": "https://github.com/browser-use/browser-use/pull/6221",
+      "author": "LydiaTools",
+      "at": "2026-10-26T22:48:43Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "0.13.14: Python agent and integration updates released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.14",
+      "author": "MagMueller",
+      "at": "2026-10-26T22:00:34Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5112,
-      "title": "[Bug]: Python GeminiProvider.handle_response executes a function call as whichever user last called tools.get()",
-      "url": "https://github.com/ComposioHQ/composio/issues/5112",
-      "author": "avanish-garg",
-      "at": "2026-10-26T15:36:30Z"
+      "kind": "pr",
+      "number": 5114,
+      "title": "docs: state the credential boundary where agents land",
+      "url": "https://github.com/ComposioHQ/composio/pull/5114",
+      "author": "olearycrew",
+      "at": "2026-10-26T19:59:51Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5109,
-      "title": "[Bug]: GOOGLEDRIVE_DOWNLOAD_FILE fails in file staging with Apollo 401 for shared XLSX files",
-      "url": "https://github.com/ComposioHQ/composio/issues/5109",
-      "author": "cmt-t",
-      "at": "2026-10-26T12:15:42Z"
+      "kind": "pr",
+      "number": 5113,
+      "title": "docs: redirect auth and security URLs that agents guess",
+      "url": "https://github.com/ComposioHQ/composio/pull/5113",
+      "author": "olearycrew",
+      "at": "2026-10-26T19:57:24Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2853,
-      "title": "docs: add Simplified Chinese translation (README.zh.md)",
-      "url": "https://github.com/567-labs/instructor/pull/2853",
-      "author": "JasonYeYuhe",
-      "at": "2026-10-26T04:03:08Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2852,
-      "title": "docs: select project extras in Poetry setup commands",
-      "url": "https://github.com/567-labs/instructor/pull/2852",
-      "author": "shuaiyafei",
-      "at": "2026-10-26T03:16:18Z"
+      "number": 2855,
+      "title": "fix(dsl): close upstream streams after iterable parsing stops",
+      "url": "https://github.com/567-labs/instructor/pull/2855",
+      "author": "Aurantium-47",
+      "at": "2026-10-27T03:52:38Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41507,
-      "title": "Multi-server MCPConfig tools all report MCPRouter as their server",
-      "url": "https://github.com/langchain-ai/langchain/issues/41507",
-      "author": "keenborder786",
-      "at": "2026-10-26T19:34:51Z"
+      "number": 41523,
+      "title": "Tool `config: RunnableConfig` parameter receives the parent config instead of the child config, so nested runnables are traced as siblings o",
+      "url": "https://github.com/langchain-ai/langchain/issues/41523",
+      "author": "Bear0117",
+      "at": "2026-10-27T08:39:11Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41504,
-      "title": "fix(core): preserve gateway tracing metadata in v3 streams",
-      "url": "https://github.com/langchain-ai/langchain/pull/41504",
-      "author": "eyurtsev",
-      "at": "2026-10-26T18:51:12Z"
+      "kind": "issue",
+      "number": 41522,
+      "title": "`HumanInTheLoopMiddleware` (batched mode) silently drops a reviewer's `edit` and runs the original tool call when the tool call id is an emp",
+      "url": "https://github.com/langchain-ai/langchain/issues/41522",
+      "author": "Bear0117",
+      "at": "2026-10-27T08:37:50Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 100769,
+      "title": "`@next/next/no-head-element` is silently skipped when the absolute file path contains `app/` (e.g. `webapp/`, `my-app/`, Docker `/app/`)",
+      "url": "https://github.com/vercel/next.js/issues/100769",
+      "author": "volker-attempto",
+      "at": "2026-10-27T08:37:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100747,
-      "title": "Remove the experimental.lockDistDir opt-out option",
-      "url": "https://github.com/vercel/next.js/pull/100747",
-      "author": "bgw",
-      "at": "2026-10-26T19:20:04Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100745,
-      "title": "Turbopack: Use an absolute path for the React Compiler Babel plugin in an additional root",
-      "url": "https://github.com/vercel/next.js/pull/100745",
-      "author": "bgw",
-      "at": "2026-10-26T18:47:14Z"
+      "number": 100768,
+      "title": "turbo-tasks-backend: fix private rustdoc links",
+      "url": "https://github.com/vercel/next.js/pull/100768",
+      "author": "sokra",
+      "at": "2026-10-27T08:05:40Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52338,
-      "title": "chore: Create new table on global supabase project. Add search fn improvements.",
-      "url": "https://github.com/supabase/supabase/pull/52338",
-      "author": "jeremenichelli",
-      "at": "2026-10-26T19:34:59Z"
+      "number": 52366,
+      "title": "fix(studio): gate plan panel queries on billing permissions",
+      "url": "https://github.com/supabase/supabase/pull/52366",
+      "author": "frpboy",
+      "at": "2026-10-27T06:14:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52337,
-      "title": "fix: preserve bracketed heading text in Markdown exports",
-      "url": "https://github.com/supabase/supabase/pull/52337",
-      "author": "Shubham-Padkonde",
-      "at": "2026-10-26T19:26:32Z"
+      "number": 52365,
+      "title": "fix(e2e/docs): scope reference link anchors to main content",
+      "url": "https://github.com/supabase/supabase/pull/52365",
+      "author": "frpboy",
+      "at": "2026-10-27T06:11:06Z"
     }
   ]
 }
