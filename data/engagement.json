@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-28T09:20:29.277Z",
-  "count": 9,
+  "updatedAt": "2026-10-28T19:17:15.630Z",
+  "count": 10,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6227,
+      "title": "Add Pidgeon integration example: sign up with an emailed verification code",
+      "url": "https://github.com/browser-use/browser-use/pull/6227",
+      "author": "patrickcneuhaus",
+      "at": "2026-10-28T19:06:45Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/pull/6226",
       "author": "eddyflores100-lang",
       "at": "2026-10-28T01:40:12Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6224,
-      "title": "feat(examples): add Telegram bot integration",
-      "url": "https://github.com/browser-use/browser-use/pull/6224",
-      "author": "salomh46-rgb",
-      "at": "2026-10-27T09:21:53Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,59 +47,70 @@
       "at": "2026-10-27T23:58:30Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 100819,
-      "title": "test: fix native addon compilation on Node.js 26",
-      "url": "https://github.com/vercel/next.js/pull/100819",
-      "author": "mischnic",
-      "at": "2026-10-28T09:06:47Z"
+      "number": 41549,
+      "title": "feat(openai): support Decisions API GA capabilities",
+      "url": "https://github.com/langchain-ai/langchain/pull/41549",
+      "author": "ccurme",
+      "at": "2026-10-28T14:50:33Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41545,
+      "title": "`parse_partial_json` drops a key while a streamed chunk ends inside a `\\uXXXX` escape",
+      "url": "https://github.com/langchain-ai/langchain/issues/41545",
+      "author": "canblmz1",
+      "at": "2026-10-28T09:30:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100818,
-      "title": "Use fast-jwt instead of jsonwebtoken",
-      "url": "https://github.com/vercel/next.js/pull/100818",
-      "author": "mischnic",
-      "at": "2026-10-28T08:57:04Z"
+      "number": 100852,
+      "title": "Turbopack: use analyzed references for fragment facades",
+      "url": "https://github.com/vercel/next.js/pull/100852",
+      "author": "jimmyhmiller",
+      "at": "2026-10-28T19:07:51Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100851,
+      "title": "Reopening build dependencies",
+      "url": "https://github.com/vercel/next.js/pull/100851",
+      "author": "jimmyhmiller",
+      "at": "2026-10-28T19:01:42Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52439,
-      "title": "chore(deps): bump react-hook-form to unblock fresh builds",
-      "url": "https://github.com/supabase/supabase/pull/52439",
-      "author": "jordienr",
-      "at": "2026-10-28T09:15:20Z"
+      "number": 52473,
+      "title": "docs: move preview branches on Vercel to its own page",
+      "url": "https://github.com/supabase/supabase/pull/52473",
+      "author": "czenko",
+      "at": "2026-10-28T18:40:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52436,
-      "title": "docs(storage): note HEAD requests are not cached by Smart CDN",
-      "url": "https://github.com/supabase/supabase/pull/52436",
-      "author": "thewheat",
-      "at": "2026-10-28T06:56:30Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2248,
-      "title": "feat: upgrade scaffolded projects to Next.js 16",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2248",
-      "author": "CuriouslyCory",
-      "at": "2026-09-29T00:25:02Z"
+      "number": 52471,
+      "title": "docs: move the explain() guide to guides/api/query-plans",
+      "url": "https://github.com/supabase/supabase/pull/52471",
+      "author": "czenko",
+      "at": "2026-10-28T18:37:14Z"
     }
   ]
 }
