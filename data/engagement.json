@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-27T19:10:29.360Z",
-  "count": 13,
+  "updatedAt": "2026-10-28T09:20:29.277Z",
+  "count": 9,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6226,
+      "title": "feat(mcp): add trust verification before browser tool execution",
+      "url": "https://github.com/browser-use/browser-use/pull/6226",
+      "author": "eddyflores100-lang",
+      "at": "2026-10-28T01:40:12Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,125 +25,70 @@
       "at": "2026-10-27T09:21:53Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 6223,
-      "title": "Agent modular refactor merged main",
-      "url": "https://github.com/browser-use/browser-use/pull/6223",
-      "author": "MingXu-123",
-      "at": "2026-10-27T07:24:15Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "0.13.14: Python agent and integration updates released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/0.13.14",
-      "author": "MagMueller",
-      "at": "2026-10-26T22:00:34Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5136,
-      "title": "refactor(cli): declare shared-flag support and map commands to files",
-      "url": "https://github.com/ComposioHQ/composio/pull/5136",
-      "author": "jkomyno",
-      "at": "2026-10-27T17:59:48Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5135,
-      "title": "refactor(cli): run hooks and the login gate from command metadata",
-      "url": "https://github.com/ComposioHQ/composio/pull/5135",
-      "author": "jkomyno",
-      "at": "2026-10-27T17:36:45Z"
+      "number": 2858,
+      "title": "fix(cache): distinguish legacy entries with a business model field",
+      "url": "https://github.com/567-labs/instructor/pull/2858",
+      "author": "Lushiyao5",
+      "at": "2026-10-27T23:58:36Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2855,
-      "title": "fix(dsl): close upstream streams after iterable parsing stops",
-      "url": "https://github.com/567-labs/instructor/pull/2855",
-      "author": "Aurantium-47",
-      "at": "2026-10-27T03:52:38Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41532,
-      "title": "fix(model-profiles): correct refresh output filename and working directory in docs",
-      "url": "https://github.com/langchain-ai/langchain/pull/41532",
-      "author": "zydo",
-      "at": "2026-10-27T18:53:41Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41528,
-      "title": "Chroma.similarity_search_by_image_with_relevance_score passes nested list as query embedding (missing [0] unpack)",
-      "url": "https://github.com/langchain-ai/langchain/issues/41528",
-      "author": "ryan1234814",
-      "at": "2026-10-27T17:15:42Z"
+      "number": 2857,
+      "title": "fix(batch): reject token-limited responses instead of accepting defaults",
+      "url": "https://github.com/567-labs/instructor/pull/2857",
+      "author": "Lushiyao5",
+      "at": "2026-10-27T23:58:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100803,
-      "title": "turbo-tasks-backend: separate edge-removal queue, fan out large job batches, back off spinning removals",
-      "url": "https://github.com/vercel/next.js/pull/100803",
-      "author": "sokra",
-      "at": "2026-10-27T18:29:23Z"
+      "number": 100819,
+      "title": "test: fix native addon compilation on Node.js 26",
+      "url": "https://github.com/vercel/next.js/pull/100819",
+      "author": "mischnic",
+      "at": "2026-10-28T09:06:47Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100802,
-      "title": "Create cache directory before persisting Chrome DevTools workspace UUID",
-      "url": "https://github.com/vercel/next.js/pull/100802",
-      "author": "sokra",
-      "at": "2026-10-27T18:28:12Z"
+      "number": 100818,
+      "title": "Use fast-jwt instead of jsonwebtoken",
+      "url": "https://github.com/vercel/next.js/pull/100818",
+      "author": "mischnic",
+      "at": "2026-10-28T08:57:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52419,
-      "title": "docs: Add John Murret to humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/52419",
-      "author": "jmurret",
-      "at": "2026-10-27T18:36:27Z"
+      "number": 52439,
+      "title": "chore(deps): bump react-hook-form to unblock fresh builds",
+      "url": "https://github.com/supabase/supabase/pull/52439",
+      "author": "jordienr",
+      "at": "2026-10-28T09:15:20Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52418,
-      "title": "fix(docs): use string for smtp_port in custom SMTP ",
-      "url": "https://github.com/supabase/supabase/pull/52418",
-      "author": "sharmao07",
-      "at": "2026-10-27T18:31:42Z"
+      "number": 52436,
+      "title": "docs(storage): note HEAD requests are not cached by Smart CDN",
+      "url": "https://github.com/supabase/supabase/pull/52436",
+      "author": "thewheat",
+      "at": "2026-10-28T06:56:30Z"
     },
     {
       "founder": "Theo Browne",
