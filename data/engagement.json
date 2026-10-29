@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-10-28T19:17:15.630Z",
-  "count": 10,
+  "updatedAt": "2026-10-29T09:25:18.650Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6227,
-      "title": "Add Pidgeon integration example: sign up with an emailed verification code",
-      "url": "https://github.com/browser-use/browser-use/pull/6227",
-      "author": "patrickcneuhaus",
-      "at": "2026-10-28T19:06:45Z"
+      "kind": "issue",
+      "number": 6233,
+      "title": "feat(security): Invariant Action Guard to block credential exfiltration domains & destructive DOM actions",
+      "url": "https://github.com/browser-use/browser-use/issues/6233",
+      "author": "staccFoxx",
+      "at": "2026-10-29T02:33:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6226,
-      "title": "feat(mcp): add trust verification before browser tool execution",
-      "url": "https://github.com/browser-use/browser-use/pull/6226",
-      "author": "eddyflores100-lang",
-      "at": "2026-10-28T01:40:12Z"
+      "number": 6232,
+      "title": "docs(skills): fix stale TIMEOUT_TabClosedEvent default",
+      "url": "https://github.com/browser-use/browser-use/pull/6232",
+      "author": "jrlprost",
+      "at": "2026-10-29T00:54:52Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5149,
+      "title": "docs: update managed polling minimum from 15 to 2 minutes",
+      "url": "https://github.com/ComposioHQ/composio/pull/5149",
+      "author": "lingala-composio",
+      "at": "2026-10-29T06:57:07Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2858,
-      "title": "fix(cache): distinguish legacy entries with a business model field",
-      "url": "https://github.com/567-labs/instructor/pull/2858",
-      "author": "Lushiyao5",
-      "at": "2026-10-27T23:58:36Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2857,
-      "title": "fix(batch): reject token-limited responses instead of accepting defaults",
-      "url": "https://github.com/567-labs/instructor/pull/2857",
-      "author": "Lushiyao5",
-      "at": "2026-10-27T23:58:30Z"
+      "number": 2855,
+      "title": "fix(dsl): close upstream streams after iterable parsing stops",
+      "url": "https://github.com/567-labs/instructor/pull/2855",
+      "author": "Aurantium-47",
+      "at": "2026-10-27T03:52:38Z"
     },
     {
       "founder": "Harrison Chase",
@@ -58,59 +58,37 @@
       "at": "2026-10-28T14:50:33Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 100878,
+      "title": "fix: load custom cacheHandler in standalone apps built from a subfolder",
+      "url": "https://github.com/vercel/next.js/pull/100878",
+      "author": "abhiramshaji-cyber",
+      "at": "2026-10-29T08:09:33Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52486,
+      "title": "docs(auth): fix OAuth grant examples",
+      "url": "https://github.com/supabase/supabase/pull/52486",
+      "author": "us8024435-debug",
+      "at": "2026-10-29T08:12:29Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 41545,
-      "title": "`parse_partial_json` drops a key while a streamed chunk ends inside a `\\uXXXX` escape",
-      "url": "https://github.com/langchain-ai/langchain/issues/41545",
-      "author": "canblmz1",
-      "at": "2026-10-28T09:30:59Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100852,
-      "title": "Turbopack: use analyzed references for fragment facades",
-      "url": "https://github.com/vercel/next.js/pull/100852",
-      "author": "jimmyhmiller",
-      "at": "2026-10-28T19:07:51Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 100851,
-      "title": "Reopening build dependencies",
-      "url": "https://github.com/vercel/next.js/pull/100851",
-      "author": "jimmyhmiller",
-      "at": "2026-10-28T19:01:42Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 52473,
-      "title": "docs: move preview branches on Vercel to its own page",
-      "url": "https://github.com/supabase/supabase/pull/52473",
-      "author": "czenko",
-      "at": "2026-10-28T18:40:06Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 52471,
-      "title": "docs: move the explain() guide to guides/api/query-plans",
-      "url": "https://github.com/supabase/supabase/pull/52471",
-      "author": "czenko",
-      "at": "2026-10-28T18:37:14Z"
+      "number": 52484,
+      "title": "passqword recovery failure",
+      "url": "https://github.com/supabase/supabase/issues/52484",
+      "author": "jakebalidio4-maker",
+      "at": "2026-10-29T07:10:17Z"
     }
   ]
 }
