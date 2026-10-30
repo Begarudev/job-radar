@@ -1,94 +1,127 @@
 {
-  "updatedAt": "2026-10-30T09:38:57.760Z",
-  "count": 8,
+  "updatedAt": "2026-10-30T18:57:07.687Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6243,
-      "title": "fix(browser): defer default download directory creation",
-      "url": "https://github.com/browser-use/browser-use/pull/6243",
-      "author": "Aafimalek",
-      "at": "2026-10-30T08:20:01Z"
+      "number": 6256,
+      "title": "feat(llm): add native ChatZhipuAI and ChatZai support with GLM-5.3 models",
+      "url": "https://github.com/browser-use/browser-use/pull/6256",
+      "author": "DewellNaa",
+      "at": "2026-10-30T16:13:29Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6242,
-      "title": "fix(browser): skip degenerate quads in get_element_coordinates",
-      "url": "https://github.com/browser-use/browser-use/pull/6242",
-      "author": "user-Param",
-      "at": "2026-10-30T06:47:12Z"
+      "number": 6255,
+      "title": "fix(config): fail closed when config.json exists but cannot be parsed",
+      "url": "https://github.com/browser-use/browser-use/pull/6255",
+      "author": "lester076",
+      "at": "2026-10-30T15:43:53Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5173,
+      "title": "Login failure",
+      "url": "https://github.com/ComposioHQ/composio/issues/5173",
+      "author": "animalcrossingfurry",
+      "at": "2026-10-30T18:50:11Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2727,
-      "title": "fix(streaming): defer data-aware defaults until validation",
-      "url": "https://github.com/567-labs/instructor/pull/2727",
-      "author": "Ytq1115",
-      "at": "2026-09-30T06:48:40Z"
+      "number": 2859,
+      "title": "feat(providers): add native support for ZhipuAI and Z.ai",
+      "url": "https://github.com/567-labs/instructor/pull/2859",
+      "author": "DewellNaa",
+      "at": "2026-10-30T16:40:15Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41583,
+      "title": "EarlyReturnMiddleware: dynamically short-circuit the last LLM call of an agentic loop invocation",
+      "url": "https://github.com/langchain-ai/langchain/issues/41583",
+      "author": "eric-burel",
+      "at": "2026-10-30T18:08:31Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41582,
+      "title": "feat(core): standardize model refusal content blocks",
+      "url": "https://github.com/langchain-ai/langchain/pull/41582",
+      "author": "hntrl",
+      "at": "2026-10-30T17:30:23Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100947,
-      "title": "Reland \"perf(turbopack): canonicalize async loader availability\"",
-      "url": "https://github.com/vercel/next.js/pull/100947",
-      "author": "mischnic",
-      "at": "2026-10-30T09:38:31Z"
+      "number": 100974,
+      "title": "[lts-active] fix(analyze): use route summaries as the analyzer route index",
+      "url": "https://github.com/vercel/next.js/pull/100974",
+      "author": "wbinnssmith",
+      "at": "2026-10-30T18:41:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100944,
-      "title": "Filter prerender abort rejections by digest when no work unit store is available",
-      "url": "https://github.com/vercel/next.js/pull/100944",
-      "author": "EnesKartal",
-      "at": "2026-10-30T08:25:10Z"
+      "number": 100973,
+      "title": "Turbopack: use simd-utf16-len for source position column counting",
+      "url": "https://github.com/vercel/next.js/pull/100973",
+      "author": "lukesandberg",
+      "at": "2026-10-30T18:38:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52545,
-      "title": "[FE-4809] fix(studio): group HA topology by shardRef",
-      "url": "https://github.com/supabase/supabase/pull/52545",
-      "author": "alaister",
-      "at": "2026-10-30T08:47:03Z"
+      "number": 52568,
+      "title": "docs: stop repeating the description in guide subtitles",
+      "url": "https://github.com/supabase/supabase/pull/52568",
+      "author": "czenko",
+      "at": "2026-10-30T18:56:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52544,
-      "title": "feat(studio): send role passwords as precomputed SCRAM-SHA-256 verifiers",
-      "url": "https://github.com/supabase/supabase/pull/52544",
-      "author": "drewm",
-      "at": "2026-10-30T08:13:21Z"
+      "number": 52567,
+      "title": "fix(ui-library) - add in core SEO features",
+      "url": "https://github.com/supabase/supabase/pull/52567",
+      "author": "kodster28",
+      "at": "2026-10-30T18:50:36Z"
     },
     {
       "founder": "Erik Bernhardsson",
       "company": "Modal",
       "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4149,
-      "title": "`Image.from_dockerfile` with a relative path never finds `Dockerfile.dockerignore`, so ignore rules never apply",
-      "url": "https://github.com/modal-labs/modal-client/issues/4149",
-      "author": "chrikrah",
-      "at": "2026-10-29T16:14:23Z"
+      "number": 4123,
+      "title": "Setup OIDC flow for npm modal pkg",
+      "url": "https://github.com/modal-labs/modal-client/issues/4123",
+      "author": "wardpeet",
+      "at": "2026-07-20T14:37:41Z"
     }
   ]
 }
