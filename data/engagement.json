@@ -1,116 +1,83 @@
 {
-  "updatedAt": "2026-10-29T19:23:04.667Z",
-  "count": 11,
+  "updatedAt": "2026-10-30T09:38:57.760Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6236,
-      "title": "fix(tokens): honor zero cache retention",
-      "url": "https://github.com/browser-use/browser-use/pull/6236",
-      "author": "elysiopires",
-      "at": "2026-10-29T18:59:09Z"
+      "number": 6243,
+      "title": "fix(browser): defer default download directory creation",
+      "url": "https://github.com/browser-use/browser-use/pull/6243",
+      "author": "Aafimalek",
+      "at": "2026-10-30T08:20:01Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6235,
-      "title": "Bug: clean_old_caches(keep_count=0) retains every pricing cache",
-      "url": "https://github.com/browser-use/browser-use/issues/6235",
-      "author": "elysiopires",
-      "at": "2026-10-29T18:58:41Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5155,
-      "title": "docs: restore the proxy execute meta-tool reference",
-      "url": "https://github.com/ComposioHQ/composio/pull/5155",
-      "author": "jkomyno",
-      "at": "2026-10-29T19:22:37Z"
+      "number": 6242,
+      "title": "fix(browser): skip degenerate quads in get_element_coordinates",
+      "url": "https://github.com/browser-use/browser-use/pull/6242",
+      "author": "user-Param",
+      "at": "2026-10-30T06:47:12Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5154,
-      "title": "docs: clarify managed auth for custom tools and improve discovery (P0)",
-      "url": "https://github.com/ComposioHQ/composio/pull/5154",
-      "author": "olearycrew",
-      "at": "2026-10-29T18:31:24Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41563,
-      "title": "chore(infra): ask how bug reports were discovered",
-      "url": "https://github.com/langchain-ai/langchain/pull/41563",
-      "author": "ccurme",
-      "at": "2026-10-29T19:19:55Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41560,
-      "title": "XMLOutputParser.transform() has quadratic runtime on non-XML streaming prefixes",
-      "url": "https://github.com/langchain-ai/langchain/issues/41560",
-      "author": "Zam-M",
-      "at": "2026-10-29T15:57:10Z"
+      "number": 2727,
+      "title": "fix(streaming): defer data-aware defaults until validation",
+      "url": "https://github.com/567-labs/instructor/pull/2727",
+      "author": "Ytq1115",
+      "at": "2026-09-30T06:48:40Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100910,
-      "title": "[test] Cover cache reuse after failed handler writes",
-      "url": "https://github.com/vercel/next.js/pull/100910",
-      "author": "unstubbable",
-      "at": "2026-10-29T19:21:08Z"
+      "number": 100947,
+      "title": "Reland \"perf(turbopack): canonicalize async loader availability\"",
+      "url": "https://github.com/vercel/next.js/pull/100947",
+      "author": "mischnic",
+      "at": "2026-10-30T09:38:31Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100909,
-      "title": "[test] Cover concurrent cache writes for root params",
-      "url": "https://github.com/vercel/next.js/pull/100909",
-      "author": "unstubbable",
-      "at": "2026-10-29T19:21:01Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 52520,
-      "title": "UI/UX: Keep bottom action buttons visible when selecting storage policy operations",
-      "url": "https://github.com/supabase/supabase/issues/52520",
-      "author": "DevashishNayak",
-      "at": "2026-10-29T19:06:16Z"
+      "number": 100944,
+      "title": "Filter prerender abort rejections by digest when no work unit store is available",
+      "url": "https://github.com/vercel/next.js/pull/100944",
+      "author": "EnesKartal",
+      "at": "2026-10-30T08:25:10Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52518,
-      "title": "feat(docs): feedback widget",
-      "url": "https://github.com/supabase/supabase/pull/52518",
-      "author": "antlio",
-      "at": "2026-10-29T17:09:37Z"
+      "number": 52545,
+      "title": "[FE-4809] fix(studio): group HA topology by shardRef",
+      "url": "https://github.com/supabase/supabase/pull/52545",
+      "author": "alaister",
+      "at": "2026-10-30T08:47:03Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52544,
+      "title": "feat(studio): send role passwords as precomputed SCRAM-SHA-256 verifiers",
+      "url": "https://github.com/supabase/supabase/pull/52544",
+      "author": "drewm",
+      "at": "2026-10-30T08:13:21Z"
     },
     {
       "founder": "Erik Bernhardsson",
