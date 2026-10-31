@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T18:57:07.687Z",
+  "updatedAt": "2026-10-31T09:18:48.499Z",
   "count": 11,
   "signals": [
     {
@@ -7,110 +7,110 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6256,
-      "title": "feat(llm): add native ChatZhipuAI and ChatZai support with GLM-5.3 models",
-      "url": "https://github.com/browser-use/browser-use/pull/6256",
-      "author": "DewellNaa",
-      "at": "2026-10-30T16:13:29Z"
+      "number": 6263,
+      "title": "fix(gmail): honor minute and hour time windows",
+      "url": "https://github.com/browser-use/browser-use/pull/6263",
+      "author": "shuaiyafei",
+      "at": "2026-10-31T08:39:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6255,
-      "title": "fix(config): fail closed when config.json exists but cannot be parsed",
-      "url": "https://github.com/browser-use/browser-use/pull/6255",
-      "author": "lester076",
-      "at": "2026-10-30T15:43:53Z"
+      "number": 6262,
+      "title": "fix(schema): copy instance data as-is, don't recurse as schema (#6215)",
+      "url": "https://github.com/browser-use/browser-use/pull/6262",
+      "author": "user-Param",
+      "at": "2026-10-31T05:13:05Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5173,
-      "title": "Login failure",
-      "url": "https://github.com/ComposioHQ/composio/issues/5173",
-      "author": "animalcrossingfurry",
-      "at": "2026-10-30T18:50:11Z"
+      "kind": "pr",
+      "number": 5175,
+      "title": "fix(python): handle boolean oneOf branches in field descriptions",
+      "url": "https://github.com/ComposioHQ/composio/pull/5175",
+      "author": "rbous",
+      "at": "2026-10-31T06:24:06Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2859,
-      "title": "feat(providers): add native support for ZhipuAI and Z.ai",
-      "url": "https://github.com/567-labs/instructor/pull/2859",
-      "author": "DewellNaa",
-      "at": "2026-10-30T16:40:15Z"
+      "number": 2862,
+      "title": "fix(parallel): reject ambiguous response model tool names",
+      "url": "https://github.com/567-labs/instructor/pull/2862",
+      "author": "Yushu-Li",
+      "at": "2026-10-31T06:06:52Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2861,
+      "title": "Project OpenAI Responses API usage onto the running Chat Completion usage accumulator",
+      "url": "https://github.com/567-labs/instructor/pull/2861",
+      "author": "linhongyu510",
+      "at": "2026-10-31T04:53:31Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41583,
-      "title": "EarlyReturnMiddleware: dynamically short-circuit the last LLM call of an agentic loop invocation",
-      "url": "https://github.com/langchain-ai/langchain/issues/41583",
-      "author": "eric-burel",
-      "at": "2026-10-30T18:08:31Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41582,
-      "title": "feat(core): standardize model refusal content blocks",
-      "url": "https://github.com/langchain-ai/langchain/pull/41582",
-      "author": "hntrl",
-      "at": "2026-10-30T17:30:23Z"
+      "number": 41603,
+      "title": "mistralai: the text of an assistant message that also has tool calls is dropped from the conversation history",
+      "url": "https://github.com/langchain-ai/langchain/issues/41603",
+      "author": "Jingyi-A-Chen",
+      "at": "2026-10-31T08:31:54Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100974,
-      "title": "[lts-active] fix(analyze): use route summaries as the analyzer route index",
-      "url": "https://github.com/vercel/next.js/pull/100974",
-      "author": "wbinnssmith",
-      "at": "2026-10-30T18:41:04Z"
+      "number": 100997,
+      "title": "[ci] Use latest Node.js in future compatibility mode",
+      "url": "https://github.com/vercel/next.js/pull/100997",
+      "author": "eps1lon",
+      "at": "2026-10-31T08:01:20Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100973,
-      "title": "Turbopack: use simd-utf16-len for source position column counting",
-      "url": "https://github.com/vercel/next.js/pull/100973",
-      "author": "lukesandberg",
-      "at": "2026-10-30T18:38:08Z"
+      "number": 100996,
+      "title": "[ci] Add scheduled future compatibility checks for deprecations",
+      "url": "https://github.com/vercel/next.js/pull/100996",
+      "author": "eps1lon",
+      "at": "2026-10-31T08:01:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52568,
-      "title": "docs: stop repeating the description in guide subtitles",
-      "url": "https://github.com/supabase/supabase/pull/52568",
-      "author": "czenko",
-      "at": "2026-10-30T18:56:15Z"
+      "number": 52584,
+      "title": "fix(docs): update outdated team stats in who-we-hire (#52582)",
+      "url": "https://github.com/supabase/supabase/pull/52584",
+      "author": "user-Param",
+      "at": "2026-10-31T05:17:28Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52567,
-      "title": "fix(ui-library) - add in core SEO features",
-      "url": "https://github.com/supabase/supabase/pull/52567",
-      "author": "kodster28",
-      "at": "2026-10-30T18:50:36Z"
+      "number": 52583,
+      "title": "docs(storage): replace retired gpt-4 in the vector querying guide",
+      "url": "https://github.com/supabase/supabase/pull/52583",
+      "author": "pcbeingused333",
+      "at": "2026-10-31T04:30:56Z"
     },
     {
       "founder": "Erik Bernhardsson",
