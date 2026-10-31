@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-10-31T09:18:48.499Z",
-  "count": 11,
+  "updatedAt": "2026-10-31T18:07:32.525Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6263,
-      "title": "fix(gmail): honor minute and hour time windows",
-      "url": "https://github.com/browser-use/browser-use/pull/6263",
-      "author": "shuaiyafei",
-      "at": "2026-10-31T08:39:12Z"
+      "kind": "issue",
+      "number": 6278,
+      "title": "Bug: MCPClient crashes on JSON Schema type arrays during tool registration",
+      "url": "https://github.com/browser-use/browser-use/issues/6278",
+      "author": "lokesh0186",
+      "at": "2026-10-31T16:27:24Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6262,
-      "title": "fix(schema): copy instance data as-is, don't recurse as schema (#6215)",
-      "url": "https://github.com/browser-use/browser-use/pull/6262",
-      "author": "user-Param",
-      "at": "2026-10-31T05:13:05Z"
+      "number": 6277,
+      "title": "fix(dom): treat snapshot stackingContexts as RareBooleanData indices",
+      "url": "https://github.com/browser-use/browser-use/pull/6277",
+      "author": "HhH666-ux",
+      "at": "2026-10-31T15:07:21Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5175,
-      "title": "fix(python): handle boolean oneOf branches in field descriptions",
-      "url": "https://github.com/ComposioHQ/composio/pull/5175",
-      "author": "rbous",
-      "at": "2026-10-31T06:24:06Z"
+      "number": 5177,
+      "title": "fix(docs): expose supported providers in HTML and Markdown",
+      "url": "https://github.com/ComposioHQ/composio/pull/5177",
+      "author": "olearycrew",
+      "at": "2026-10-31T12:39:51Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5176,
+      "title": "fix(docs): restore legacy authentication and MCP links",
+      "url": "https://github.com/ComposioHQ/composio/pull/5176",
+      "author": "olearycrew",
+      "at": "2026-10-31T12:28:43Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,6 +73,17 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
+      "number": 41605,
+      "title": "with_structured_output with dict/JSON schema silently returns None on unrecognized tool name",
+      "url": "https://github.com/langchain-ai/langchain/issues/41605",
+      "author": "shadowmodder",
+      "at": "2026-10-31T12:30:10Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
       "number": 41603,
       "title": "mistralai: the text of an assistant message that also has tool calls is dropped from the conversation history",
       "url": "https://github.com/langchain-ai/langchain/issues/41603",
@@ -73,55 +95,44 @@
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100997,
-      "title": "[ci] Use latest Node.js in future compatibility mode",
-      "url": "https://github.com/vercel/next.js/pull/100997",
-      "author": "eps1lon",
-      "at": "2026-10-31T08:01:20Z"
+      "number": 101004,
+      "title": "fix: exclude non-prefetchable cache entries from RDC",
+      "url": "https://github.com/vercel/next.js/pull/101004",
+      "author": "ahmedgabrrr",
+      "at": "2026-10-31T15:38:56Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 100996,
-      "title": "[ci] Add scheduled future compatibility checks for deprecations",
-      "url": "https://github.com/vercel/next.js/pull/100996",
+      "number": 101003,
+      "title": "[no-unsafe-inline] Test streaming without framework JavaScript",
+      "url": "https://github.com/vercel/next.js/pull/101003",
       "author": "eps1lon",
-      "at": "2026-10-31T08:01:15Z"
+      "at": "2026-10-31T12:58:01Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52584,
-      "title": "fix(docs): update outdated team stats in who-we-hire (#52582)",
-      "url": "https://github.com/supabase/supabase/pull/52584",
-      "author": "user-Param",
-      "at": "2026-10-31T05:17:28Z"
+      "number": 52590,
+      "title": "fix(studio): stop csp-blocked images from failing feedback screenshots",
+      "url": "https://github.com/supabase/supabase/pull/52590",
+      "author": "antlio",
+      "at": "2026-10-31T13:26:18Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
       "kind": "pr",
-      "number": 52583,
-      "title": "docs(storage): replace retired gpt-4 in the vector querying guide",
-      "url": "https://github.com/supabase/supabase/pull/52583",
-      "author": "pcbeingused333",
-      "at": "2026-10-31T04:30:56Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4123,
-      "title": "Setup OIDC flow for npm modal pkg",
-      "url": "https://github.com/modal-labs/modal-client/issues/4123",
-      "author": "wardpeet",
-      "at": "2026-07-20T14:37:41Z"
+      "number": 1634,
+      "title": "feat: add Desearch MCP search flow example",
+      "url": "https://github.com/julep-ai/julep/pull/1634",
+      "author": "Chkhikvadze",
+      "at": "2026-10-31T10:57:37Z"
     }
   ]
 }
