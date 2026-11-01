@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T10:07:07.582Z",
+  "updatedAt": "2026-11-01T18:42:59.918Z",
   "count": 8,
   "signals": [
     {
@@ -7,22 +7,22 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6283,
-      "title": "fix(browser): multicast Network.responseReceived to HAR and Downloads watchdogs",
-      "url": "https://github.com/browser-use/browser-use/pull/6283",
+      "number": 6286,
+      "title": "fix(browser): only the recovery owner resets recovery state",
+      "url": "https://github.com/browser-use/browser-use/pull/6286",
       "author": "yuee3",
-      "at": "2026-11-01T09:38:22Z"
+      "at": "2026-11-01T14:07:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6282,
-      "title": "docs: clarify pytest parallel execution",
-      "url": "https://github.com/browser-use/browser-use/pull/6282",
-      "author": "Aafimalek",
-      "at": "2026-11-01T09:24:09Z"
+      "number": 6285,
+      "title": "Replace deprecated asyncio.get_event_loop() with asyncio.get_running_loop() in filesystem module",
+      "url": "https://github.com/browser-use/browser-use/pull/6285",
+      "author": "LVsarff",
+      "at": "2026-11-01T13:02:53Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -36,26 +36,26 @@
       "at": "2026-10-31T22:00:07Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5177,
-      "title": "fix(docs): expose supported providers in HTML and Markdown",
-      "url": "https://github.com/ComposioHQ/composio/pull/5177",
-      "author": "olearycrew",
-      "at": "2026-10-31T12:39:51Z"
+      "number": 2864,
+      "title": "fix(providers): retry Mistral reask when response has no choices",
+      "url": "https://github.com/567-labs/instructor/pull/2864",
+      "author": "shadowmodder",
+      "at": "2026-11-01T16:06:33Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2749,
-      "title": "Gemini JSON reask handler crashes when response.text raises ValueError",
-      "url": "https://github.com/567-labs/instructor/pull/2749",
+      "number": 2863,
+      "title": "fix(providers): tolerate empty completion choices in reask handlers",
+      "url": "https://github.com/567-labs/instructor/pull/2863",
       "author": "feiiiiii5",
-      "at": "2026-10-05T16:50:31Z"
+      "at": "2026-11-01T11:12:43Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -69,6 +69,17 @@
       "at": "2026-11-01T09:51:01Z"
     },
     {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52611,
+      "title": "fix(studio): enumerated types ui",
+      "url": "https://github.com/supabase/supabase/pull/52611",
+      "author": "Hallidayo",
+      "at": "2026-11-01T16:05:26Z"
+    },
+    {
       "founder": "Erik Bernhardsson",
       "company": "Modal",
       "repo": "modal-labs/modal-client",
@@ -78,17 +89,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4150",
       "author": "tdsmith",
       "at": "2026-10-31T18:46:16Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1634,
-      "title": "feat: add Desearch MCP search flow example",
-      "url": "https://github.com/julep-ai/julep/pull/1634",
-      "author": "Chkhikvadze",
-      "at": "2026-10-31T10:57:37Z"
     }
   ]
 }
