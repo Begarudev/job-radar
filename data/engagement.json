@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-02T10:35:37.883Z",
-  "count": 10,
+  "updatedAt": "2026-11-02T22:33:46.067Z",
+  "count": 15,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 6290,
+      "title": "Browser Use was independently reviewed on Hlido — scored 78/100, right of reply open",
+      "url": "https://github.com/browser-use/browser-use/issues/6290",
+      "author": "ankitkapur1992-hlido",
+      "at": "2026-11-02T11:00:52Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,15 +25,15 @@
       "at": "2026-11-02T08:19:21Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6288,
-      "title": "fix(mcp): support JSON Schema type arrays during tool registration (#6278)",
-      "url": "https://github.com/browser-use/browser-use/pull/6288",
-      "author": "ghazy2001",
-      "at": "2026-11-01T20:25:23Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5189,
+      "title": "refactor(cli): remove legacy argv compatibility behavior",
+      "url": "https://github.com/ComposioHQ/composio/issues/5189",
+      "author": "jkomyno",
+      "at": "2026-11-02T17:15:42Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -40,6 +51,17 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
+      "number": 2869,
+      "title": "fix(multimodal): do not stat raw Base64 PDF sources in to_bedrock",
+      "url": "https://github.com/567-labs/instructor/pull/2869",
+      "author": "phanipaladugula",
+      "at": "2026-11-02T21:08:05Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
       "number": 2868,
       "title": "fix(multimodal): handle raw Base64 PDF names",
       "url": "https://github.com/567-labs/instructor/pull/2868",
@@ -47,70 +69,103 @@
       "at": "2026-11-02T10:23:25Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2867,
-      "title": "PDF.to_bedrock fails to infer a name for raw Base64 PDFs",
-      "url": "https://github.com/567-labs/instructor/issues/2867",
-      "author": "bosprimigenious",
-      "at": "2026-11-02T10:14:05Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41646,
+      "title": "feat(anthropic): support per-message reasoning effort via configuration_update",
+      "url": "https://github.com/langchain-ai/langchain/pull/41646",
+      "author": "hntrl",
+      "at": "2026-11-02T21:44:13Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41625,
-      "title": "`create_agent` ends the run on an Anthropic `pause_turn` response (server tools such as web search)",
-      "url": "https://github.com/langchain-ai/langchain/issues/41625",
-      "author": "alex-feel",
-      "at": "2026-11-02T07:34:56Z"
+      "kind": "pr",
+      "number": 41645,
+      "title": "fix(langchain): call `ClientGroup` MCP tools through their own member client",
+      "url": "https://github.com/langchain-ai/langchain/pull/41645",
+      "author": "hntrl",
+      "at": "2026-11-02T21:33:52Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101033,
-      "title": "[lts-active] Backport docs fixes since v16.4.0",
-      "url": "https://github.com/vercel/next.js/pull/101033",
-      "author": "icyJoseph",
-      "at": "2026-11-02T10:32:57Z"
+      "number": 101059,
+      "title": "turbopack: reference source text in sourcesContent and cache only final minified factories",
+      "url": "https://github.com/vercel/next.js/pull/101059",
+      "author": "lukesandberg",
+      "at": "2026-11-02T21:53:16Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101032,
-      "title": "test: fetch cache misses",
-      "url": "https://github.com/vercel/next.js/pull/101032",
+      "number": 101057,
+      "title": "Turbopack: restore bounded filesystem tracing",
+      "url": "https://github.com/vercel/next.js/pull/101057",
       "author": "mischnic",
-      "at": "2026-11-02T10:31:07Z"
+      "at": "2026-11-02T21:04:49Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.4.4 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.4",
+      "author": "eps1lon",
+      "at": "2026-11-02T16:41:08Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52629,
-      "title": "Joshenlim/fe 3931 re phone mfa enrollment repeatedly force disabled despite",
-      "url": "https://github.com/supabase/supabase/pull/52629",
-      "author": "joshenlim",
-      "at": "2026-11-02T08:42:21Z"
+      "number": 52666,
+      "title": "docs: document broadcast persistence in the Realtime protocol",
+      "url": "https://github.com/supabase/supabase/pull/52666",
+      "author": "leandrocp",
+      "at": "2026-11-02T21:45:09Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52628,
-      "title": "fix(studio): select full folder name when renaming in Storage",
-      "url": "https://github.com/supabase/supabase/pull/52628",
-      "author": "rxxeron",
-      "at": "2026-11-02T08:29:41Z"
+      "number": 52664,
+      "title": "feat(docs): build progression flow",
+      "url": "https://github.com/supabase/supabase/pull/52664",
+      "author": "antlio",
+      "at": "2026-11-02T21:10:54Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4151,
+      "title": "FilePatternMatcher ignores a .dockerignore exception written with a leading slash",
+      "url": "https://github.com/modal-labs/modal-client/issues/4151",
+      "author": "chrikrah",
+      "at": "2026-11-02T20:13:46Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2251,
+      "title": "fix(www): add accessible label to clipboard copy button",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2251",
+      "author": "Emreceyhnn",
+      "at": "2026-11-02T17:11:48Z"
     }
   ]
 }
