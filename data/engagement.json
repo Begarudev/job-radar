@@ -1,116 +1,83 @@
 {
-  "updatedAt": "2026-11-02T22:33:46.067Z",
-  "count": 15,
+  "updatedAt": "2026-11-03T10:29:01.277Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6290,
-      "title": "Browser Use was independently reviewed on Hlido — scored 78/100, right of reply open",
-      "url": "https://github.com/browser-use/browser-use/issues/6290",
-      "author": "ankitkapur1992-hlido",
-      "at": "2026-11-02T11:00:52Z"
+      "kind": "pr",
+      "number": 6293,
+      "title": "fix(browser): restore last-tab protection when the agent closes its last tab",
+      "url": "https://github.com/browser-use/browser-use/pull/6293",
+      "author": "yuee3",
+      "at": "2026-11-03T03:10:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6289,
-      "title": "Governed memory for browser agents — audit chains, poisoning defense, local-first",
-      "url": "https://github.com/browser-use/browser-use/issues/6289",
-      "author": "lanbass869-cell",
-      "at": "2026-11-02T08:19:21Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5189,
-      "title": "refactor(cli): remove legacy argv compatibility behavior",
-      "url": "https://github.com/ComposioHQ/composio/issues/5189",
-      "author": "jkomyno",
-      "at": "2026-11-02T17:15:42Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5186,
-      "title": "feat: add trigger instance type and polling interval to triggers.create (PLEN-4489)",
-      "url": "https://github.com/ComposioHQ/composio/pull/5186",
-      "author": "anshugarg15",
-      "at": "2026-11-02T09:33:03Z"
+      "number": 6292,
+      "title": "fix: preserve instance values when optimizing schemas",
+      "url": "https://github.com/browser-use/browser-use/pull/6292",
+      "author": "adity982",
+      "at": "2026-11-03T01:48:29Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2869,
-      "title": "fix(multimodal): do not stat raw Base64 PDF sources in to_bedrock",
-      "url": "https://github.com/567-labs/instructor/pull/2869",
-      "author": "phanipaladugula",
-      "at": "2026-11-02T21:08:05Z"
+      "number": 2879,
+      "title": "fix(dsl): lift AliasPath fields into partial streaming snapshots",
+      "url": "https://github.com/567-labs/instructor/pull/2879",
+      "author": "inchang-ing",
+      "at": "2026-11-03T06:57:51Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2868,
-      "title": "fix(multimodal): handle raw Base64 PDF names",
-      "url": "https://github.com/567-labs/instructor/pull/2868",
-      "author": "bosprimigenious",
-      "at": "2026-11-02T10:23:25Z"
+      "number": 2878,
+      "title": "test(json): cover 1MB, leading-object offset, and recursion depth boundaries in extract_json_from_codeblock",
+      "url": "https://github.com/567-labs/instructor/pull/2878",
+      "author": "janmejai2002",
+      "at": "2026-11-03T05:20:56Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41646,
-      "title": "feat(anthropic): support per-message reasoning effort via configuration_update",
-      "url": "https://github.com/langchain-ai/langchain/pull/41646",
-      "author": "hntrl",
-      "at": "2026-11-02T21:44:13Z"
+      "kind": "issue",
+      "number": 41654,
+      "title": "langchain-openai: gpt-6.1-terra profile is missing mid-conversation and reasoning-effort overrides",
+      "url": "https://github.com/langchain-ai/langchain/issues/41654",
+      "author": "Shumatsurontek",
+      "at": "2026-11-03T09:59:25Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41645,
-      "title": "fix(langchain): call `ClientGroup` MCP tools through their own member client",
-      "url": "https://github.com/langchain-ai/langchain/pull/41645",
-      "author": "hntrl",
-      "at": "2026-11-02T21:33:52Z"
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 101082,
+      "title": "Interception rewrites send an empty `x-nextjs-rewritten-query` under `next start`, so an intercepted page is reused for other search params ",
+      "url": "https://github.com/vercel/next.js/issues/101082",
+      "author": "vasekhervert",
+      "at": "2026-11-03T10:20:30Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101059,
-      "title": "turbopack: reference source text in sourcesContent and cache only final minified factories",
-      "url": "https://github.com/vercel/next.js/pull/101059",
-      "author": "lukesandberg",
-      "at": "2026-11-02T21:53:16Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 101057,
-      "title": "Turbopack: restore bounded filesystem tracing",
-      "url": "https://github.com/vercel/next.js/pull/101057",
-      "author": "mischnic",
-      "at": "2026-11-02T21:04:49Z"
+      "number": 101081,
+      "title": "create-next-app: remove unused webpack bundler option",
+      "url": "https://github.com/vercel/next.js/pull/101081",
+      "author": "icyJoseph",
+      "at": "2026-11-03T10:15:50Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -128,22 +95,22 @@
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52666,
-      "title": "docs: document broadcast persistence in the Realtime protocol",
-      "url": "https://github.com/supabase/supabase/pull/52666",
-      "author": "leandrocp",
-      "at": "2026-11-02T21:45:09Z"
+      "number": 52691,
+      "title": "Chore/cleanup dead code in project branch selector",
+      "url": "https://github.com/supabase/supabase/pull/52691",
+      "author": "joshenlim",
+      "at": "2026-11-03T10:27:08Z"
     },
     {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 52664,
-      "title": "feat(docs): build progression flow",
-      "url": "https://github.com/supabase/supabase/pull/52664",
-      "author": "antlio",
-      "at": "2026-11-02T21:10:54Z"
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4152,
+      "title": "modal skills install/update fails on Windows: write_text without encoding ('charmap' codec error)",
+      "url": "https://github.com/modal-labs/modal-client/issues/4152",
+      "author": "pkircher29",
+      "at": "2026-11-03T10:07:38Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -155,6 +122,17 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4151",
       "author": "chrikrah",
       "at": "2026-11-02T20:13:46Z"
+    },
+    {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "pr",
+      "number": 1635,
+      "title": "fix(store): decode file URLs before loading artifacts",
+      "url": "https://github.com/julep-ai/julep/pull/1635",
+      "author": "Cookie0103",
+      "at": "2026-11-03T03:36:23Z"
     },
     {
       "founder": "Theo Browne",
