@@ -1,28 +1,39 @@
 {
-  "updatedAt": "2026-11-03T10:29:01.277Z",
-  "count": 13,
+  "updatedAt": "2026-11-03T20:23:01.362Z",
+  "count": 15,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6293,
-      "title": "fix(browser): restore last-tab protection when the agent closes its last tab",
-      "url": "https://github.com/browser-use/browser-use/pull/6293",
-      "author": "yuee3",
-      "at": "2026-11-03T03:10:23Z"
+      "number": 6297,
+      "title": "fix: preserve explicitly empty accessibility names in views.py",
+      "url": "https://github.com/browser-use/browser-use/pull/6297",
+      "author": "Meetbahl04",
+      "at": "2026-11-03T19:28:40Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "issue",
+      "number": 6296,
+      "title": "Feature Request: Connection management for active tabs in MCP tools",
+      "url": "https://github.com/browser-use/browser-use/issues/6296",
+      "author": "zehszo",
+      "at": "2026-11-03T14:38:02Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 6292,
-      "title": "fix: preserve instance values when optimizing schemas",
-      "url": "https://github.com/browser-use/browser-use/pull/6292",
-      "author": "adity982",
-      "at": "2026-11-03T01:48:29Z"
+      "number": 5205,
+      "title": "docs(cli): correct the lint and test-clock guidance in agent skills",
+      "url": "https://github.com/ComposioHQ/composio/pull/5205",
+      "author": "jkomyno",
+      "at": "2026-11-03T16:14:51Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,34 +61,45 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41654,
-      "title": "langchain-openai: gpt-6.1-terra profile is missing mid-conversation and reasoning-effort overrides",
-      "url": "https://github.com/langchain-ai/langchain/issues/41654",
-      "author": "Shumatsurontek",
-      "at": "2026-11-03T09:59:25Z"
+      "kind": "pr",
+      "number": 41658,
+      "title": "feat(core): translate Gemini safety blocks to refusal content blocks",
+      "url": "https://github.com/langchain-ai/langchain/pull/41658",
+      "author": "thushanth-bengre-langchain",
+      "at": "2026-11-03T18:33:59Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 101082,
-      "title": "Interception rewrites send an empty `x-nextjs-rewritten-query` under `next start`, so an intercepted page is reused for other search params ",
-      "url": "https://github.com/vercel/next.js/issues/101082",
-      "author": "vasekhervert",
-      "at": "2026-11-03T10:20:30Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41657,
+      "title": "feat(typesafe): accept a `classifier` in experimental middleware",
+      "url": "https://github.com/langchain-ai/langchain/pull/41657",
+      "author": "zduric-langchain",
+      "at": "2026-11-03T15:29:26Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101081,
-      "title": "create-next-app: remove unused webpack bundler option",
-      "url": "https://github.com/vercel/next.js/pull/101081",
-      "author": "icyJoseph",
-      "at": "2026-11-03T10:15:50Z"
+      "number": 101122,
+      "title": "test(codemod): fix flaky agents-md e2e cascade on slow GitHub clones",
+      "url": "https://github.com/vercel/next.js/pull/101122",
+      "author": "kassens",
+      "at": "2026-11-03T19:43:29Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 101121,
+      "title": "Add injectInstrumentation for adapter-supplied instrumentation",
+      "url": "https://github.com/vercel/next.js/pull/101121",
+      "author": "mischnic",
+      "at": "2026-11-03T19:22:54Z"
     },
     {
       "founder": "Guillermo Rauch",
@@ -85,21 +107,32 @@
       "repo": "vercel/next.js",
       "kind": "release",
       "number": 0,
-      "title": "v16.4.4 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.4",
+      "title": "v16.4.5 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5",
       "author": "eps1lon",
-      "at": "2026-11-02T16:41:08Z"
+      "at": "2026-11-03T18:38:39Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52691,
-      "title": "Chore/cleanup dead code in project branch selector",
-      "url": "https://github.com/supabase/supabase/pull/52691",
-      "author": "joshenlim",
-      "at": "2026-11-03T10:27:08Z"
+      "number": 52729,
+      "title": "docs: document health advisors in the MCP get_advisors tool",
+      "url": "https://github.com/supabase/supabase/pull/52729",
+      "author": "alexisintech",
+      "at": "2026-11-03T20:13:29Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 52728,
+      "title": "feat(studio): gate storage, cron, and realtime key consumers on grants",
+      "url": "https://github.com/supabase/supabase/pull/52728",
+      "author": "charislam",
+      "at": "2026-11-03T20:10:00Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -111,17 +144,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4152",
       "author": "pkircher29",
       "at": "2026-11-03T10:07:38Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4151,
-      "title": "FilePatternMatcher ignores a .dockerignore exception written with a leading slash",
-      "url": "https://github.com/modal-labs/modal-client/issues/4151",
-      "author": "chrikrah",
-      "at": "2026-11-02T20:13:46Z"
     },
     {
       "founder": "Diwank Tomer",
