@@ -1,50 +1,39 @@
 {
-  "updatedAt": "2026-11-04T10:30:34.073Z",
-  "count": 14,
+  "updatedAt": "2026-11-04T20:38:43.041Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6305,
-      "title": "feat(mcp): select the active existing tab on initial connection",
-      "url": "https://github.com/browser-use/browser-use/pull/6305",
-      "author": "cjyhjy",
-      "at": "2026-11-04T08:34:09Z"
+      "number": 6308,
+      "title": "docs(examples): add CookieGuard AI authentication-cookie audit demo",
+      "url": "https://github.com/browser-use/browser-use/pull/6308",
+      "author": "aiscihub",
+      "at": "2026-11-04T18:17:58Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6304,
-      "title": "Allow MCP to connect to an existing CDP session",
-      "url": "https://github.com/browser-use/browser-use/pull/6304",
-      "author": "Aafimalek",
-      "at": "2026-11-04T06:10:01Z"
+      "number": 6307,
+      "title": "docs: add Fortytwo OpenAI-compatible provider example",
+      "url": "https://github.com/browser-use/browser-use/pull/6307",
+      "author": "obantysh",
+      "at": "2026-11-04T18:17:26Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5219,
-      "title": "docs: custom MCP docs use mcp_url (PLEN-4818)",
-      "url": "https://github.com/ComposioHQ/composio/pull/5219",
-      "author": "singhbharath03",
-      "at": "2026-11-04T09:11:08Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5218,
-      "title": "feat(core,python): custom toolkit create takes mcpUrl / mcp_url (PLEN-4820)",
-      "url": "https://github.com/ComposioHQ/composio/pull/5218",
-      "author": "singhbharath03",
-      "at": "2026-11-04T09:09:04Z"
+      "number": 2891,
+      "title": "fix(multimodal): handle raw base64 source safely in PDF.to_bedrock",
+      "url": "https://github.com/567-labs/instructor/pull/2891",
+      "author": "anmol1140w",
+      "at": "2026-11-04T19:07:13Z"
     },
     {
       "founder": "Jason Liu",
@@ -58,92 +47,70 @@
       "at": "2026-11-04T10:18:50Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 2889,
-      "title": "MD_JSON streaming extractor emits prose JSON before the fenced block, defeating the non-streaming injection hardening",
-      "url": "https://github.com/567-labs/instructor/issues/2889",
-      "author": "slient3fordextor",
-      "at": "2026-11-04T10:18:02Z"
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41693,
+      "title": "fix(fireworks): report streamed token usage once",
+      "url": "https://github.com/langchain-ai/langchain/pull/41693",
+      "author": "mdrxy",
+      "at": "2026-11-04T20:24:00Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41674,
-      "title": "`SentenceTransformersTokenTextSplitter` only uses the tokenizer but loads the model weights on the accelerator",
-      "url": "https://github.com/langchain-ai/langchain/issues/41674",
-      "author": "wanhakim",
-      "at": "2026-11-04T09:11:51Z"
+      "number": 41692,
+      "title": "fix(langchain): match `handle_errors` types against the wrapped parsing error",
+      "url": "https://github.com/langchain-ai/langchain/issues/41692",
+      "author": "QHarshil",
+      "at": "2026-11-04T20:03:43Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 41673,
-      "title": "`HuggingFaceEmbeddings(multi_process=True)` starts CPU workers on non-CUDA accelerators",
-      "url": "https://github.com/langchain-ai/langchain/issues/41673",
-      "author": "wanhakim",
-      "at": "2026-11-04T08:59:53Z"
+      "number": 101168,
+      "title": "Same-page hash link doubles the hash (#a#a) after the page was loaded with a hash",
+      "url": "https://github.com/vercel/next.js/issues/101168",
+      "author": "SamWylde",
+      "at": "2026-11-04T19:37:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101143,
-      "title": "Turbopack: internalize evaluation pool plumbing",
-      "url": "https://github.com/vercel/next.js/pull/101143",
-      "author": "mischnic",
-      "at": "2026-11-04T09:26:35Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 101140,
-      "title": "Add contract tests for the default ",
-      "url": "https://github.com/vercel/next.js/pull/101140",
-      "author": "TheGeekyM",
-      "at": "2026-11-04T07:05:58Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.4.5 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.5",
-      "author": "eps1lon",
-      "at": "2026-11-03T18:38:39Z"
+      "number": 101167,
+      "title": "[image-optimizer] Replace handleDevOutput with an 'optimized' flag in ImageOptimizerResult, make the caller responsible for blur svg placeho",
+      "url": "https://github.com/vercel/next.js/pull/101167",
+      "author": "bgw",
+      "at": "2026-11-04T19:31:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52775,
-      "title": "fix(studio): handle unknown upgrade warning types",
-      "url": "https://github.com/supabase/supabase/pull/52775",
-      "author": "alaister",
-      "at": "2026-11-04T10:25:56Z"
+      "number": 52969,
+      "title": "docs: revise Option 1 placements from the tree test results",
+      "url": "https://github.com/supabase/supabase/pull/52969",
+      "author": "czenko",
+      "at": "2026-11-04T18:52:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52774,
-      "title": "feat(docs): ask ai enhancements",
-      "url": "https://github.com/supabase/supabase/pull/52774",
-      "author": "antlio",
-      "at": "2026-11-04T09:55:02Z"
+      "number": 52966,
+      "title": "feat(studio): gate api key create and delete on endpoint grants",
+      "url": "https://github.com/supabase/supabase/pull/52966",
+      "author": "charislam",
+      "at": "2026-11-04T17:28:01Z"
     },
     {
       "founder": "Theo Browne",
