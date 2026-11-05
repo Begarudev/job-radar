@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T10:24:08.542Z",
+  "updatedAt": "2026-11-05T20:54:37.892Z",
   "count": 11,
   "signals": [
     {
@@ -29,99 +29,99 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5233,
-      "title": "docs: announce instant Gmail and Google Calendar triggers",
-      "url": "https://github.com/ComposioHQ/composio/pull/5233",
-      "author": "anshugarg15",
-      "at": "2026-11-05T08:52:30Z"
+      "number": 5246,
+      "title": "fix(core,python): stop rate-limited polling at the deadline",
+      "url": "https://github.com/ComposioHQ/composio/pull/5246",
+      "author": "jkomyno",
+      "at": "2026-11-05T18:25:03Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5230,
-      "title": "fix(python): preserve Anthropic tool result correlation",
-      "url": "https://github.com/ComposioHQ/composio/pull/5230",
-      "author": "olearycrew",
-      "at": "2026-11-04T21:45:47Z"
+      "number": 5245,
+      "title": "feat(release): verify releases end to end",
+      "url": "https://github.com/ComposioHQ/composio/pull/5245",
+      "author": "jkomyno",
+      "at": "2026-11-05T15:15:43Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2892,
-      "title": "docs: fix dont typos in citation README and ellipsis.yaml",
-      "url": "https://github.com/567-labs/instructor/pull/2892",
-      "author": "ninglinLiu",
-      "at": "2026-11-05T00:34:03Z"
+      "number": 2945,
+      "title": "build(deps): update provider SDKs with tested Python and transport compatibility",
+      "url": "https://github.com/567-labs/instructor/pull/2945",
+      "author": "jxnl-oai",
+      "at": "2026-11-05T20:41:54Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 2891,
-      "title": "fix(multimodal): handle raw base64 source safely in PDF.to_bedrock",
-      "url": "https://github.com/567-labs/instructor/pull/2891",
-      "author": "anmol1140w",
-      "at": "2026-11-04T19:07:13Z"
+      "number": 41720,
+      "title": "release(typesafe): 0.0.2",
+      "url": "https://github.com/langchain-ai/langchain/pull/41720",
+      "author": "hntrl",
+      "at": "2026-11-05T20:21:23Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41704,
-      "title": "HTMLHeaderTextSplitter loses linked section headings, breaking section-filtered retrieval",
-      "url": "https://github.com/langchain-ai/langchain/issues/41704",
-      "author": "raunakpandey1",
-      "at": "2026-11-05T05:17:48Z"
+      "number": 41718,
+      "title": "[Feature] HSTC — zero-LLM deterministic hybrid compressor (49.2% input-token reduction, measured on n=86 CNN/DailyMail)",
+      "url": "https://github.com/langchain-ai/langchain/issues/41718",
+      "author": "61465",
+      "at": "2026-11-05T16:44:18Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101195,
-      "title": "test: Replace `itTurbopack` with test gates",
-      "url": "https://github.com/vercel/next.js/pull/101195",
-      "author": "mischnic",
-      "at": "2026-11-05T10:21:52Z"
+      "number": 101248,
+      "title": "examples(with-mux-video): Replace Mux Player with Video.js",
+      "url": "https://github.com/vercel/next.js/pull/101248",
+      "author": "javierarams",
+      "at": "2026-11-05T19:49:00Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101194,
-      "title": "Bump to swc v84",
-      "url": "https://github.com/vercel/next.js/pull/101194",
-      "author": "mischnic",
-      "at": "2026-11-05T09:51:14Z"
+      "number": 101247,
+      "title": "Align eslint-config-next TypeScript peer with typescript-eslint",
+      "url": "https://github.com/vercel/next.js/pull/101247",
+      "author": "kassens",
+      "at": "2026-11-05T19:35:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53002,
-      "title": "feat(studio): scaffold logs volume control ui",
-      "url": "https://github.com/supabase/supabase/pull/53002",
-      "author": "kemaldotearth",
-      "at": "2026-11-05T10:15:41Z"
+      "number": 53060,
+      "title": "feat(studio): suggest enabling Explorer preview on notebook pages",
+      "url": "https://github.com/supabase/supabase/pull/53060",
+      "author": "charislam",
+      "at": "2026-11-05T20:51:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53001,
-      "title": "feat(studio): add Warehouse metrics page to Observability",
-      "url": "https://github.com/supabase/supabase/pull/53001",
-      "author": "bnjjj",
-      "at": "2026-11-05T09:49:45Z"
+      "number": 53059,
+      "title": "feat(studio): split SQL errors into user and Studio SQL",
+      "url": "https://github.com/supabase/supabase/pull/53059",
+      "author": "charislam",
+      "at": "2026-11-05T20:41:31Z"
     }
   ]
 }
