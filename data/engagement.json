@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T20:38:43.041Z",
+  "updatedAt": "2026-11-05T10:24:08.542Z",
   "count": 11,
   "signals": [
     {
@@ -7,22 +7,55 @@
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6308,
-      "title": "docs(examples): add CookieGuard AI authentication-cookie audit demo",
-      "url": "https://github.com/browser-use/browser-use/pull/6308",
-      "author": "aiscihub",
-      "at": "2026-11-04T18:17:58Z"
+      "number": 6317,
+      "title": "fix: reject unsupported glob syntax in allowlist patterns",
+      "url": "https://github.com/browser-use/browser-use/pull/6317",
+      "author": "lkuko",
+      "at": "2026-11-05T06:36:00Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6307,
-      "title": "docs: add Fortytwo OpenAI-compatible provider example",
-      "url": "https://github.com/browser-use/browser-use/pull/6307",
-      "author": "obantysh",
-      "at": "2026-11-04T18:17:26Z"
+      "number": 6316,
+      "title": "Add an indexed hover action",
+      "url": "https://github.com/browser-use/browser-use/pull/6316",
+      "author": "Aafimalek",
+      "at": "2026-11-05T06:13:52Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5233,
+      "title": "docs: announce instant Gmail and Google Calendar triggers",
+      "url": "https://github.com/ComposioHQ/composio/pull/5233",
+      "author": "anshugarg15",
+      "at": "2026-11-05T08:52:30Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5230,
+      "title": "fix(python): preserve Anthropic tool result correlation",
+      "url": "https://github.com/ComposioHQ/composio/pull/5230",
+      "author": "olearycrew",
+      "at": "2026-11-04T21:45:47Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2892,
+      "title": "docs: fix dont typos in citation README and ellipsis.yaml",
+      "url": "https://github.com/567-labs/instructor/pull/2892",
+      "author": "ninglinLiu",
+      "at": "2026-11-05T00:34:03Z"
     },
     {
       "founder": "Jason Liu",
@@ -36,92 +69,59 @@
       "at": "2026-11-04T19:07:13Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2890,
-      "title": "fix(core): make MD_JSON streaming extraction injection-consistent",
-      "url": "https://github.com/567-labs/instructor/pull/2890",
-      "author": "slient3fordextor",
-      "at": "2026-11-04T10:18:50Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41693,
-      "title": "fix(fireworks): report streamed token usage once",
-      "url": "https://github.com/langchain-ai/langchain/pull/41693",
-      "author": "mdrxy",
-      "at": "2026-11-04T20:24:00Z"
-    },
-    {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 41692,
-      "title": "fix(langchain): match `handle_errors` types against the wrapped parsing error",
-      "url": "https://github.com/langchain-ai/langchain/issues/41692",
-      "author": "QHarshil",
-      "at": "2026-11-04T20:03:43Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 101168,
-      "title": "Same-page hash link doubles the hash (#a#a) after the page was loaded with a hash",
-      "url": "https://github.com/vercel/next.js/issues/101168",
-      "author": "SamWylde",
-      "at": "2026-11-04T19:37:46Z"
+      "number": 41704,
+      "title": "HTMLHeaderTextSplitter loses linked section headings, breaking section-filtered retrieval",
+      "url": "https://github.com/langchain-ai/langchain/issues/41704",
+      "author": "raunakpandey1",
+      "at": "2026-11-05T05:17:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101167,
-      "title": "[image-optimizer] Replace handleDevOutput with an 'optimized' flag in ImageOptimizerResult, make the caller responsible for blur svg placeho",
-      "url": "https://github.com/vercel/next.js/pull/101167",
-      "author": "bgw",
-      "at": "2026-11-04T19:31:14Z"
+      "number": 101195,
+      "title": "test: Replace `itTurbopack` with test gates",
+      "url": "https://github.com/vercel/next.js/pull/101195",
+      "author": "mischnic",
+      "at": "2026-11-05T10:21:52Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 101194,
+      "title": "Bump to swc v84",
+      "url": "https://github.com/vercel/next.js/pull/101194",
+      "author": "mischnic",
+      "at": "2026-11-05T09:51:14Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52969,
-      "title": "docs: revise Option 1 placements from the tree test results",
-      "url": "https://github.com/supabase/supabase/pull/52969",
-      "author": "czenko",
-      "at": "2026-11-04T18:52:41Z"
+      "number": 53002,
+      "title": "feat(studio): scaffold logs volume control ui",
+      "url": "https://github.com/supabase/supabase/pull/53002",
+      "author": "kemaldotearth",
+      "at": "2026-11-05T10:15:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 52966,
-      "title": "feat(studio): gate api key create and delete on endpoint grants",
-      "url": "https://github.com/supabase/supabase/pull/52966",
-      "author": "charislam",
-      "at": "2026-11-04T17:28:01Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2251,
-      "title": "fix(www): add accessible label to clipboard copy button",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2251",
-      "author": "Emreceyhnn",
-      "at": "2026-11-02T17:11:48Z"
+      "number": 53001,
+      "title": "feat(studio): add Warehouse metrics page to Observability",
+      "url": "https://github.com/supabase/supabase/pull/53001",
+      "author": "bnjjj",
+      "at": "2026-11-05T09:49:45Z"
     }
   ]
 }
