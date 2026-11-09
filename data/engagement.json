@@ -1,105 +1,138 @@
 {
-  "updatedAt": "2026-11-09T10:56:33.770Z",
-  "count": 9,
+  "updatedAt": "2026-11-09T23:15:09.461Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6351,
-      "title": "fix(repl): keep one shared Chrome title observer per document",
-      "url": "https://github.com/browser-use/browser-use/pull/6351",
+      "number": 6358,
+      "title": "test(telemetry): assert lazy metadata access",
+      "url": "https://github.com/browser-use/browser-use/pull/6358",
       "author": "r266-tech",
-      "at": "2026-11-09T10:26:34Z"
+      "at": "2026-11-09T22:58:30Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6349,
-      "title": "Relax pillow anyio pins",
-      "url": "https://github.com/browser-use/browser-use/pull/6349",
-      "author": "keang",
-      "at": "2026-11-09T04:38:57Z"
+      "number": 6357,
+      "title": "1.0.0rc5: Linux rc test fixes and security review fixes",
+      "url": "https://github.com/browser-use/browser-use/pull/6357",
+      "author": "gregpr07",
+      "at": "2026-11-09T22:10:31Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5294,
+      "title": "fix(ci): include Python release notes in client updates",
+      "url": "https://github.com/ComposioHQ/composio/pull/5294",
+      "author": "jkomyno",
+      "at": "2026-11-09T20:30:49Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5293,
+      "title": "fix(providers): support OpenAI Agents 0.21 and require current Python core",
+      "url": "https://github.com/ComposioHQ/composio/pull/5293",
+      "author": "olearycrew",
+      "at": "2026-11-09T20:13:06Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2991,
-      "title": "fix(anthropic): report max_tokens between iterable stream items",
-      "url": "https://github.com/567-labs/instructor/pull/2991",
-      "author": "feiiiiii5",
-      "at": "2026-11-09T09:48:04Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 2990,
-      "title": "fix(cli): paginate fine-tuning job listings",
-      "url": "https://github.com/567-labs/instructor/pull/2990",
-      "author": "ddlw",
-      "at": "2026-11-09T02:40:58Z"
+      "number": 2992,
+      "title": "fix(templating): render an explicitly supplied empty context",
+      "url": "https://github.com/567-labs/instructor/pull/2992",
+      "author": "Elon-Jiang",
+      "at": "2026-11-09T13:48:48Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41761,
-      "title": "Tool returning a pydantic model yields a Python repr instead of JSON in ToolMessage.content",
-      "url": "https://github.com/langchain-ai/langchain/issues/41761",
-      "author": "Mart22052006",
-      "at": "2026-11-09T04:36:29Z"
+      "kind": "pr",
+      "number": 41771,
+      "title": "fix(openai): drop chat penalties from the Responses API payload",
+      "url": "https://github.com/langchain-ai/langchain/pull/41771",
+      "author": "vishnu-ssuresh",
+      "at": "2026-11-09T19:50:34Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41770,
+      "title": "feat(anthropic): support Claude Fable and Mythos 5.2",
+      "url": "https://github.com/langchain-ai/langchain/pull/41770",
+      "author": "hntrl",
+      "at": "2026-11-09T19:41:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101442,
-      "title": "Spread small export rounds over the workers in use (-3.7% cacheComponents prerender wall)",
-      "url": "https://github.com/vercel/next.js/pull/101442",
-      "author": "cramforce",
-      "at": "2026-11-09T08:53:35Z"
+      "number": 101482,
+      "title": "Turbopack: fix scope-hoisted imports of missing exports",
+      "url": "https://github.com/vercel/next.js/pull/101482",
+      "author": "sokra",
+      "at": "2026-11-09T22:25:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101441,
-      "title": "Run the prospective HTML prerender only when needed (-13.3% cacheComponents prerender CPU)",
-      "url": "https://github.com/vercel/next.js/pull/101441",
-      "author": "cramforce",
-      "at": "2026-11-09T08:53:29Z"
+      "number": 101480,
+      "title": "Turbopack: don't grow effect vectors inside the analyzer arena",
+      "url": "https://github.com/vercel/next.js/pull/101480",
+      "author": "jimmyhmiller",
+      "at": "2026-11-09T20:24:16Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "release",
+      "number": 0,
+      "title": "v16.4.6 released",
+      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
+      "author": "eps1lon",
+      "at": "2026-11-09T20:27:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53156,
-      "title": "docs(branching): document overlapping production deploy runs",
-      "url": "https://github.com/supabase/supabase/pull/53156",
-      "author": "officialbidisha",
-      "at": "2026-11-09T09:27:46Z"
+      "number": 53187,
+      "title": "docs: add Nick Clark to humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/53187",
+      "author": "wandergeek",
+      "at": "2026-11-09T22:52:27Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53154,
-      "title": "Fix connection-string behaviour for Minigres-mode projects",
-      "url": "https://github.com/supabase/supabase/pull/53154",
-      "author": "shedges",
-      "at": "2026-11-09T08:27:57Z"
+      "number": 53185,
+      "title": "feat(studio): add read/write grant variants for pg-meta query",
+      "url": "https://github.com/supabase/supabase/pull/53185",
+      "author": "charislam",
+      "at": "2026-11-09T22:07:02Z"
     }
   ]
 }
