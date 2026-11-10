@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-10T10:47:43.995Z",
-  "count": 10,
+  "updatedAt": "2026-11-10T20:41:06.800Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6368,
-      "title": "fix(downloads): give downloads names Windows can store",
-      "url": "https://github.com/browser-use/browser-use/pull/6368",
-      "author": "Surendhiransh",
-      "at": "2026-11-10T07:22:33Z"
+      "number": 6375,
+      "title": "fix(repl): close the startup listener when setup fails",
+      "url": "https://github.com/browser-use/browser-use/pull/6375",
+      "author": "DevChiniwala",
+      "at": "2026-11-10T19:22:23Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6367,
-      "title": "Bug: on Windows, cloud downloads with ':' in the name become empty files, and names with \" | < > * ? are lost",
-      "url": "https://github.com/browser-use/browser-use/issues/6367",
-      "author": "Surendhiransh",
-      "at": "2026-11-10T07:22:06Z"
+      "kind": "pr",
+      "number": 6374,
+      "title": "fix(browser): clean up daemon startup after cancellation",
+      "url": "https://github.com/browser-use/browser-use/pull/6374",
+      "author": "r266-tech",
+      "at": "2026-11-10T18:09:18Z"
     },
     {
       "founder": "Magnus Müller",
@@ -39,78 +39,111 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5301,
-      "title": "[Bug]: Proxy execution fails schema validation for HTTP HEAD method and lacks binaryBody support across TS and Python",
-      "url": "https://github.com/ComposioHQ/composio/issues/5301",
-      "author": "Siddharth-Dangi",
-      "at": "2026-11-10T08:25:08Z"
+      "kind": "pr",
+      "number": 5306,
+      "title": "feat(cli): add Windows x64 support",
+      "url": "https://github.com/ComposioHQ/composio/pull/5306",
+      "author": "jkomyno",
+      "at": "2026-11-10T17:11:15Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2994,
-      "title": "fix(openai): report incomplete Responses iterable streams",
-      "url": "https://github.com/567-labs/instructor/pull/2994",
-      "author": "umuworld",
-      "at": "2026-11-10T05:00:16Z"
+      "number": 3000,
+      "title": "fix(batch): upload in-memory OpenAI batch files as batch.jsonl",
+      "url": "https://github.com/567-labs/instructor/pull/3000",
+      "author": "nurlanmnn",
+      "at": "2026-11-10T18:26:33Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 2999,
+      "title": "fix(dsl): preserve RootModel wrappers in partial streams",
+      "url": "https://github.com/567-labs/instructor/pull/2999",
+      "author": "remote-controlled-man",
+      "at": "2026-11-10T18:11:12Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41785,
+      "title": "feat(core): send explicit cancelled/interrupted run status from tracer",
+      "url": "https://github.com/langchain-ai/langchain/pull/41785",
+      "author": "KiewanVillatel",
+      "at": "2026-11-10T16:20:51Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41784,
+      "title": "perf(core): _agenerate_with_cache merges streamed chunks on the event loop, and the merge is quadratic",
+      "url": "https://github.com/langchain-ai/langchain/issues/41784",
+      "author": "joaopbernhardt",
+      "at": "2026-11-10T15:05:25Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101497,
-      "title": "auto-hash-map: add positional access and IndexMap/IndexSet conversions for ordered maps",
-      "url": "https://github.com/vercel/next.js/pull/101497",
+      "number": 101522,
+      "title": "dev: skip source map URLs for server-side React fake functions",
+      "url": "https://github.com/vercel/next.js/pull/101522",
       "author": "sokra",
-      "at": "2026-11-10T10:47:10Z"
+      "at": "2026-11-10T20:23:02Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101496,
-      "title": "fix: include custom error pages in compile standalone output",
-      "url": "https://github.com/vercel/next.js/pull/101496",
-      "author": "shahinsamiur",
-      "at": "2026-11-10T10:46:33Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "release",
-      "number": 0,
-      "title": "v16.4.6 released",
-      "url": "https://github.com/vercel/next.js/releases/tag/v16.4.6",
-      "author": "eps1lon",
-      "at": "2026-11-09T20:27:17Z"
+      "number": 101521,
+      "title": "Turbopack: remove stale build output after writing instead of cleaning the dist dir upfront",
+      "url": "https://github.com/vercel/next.js/pull/101521",
+      "author": "sokra",
+      "at": "2026-11-10T17:40:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53205,
-      "title": "Include command section for event tracking in cmd k",
-      "url": "https://github.com/supabase/supabase/pull/53205",
-      "author": "joshenlim",
-      "at": "2026-11-10T10:31:02Z"
+      "number": 53244,
+      "title": "fix(studio): remove Braintrust tool output masking workaround",
+      "url": "https://github.com/supabase/supabase/pull/53244",
+      "author": "mattrossman",
+      "at": "2026-11-10T20:04:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53204,
-      "title": "Add indexes to cmd k related resources in table editor",
-      "url": "https://github.com/supabase/supabase/pull/53204",
-      "author": "joshenlim",
-      "at": "2026-11-10T10:11:15Z"
+      "number": 53243,
+      "title": "content(kb) - add faq + update existing supabase auth guides for better auth reference",
+      "url": "https://github.com/supabase/supabase/pull/53243",
+      "author": "kodster28",
+      "at": "2026-11-10T19:46:13Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4130,
+      "title": "`modal volume get` can corrupt a directory download when the local destination does not exist",
+      "url": "https://github.com/modal-labs/modal-client/issues/4130",
+      "author": "jasondavies",
+      "at": "2026-08-12T19:23:01Z"
     }
   ]
 }
