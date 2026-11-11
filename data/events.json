@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T15:08:10.092Z",
+  "updatedAt": "2026-11-11T14:38:47.209Z",
   "count": 3,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
       "url": "https://blog.cloudflare.com/php-ctf/",
       "publishedAt": "Tue, 27 Oct 2026 13:00:00 GMT",
-      "fetchedAt": "2026-11-10T15:08:09.709Z",
+      "fetchedAt": "2026-11-11T14:38:46.999Z",
       "company": "Cloudflare",
       "tags": []
     },
@@ -22,7 +22,7 @@
       "description": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog .",
       "url": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "publishedAt": "Thu, 22 Oct 2026 17:21:30 +0000",
-      "fetchedAt": "2026-11-10T15:08:10.091Z",
+      "fetchedAt": "2026-11-11T14:38:47.013Z",
       "company": "GitHub",
       "tags": []
     },
@@ -34,7 +34,7 @@
       "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "fetchedAt": "2026-11-10T15:08:09.740Z",
+      "fetchedAt": "2026-11-11T14:38:47.182Z",
       "company": "OpenAI",
       "tags": []
     }
