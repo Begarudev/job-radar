@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-10T20:41:06.800Z",
-  "count": 13,
+  "updatedAt": "2026-11-11T10:24:04.229Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6375,
-      "title": "fix(repl): close the startup listener when setup fails",
-      "url": "https://github.com/browser-use/browser-use/pull/6375",
-      "author": "DevChiniwala",
-      "at": "2026-11-10T19:22:23Z"
+      "number": 6381,
+      "title": "fix(tools): drop every ignored 0.x ActionResult field",
+      "url": "https://github.com/browser-use/browser-use/pull/6381",
+      "author": "sakaintp",
+      "at": "2026-11-11T08:22:53Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6374,
-      "title": "fix(browser): clean up daemon startup after cancellation",
-      "url": "https://github.com/browser-use/browser-use/pull/6374",
-      "author": "r266-tech",
-      "at": "2026-11-10T18:09:18Z"
+      "number": 6380,
+      "title": "fix(tools): drop every ignored 0.x ActionResult field, not only the first",
+      "url": "https://github.com/browser-use/browser-use/pull/6380",
+      "author": "Surendhiransh",
+      "at": "2026-11-11T06:32:30Z"
     },
     {
       "founder": "Magnus Müller",
@@ -30,109 +30,76 @@
       "repo": "browser-use/browser-use",
       "kind": "release",
       "number": 0,
-      "title": "browser-use 1.0.1 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.1",
+      "title": "browser-use 1.0.2 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.2",
       "author": "gregpr07",
-      "at": "2026-11-10T09:27:28Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5306,
-      "title": "feat(cli): add Windows x64 support",
-      "url": "https://github.com/ComposioHQ/composio/pull/5306",
-      "author": "jkomyno",
-      "at": "2026-11-10T17:11:15Z"
+      "at": "2026-11-11T04:00:00Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3000,
-      "title": "fix(batch): upload in-memory OpenAI batch files as batch.jsonl",
-      "url": "https://github.com/567-labs/instructor/pull/3000",
-      "author": "nurlanmnn",
-      "at": "2026-11-10T18:26:33Z"
+      "number": 3006,
+      "title": "fix(validation): resolve deferred annotations in async guard",
+      "url": "https://github.com/567-labs/instructor/pull/3006",
+      "author": "liugedragon",
+      "at": "2026-11-11T08:41:30Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 2999,
-      "title": "fix(dsl): preserve RootModel wrappers in partial streams",
-      "url": "https://github.com/567-labs/instructor/pull/2999",
-      "author": "remote-controlled-man",
-      "at": "2026-11-10T18:11:12Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41785,
-      "title": "feat(core): send explicit cancelled/interrupted run status from tracer",
-      "url": "https://github.com/langchain-ai/langchain/pull/41785",
-      "author": "KiewanVillatel",
-      "at": "2026-11-10T16:20:51Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41784,
-      "title": "perf(core): _agenerate_with_cache merges streamed chunks on the event loop, and the merge is quadratic",
-      "url": "https://github.com/langchain-ai/langchain/issues/41784",
-      "author": "joaopbernhardt",
-      "at": "2026-11-10T15:05:25Z"
+      "number": 3005,
+      "title": "fix(mistral): parse text blocks in structured responses",
+      "url": "https://github.com/567-labs/instructor/pull/3005",
+      "author": "liugedragon",
+      "at": "2026-11-11T08:41:14Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101522,
-      "title": "dev: skip source map URLs for server-side React fake functions",
-      "url": "https://github.com/vercel/next.js/pull/101522",
-      "author": "sokra",
-      "at": "2026-11-10T20:23:02Z"
+      "number": 101546,
+      "title": "fix: emit meta refresh for redirect when streamed render has no Suspense boundary ",
+      "url": "https://github.com/vercel/next.js/pull/101546",
+      "author": "mrpythonist",
+      "at": "2026-11-11T09:33:04Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101521,
-      "title": "Turbopack: remove stale build output after writing instead of cleaning the dist dir upfront",
-      "url": "https://github.com/vercel/next.js/pull/101521",
+      "number": 101544,
+      "title": "turbo-persistence: wait for parallel work without block_in_place",
+      "url": "https://github.com/vercel/next.js/pull/101544",
       "author": "sokra",
-      "at": "2026-11-10T17:40:33Z"
+      "at": "2026-11-11T08:11:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53244,
-      "title": "fix(studio): remove Braintrust tool output masking workaround",
-      "url": "https://github.com/supabase/supabase/pull/53244",
-      "author": "mattrossman",
-      "at": "2026-11-10T20:04:04Z"
+      "number": 53262,
+      "title": "Joshenlim/fe 4945 cmd k support searching for all table",
+      "url": "https://github.com/supabase/supabase/pull/53262",
+      "author": "joshenlim",
+      "at": "2026-11-11T10:04:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53243,
-      "title": "content(kb) - add faq + update existing supabase auth guides for better auth reference",
-      "url": "https://github.com/supabase/supabase/pull/53243",
-      "author": "kodster28",
-      "at": "2026-11-10T19:46:13Z"
+      "number": 53260,
+      "title": "docs(billing): document the $300 minimum for credit top-ups",
+      "url": "https://github.com/supabase/supabase/pull/53260",
+      "author": "shardulborhade-ctrl",
+      "at": "2026-11-11T09:34:36Z"
     },
     {
       "founder": "Erik Bernhardsson",
