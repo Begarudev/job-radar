@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T21:16:28.247Z",
-  "count": 12,
+  "updatedAt": "2026-11-13T10:35:14.160Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
@@ -36,103 +36,114 @@
       "at": "2026-11-12T16:52:54Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 3029,
-      "title": "test(xai): support native parallel response fixtures",
-      "url": "https://github.com/567-labs/instructor/pull/3029",
-      "author": "liugedragon",
-      "at": "2026-11-12T17:43:27Z"
+      "number": 5364,
+      "title": "fix(cli): read dev toolkits connection status in the resolved project",
+      "url": "https://github.com/ComposioHQ/composio/pull/5364",
+      "author": "jkomyno",
+      "at": "2026-11-13T09:11:05Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3028,
-      "title": "feat(xai): support explicit native API hosts",
-      "url": "https://github.com/567-labs/instructor/pull/3028",
-      "author": "liugedragon",
-      "at": "2026-11-12T17:30:20Z"
+      "number": 3037,
+      "title": "fix(partial): preserve typed tuples in streamed snapshots",
+      "url": "https://github.com/567-labs/instructor/pull/3037",
+      "author": "Elon-Jiang",
+      "at": "2026-11-13T08:57:22Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 3036,
+      "title": "docs(batch): align guides with supported providers",
+      "url": "https://github.com/567-labs/instructor/pull/3036",
+      "author": "shuaiyafei",
+      "at": "2026-11-13T03:16:12Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41821,
-      "title": "fix(core): accept remove message dicts without content",
-      "url": "https://github.com/langchain-ai/langchain/pull/41821",
-      "author": "vishnu-ssuresh",
-      "at": "2026-11-12T19:39:28Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41820,
-      "title": "fix(core): end failed runs with an error event in `astream_events` v2",
-      "url": "https://github.com/langchain-ai/langchain/pull/41820",
-      "author": "eliornl",
-      "at": "2026-11-12T18:33:51Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 101690,
-      "title": "[static-gen] Dispatch static pages from a shared queue with a worker-scoped incremental cache",
-      "url": "https://github.com/vercel/next.js/pull/101690",
-      "author": "timneutkens",
-      "at": "2026-11-12T20:59:16Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 101689,
-      "title": "[static-gen] Render static pages in a rolling window behind experimental.staticGenerationAdaptive",
-      "url": "https://github.com/vercel/next.js/pull/101689",
-      "author": "timneutkens",
-      "at": "2026-11-12T20:48:40Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 53342,
-      "title": "feat(billing): use new upcoming invoice data",
-      "url": "https://github.com/supabase/supabase/pull/53342",
-      "author": "juleswritescode",
-      "at": "2026-11-12T20:47:20Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 53341,
-      "title": "docs(python): OAuth client and vector put() examples don't work with supabase-py v2",
-      "url": "https://github.com/supabase/supabase/issues/53341",
-      "author": "SaiVenkatDhulipudi",
-      "at": "2026-11-12T19:44:13Z"
+      "number": 41830,
+      "title": "core: astream_events is about 3x slower than astream for a plain streaming chain",
+      "url": "https://github.com/langchain-ai/langchain/issues/41830",
+      "author": "b84330808",
+      "at": "2026-11-13T08:48:16Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 101736,
+      "title": "turbo-tasks-backend: stop checking keys of a dependent once it is stale",
+      "url": "https://github.com/vercel/next.js/pull/101736",
+      "author": "sokra",
+      "at": "2026-11-13T10:33:03Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 101735,
+      "title": "turbo-tasks-backend: index hashed keyed cell dependents by cell and key",
+      "url": "https://github.com/vercel/next.js/pull/101735",
+      "author": "sokra",
+      "at": "2026-11-13T10:33:01Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53356,
+      "title": "Joshenlim/fe 5064 update database triggers to use new nav",
+      "url": "https://github.com/supabase/supabase/pull/53356",
+      "author": "joshenlim",
+      "at": "2026-11-13T10:20:54Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53355,
+      "title": "feat(studio): update oauth publishable apps to include new options",
+      "url": "https://github.com/supabase/supabase/pull/53355",
+      "author": "djhi",
+      "at": "2026-11-13T10:20:21Z"
     },
     {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 2254,
-      "title": "docs(www): refresh landing page copy",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2254",
-      "author": "its-not-elliot",
-      "at": "2026-11-12T13:01:44Z"
+      "number": 2256,
+      "title": "fix(cli): log env step for BetterAuth and fix dot project name in dbC…",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2256",
+      "author": "YashCoder-svg",
+      "at": "2026-11-13T06:16:12Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2255,
+      "title": "fix(cli): use correct table prefix placeholder in Better Auth + Drizzle + PostgreSQL template",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2255",
+      "author": "helmipradita",
+      "at": "2026-11-13T04:06:22Z"
     }
   ]
 }
