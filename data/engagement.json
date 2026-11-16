@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-16T10:41:05.483Z",
-  "count": 12,
+  "updatedAt": "2026-11-16T23:10:03.500Z",
+  "count": 16,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6438,
-      "title": "fix: show selected options in disabled multi-selects",
-      "url": "https://github.com/browser-use/browser-use/pull/6438",
-      "author": "Aafimalek",
-      "at": "2026-11-16T09:28:55Z"
+      "number": 6440,
+      "title": "fix(agent): preserve newest screenshots when one model request returns multiple tool calls",
+      "url": "https://github.com/browser-use/browser-use/pull/6440",
+      "author": "ShayanMuhammad-CS",
+      "at": "2026-11-16T21:14:13Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6437,
-      "title": "feat(ax): prioritize modal dialog elements in accessibility state to prevent token truncation",
-      "url": "https://github.com/browser-use/browser-use/pull/6437",
-      "author": "y4nkk4",
-      "at": "2026-11-16T06:15:45Z"
+      "number": 6439,
+      "title": "docs(contributing): drop the integration-example link, the directory is gone",
+      "url": "https://github.com/browser-use/browser-use/pull/6439",
+      "author": "lxcxjxhx",
+      "at": "2026-11-16T19:38:54Z"
     },
     {
       "founder": "Magnus Müller",
@@ -40,88 +40,121 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5409,
-      "title": "docs: explain App grouping and Composio Built vs Provider MCP toolkits",
-      "url": "https://github.com/ComposioHQ/composio/pull/5409",
+      "number": 5424,
+      "title": "chore(lint): enforce Effect error-handling rules",
+      "url": "https://github.com/ComposioHQ/composio/pull/5424",
+      "author": "jkomyno",
+      "at": "2026-11-16T20:36:49Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5423,
+      "title": "docs: add a Composio-managed apps page",
+      "url": "https://github.com/ComposioHQ/composio/pull/5423",
       "author": "jjprodguy-composio",
-      "at": "2026-11-16T10:37:35Z"
+      "at": "2026-11-16T20:15:13Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3066,
-      "title": "fix: 1.18 follow-ups for usage, reask, Vertex naming, Mistral batch",
-      "url": "https://github.com/567-labs/instructor/pull/3066",
-      "author": "jxnl",
-      "at": "2026-11-15T18:27:03Z"
+      "kind": "issue",
+      "number": 3068,
+      "title": "Audio data-URI sources lose their payload during OpenAI and GenAI encoding",
+      "url": "https://github.com/567-labs/instructor/issues/3068",
+      "author": "Sampsonyu",
+      "at": "2026-11-16T22:49:26Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3065,
-      "title": "test: consolidate unreleased 1.18 test suite",
-      "url": "https://github.com/567-labs/instructor/pull/3065",
-      "author": "jxnl",
-      "at": "2026-11-15T18:13:25Z"
+      "kind": "issue",
+      "number": 3067,
+      "title": "MD_JSON since 1.16: a trailing citation like `[1]` after the fenced answer replaces the answer",
+      "url": "https://github.com/567-labs/instructor/issues/3067",
+      "author": "ChrystianSchutz",
+      "at": "2026-11-16T19:31:49Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 41890,
-      "title": "fix(core): accumulate token details across streamed chunks",
-      "url": "https://github.com/langchain-ai/langchain/pull/41890",
-      "author": "GCSimba",
-      "at": "2026-11-16T03:07:13Z"
+      "kind": "issue",
+      "number": 41898,
+      "title": "SummarizationMiddleware cutoff can separate Anthropic nested server-tool blocks from their `code_execution` caller (400: source tool not fou",
+      "url": "https://github.com/langchain-ai/langchain/issues/41898",
+      "author": "packwood",
+      "at": "2026-11-16T19:37:34Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 41897,
+      "title": "langchain-anthropic: `_format_messages` drops `caller` from `server_tool_use` and `*_tool_result` blocks",
+      "url": "https://github.com/langchain-ai/langchain/issues/41897",
+      "author": "packwood",
+      "at": "2026-11-16T19:37:13Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 101897,
+      "title": "Prefetched navigation to a query-based rewrite soft-retries and re-prefetches every visible link (`x-nextjs-rewritten-query` is empty)",
+      "url": "https://github.com/vercel/next.js/issues/101897",
+      "author": "gokjialeksandrovski",
+      "at": "2026-11-16T22:55:28Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101862,
-      "title": "docs: clarify force-dynamic fetch caching",
-      "url": "https://github.com/vercel/next.js/pull/101862",
-      "author": "aurorascharff",
-      "at": "2026-11-16T10:36:48Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 101861,
-      "title": "[test] Stabilize cached navigations consistency checks",
-      "url": "https://github.com/vercel/next.js/pull/101861",
-      "author": "unstubbable",
-      "at": "2026-11-16T10:25:24Z"
+      "number": 101895,
+      "title": "fix(ts-plugin): accept quoted prefetch segment config values",
+      "url": "https://github.com/vercel/next.js/pull/101895",
+      "author": "DominikKoniarz",
+      "at": "2026-11-16T22:08:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53450,
-      "title": "feat(docs): Improve Pipelines docs",
-      "url": "https://github.com/supabase/supabase/pull/53450",
-      "author": "iambriccardo",
-      "at": "2026-11-16T10:36:41Z"
+      "number": 53482,
+      "title": "docs: fix the dead Okta Integration Network link in the SAML guide",
+      "url": "https://github.com/supabase/supabase/pull/53482",
+      "author": "farisbasha",
+      "at": "2026-11-16T21:55:17Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53449,
-      "title": "docs(cli): show config examples in TOML and JSONC",
-      "url": "https://github.com/supabase/supabase/pull/53449",
-      "author": "Coly010",
-      "at": "2026-11-16T10:09:25Z"
+      "number": 53481,
+      "title": "content(kb) - astro auth listicle",
+      "url": "https://github.com/supabase/supabase/pull/53481",
+      "author": "kodster28",
+      "at": "2026-11-16T21:40:44Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4155,
+      "title": "Retries(max_delay=...) is never applied to the delay the client sleeps",
+      "url": "https://github.com/modal-labs/modal-client/issues/4155",
+      "author": "chrikrah",
+      "at": "2026-11-16T11:13:24Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -133,6 +166,17 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4154",
       "author": "jamesh1999",
       "at": "2026-11-16T06:02:10Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2259,
+      "title": "docs: update tRPC usage docs to the current app-router client (trpc/react)",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2259",
+      "author": "ARYAN-DUTT",
+      "at": "2026-11-16T18:22:10Z"
     }
   ]
 }
