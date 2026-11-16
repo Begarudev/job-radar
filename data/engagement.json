@@ -1,50 +1,50 @@
 {
-  "updatedAt": "2026-11-15T19:31:15.729Z",
-  "count": 14,
+  "updatedAt": "2026-11-16T10:41:05.483Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6413,
-      "title": "fix(browser): preserve relative executable paths at launch",
-      "url": "https://github.com/browser-use/browser-use/pull/6413",
-      "author": "Harsh23Kashyap",
-      "at": "2026-11-15T16:09:25Z"
+      "number": 6438,
+      "title": "fix: show selected options in disabled multi-selects",
+      "url": "https://github.com/browser-use/browser-use/pull/6438",
+      "author": "Aafimalek",
+      "at": "2026-11-16T09:28:55Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6412,
-      "title": "Bug: relative browser executable paths lose their directory before launch",
-      "url": "https://github.com/browser-use/browser-use/issues/6412",
-      "author": "Harsh23Kashyap",
-      "at": "2026-11-15T16:07:05Z"
+      "kind": "pr",
+      "number": 6437,
+      "title": "feat(ax): prioritize modal dialog elements in accessibility state to prevent token truncation",
+      "url": "https://github.com/browser-use/browser-use/pull/6437",
+      "author": "y4nkk4",
+      "at": "2026-11-16T06:15:45Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "browser-use 1.0.6 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.6",
+      "author": "sarath-menon",
+      "at": "2026-11-16T00:51:24Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5400,
-      "title": "docs: centralize the 1,500+ apps/toolkits count",
-      "url": "https://github.com/ComposioHQ/composio/pull/5400",
-      "author": "olearycrew",
-      "at": "2026-11-14T22:43:32Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5399,
-      "title": "[Bug]: A strict-mode tool with `anyOf` object branches sends `null` for an omitted optional parameter of the second branch",
-      "url": "https://github.com/ComposioHQ/composio/issues/5399",
-      "author": "gshost1",
-      "at": "2026-11-14T19:01:28Z"
+      "number": 5409,
+      "title": "docs: explain App grouping and Composio Built vs Provider MCP toolkits",
+      "url": "https://github.com/ComposioHQ/composio/pull/5409",
+      "author": "jjprodguy-composio",
+      "at": "2026-11-16T10:37:35Z"
     },
     {
       "founder": "Jason Liu",
@@ -72,89 +72,67 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41878,
-      "title": "core: `RunnableBinding.batch`/`abatch` give every input the same `run_id`",
-      "url": "https://github.com/langchain-ai/langchain/issues/41878",
-      "author": "JohnnyWilson16",
-      "at": "2026-11-15T18:32:24Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41875,
-      "title": "langchain-core: `tracing_context(enabled=\"local\")` still posts LangChain runs to LangSmith",
-      "url": "https://github.com/langchain-ai/langchain/issues/41875",
-      "author": "rohitg00",
-      "at": "2026-11-15T10:09:34Z"
+      "kind": "pr",
+      "number": 41890,
+      "title": "fix(core): accumulate token details across streamed chunks",
+      "url": "https://github.com/langchain-ai/langchain/pull/41890",
+      "author": "GCSimba",
+      "at": "2026-11-16T03:07:13Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101844,
-      "title": "docs: clarify no-referrer behavior with Server Actions",
-      "url": "https://github.com/vercel/next.js/pull/101844",
+      "number": 101862,
+      "title": "docs: clarify force-dynamic fetch caching",
+      "url": "https://github.com/vercel/next.js/pull/101862",
       "author": "aurorascharff",
-      "at": "2026-11-15T19:23:01Z"
+      "at": "2026-11-16T10:36:48Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101843,
-      "title": "docs: clarify cache tag invalidation across instances",
-      "url": "https://github.com/vercel/next.js/pull/101843",
-      "author": "aurorascharff",
-      "at": "2026-11-15T19:19:42Z"
+      "number": 101861,
+      "title": "[test] Stabilize cached navigations consistency checks",
+      "url": "https://github.com/vercel/next.js/pull/101861",
+      "author": "unstubbable",
+      "at": "2026-11-16T10:25:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53425,
-      "title": "fix(studio): sidebar collapsible",
-      "url": "https://github.com/supabase/supabase/pull/53425",
-      "author": "antlio",
-      "at": "2026-11-15T18:51:18Z"
+      "number": 53450,
+      "title": "feat(docs): Improve Pipelines docs",
+      "url": "https://github.com/supabase/supabase/pull/53450",
+      "author": "iambriccardo",
+      "at": "2026-11-16T10:36:41Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53449,
+      "title": "docs(cli): show config examples in TOML and JSONC",
+      "url": "https://github.com/supabase/supabase/pull/53449",
+      "author": "Coly010",
+      "at": "2026-11-16T10:09:25Z"
     },
     {
       "founder": "Erik Bernhardsson",
       "company": "Modal",
       "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4153,
-      "title": "Nsight Perf SDK does not work on B200: service never ready (driver 610.57.04, CUDA 13.5, gVisor)",
-      "url": "https://github.com/modal-labs/modal-client/issues/4153",
-      "author": "ElenaViewSynthesis",
-      "at": "2026-11-15T08:58:49Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2258,
-      "title": "feat: use Mockatoo for OAuth sign-in outside production",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2258",
-      "author": "tianhuil",
-      "at": "2026-11-13T19:31:13Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2257,
-      "title": "fix(biome): use useTailwindSortedClasses in generated config",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2257",
-      "author": "tianhuil",
-      "at": "2026-11-13T19:30:09Z"
+      "number": 4154,
+      "title": "Python: Model's SSL context should declare HTTP2 support",
+      "url": "https://github.com/modal-labs/modal-client/issues/4154",
+      "author": "jamesh1999",
+      "at": "2026-11-16T06:02:10Z"
     }
   ]
 }
