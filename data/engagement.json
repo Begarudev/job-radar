@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-17T11:30:06.335Z",
-  "count": 9,
+  "updatedAt": "2026-11-17T21:59:20.120Z",
+  "count": 12,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6451,
+      "title": "Judge with the detected anti-bot walls and name the one a run failed on",
+      "url": "https://github.com/browser-use/browser-use/pull/6451",
+      "author": "gregpr07",
+      "at": "2026-11-17T21:01:12Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -14,92 +25,114 @@
       "at": "2026-11-17T06:41:25Z"
     },
     {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 6449,
-      "title": "CLI: first capture_screenshot() on a headless cdp browser waits 10 s",
-      "url": "https://github.com/browser-use/browser-use/issues/6449",
-      "author": "rgodha24",
-      "at": "2026-11-17T06:39:12Z"
+      "number": 5446,
+      "title": "mise: no windows-x64 URLs — mise install fails on Windows in locked mode",
+      "url": "https://github.com/ComposioHQ/composio/issues/5446",
+      "author": "sauraviiitk",
+      "at": "2026-11-17T20:44:57Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5445,
+      "title": "docs: drop experimental labels from Custom MCP (PLEN-4880)",
+      "url": "https://github.com/ComposioHQ/composio/pull/5445",
+      "author": "singhbharath03",
+      "at": "2026-11-17T17:27:40Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3071,
-      "title": "fix(core): keep fenced MD_JSON answer before a trailing citation",
-      "url": "https://github.com/567-labs/instructor/pull/3071",
-      "author": "ChrystianSchutz",
-      "at": "2026-11-17T10:20:08Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3070,
-      "title": "fix(multimodal): recover audio data-URI payload in OpenAI and GenAI encoders",
-      "url": "https://github.com/567-labs/instructor/pull/3070",
-      "author": "xDipzz",
-      "at": "2026-11-17T08:21:07Z"
+      "number": 3072,
+      "title": "fix(dsl): reject unclosed iterable containers at EOF",
+      "url": "https://github.com/567-labs/instructor/pull/3072",
+      "author": "liugedragon",
+      "at": "2026-11-17T14:29:00Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41919,
-      "title": "fix(standard-tests): fix lint",
-      "url": "https://github.com/langchain-ai/langchain/pull/41919",
+      "number": 41922,
+      "title": "feat(openai): support GPT-6.2 Astra and Sol",
+      "url": "https://github.com/langchain-ai/langchain/pull/41922",
+      "author": "mdrxy",
+      "at": "2026-11-17T18:29:08Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 41920,
+      "title": "fix(core): fix Pydantic v1 model support in graph.py",
+      "url": "https://github.com/langchain-ai/langchain/pull/41920",
       "author": "cbornet",
-      "at": "2026-11-17T11:25:16Z"
+      "at": "2026-11-17T11:31:53Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 101925,
-      "title": "Route .rsc requests to app functions via adapter routing rules",
-      "url": "https://github.com/vercel/next.js/pull/101925",
-      "author": "mischnic",
-      "at": "2026-11-17T11:05:42Z"
+      "number": 101971,
+      "title": "Fix Turbopack recovery after creating a missing Sass partial",
+      "url": "https://github.com/vercel/next.js/pull/101971",
+      "author": "jimmyhmiller",
+      "at": "2026-11-17T21:46:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 101924,
-      "title": "docs: document instant testing in the Playwright guide",
-      "url": "https://github.com/vercel/next.js/pull/101924",
-      "author": "aurorascharff",
-      "at": "2026-11-17T10:24:31Z"
+      "kind": "issue",
+      "number": 101970,
+      "title": "Partial prefetching adds a copy of the page for HTML-limited bots",
+      "url": "https://github.com/vercel/next.js/issues/101970",
+      "author": "n1ckoates",
+      "at": "2026-11-17T21:22:33Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53511,
-      "title": "feat(studio): Wire the OAuth apps consent screen to the backend",
-      "url": "https://github.com/supabase/supabase/pull/53511",
-      "author": "djhi",
-      "at": "2026-11-17T10:53:13Z"
+      "number": 53564,
+      "title": "chore(ui-library) - render list of available components at the bottom of the page",
+      "url": "https://github.com/supabase/supabase/pull/53564",
+      "author": "kodster28",
+      "at": "2026-11-17T21:22:58Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53563,
+      "title": "feat(www): send compute waitlist signups to customer.io",
+      "url": "https://github.com/supabase/supabase/pull/53563",
+      "author": "ana1337x",
+      "at": "2026-11-17T21:14:18Z"
     },
     {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2259,
-      "title": "docs: update tRPC usage docs to the current app-router client (trpc/react)",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2259",
-      "author": "ARYAN-DUTT",
-      "at": "2026-11-16T18:22:10Z"
+      "kind": "issue",
+      "number": 2058,
+      "title": "feat: zod validation fieldErrors type inference",
+      "url": "https://github.com/t3-oss/create-t3-app/issues/2058",
+      "author": "sahandsn",
+      "at": "2025-02-19T19:59:42Z"
     }
   ]
 }
