@@ -1,39 +1,50 @@
 {
-  "updatedAt": "2026-11-18T21:41:02.045Z",
-  "count": 12,
+  "updatedAt": "2026-11-19T11:10:03.593Z",
+  "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6470,
-      "title": "Ask for user authorization before sending integration feedback",
-      "url": "https://github.com/browser-use/browser-use/pull/6470",
-      "author": "r266-tech",
-      "at": "2026-11-18T20:31:02Z"
+      "number": 6473,
+      "title": "fix(search): ignore out-of-range charge amounts",
+      "url": "https://github.com/browser-use/browser-use/pull/6473",
+      "author": "passionworkeer",
+      "at": "2026-11-19T10:39:06Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6469,
-      "title": "Avoid duplicate history conversion in compaction checks",
-      "url": "https://github.com/browser-use/browser-use/pull/6469",
-      "author": "azizu06",
-      "at": "2026-11-18T19:43:02Z"
+      "number": 6472,
+      "title": "fix(upload): batch metadata and long local path lists",
+      "url": "https://github.com/browser-use/browser-use/pull/6472",
+      "author": "Kulraj69",
+      "at": "2026-11-19T04:28:58Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5464,
-      "title": "build(cli): compile binaries with profile-guided bytecode",
-      "url": "https://github.com/ComposioHQ/composio/pull/5464",
+      "number": 5472,
+      "title": "build(deps): let TypeDoc 0.28.20 run on minimatch 11",
+      "url": "https://github.com/ComposioHQ/composio/pull/5472",
       "author": "jkomyno",
-      "at": "2026-11-18T21:11:33Z"
+      "at": "2026-11-19T10:06:38Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 3080,
+      "title": "fix(providers): avoid misdetecting provider from URL paths and queries",
+      "url": "https://github.com/567-labs/instructor/pull/3080",
+      "author": "Raufnarejo505",
+      "at": "2026-11-19T11:06:20Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,81 +58,37 @@
       "at": "2026-11-18T17:38:24Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3078,
-      "title": "docs: add an example for custom OpenAI-compatible gateways",
-      "url": "https://github.com/567-labs/instructor/pull/3078",
-      "author": "cloudgpuapp",
-      "at": "2026-11-18T15:53:13Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41947,
-      "title": "langchain-anthropic: `_format_messages` drops `caller` from `tool_search_tool_result` blocks",
-      "url": "https://github.com/langchain-ai/langchain/issues/41947",
-      "author": "zk-yun",
-      "at": "2026-11-18T16:40:04Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 41945,
-      "title": "Expose `prompt_cache_breakpoint` support in model profiles",
-      "url": "https://github.com/langchain-ai/langchain/issues/41945",
-      "author": "mdrxy",
-      "at": "2026-11-18T16:03:03Z"
-    },
-    {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
-      "kind": "issue",
-      "number": 102030,
-      "title": "Pages Router: navigation never settles when it joins an in-flight prefetch that times out",
-      "url": "https://github.com/vercel/next.js/issues/102030",
-      "author": "mrlemoos",
-      "at": "2026-11-18T20:59:35Z"
+      "kind": "pr",
+      "number": 102061,
+      "title": "Turbopack: add opt-in child process for the next build compilation",
+      "url": "https://github.com/vercel/next.js/pull/102061",
+      "author": "sokra",
+      "at": "2026-11-19T10:36:46Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102029,
-      "title": "turbo-tasks-malloc: bump mimalloc to v3.7.0",
-      "url": "https://github.com/vercel/next.js/pull/102029",
-      "author": "lukesandberg",
-      "at": "2026-11-18T20:57:18Z"
+      "number": 102060,
+      "title": "Wait for hydration in external-browser-runtime hydration tests",
+      "url": "https://github.com/vercel/next.js/pull/102060",
+      "author": "sokra",
+      "at": "2026-11-19T10:31:04Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53646,
-      "title": "feat(docs) - add techarticle schema to mgmt api",
-      "url": "https://github.com/supabase/supabase/pull/53646",
-      "author": "kodster28",
-      "at": "2026-11-18T21:04:42Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 53645,
-      "title": "chore(docs,www) - remove dupe h1s",
-      "url": "https://github.com/supabase/supabase/pull/53645",
-      "author": "kodster28",
-      "at": "2026-11-18T20:51:43Z"
+      "number": 53666,
+      "title": "feat(www): shared account menu",
+      "url": "https://github.com/supabase/supabase/pull/53666",
+      "author": "antlio",
+      "at": "2026-11-19T09:13:06Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -133,6 +100,17 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4124",
       "author": "0x0f0f0f",
       "at": "2026-07-23T09:35:24Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2255,
+      "title": "fix(cli): use correct table prefix placeholder in Better Auth + Drizzle + PostgreSQL template",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2255",
+      "author": "helmipradita",
+      "at": "2026-11-13T04:06:22Z"
     }
   ]
 }
