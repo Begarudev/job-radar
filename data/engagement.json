@@ -1,105 +1,149 @@
 {
-  "updatedAt": "2026-11-19T11:10:03.593Z",
-  "count": 10,
+  "updatedAt": "2026-11-19T21:56:59.926Z",
+  "count": 14,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6473,
-      "title": "fix(search): ignore out-of-range charge amounts",
-      "url": "https://github.com/browser-use/browser-use/pull/6473",
-      "author": "passionworkeer",
-      "at": "2026-11-19T10:39:06Z"
+      "number": 6475,
+      "title": "fix(telemetry): exit sender no longer opens a console window on Windows",
+      "url": "https://github.com/browser-use/browser-use/pull/6475",
+      "author": "badcuban",
+      "at": "2026-11-19T19:00:33Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6472,
-      "title": "fix(upload): batch metadata and long local path lists",
-      "url": "https://github.com/browser-use/browser-use/pull/6472",
-      "author": "Kulraj69",
-      "at": "2026-11-19T04:28:58Z"
+      "kind": "issue",
+      "number": 6474,
+      "title": "Windows: exit-time telemetry sender opens a visible console window",
+      "url": "https://github.com/browser-use/browser-use/issues/6474",
+      "author": "badcuban",
+      "at": "2026-11-19T18:21:43Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5472,
-      "title": "build(deps): let TypeDoc 0.28.20 run on minimatch 11",
-      "url": "https://github.com/ComposioHQ/composio/pull/5472",
-      "author": "jkomyno",
-      "at": "2026-11-19T10:06:38Z"
+      "number": 5482,
+      "title": "docs: add a small Cloudflare AI Search comparison eval",
+      "url": "https://github.com/ComposioHQ/composio/pull/5482",
+      "author": "olearycrew",
+      "at": "2026-11-19T19:52:56Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3080,
-      "title": "fix(providers): avoid misdetecting provider from URL paths and queries",
-      "url": "https://github.com/567-labs/instructor/pull/3080",
-      "author": "Raufnarejo505",
-      "at": "2026-11-19T11:06:20Z"
+      "number": 3084,
+      "title": "fix(xai): retry empty responses in v2 parsing modes",
+      "url": "https://github.com/567-labs/instructor/pull/3084",
+      "author": "Twiink",
+      "at": "2026-11-19T14:34:10Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
+      "kind": "issue",
+      "number": 3083,
+      "title": "xAI provider raises plain ValueError on unparseable responses, so max_retries never reasks",
+      "url": "https://github.com/567-labs/instructor/issues/3083",
+      "author": "SAIGAWALI",
+      "at": "2026-11-19T13:46:35Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 3079,
-      "title": "docs(examples): trace Instructor with Future AGI",
-      "url": "https://github.com/567-labs/instructor/pull/3079",
-      "author": "jays-beep",
-      "at": "2026-11-18T17:38:24Z"
+      "number": 41963,
+      "title": "fix(openai): preserve streamed Responses tool call arguments",
+      "url": "https://github.com/langchain-ai/langchain/pull/41963",
+      "author": "ccurme",
+      "at": "2026-11-19T21:34:32Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 102095,
+      "title": "Server action returns 500 under next start once the page's prerendered entry is stale (background revalidation re-runs the action on the con",
+      "url": "https://github.com/vercel/next.js/issues/102095",
+      "author": "lguzai",
+      "at": "2026-11-19T21:52:56Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102061,
-      "title": "Turbopack: add opt-in child process for the next build compilation",
-      "url": "https://github.com/vercel/next.js/pull/102061",
-      "author": "sokra",
-      "at": "2026-11-19T10:36:46Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102060,
-      "title": "Wait for hydration in external-browser-runtime hydration tests",
-      "url": "https://github.com/vercel/next.js/pull/102060",
-      "author": "sokra",
-      "at": "2026-11-19T10:31:04Z"
+      "number": 102094,
+      "title": "Deopt durable use cache entries on dynamic process.env access",
+      "url": "https://github.com/vercel/next.js/pull/102094",
+      "author": "mischnic",
+      "at": "2026-11-19T21:43:06Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53666,
-      "title": "feat(www): shared account menu",
-      "url": "https://github.com/supabase/supabase/pull/53666",
+      "number": 53689,
+      "title": "Add \"Supports AWS PrivateLink\" to Team plan and comparison table on pricing page",
+      "url": "https://github.com/supabase/supabase/pull/53689",
+      "author": "wendeh",
+      "at": "2026-11-19T21:24:52Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53688,
+      "title": "feat(docs): layout toggle",
+      "url": "https://github.com/supabase/supabase/pull/53688",
       "author": "antlio",
-      "at": "2026-11-19T09:13:06Z"
+      "at": "2026-11-19T21:09:48Z"
     },
     {
       "founder": "Erik Bernhardsson",
       "company": "Modal",
       "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4124,
-      "title": "JS/TS SDK can't run on Cloudflare Workers (edge runtime): gRPC-over-HTTP/2 transport is unsupported",
-      "url": "https://github.com/modal-labs/modal-client/issues/4124",
-      "author": "0x0f0f0f",
-      "at": "2026-07-23T09:35:24Z"
+      "number": 4156,
+      "title": "JavaScript SDK: ERR_PNPM_TRUST_DOWNGRADE when installing modal@0.11.2",
+      "url": "https://github.com/modal-labs/modal-client/issues/4156",
+      "author": "akadotsh",
+      "at": "2026-11-19T15:38:10Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4150,
+      "title": "@modal.web_server WebSocket relay fails with aiohttp ≥ 3.14.2 when the app accepts permessage-deflate",
+      "url": "https://github.com/modal-labs/modal-client/issues/4150",
+      "author": "tdsmith",
+      "at": "2026-10-31T18:46:16Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2258,
+      "title": "feat: use Mockatoo for OAuth sign-in outside production",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2258",
+      "author": "tianhuil",
+      "at": "2026-11-13T19:31:13Z"
     },
     {
       "founder": "Theo Browne",
