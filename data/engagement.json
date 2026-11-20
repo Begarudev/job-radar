@@ -1,116 +1,105 @@
 {
-  "updatedAt": "2026-11-19T21:56:59.926Z",
-  "count": 14,
+  "updatedAt": "2026-11-20T10:57:09.294Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6475,
-      "title": "fix(telemetry): exit sender no longer opens a console window on Windows",
-      "url": "https://github.com/browser-use/browser-use/pull/6475",
-      "author": "badcuban",
-      "at": "2026-11-19T19:00:33Z"
+      "number": 6484,
+      "title": "docs(skill): ask before sending feedback on the user's behalf",
+      "url": "https://github.com/browser-use/browser-use/pull/6484",
+      "author": "debuJan",
+      "at": "2026-11-20T10:37:04Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6474,
-      "title": "Windows: exit-time telemetry sender opens a visible console window",
-      "url": "https://github.com/browser-use/browser-use/issues/6474",
-      "author": "badcuban",
-      "at": "2026-11-19T18:21:43Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5482,
-      "title": "docs: add a small Cloudflare AI Search comparison eval",
-      "url": "https://github.com/ComposioHQ/composio/pull/5482",
-      "author": "olearycrew",
-      "at": "2026-11-19T19:52:56Z"
+      "number": 6483,
+      "title": "fix(cli): --update prints the working upgrade command",
+      "url": "https://github.com/browser-use/browser-use/pull/6483",
+      "author": "saifullah-ai-engineer",
+      "at": "2026-11-20T09:57:13Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3084,
-      "title": "fix(xai): retry empty responses in v2 parsing modes",
-      "url": "https://github.com/567-labs/instructor/pull/3084",
-      "author": "Twiink",
-      "at": "2026-11-19T14:34:10Z"
+      "number": 3088,
+      "title": "fix(retry): report IncompleteOutputException to error hooks",
+      "url": "https://github.com/567-labs/instructor/pull/3088",
+      "author": "MaiAditya",
+      "at": "2026-11-20T07:32:39Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 3083,
-      "title": "xAI provider raises plain ValueError on unparseable responses, so max_retries never reasks",
-      "url": "https://github.com/567-labs/instructor/issues/3083",
-      "author": "SAIGAWALI",
-      "at": "2026-11-19T13:46:35Z"
+      "number": 3087,
+      "title": "Error hooks don't fire when a response is truncated (IncompleteOutputException)",
+      "url": "https://github.com/567-labs/instructor/issues/3087",
+      "author": "MaiAditya",
+      "at": "2026-11-20T07:32:34Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41963,
-      "title": "fix(openai): preserve streamed Responses tool call arguments",
-      "url": "https://github.com/langchain-ai/langchain/pull/41963",
-      "author": "ccurme",
-      "at": "2026-11-19T21:34:32Z"
+      "number": 41977,
+      "title": "chore(infra): route Robin review requests to #team-oss-review",
+      "url": "https://github.com/langchain-ai/langchain/pull/41977",
+      "author": "mdrxy",
+      "at": "2026-11-20T05:24:51Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102132,
+      "title": "test: avoid idle-callback starvation in css-client-nav",
+      "url": "https://github.com/vercel/next.js/pull/102132",
+      "author": "sokra",
+      "at": "2026-11-20T10:51:59Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "issue",
-      "number": 102095,
-      "title": "Server action returns 500 under next start once the page's prerendered entry is stale (background revalidation re-runs the action on the con",
-      "url": "https://github.com/vercel/next.js/issues/102095",
-      "author": "lguzai",
-      "at": "2026-11-19T21:52:56Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102094,
-      "title": "Deopt durable use cache entries on dynamic process.env access",
-      "url": "https://github.com/vercel/next.js/pull/102094",
-      "author": "mischnic",
-      "at": "2026-11-19T21:43:06Z"
+      "number": 102131,
+      "title": "refresh() in server action causes full-page reload when a retained parallel route's URL was changed with history.replaceState",
+      "url": "https://github.com/vercel/next.js/issues/102131",
+      "author": "fnberta",
+      "at": "2026-11-20T10:47:41Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53689,
-      "title": "Add \"Supports AWS PrivateLink\" to Team plan and comparison table on pricing page",
-      "url": "https://github.com/supabase/supabase/pull/53689",
-      "author": "wendeh",
-      "at": "2026-11-19T21:24:52Z"
+      "number": 53729,
+      "title": "fix(studio): OAuth apps consent screen permission diff may show an empty _Already granted_ section",
+      "url": "https://github.com/supabase/supabase/pull/53729",
+      "author": "djhi",
+      "at": "2026-11-20T10:42:23Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53688,
-      "title": "feat(docs): layout toggle",
-      "url": "https://github.com/supabase/supabase/pull/53688",
-      "author": "antlio",
-      "at": "2026-11-19T21:09:48Z"
+      "number": 53728,
+      "title": "Joshenlim/fe 5172 deprecate old table component",
+      "url": "https://github.com/supabase/supabase/pull/53728",
+      "author": "joshenlim",
+      "at": "2026-11-20T10:07:30Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -135,6 +124,17 @@
       "at": "2026-10-31T18:46:16Z"
     },
     {
+      "founder": "Diwank Tomer",
+      "company": "Julep AI",
+      "repo": "julep-ai/julep",
+      "kind": "issue",
+      "number": 1637,
+      "title": "Temporal backend: the Idempotency-Key sent to tools repeats across runs and flows ($@1), so keyed providers drop later operations",
+      "url": "https://github.com/julep-ai/julep/issues/1637",
+      "author": "FurkhanShaikh",
+      "at": "2026-11-19T23:51:58Z"
+    },
+    {
       "founder": "Theo Browne",
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
@@ -144,17 +144,6 @@
       "url": "https://github.com/t3-oss/create-t3-app/pull/2258",
       "author": "tianhuil",
       "at": "2026-11-13T19:31:13Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2255,
-      "title": "fix(cli): use correct table prefix placeholder in Better Auth + Drizzle + PostgreSQL template",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2255",
-      "author": "helmipradita",
-      "at": "2026-11-13T04:06:22Z"
     }
   ]
 }
