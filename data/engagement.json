@@ -1,28 +1,50 @@
 {
-  "updatedAt": "2026-11-20T10:57:09.294Z",
-  "count": 13,
+  "updatedAt": "2026-11-20T21:39:28.805Z",
+  "count": 16,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6484,
-      "title": "docs(skill): ask before sending feedback on the user's behalf",
-      "url": "https://github.com/browser-use/browser-use/pull/6484",
-      "author": "debuJan",
-      "at": "2026-11-20T10:37:04Z"
+      "number": 6488,
+      "title": "Browser(tokens=...): model types dummies, real values only to allowed hosts",
+      "url": "https://github.com/browser-use/browser-use/pull/6488",
+      "author": "gregpr07",
+      "at": "2026-11-20T20:57:30Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6483,
-      "title": "fix(cli): --update prints the working upgrade command",
-      "url": "https://github.com/browser-use/browser-use/pull/6483",
-      "author": "saifullah-ai-engineer",
-      "at": "2026-11-20T09:57:13Z"
+      "number": 6487,
+      "title": "fix(security): prevent allowed_domains bypass via data and blob URLs (fixes #4763)",
+      "url": "https://github.com/browser-use/browser-use/pull/6487",
+      "author": "Adeolu5678",
+      "at": "2026-11-20T20:45:00Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "browser-use 1.0.7 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.7",
+      "author": "sarath-menon",
+      "at": "2026-11-20T20:01:20Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5507,
+      "title": "ci: track recurring workflow failures in GitHub issues",
+      "url": "https://github.com/ComposioHQ/composio/pull/5507",
+      "author": "jkomyno",
+      "at": "2026-11-20T21:28:26Z"
     },
     {
       "founder": "Jason Liu",
@@ -51,55 +73,66 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41977,
-      "title": "chore(infra): route Robin review requests to #team-oss-review",
-      "url": "https://github.com/langchain-ai/langchain/pull/41977",
+      "number": 41982,
+      "title": "feat(openai): fall back to request-level config when `configuration_update` is unsupported",
+      "url": "https://github.com/langchain-ai/langchain/pull/41982",
       "author": "mdrxy",
-      "at": "2026-11-20T05:24:51Z"
+      "at": "2026-11-20T16:59:29Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102132,
-      "title": "test: avoid idle-callback starvation in css-client-nav",
-      "url": "https://github.com/vercel/next.js/pull/102132",
-      "author": "sokra",
-      "at": "2026-11-20T10:51:59Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 102131,
-      "title": "refresh() in server action causes full-page reload when a retained parallel route's URL was changed with history.replaceState",
-      "url": "https://github.com/vercel/next.js/issues/102131",
-      "author": "fnberta",
-      "at": "2026-11-20T10:47:41Z"
+      "number": 41981,
+      "title": "langchain.mcp: MCP tool arguments named config or run_manager never reach the server",
+      "url": "https://github.com/langchain-ai/langchain/issues/41981",
+      "author": "MRehanK209",
+      "at": "2026-11-20T15:49:15Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102156,
+      "title": "ci: pin Go 1.24.x for Turbopack e2e jobs (fixes native-route-go on new runner image)",
+      "url": "https://github.com/vercel/next.js/pull/102156",
+      "author": "andrewimm",
+      "at": "2026-11-20T21:32:43Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102154,
+      "title": "reject build ids that contain a slash",
+      "url": "https://github.com/vercel/next.js/pull/102154",
+      "author": "yabdelhamed",
+      "at": "2026-11-20T20:59:19Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53729,
-      "title": "fix(studio): OAuth apps consent screen permission diff may show an empty _Already granted_ section",
-      "url": "https://github.com/supabase/supabase/pull/53729",
-      "author": "djhi",
-      "at": "2026-11-20T10:42:23Z"
+      "number": 53763,
+      "title": "Add blog post: Introducing Supabase Knowledge Base",
+      "url": "https://github.com/supabase/supabase/pull/53763",
+      "author": "nrichers",
+      "at": "2026-11-20T21:31:15Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53728,
-      "title": "Joshenlim/fe 5172 deprecate old table component",
-      "url": "https://github.com/supabase/supabase/pull/53728",
-      "author": "joshenlim",
-      "at": "2026-11-20T10:07:30Z"
+      "number": 53761,
+      "title": "fix(docs): layout v2 fixtures",
+      "url": "https://github.com/supabase/supabase/pull/53761",
+      "author": "antlio",
+      "at": "2026-11-20T20:06:41Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -117,11 +150,11 @@
       "company": "Modal",
       "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4150,
-      "title": "@modal.web_server WebSocket relay fails with aiohttp ≥ 3.14.2 when the app accepts permessage-deflate",
-      "url": "https://github.com/modal-labs/modal-client/issues/4150",
-      "author": "tdsmith",
-      "at": "2026-10-31T18:46:16Z"
+      "number": 4155,
+      "title": "Retries(max_delay=...) is never applied to the delay the client sleeps",
+      "url": "https://github.com/modal-labs/modal-client/issues/4155",
+      "author": "chrikrah",
+      "at": "2026-11-16T11:13:24Z"
     },
     {
       "founder": "Diwank Tomer",
@@ -139,11 +172,11 @@
       "company": "T3 Stack / Ping Labs",
       "repo": "t3-oss/create-t3-app",
       "kind": "pr",
-      "number": 2258,
-      "title": "feat: use Mockatoo for OAuth sign-in outside production",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2258",
+      "number": 2257,
+      "title": "fix(biome): use useTailwindSortedClasses in generated config",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2257",
       "author": "tianhuil",
-      "at": "2026-11-13T19:31:13Z"
+      "at": "2026-11-13T19:30:09Z"
     }
   ]
 }
