@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-11-20T21:39:28.805Z",
-  "count": 16,
+  "updatedAt": "2026-11-21T10:40:22.910Z",
+  "count": 11,
   "signals": [
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6488,
-      "title": "Browser(tokens=...): model types dummies, real values only to allowed hosts",
-      "url": "https://github.com/browser-use/browser-use/pull/6488",
-      "author": "gregpr07",
-      "at": "2026-11-20T20:57:30Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6487,
-      "title": "fix(security): prevent allowed_domains bypass via data and blob URLs (fixes #4763)",
-      "url": "https://github.com/browser-use/browser-use/pull/6487",
-      "author": "Adeolu5678",
-      "at": "2026-11-20T20:45:00Z"
-    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -36,103 +14,81 @@
       "at": "2026-11-20T20:01:20Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 5507,
-      "title": "ci: track recurring workflow failures in GitHub issues",
-      "url": "https://github.com/ComposioHQ/composio/pull/5507",
-      "author": "jkomyno",
-      "at": "2026-11-20T21:28:26Z"
+      "number": 3094,
+      "title": "fix(dsl): hydrate Sequence items in partial streams",
+      "url": "https://github.com/567-labs/instructor/pull/3094",
+      "author": "1828703450qqcom-ux",
+      "at": "2026-11-21T07:18:16Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3088,
-      "title": "fix(retry): report IncompleteOutputException to error hooks",
-      "url": "https://github.com/567-labs/instructor/pull/3088",
-      "author": "MaiAditya",
-      "at": "2026-11-20T07:32:39Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 3087,
-      "title": "Error hooks don't fire when a response is truncated (IncompleteOutputException)",
-      "url": "https://github.com/567-labs/instructor/issues/3087",
-      "author": "MaiAditya",
-      "at": "2026-11-20T07:32:34Z"
+      "number": 3093,
+      "title": "fix(genai): close owned clients in PDF file helpers",
+      "url": "https://github.com/567-labs/instructor/pull/3093",
+      "author": "wToTw123",
+      "at": "2026-11-21T06:48:03Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 41982,
-      "title": "feat(openai): fall back to request-level config when `configuration_update` is unsupported",
-      "url": "https://github.com/langchain-ai/langchain/pull/41982",
-      "author": "mdrxy",
-      "at": "2026-11-20T16:59:29Z"
+      "number": 42011,
+      "title": "feat(anthropic): support auth token providers for refreshing credentials",
+      "url": "https://github.com/langchain-ai/langchain/pull/42011",
+      "author": "kmishra1204",
+      "at": "2026-11-21T05:30:05Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102184,
+      "title": "turbo-tasks: fix reversed TaskInput::is_resolved documentation",
+      "url": "https://github.com/vercel/next.js/pull/102184",
+      "author": "sokra",
+      "at": "2026-11-21T08:57:14Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102183,
+      "title": "Fix AppType generic being applied to pageProps instead of app props",
+      "url": "https://github.com/vercel/next.js/pull/102183",
+      "author": "vanibhardwaj05",
+      "at": "2026-11-21T07:36:12Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 41981,
-      "title": "langchain.mcp: MCP tool arguments named config or run_manager never reach the server",
-      "url": "https://github.com/langchain-ai/langchain/issues/41981",
-      "author": "MRehanK209",
-      "at": "2026-11-20T15:49:15Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102156,
-      "title": "ci: pin Go 1.24.x for Turbopack e2e jobs (fixes native-route-go on new runner image)",
-      "url": "https://github.com/vercel/next.js/pull/102156",
-      "author": "andrewimm",
-      "at": "2026-11-20T21:32:43Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102154,
-      "title": "reject build ids that contain a slash",
-      "url": "https://github.com/vercel/next.js/pull/102154",
-      "author": "yabdelhamed",
-      "at": "2026-11-20T20:59:19Z"
+      "number": 53785,
+      "title": "matching row in the edge (gateway) logs. When the function reads the body to the end first, the same request gets its",
+      "url": "https://github.com/supabase/supabase/issues/53785",
+      "author": "mbsmaxceo-svg",
+      "at": "2026-11-21T09:34:28Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53763,
-      "title": "Add blog post: Introducing Supabase Knowledge Base",
-      "url": "https://github.com/supabase/supabase/pull/53763",
-      "author": "nrichers",
-      "at": "2026-11-20T21:31:15Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 53761,
-      "title": "fix(docs): layout v2 fixtures",
-      "url": "https://github.com/supabase/supabase/pull/53761",
-      "author": "antlio",
-      "at": "2026-11-20T20:06:41Z"
+      "number": 53784,
+      "title": "fix(studio): preserve table edits made during save",
+      "url": "https://github.com/supabase/supabase/pull/53784",
+      "author": "anupamgit",
+      "at": "2026-11-21T09:32:34Z"
     },
     {
       "founder": "Erik Bernhardsson",
@@ -155,17 +111,6 @@
       "url": "https://github.com/modal-labs/modal-client/issues/4155",
       "author": "chrikrah",
       "at": "2026-11-16T11:13:24Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "issue",
-      "number": 1637,
-      "title": "Temporal backend: the Idempotency-Key sent to tools repeats across runs and flows ($@1), so keyed providers drop later operations",
-      "url": "https://github.com/julep-ai/julep/issues/1637",
-      "author": "FurkhanShaikh",
-      "at": "2026-11-19T23:51:58Z"
     },
     {
       "founder": "Theo Browne",
