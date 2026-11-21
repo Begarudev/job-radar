@@ -1,19 +1,7 @@
 {
-  "updatedAt": "2026-11-20T15:40:51.793Z",
-  "count": 2,
+  "updatedAt": "2026-11-21T14:51:10.153Z",
+  "count": 1,
   "events": [
-    {
-      "id": "cloudflare-blog:https://blog.cloudflare.com/php-ctf/",
-      "source": "cloudflare-blog",
-      "kind": "bounty",
-      "title": "Introducing the Cloudflare PHP Capture the Flag challenge",
-      "description": "We are launching a PHP Capture the Flag challenge integrated with our Bug Bounty program to test our WAF protections. Security researchers are invited to bypass our defenses and capture the flag to help make the Internet safer.",
-      "url": "https://blog.cloudflare.com/php-ctf/",
-      "publishedAt": "Tue, 27 Oct 2026 13:00:00 GMT",
-      "fetchedAt": "2026-11-20T15:40:51.671Z",
-      "company": "Cloudflare",
-      "tags": []
-    },
     {
       "id": "openai-blog:https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "openai-blog",
@@ -22,7 +10,7 @@
       "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "fetchedAt": "2026-11-20T15:40:51.694Z",
+      "fetchedAt": "2026-11-21T14:51:09.696Z",
       "company": "OpenAI",
       "tags": []
     }
