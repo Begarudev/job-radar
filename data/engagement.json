@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-21T20:20:14.665Z",
-  "count": 10,
+  "updatedAt": "2026-11-22T10:45:19.741Z",
+  "count": 11,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6503,
+      "title": "fix(browser): reject a non-bool headless, keep_alive, live_view or block_ip_addresses",
+      "url": "https://github.com/browser-use/browser-use/pull/6503",
+      "author": "BichengWang",
+      "at": "2026-11-21T20:59:12Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -17,12 +28,34 @@
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6501,
-      "title": "feat(tools): add DACS-Standard (DACS-1..DACS-4 & TLSNotary) execution guardrails for custom actions",
-      "url": "https://github.com/browser-use/browser-use/pull/6501",
-      "author": "HaramMalik",
-      "at": "2026-11-21T15:01:35Z"
+      "kind": "release",
+      "number": 0,
+      "title": "browser-use 1.0.8 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.8",
+      "author": "gregpr07",
+      "at": "2026-11-22T03:30:41Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5516,
+      "title": "FileDownloadData.filePath is typed as string but save failures return null",
+      "url": "https://github.com/ComposioHQ/composio/issues/5516",
+      "author": "ktsomani",
+      "at": "2026-11-22T08:10:38Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5493,
+      "title": "install.sh is unusable on Windows and the composio-cli skill Setup section does not mention the native installer",
+      "url": "https://github.com/ComposioHQ/composio/issues/5493",
+      "author": "turygin0812a-arch",
+      "at": "2026-11-20T13:40:31Z"
     },
     {
       "founder": "Jason Liu",
@@ -50,6 +83,17 @@
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 42021,
+      "title": "AutoModeMiddleware: default risk criteria are never applied",
+      "url": "https://github.com/langchain-ai/langchain/issues/42021",
+      "author": "terrorgeek",
+      "at": "2026-11-22T02:09:37Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
       "number": 42019,
       "title": "docs(core): document `InMemoryVectorStore` public methods",
@@ -58,59 +102,26 @@
       "at": "2026-11-21T14:58:53Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102190,
-      "title": "Add migration guidance for removed --no-lint option",
-      "url": "https://github.com/vercel/next.js/pull/102190",
-      "author": "aurorascharff",
-      "at": "2026-11-21T13:01:15Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102189,
-      "title": "Show dependency frames in prerender diagnostics",
-      "url": "https://github.com/vercel/next.js/pull/102189",
-      "author": "aurorascharff",
-      "at": "2026-11-21T12:12:54Z"
-    },
-    {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 53790,
-      "title": "fix(studio): keep inline editor results on expand",
-      "url": "https://github.com/supabase/supabase/pull/53790",
-      "author": "7ttp",
-      "at": "2026-11-21T17:23:04Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 53789,
-      "title": "docs(billing): fix the active payment method step and add Pay now to the overdue FAQ",
-      "url": "https://github.com/supabase/supabase/pull/53789",
-      "author": "Heman10x-NGU",
-      "at": "2026-11-21T15:31:28Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
       "kind": "issue",
-      "number": 4150,
-      "title": "@modal.web_server WebSocket relay fails with aiohttp ≥ 3.14.2 when the app accepts permessage-deflate",
-      "url": "https://github.com/modal-labs/modal-client/issues/4150",
-      "author": "tdsmith",
-      "at": "2026-10-31T18:46:16Z"
+      "number": 53798,
+      "title": "I need my account back",
+      "url": "https://github.com/supabase/supabase/issues/53798",
+      "author": "djfjfjo",
+      "at": "2026-11-22T07:50:36Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53796,
+      "title": "docs: match the Laravel quickstart to the current project skeleton",
+      "url": "https://github.com/supabase/supabase/pull/53796",
+      "author": "shoemoney",
+      "at": "2026-11-22T06:10:32Z"
     }
   ]
 }
