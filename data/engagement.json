@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-22T10:45:19.741Z",
-  "count": 11,
+  "updatedAt": "2026-11-22T20:33:07.909Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6503,
-      "title": "fix(browser): reject a non-bool headless, keep_alive, live_view or block_ip_addresses",
-      "url": "https://github.com/browser-use/browser-use/pull/6503",
-      "author": "BichengWang",
-      "at": "2026-11-21T20:59:12Z"
+      "number": 6509,
+      "title": "fix: detect local network targets for cloud browsers",
+      "url": "https://github.com/browser-use/browser-use/pull/6509",
+      "author": "himanshug189-sketch",
+      "at": "2026-11-22T15:35:12Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6502,
-      "title": "fix(agent): reject an infinite run timeout",
-      "url": "https://github.com/browser-use/browser-use/pull/6502",
-      "author": "BichengWang",
-      "at": "2026-11-21T20:04:31Z"
+      "number": 6508,
+      "title": "Browser(web_bot_auth=...): sign navigations with Web Bot Auth (RFC 9421)",
+      "url": "https://github.com/browser-use/browser-use/pull/6508",
+      "author": "frostyhand",
+      "at": "2026-11-22T13:43:46Z"
     },
     {
       "founder": "Magnus Müller",
@@ -39,6 +39,17 @@
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5517,
+      "title": "feat(core,python): read session webhook events with `sessions.webhooks.parse()`",
+      "url": "https://github.com/ComposioHQ/composio/pull/5517",
+      "author": "mukund-composio",
+      "at": "2026-11-22T10:47:17Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
       "number": 5516,
       "title": "FileDownloadData.filePath is typed as string but save failures return null",
@@ -47,37 +58,26 @@
       "at": "2026-11-22T08:10:38Z"
     },
     {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
+      "kind": "pr",
+      "number": 3101,
+      "title": "fix(genai): raise ResponseParsingError for unparseable tool responses",
+      "url": "https://github.com/567-labs/instructor/pull/3101",
+      "author": "terrorgeek",
+      "at": "2026-11-22T19:57:50Z"
+    },
+    {
+      "founder": "Jason Liu",
+      "company": "instructor (OSS) + consultancy",
+      "repo": "567-labs/instructor",
       "kind": "issue",
-      "number": 5493,
-      "title": "install.sh is unusable on Windows and the composio-cli skill Setup section does not mention the native installer",
-      "url": "https://github.com/ComposioHQ/composio/issues/5493",
-      "author": "turygin0812a-arch",
-      "at": "2026-11-20T13:40:31Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3098,
-      "title": "Emit completion:error and completion:last_attempt hooks on IncompleteOutputException",
-      "url": "https://github.com/567-labs/instructor/pull/3098",
-      "author": "industriverse",
-      "at": "2026-11-21T16:09:51Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3097,
-      "title": "fix(dsl): keep list response metadata when copying",
-      "url": "https://github.com/567-labs/instructor/pull/3097",
-      "author": "DZH166",
-      "at": "2026-11-21T15:45:06Z"
+      "number": 3100,
+      "title": "GenAI TOOLS mode: blocked, empty or text-only responses raise AssertionError, so max_retries never reasks",
+      "url": "https://github.com/567-labs/instructor/issues/3100",
+      "author": "terrorgeek",
+      "at": "2026-11-22T19:56:51Z"
     },
     {
       "founder": "Harrison Chase",
@@ -91,37 +91,48 @@
       "at": "2026-11-22T02:09:37Z"
     },
     {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 42019,
-      "title": "docs(core): document `InMemoryVectorStore` public methods",
-      "url": "https://github.com/langchain-ai/langchain/pull/42019",
-      "author": "npentrel",
-      "at": "2026-11-21T14:58:53Z"
+      "number": 102208,
+      "title": "Validate the x-invocation-id cache-key component",
+      "url": "https://github.com/vercel/next.js/pull/102208",
+      "author": "mohdradi",
+      "at": "2026-11-22T19:07:52Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102207,
+      "title": "Filter internal headers on the WebSocket upgrade entry point",
+      "url": "https://github.com/vercel/next.js/pull/102207",
+      "author": "mohdradi",
+      "at": "2026-11-22T19:07:36Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "issue",
-      "number": 53798,
-      "title": "I need my account back",
-      "url": "https://github.com/supabase/supabase/issues/53798",
-      "author": "djfjfjo",
-      "at": "2026-11-22T07:50:36Z"
+      "number": 53810,
+      "title": "Table not showing",
+      "url": "https://github.com/supabase/supabase/issues/53810",
+      "author": "samir000705",
+      "at": "2026-11-22T17:52:38Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53796,
-      "title": "docs: match the Laravel quickstart to the current project skeleton",
-      "url": "https://github.com/supabase/supabase/pull/53796",
-      "author": "shoemoney",
-      "at": "2026-11-22T06:10:32Z"
+      "number": 53809,
+      "title": "fix(studio): trim spaces around values in the In list filter",
+      "url": "https://github.com/supabase/supabase/pull/53809",
+      "author": "burrows99",
+      "at": "2026-11-22T17:44:52Z"
     }
   ]
 }
