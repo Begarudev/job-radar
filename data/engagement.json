@@ -1,39 +1,28 @@
 {
-  "updatedAt": "2026-11-22T20:33:07.909Z",
-  "count": 12,
+  "updatedAt": "2026-11-23T11:51:36.193Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6509,
-      "title": "fix: detect local network targets for cloud browsers",
-      "url": "https://github.com/browser-use/browser-use/pull/6509",
-      "author": "himanshug189-sketch",
-      "at": "2026-11-22T15:35:12Z"
+      "number": 6519,
+      "title": "fix(mcp): bound browser_screenshot reply deadline",
+      "url": "https://github.com/browser-use/browser-use/pull/6519",
+      "author": "messi666-eng",
+      "at": "2026-11-23T11:23:57Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6508,
-      "title": "Browser(web_bot_auth=...): sign navigations with Web Bot Auth (RFC 9421)",
-      "url": "https://github.com/browser-use/browser-use/pull/6508",
-      "author": "frostyhand",
-      "at": "2026-11-22T13:43:46Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "release",
-      "number": 0,
-      "title": "browser-use 1.0.8 released",
-      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.8",
-      "author": "gregpr07",
-      "at": "2026-11-22T03:30:41Z"
+      "kind": "issue",
+      "number": 6518,
+      "title": "navigate reports \"site unavailable\" when the URL starts a download (net::ERR_ABORTED)",
+      "url": "https://github.com/browser-use/browser-use/issues/6518",
+      "author": "yoav-getea",
+      "at": "2026-11-23T11:02:08Z"
     },
     {
       "founder": "Soham Ganatra",
@@ -41,98 +30,120 @@
       "repo": "ComposioHQ/composio",
       "kind": "pr",
       "number": 5517,
-      "title": "feat(core,python): read session webhook events with `sessions.webhooks.parse()`",
+      "title": "feat(core,python): read session webhook events with `sessions.webhooks.parse()` (PLEN-4965)",
       "url": "https://github.com/ComposioHQ/composio/pull/5517",
       "author": "mukund-composio",
       "at": "2026-11-22T10:47:17Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5516,
-      "title": "FileDownloadData.filePath is typed as string but save failures return null",
-      "url": "https://github.com/ComposioHQ/composio/issues/5516",
-      "author": "ktsomani",
-      "at": "2026-11-22T08:10:38Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3101,
-      "title": "fix(genai): raise ResponseParsingError for unparseable tool responses",
-      "url": "https://github.com/567-labs/instructor/pull/3101",
-      "author": "terrorgeek",
-      "at": "2026-11-22T19:57:50Z"
+      "number": 3107,
+      "title": "fix: keep a fenced answer when a citation follows it",
+      "url": "https://github.com/567-labs/instructor/pull/3107",
+      "author": "eduardmakichyan",
+      "at": "2026-11-23T11:51:00Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "issue",
-      "number": 3100,
-      "title": "GenAI TOOLS mode: blocked, empty or text-only responses raise AssertionError, so max_retries never reasks",
-      "url": "https://github.com/567-labs/instructor/issues/3100",
-      "author": "terrorgeek",
-      "at": "2026-11-22T19:56:51Z"
+      "kind": "pr",
+      "number": 3106,
+      "title": "fix(cohere): send V1 chat history with provider role names",
+      "url": "https://github.com/567-labs/instructor/pull/3106",
+      "author": "Twiink",
+      "at": "2026-11-23T03:50:49Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42021,
-      "title": "AutoModeMiddleware: default risk criteria are never applied",
-      "url": "https://github.com/langchain-ai/langchain/issues/42021",
-      "author": "terrorgeek",
-      "at": "2026-11-22T02:09:37Z"
+      "number": 42026,
+      "title": "v3 `astream_events` drops Anthropic's refusal content block, so `ModelRefusalMiddleware` misses refusals after streamed output",
+      "url": "https://github.com/langchain-ai/langchain/issues/42026",
+      "author": "din0s",
+      "at": "2026-11-23T09:49:24Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102208,
-      "title": "Validate the x-invocation-id cache-key component",
-      "url": "https://github.com/vercel/next.js/pull/102208",
-      "author": "mohdradi",
-      "at": "2026-11-22T19:07:52Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102207,
-      "title": "Filter internal headers on the WebSocket upgrade entry point",
-      "url": "https://github.com/vercel/next.js/pull/102207",
-      "author": "mohdradi",
-      "at": "2026-11-22T19:07:36Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 53810,
-      "title": "Table not showing",
-      "url": "https://github.com/supabase/supabase/issues/53810",
-      "author": "samir000705",
-      "at": "2026-11-22T17:52:38Z"
+      "number": 42025,
+      "title": "MarkdownListOutputParser includes the next bullet marker after an empty item",
+      "url": "https://github.com/langchain-ai/langchain/issues/42025",
+      "author": "Nikhila-Dhevi-R",
+      "at": "2026-11-23T09:11:48Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102224,
+      "title": "test: wait for use-cache recovery reload",
+      "url": "https://github.com/vercel/next.js/pull/102224",
+      "author": "sokra",
+      "at": "2026-11-23T09:38:18Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102223,
+      "title": "rspack: warn instead of error on missing exports in Next.js's own modules",
+      "url": "https://github.com/vercel/next.js/pull/102223",
+      "author": "sokra",
+      "at": "2026-11-23T08:59:00Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53809,
-      "title": "fix(studio): trim spaces around values in the In list filter",
-      "url": "https://github.com/supabase/supabase/pull/53809",
-      "author": "burrows99",
-      "at": "2026-11-22T17:44:52Z"
+      "number": 53854,
+      "title": "fix(auth): open matching logs from Overview API errors FE-5191",
+      "url": "https://github.com/supabase/supabase/pull/53854",
+      "author": "jordienr",
+      "at": "2026-11-23T11:43:25Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 53850,
+      "title": "fix(logs): open related timeline events in Overview FE-5160",
+      "url": "https://github.com/supabase/supabase/pull/53850",
+      "author": "jordienr",
+      "at": "2026-11-23T11:22:35Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4157,
+      "title": "`modal volume get` still writes zero-filled blocks on 1.6.4 when a block response ends early without `Repr-Digest` (follow-up to #4131)",
+      "url": "https://github.com/modal-labs/modal-client/issues/4157",
+      "author": "aimanmalib",
+      "at": "2026-11-22T22:41:55Z"
+    },
+    {
+      "founder": "Erik Bernhardsson",
+      "company": "Modal",
+      "repo": "modal-labs/modal-client",
+      "kind": "issue",
+      "number": 4113,
+      "title": "`modal run` / Modal SDK unusable from Claude Code Web due to gRPC sandbox restrictions",
+      "url": "https://github.com/modal-labs/modal-client/issues/4113",
+      "author": "dhruv-anand-aintech",
+      "at": "2026-05-10T00:38:33Z"
     }
   ]
 }
