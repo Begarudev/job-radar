@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-11-24T13:18:19.842Z",
-  "count": 13,
+  "updatedAt": "2026-11-24T23:21:17.713Z",
+  "count": 12,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6526,
-      "title": "cli, cli-mcp: switch to the user's Chrome once its remote debugging is on",
-      "url": "https://github.com/browser-use/browser-use/pull/6526",
-      "author": "gregpr07",
-      "at": "2026-11-24T08:28:13Z"
+      "number": 6527,
+      "title": "We made browser-use a short film 🎬 — yours if you want it",
+      "url": "https://github.com/browser-use/browser-use/pull/6527",
+      "author": "remyetennant",
+      "at": "2026-11-24T22:00:29Z"
     },
     {
       "founder": "Magnus Müller",
@@ -29,22 +29,11 @@
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5549,
-      "title": "feat(triage): route issues with Jev instead of the generative classifier",
-      "url": "https://github.com/ComposioHQ/composio/pull/5549",
-      "author": "jkomyno",
-      "at": "2026-11-24T11:44:03Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5548,
-      "title": "feat(triage): add the Jev threshold calibration script",
-      "url": "https://github.com/ComposioHQ/composio/pull/5548",
-      "author": "jkomyno",
-      "at": "2026-11-24T11:44:00Z"
+      "number": 5554,
+      "title": "docs: explain sessions before linking task guides",
+      "url": "https://github.com/ComposioHQ/composio/pull/5554",
+      "author": "olearycrew",
+      "at": "2026-11-24T20:08:21Z"
     },
     {
       "founder": "Jason Liu",
@@ -62,77 +51,77 @@
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3111,
-      "title": "fix(multimodal): preserve empty string content in convert_messages",
-      "url": "https://github.com/567-labs/instructor/pull/3111",
-      "author": "DZH166",
-      "at": "2026-11-23T18:56:43Z"
+      "number": 3107,
+      "title": "fix: keep a fenced answer when a citation follows it",
+      "url": "https://github.com/567-labs/instructor/pull/3107",
+      "author": "eduardmakichyan",
+      "at": "2026-11-23T11:51:00Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
-      "kind": "issue",
-      "number": 42065,
-      "title": "langchain-chroma: max_marginal_relevance_search documents **kwargs as passed to the Chroma query but discards them",
-      "url": "https://github.com/langchain-ai/langchain/issues/42065",
-      "author": "Broikos-Nikos",
-      "at": "2026-11-24T11:49:28Z"
+      "kind": "pr",
+      "number": 42073,
+      "title": "feat(core)!: give every `BaseMessage` an id by default (v2)",
+      "url": "https://github.com/langchain-ai/langchain/pull/42073",
+      "author": "sera-wi",
+      "at": "2026-11-24T20:31:01Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "pr",
+      "number": 42069,
+      "title": "feat(core): prepare message ids for an auto-generated default",
+      "url": "https://github.com/langchain-ai/langchain/pull/42069",
+      "author": "sera-wi",
+      "at": "2026-11-24T20:22:24Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102292,
-      "title": "Show the component import in sync IO prerender code frames",
-      "url": "https://github.com/vercel/next.js/pull/102292",
-      "author": "aurorascharff",
-      "at": "2026-11-24T13:07:40Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102291,
-      "title": "Turbopack: stop replaying the last Fast Refresh log on every navigation",
-      "url": "https://github.com/vercel/next.js/pull/102291",
+      "number": 102324,
+      "title": "docs: note that Client Component props add to the page's HTML",
+      "url": "https://github.com/vercel/next.js/pull/102324",
       "author": "icyJoseph",
-      "at": "2026-11-24T12:46:50Z"
+      "at": "2026-11-24T22:58:41Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102322,
+      "title": "Base remaining internal span and trace implementations on LocalRecordingSpan",
+      "url": "https://github.com/vercel/next.js/pull/102322",
+      "author": "wbinnssmith",
+      "at": "2026-11-24T22:27:46Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53943,
-      "title": "feat(studio): support grouped OR filters in unified logs",
-      "url": "https://github.com/supabase/supabase/pull/53943",
-      "author": "drewm",
-      "at": "2026-11-24T12:41:09Z"
+      "number": 53983,
+      "title": "feat(studio): show the IPv4 toggle inside the transaction pooler option",
+      "url": "https://github.com/supabase/supabase/pull/53983",
+      "author": "sao",
+      "at": "2026-11-24T23:06:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 53942,
-      "title": "I just put my website online: https://my-website-kdry73vm8jpm.tanix.page",
-      "url": "https://github.com/supabase/supabase/issues/53942",
-      "author": "barrchristoper-a11y",
-      "at": "2026-11-24T12:34:02Z"
-    },
-    {
-      "founder": "Erik Bernhardsson",
-      "company": "Modal",
-      "repo": "modal-labs/modal-client",
-      "kind": "issue",
-      "number": 4157,
-      "title": "`modal volume get` still writes zero-filled blocks on 1.6.4 when a block response ends early without `Repr-Digest` (follow-up to #4131)",
-      "url": "https://github.com/modal-labs/modal-client/issues/4157",
-      "author": "aimanmalib",
-      "at": "2026-11-22T22:41:55Z"
+      "kind": "pr",
+      "number": 53982,
+      "title": "chore: fix order of names in humans.txt",
+      "url": "https://github.com/supabase/supabase/pull/53982",
+      "author": "zsolt-p",
+      "at": "2026-11-24T22:01:27Z"
     },
     {
       "founder": "Diwank Tomer",
