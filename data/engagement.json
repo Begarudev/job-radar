@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-25T12:10:13.842Z",
-  "count": 8,
+  "updatedAt": "2026-11-25T22:54:28.672Z",
+  "count": 10,
   "signals": [
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6536,
+      "title": "fix(domains): reject WHATWG-forbidden host code points in parse_url",
+      "url": "https://github.com/browser-use/browser-use/pull/6536",
+      "author": "Hoaiduc195",
+      "at": "2026-11-25T16:20:39Z"
+    },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
@@ -12,17 +23,6 @@
       "url": "https://github.com/browser-use/browser-use/issues/6534",
       "author": "passionworkeer",
       "at": "2026-11-25T08:55:38Z"
-    },
-    {
-      "founder": "Magnus Müller",
-      "company": "Browser Use",
-      "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6532,
-      "title": "fix(logging): escape lone surrogates in printable() terminal sanitizer",
-      "url": "https://github.com/browser-use/browser-use/pull/6532",
-      "author": "passionworkeer",
-      "at": "2026-11-25T08:04:44Z"
     },
     {
       "founder": "Jason Liu",
@@ -47,48 +47,70 @@
       "at": "2026-11-25T12:01:08Z"
     },
     {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
       "kind": "pr",
-      "number": 102359,
-      "title": "Prototype search and retrieval for bundled Next.js docs",
-      "url": "https://github.com/vercel/next.js/pull/102359",
-      "author": "aurorascharff",
-      "at": "2026-11-25T11:38:23Z"
+      "number": 42100,
+      "title": "fix(openai): count reasoning tokens missing from completion_tokens",
+      "url": "https://github.com/langchain-ai/langchain/pull/42100",
+      "author": "hntrl",
+      "at": "2026-11-25T20:24:27Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 42083,
+      "title": "core: AIMessageChunk.content_blocks loses partial tool-call arguments when a chunk also has text",
+      "url": "https://github.com/langchain-ai/langchain/issues/42083",
+      "author": "GCSimba",
+      "at": "2026-11-25T05:46:55Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102357,
-      "title": "Keep .env values loaded by the upgrade CLI out of the agent environment",
-      "url": "https://github.com/vercel/next.js/pull/102357",
+      "number": 102392,
+      "title": "Skip prefetching for Link with a download attribute",
+      "url": "https://github.com/vercel/next.js/pull/102392",
       "author": "icyJoseph",
-      "at": "2026-11-25T10:42:56Z"
+      "at": "2026-11-25T22:50:00Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102391,
+      "title": "Restore the page on Back to a native hash-link history entry",
+      "url": "https://github.com/vercel/next.js/pull/102391",
+      "author": "aurorascharff",
+      "at": "2026-11-25T22:42:43Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 54026,
-      "title": "feat(kb): use the ui scroll area in the guide sidebar",
-      "url": "https://github.com/supabase/supabase/pull/54026",
-      "author": "antlio",
-      "at": "2026-11-25T11:56:53Z"
+      "number": 54096,
+      "title": "docs(realtime): fix Kotlin Broadcast and Python Broadcast/Presence snippets",
+      "url": "https://github.com/supabase/supabase/pull/54096",
+      "author": "soreavis",
+      "at": "2026-11-25T22:20:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 54024,
-      "title": "fix(studio): include file path in storage move errors",
-      "url": "https://github.com/supabase/supabase/pull/54024",
-      "author": "martinrajdl",
-      "at": "2026-11-25T11:56:02Z"
+      "kind": "issue",
+      "number": 54095,
+      "title": "Kotlin Broadcast and Python Broadcast/Presence snippets in the Realtime guides don't run",
+      "url": "https://github.com/supabase/supabase/issues/54095",
+      "author": "soreavis",
+      "at": "2026-11-25T22:20:42Z"
     }
   ]
 }
