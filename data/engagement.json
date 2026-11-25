@@ -1,138 +1,94 @@
 {
-  "updatedAt": "2026-11-24T23:21:17.713Z",
-  "count": 12,
+  "updatedAt": "2026-11-25T12:10:13.842Z",
+  "count": 8,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6527,
-      "title": "We made browser-use a short film 🎬 — yours if you want it",
-      "url": "https://github.com/browser-use/browser-use/pull/6527",
-      "author": "remyetennant",
-      "at": "2026-11-24T22:00:29Z"
+      "kind": "issue",
+      "number": 6534,
+      "title": "parse_url() leaks WHATWG-forbidden host code points (e.g. %00, %20, %7f) instead of returning None",
+      "url": "https://github.com/browser-use/browser-use/issues/6534",
+      "author": "passionworkeer",
+      "at": "2026-11-25T08:55:38Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6525,
-      "title": "docs(skills): update cloud concurrency limit",
-      "url": "https://github.com/browser-use/browser-use/pull/6525",
-      "author": "shaojian0514",
-      "at": "2026-11-24T08:06:57Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5554,
-      "title": "docs: explain sessions before linking task guides",
-      "url": "https://github.com/ComposioHQ/composio/pull/5554",
-      "author": "olearycrew",
-      "at": "2026-11-24T20:08:21Z"
+      "number": 6532,
+      "title": "fix(logging): escape lone surrogates in printable() terminal sanitizer",
+      "url": "https://github.com/browser-use/browser-use/pull/6532",
+      "author": "passionworkeer",
+      "at": "2026-11-25T08:04:44Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3112,
-      "title": "fix(core): render templates for an explicit empty context",
-      "url": "https://github.com/567-labs/instructor/pull/3112",
-      "author": "DZH166",
-      "at": "2026-11-23T18:56:54Z"
+      "number": 3118,
+      "title": "fix: raise retryable error for malformed VertexAI tool responses",
+      "url": "https://github.com/567-labs/instructor/pull/3118",
+      "author": "feiiiiii5",
+      "at": "2026-11-25T12:08:19Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3107,
-      "title": "fix: keep a fenced answer when a citation follows it",
-      "url": "https://github.com/567-labs/instructor/pull/3107",
-      "author": "eduardmakichyan",
-      "at": "2026-11-23T11:51:00Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 42073,
-      "title": "feat(core)!: give every `BaseMessage` an id by default (v2)",
-      "url": "https://github.com/langchain-ai/langchain/pull/42073",
-      "author": "sera-wi",
-      "at": "2026-11-24T20:31:01Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 42069,
-      "title": "feat(core): prepare message ids for an auto-generated default",
-      "url": "https://github.com/langchain-ai/langchain/pull/42069",
-      "author": "sera-wi",
-      "at": "2026-11-24T20:22:24Z"
+      "number": 3117,
+      "title": "fix: raise retryable error for empty GenAI structured outputs",
+      "url": "https://github.com/567-labs/instructor/pull/3117",
+      "author": "feiiiiii5",
+      "at": "2026-11-25T12:01:08Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102324,
-      "title": "docs: note that Client Component props add to the page's HTML",
-      "url": "https://github.com/vercel/next.js/pull/102324",
+      "number": 102359,
+      "title": "Prototype search and retrieval for bundled Next.js docs",
+      "url": "https://github.com/vercel/next.js/pull/102359",
+      "author": "aurorascharff",
+      "at": "2026-11-25T11:38:23Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "pr",
+      "number": 102357,
+      "title": "Keep .env values loaded by the upgrade CLI out of the agent environment",
+      "url": "https://github.com/vercel/next.js/pull/102357",
       "author": "icyJoseph",
-      "at": "2026-11-24T22:58:41Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102322,
-      "title": "Base remaining internal span and trace implementations on LocalRecordingSpan",
-      "url": "https://github.com/vercel/next.js/pull/102322",
-      "author": "wbinnssmith",
-      "at": "2026-11-24T22:27:46Z"
+      "at": "2026-11-25T10:42:56Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53983,
-      "title": "feat(studio): show the IPv4 toggle inside the transaction pooler option",
-      "url": "https://github.com/supabase/supabase/pull/53983",
-      "author": "sao",
-      "at": "2026-11-24T23:06:25Z"
+      "number": 54026,
+      "title": "feat(kb): use the ui scroll area in the guide sidebar",
+      "url": "https://github.com/supabase/supabase/pull/54026",
+      "author": "antlio",
+      "at": "2026-11-25T11:56:53Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 53982,
-      "title": "chore: fix order of names in humans.txt",
-      "url": "https://github.com/supabase/supabase/pull/53982",
-      "author": "zsolt-p",
-      "at": "2026-11-24T22:01:27Z"
-    },
-    {
-      "founder": "Diwank Tomer",
-      "company": "Julep AI",
-      "repo": "julep-ai/julep",
-      "kind": "pr",
-      "number": 1638,
-      "title": "fix(temporal): scope flow tool idempotency keys to the workflow execution",
-      "url": "https://github.com/julep-ai/julep/pull/1638",
-      "author": "k65010825-ship-it",
-      "at": "2026-11-24T10:53:11Z"
+      "number": 54024,
+      "title": "fix(studio): include file path in storage move errors",
+      "url": "https://github.com/supabase/supabase/pull/54024",
+      "author": "martinrajdl",
+      "at": "2026-11-25T11:56:02Z"
     }
   ]
 }
