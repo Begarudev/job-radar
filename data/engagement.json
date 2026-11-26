@@ -1,116 +1,149 @@
 {
-  "updatedAt": "2026-11-26T11:55:52.358Z",
-  "count": 10,
+  "updatedAt": "2026-11-26T22:45:52.874Z",
+  "count": 13,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "issue",
-      "number": 6542,
-      "title": "Bug: ProductTelemetry._at_exit() omits job.consent check and still sends queued non-consent events after runtime ANONYMIZED_TELEMETRY=false",
-      "url": "https://github.com/browser-use/browser-use/issues/6542",
-      "author": "huangpufan",
-      "at": "2026-11-26T09:09:02Z"
+      "kind": "pr",
+      "number": 6547,
+      "title": "rotate_browser() and new_browser() for sites that still block after rotate_proxy()",
+      "url": "https://github.com/browser-use/browser-use/pull/6547",
+      "author": "gregpr07",
+      "at": "2026-11-26T19:38:52Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
+      "kind": "release",
+      "number": 0,
+      "title": "browser-use 1.0.9 released",
+      "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.9",
+      "author": "gregpr07",
+      "at": "2026-11-26T22:45:43Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
       "kind": "issue",
-      "number": 6541,
-      "title": "Bug: pyproject.toml still pins browser-harness==0.1.13 (unredacted CLI telemetry) and CLI forwards $process_person_profile: true",
-      "url": "https://github.com/browser-use/browser-use/issues/6541",
-      "author": "huangpufan",
-      "at": "2026-11-26T09:08:59Z"
+      "number": 5589,
+      "title": "[Bug]: TAVILY_SEARCH is tagged createHint instead of readOnlyHint",
+      "url": "https://github.com/ComposioHQ/composio/issues/5589",
+      "author": "JasperGilhuis",
+      "at": "2026-11-26T13:35:27Z"
     },
     {
       "founder": "Soham Ganatra",
       "company": "Composio",
       "repo": "ComposioHQ/composio",
       "kind": "pr",
-      "number": 5587,
-      "title": "feat(cli)!: run composio run scripts in-process with psychoscript",
-      "url": "https://github.com/ComposioHQ/composio/pull/5587",
-      "author": "jkomyno",
-      "at": "2026-11-26T11:25:32Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5586,
-      "title": "feat(cli): generate TypeScript without the TypeScript compiler",
-      "url": "https://github.com/ComposioHQ/composio/pull/5586",
-      "author": "jkomyno",
-      "at": "2026-11-26T11:25:29Z"
+      "number": 5588,
+      "title": "docs(hooks): note that hooks don't check file contents yet",
+      "url": "https://github.com/ComposioHQ/composio/pull/5588",
+      "author": "mukund-composio",
+      "at": "2026-11-26T12:16:02Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3124,
-      "title": "fix(providers): route compatible client options to the SDK",
-      "url": "https://github.com/567-labs/instructor/pull/3124",
-      "author": "Twiink",
-      "at": "2026-11-26T06:22:32Z"
+      "number": 3136,
+      "title": "ci(tests): verify pinned Rust and Python contracts with shared keys",
+      "url": "https://github.com/567-labs/instructor/pull/3136",
+      "author": "jxnl-oai",
+      "at": "2026-11-26T21:23:25Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3123,
-      "title": "fix(retry): preserve reasoning content in tool retries",
-      "url": "https://github.com/567-labs/instructor/pull/3123",
-      "author": "Twiink",
-      "at": "2026-11-26T06:05:30Z"
+      "kind": "release",
+      "number": 0,
+      "title": "v1.18.0 released",
+      "url": "https://github.com/567-labs/instructor/releases/tag/v1.18.0",
+      "author": "jxnl",
+      "at": "2026-11-26T21:02:33Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42109,
-      "title": "Feature Request: Add WTPTextSplitter (Segment Anything in Text) to langchain-text-splitters",
-      "url": "https://github.com/langchain-ai/langchain/issues/42109",
-      "author": "AdityaPandey4",
-      "at": "2026-11-26T11:33:51Z"
+      "number": 42115,
+      "title": "LLMToolEmulator puts the emulator model's content blocks (including reasoning) into the ToolMessage",
+      "url": "https://github.com/langchain-ai/langchain/issues/42115",
+      "author": "arijitaich",
+      "at": "2026-11-26T15:26:43Z"
+    },
+    {
+      "founder": "Harrison Chase",
+      "company": "LangChain",
+      "repo": "langchain-ai/langchain",
+      "kind": "issue",
+      "number": 42114,
+      "title": "get_buffer_string(format=\"xml\") drops refusals, so SummarizationMiddleware loses them",
+      "url": "https://github.com/langchain-ai/langchain/issues/42114",
+      "author": "arijitaich",
+      "at": "2026-11-26T15:23:26Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102444,
-      "title": "Fix Go proxy RSC dot-segment authorization bypass",
-      "url": "https://github.com/vercel/next.js/pull/102444",
-      "author": "timneutkens",
-      "at": "2026-11-26T11:08:22Z"
+      "number": 102471,
+      "title": "Name the third-party package in sync IO prerender errors",
+      "url": "https://github.com/vercel/next.js/pull/102471",
+      "author": "aurorascharff",
+      "at": "2026-11-26T21:16:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102443,
-      "title": "Regenerate stale entries instead of joining a cross-request leader's stale read",
-      "url": "https://github.com/vercel/next.js/pull/102443",
-      "author": "souvik-biswas-dev",
-      "at": "2026-11-26T10:48:02Z"
+      "number": 102470,
+      "title": "test: cover SSR-logged Server Component errors with fake frames",
+      "url": "https://github.com/vercel/next.js/pull/102470",
+      "author": "sokra",
+      "at": "2026-11-26T20:13:25Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 54125,
-      "title": "Update billing-faq.mdx",
-      "url": "https://github.com/supabase/supabase/pull/54125",
-      "author": "corkscruff",
-      "at": "2026-11-26T11:46:02Z"
+      "number": 54156,
+      "title": "docs(mcp): document scoped OAuth access for MCP",
+      "url": "https://github.com/supabase/supabase/pull/54156",
+      "author": "Rodriguespn",
+      "at": "2026-11-26T20:25:05Z"
+    },
+    {
+      "founder": "Paul Copplestone",
+      "company": "Supabase",
+      "repo": "supabase/supabase",
+      "kind": "pr",
+      "number": 54155,
+      "title": "fix(self-hosted): restart RustFS automatically",
+      "url": "https://github.com/supabase/supabase/pull/54155",
+      "author": "sudhi76",
+      "at": "2026-11-26T20:06:38Z"
+    },
+    {
+      "founder": "Theo Browne",
+      "company": "T3 Stack / Ping Labs",
+      "repo": "t3-oss/create-t3-app",
+      "kind": "pr",
+      "number": 2260,
+      "title": "docs: replace broken Stripe tutorial link in FAQ",
+      "url": "https://github.com/t3-oss/create-t3-app/pull/2260",
+      "author": "rumeshprasanga66-boop",
+      "at": "2026-11-26T18:27:26Z"
     }
   ]
 }
