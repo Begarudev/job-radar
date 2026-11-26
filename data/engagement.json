@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-11-25T22:54:28.672Z",
+  "updatedAt": "2026-11-26T11:55:52.358Z",
   "count": 10,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
-      "kind": "pr",
-      "number": 6536,
-      "title": "fix(domains): reject WHATWG-forbidden host code points in parse_url",
-      "url": "https://github.com/browser-use/browser-use/pull/6536",
-      "author": "Hoaiduc195",
-      "at": "2026-11-25T16:20:39Z"
+      "kind": "issue",
+      "number": 6542,
+      "title": "Bug: ProductTelemetry._at_exit() omits job.consent check and still sends queued non-consent events after runtime ANONYMIZED_TELEMETRY=false",
+      "url": "https://github.com/browser-use/browser-use/issues/6542",
+      "author": "huangpufan",
+      "at": "2026-11-26T09:09:02Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "issue",
-      "number": 6534,
-      "title": "parse_url() leaks WHATWG-forbidden host code points (e.g. %00, %20, %7f) instead of returning None",
-      "url": "https://github.com/browser-use/browser-use/issues/6534",
-      "author": "passionworkeer",
-      "at": "2026-11-25T08:55:38Z"
+      "number": 6541,
+      "title": "Bug: pyproject.toml still pins browser-harness==0.1.13 (unredacted CLI telemetry) and CLI forwards $process_person_profile: true",
+      "url": "https://github.com/browser-use/browser-use/issues/6541",
+      "author": "huangpufan",
+      "at": "2026-11-26T09:08:59Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5587,
+      "title": "feat(cli)!: run composio run scripts in-process with psychoscript",
+      "url": "https://github.com/ComposioHQ/composio/pull/5587",
+      "author": "jkomyno",
+      "at": "2026-11-26T11:25:32Z"
+    },
+    {
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "pr",
+      "number": 5586,
+      "title": "feat(cli): generate TypeScript without the TypeScript compiler",
+      "url": "https://github.com/ComposioHQ/composio/pull/5586",
+      "author": "jkomyno",
+      "at": "2026-11-26T11:25:29Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3118,
-      "title": "fix: raise retryable error for malformed VertexAI tool responses",
-      "url": "https://github.com/567-labs/instructor/pull/3118",
-      "author": "feiiiiii5",
-      "at": "2026-11-25T12:08:19Z"
+      "number": 3124,
+      "title": "fix(providers): route compatible client options to the SDK",
+      "url": "https://github.com/567-labs/instructor/pull/3124",
+      "author": "Twiink",
+      "at": "2026-11-26T06:22:32Z"
     },
     {
       "founder": "Jason Liu",
       "company": "instructor (OSS) + consultancy",
       "repo": "567-labs/instructor",
       "kind": "pr",
-      "number": 3117,
-      "title": "fix: raise retryable error for empty GenAI structured outputs",
-      "url": "https://github.com/567-labs/instructor/pull/3117",
-      "author": "feiiiiii5",
-      "at": "2026-11-25T12:01:08Z"
-    },
-    {
-      "founder": "Harrison Chase",
-      "company": "LangChain",
-      "repo": "langchain-ai/langchain",
-      "kind": "pr",
-      "number": 42100,
-      "title": "fix(openai): count reasoning tokens missing from completion_tokens",
-      "url": "https://github.com/langchain-ai/langchain/pull/42100",
-      "author": "hntrl",
-      "at": "2026-11-25T20:24:27Z"
+      "number": 3123,
+      "title": "fix(retry): preserve reasoning content in tool retries",
+      "url": "https://github.com/567-labs/instructor/pull/3123",
+      "author": "Twiink",
+      "at": "2026-11-26T06:05:30Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42083,
-      "title": "core: AIMessageChunk.content_blocks loses partial tool-call arguments when a chunk also has text",
-      "url": "https://github.com/langchain-ai/langchain/issues/42083",
-      "author": "GCSimba",
-      "at": "2026-11-25T05:46:55Z"
+      "number": 42109,
+      "title": "Feature Request: Add WTPTextSplitter (Segment Anything in Text) to langchain-text-splitters",
+      "url": "https://github.com/langchain-ai/langchain/issues/42109",
+      "author": "AdityaPandey4",
+      "at": "2026-11-26T11:33:51Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102392,
-      "title": "Skip prefetching for Link with a download attribute",
-      "url": "https://github.com/vercel/next.js/pull/102392",
-      "author": "icyJoseph",
-      "at": "2026-11-25T22:50:00Z"
+      "number": 102444,
+      "title": "Fix Go proxy RSC dot-segment authorization bypass",
+      "url": "https://github.com/vercel/next.js/pull/102444",
+      "author": "timneutkens",
+      "at": "2026-11-26T11:08:22Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102391,
-      "title": "Restore the page on Back to a native hash-link history entry",
-      "url": "https://github.com/vercel/next.js/pull/102391",
-      "author": "aurorascharff",
-      "at": "2026-11-25T22:42:43Z"
+      "number": 102443,
+      "title": "Regenerate stale entries instead of joining a cross-request leader's stale read",
+      "url": "https://github.com/vercel/next.js/pull/102443",
+      "author": "souvik-biswas-dev",
+      "at": "2026-11-26T10:48:02Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 54096,
-      "title": "docs(realtime): fix Kotlin Broadcast and Python Broadcast/Presence snippets",
-      "url": "https://github.com/supabase/supabase/pull/54096",
-      "author": "soreavis",
-      "at": "2026-11-25T22:20:53Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "issue",
-      "number": 54095,
-      "title": "Kotlin Broadcast and Python Broadcast/Presence snippets in the Realtime guides don't run",
-      "url": "https://github.com/supabase/supabase/issues/54095",
-      "author": "soreavis",
-      "at": "2026-11-25T22:20:42Z"
+      "number": 54125,
+      "title": "Update billing-faq.mdx",
+      "url": "https://github.com/supabase/supabase/pull/54125",
+      "author": "corkscruff",
+      "at": "2026-11-26T11:46:02Z"
     }
   ]
 }
