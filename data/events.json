@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T17:12:41.442Z",
+  "updatedAt": "2026-11-27T16:54:26.808Z",
   "count": 1,
   "events": [
     {
@@ -10,7 +10,7 @@
       "description": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
       "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "publishedAt": "Mon, 02 Nov 2026 18:00:00 GMT",
-      "fetchedAt": "2026-11-26T17:12:41.018Z",
+      "fetchedAt": "2026-11-27T16:54:26.586Z",
       "company": "OpenAI",
       "tags": []
     }
