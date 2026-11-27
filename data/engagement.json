@@ -1,17 +1,28 @@
 {
-  "updatedAt": "2026-11-26T22:45:52.874Z",
-  "count": 13,
+  "updatedAt": "2026-11-27T11:47:53.578Z",
+  "count": 11,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6547,
-      "title": "rotate_browser() and new_browser() for sites that still block after rotate_proxy()",
-      "url": "https://github.com/browser-use/browser-use/pull/6547",
+      "number": 6550,
+      "title": "tests: cut the macOS critical path by removing fixed 15-35 s waits",
+      "url": "https://github.com/browser-use/browser-use/pull/6550",
       "author": "gregpr07",
-      "at": "2026-11-26T19:38:52Z"
+      "at": "2026-11-27T03:21:03Z"
+    },
+    {
+      "founder": "Magnus Müller",
+      "company": "Browser Use",
+      "repo": "browser-use/browser-use",
+      "kind": "pr",
+      "number": 6549,
+      "title": "fix(telemetry): drop queued non-consent events when disabled at runtime",
+      "url": "https://github.com/browser-use/browser-use/pull/6549",
+      "author": "thomsjack",
+      "at": "2026-11-27T01:18:00Z"
     },
     {
       "founder": "Magnus Müller",
@@ -23,28 +34,6 @@
       "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.9",
       "author": "gregpr07",
       "at": "2026-11-26T22:45:43Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "issue",
-      "number": 5589,
-      "title": "[Bug]: TAVILY_SEARCH is tagged createHint instead of readOnlyHint",
-      "url": "https://github.com/ComposioHQ/composio/issues/5589",
-      "author": "JasperGilhuis",
-      "at": "2026-11-26T13:35:27Z"
-    },
-    {
-      "founder": "Soham Ganatra",
-      "company": "Composio",
-      "repo": "ComposioHQ/composio",
-      "kind": "pr",
-      "number": 5588,
-      "title": "docs(hooks): note that hooks don't check file contents yet",
-      "url": "https://github.com/ComposioHQ/composio/pull/5588",
-      "author": "mukund-composio",
-      "at": "2026-11-26T12:16:02Z"
     },
     {
       "founder": "Jason Liu",
@@ -73,66 +62,55 @@
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42115,
-      "title": "LLMToolEmulator puts the emulator model's content blocks (including reasoning) into the ToolMessage",
-      "url": "https://github.com/langchain-ai/langchain/issues/42115",
-      "author": "arijitaich",
-      "at": "2026-11-26T15:26:43Z"
+      "number": 42123,
+      "title": "core: `convert_to_messages` splits a plain string into one message per character",
+      "url": "https://github.com/langchain-ai/langchain/issues/42123",
+      "author": "LolPanda2004",
+      "at": "2026-11-27T11:08:57Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42114,
-      "title": "get_buffer_string(format=\"xml\") drops refusals, so SummarizationMiddleware loses them",
-      "url": "https://github.com/langchain-ai/langchain/issues/42114",
-      "author": "arijitaich",
-      "at": "2026-11-26T15:23:26Z"
+      "number": 42122,
+      "title": "ExperimentalMarkdownSyntaxTextSplitter misses tab-separated headings",
+      "url": "https://github.com/langchain-ai/langchain/issues/42122",
+      "author": "aahanaahir22",
+      "at": "2026-11-27T10:23:09Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102471,
-      "title": "Name the third-party package in sync IO prerender errors",
-      "url": "https://github.com/vercel/next.js/pull/102471",
-      "author": "aurorascharff",
-      "at": "2026-11-26T21:16:22Z"
-    },
-    {
-      "founder": "Guillermo Rauch",
-      "company": "Vercel",
-      "repo": "vercel/next.js",
-      "kind": "pr",
-      "number": 102470,
-      "title": "test: cover SSR-logged Server Component errors with fake frames",
-      "url": "https://github.com/vercel/next.js/pull/102470",
-      "author": "sokra",
-      "at": "2026-11-26T20:13:25Z"
+      "number": 102482,
+      "title": "Turbopack: preserve names in merged source maps",
+      "url": "https://github.com/vercel/next.js/pull/102482",
+      "author": "zhengdaodeguL",
+      "at": "2026-11-27T10:59:24Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 54156,
-      "title": "docs(mcp): document scoped OAuth access for MCP",
-      "url": "https://github.com/supabase/supabase/pull/54156",
-      "author": "Rodriguespn",
-      "at": "2026-11-26T20:25:05Z"
+      "number": 54192,
+      "title": "Improve UI for JIT DB access for non owners + use proper perms check",
+      "url": "https://github.com/supabase/supabase/pull/54192",
+      "author": "joshenlim",
+      "at": "2026-11-27T10:16:35Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
       "kind": "pr",
-      "number": 54155,
-      "title": "fix(self-hosted): restart RustFS automatically",
-      "url": "https://github.com/supabase/supabase/pull/54155",
-      "author": "sudhi76",
-      "at": "2026-11-26T20:06:38Z"
+      "number": 54191,
+      "title": "docs(functions): read prompt from query string in Llamafile OpenAI SDK example",
+      "url": "https://github.com/supabase/supabase/pull/54191",
+      "author": "Heman10x-NGU",
+      "at": "2026-11-27T09:58:56Z"
     },
     {
       "founder": "Theo Browne",
