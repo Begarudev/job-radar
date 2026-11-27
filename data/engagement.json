@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-27T11:47:53.578Z",
-  "count": 11,
+  "updatedAt": "2026-11-27T22:27:35.809Z",
+  "count": 9,
   "signals": [
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6550,
-      "title": "tests: cut the macOS critical path by removing fixed 15-35 s waits",
-      "url": "https://github.com/browser-use/browser-use/pull/6550",
-      "author": "gregpr07",
-      "at": "2026-11-27T03:21:03Z"
+      "number": 6555,
+      "title": "test(agent): wait for the keep-alive daemon to stop answering",
+      "url": "https://github.com/browser-use/browser-use/pull/6555",
+      "author": "r266-tech",
+      "at": "2026-11-27T18:05:27Z"
     },
     {
       "founder": "Magnus Müller",
       "company": "Browser Use",
       "repo": "browser-use/browser-use",
       "kind": "pr",
-      "number": 6549,
-      "title": "fix(telemetry): drop queued non-consent events when disabled at runtime",
-      "url": "https://github.com/browser-use/browser-use/pull/6549",
-      "author": "thomsjack",
-      "at": "2026-11-27T01:18:00Z"
+      "number": 6554,
+      "title": "fix(telemetry): remove inflight marker before popping _pending",
+      "url": "https://github.com/browser-use/browser-use/pull/6554",
+      "author": "viliamgonda",
+      "at": "2026-11-27T16:52:19Z"
     },
     {
       "founder": "Magnus Müller",
@@ -36,92 +36,70 @@
       "at": "2026-11-26T22:45:43Z"
     },
     {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "pr",
-      "number": 3136,
-      "title": "ci(tests): verify pinned Rust and Python contracts with shared keys",
-      "url": "https://github.com/567-labs/instructor/pull/3136",
-      "author": "jxnl-oai",
-      "at": "2026-11-26T21:23:25Z"
-    },
-    {
-      "founder": "Jason Liu",
-      "company": "instructor (OSS) + consultancy",
-      "repo": "567-labs/instructor",
-      "kind": "release",
-      "number": 0,
-      "title": "v1.18.0 released",
-      "url": "https://github.com/567-labs/instructor/releases/tag/v1.18.0",
-      "author": "jxnl",
-      "at": "2026-11-26T21:02:33Z"
+      "founder": "Soham Ganatra",
+      "company": "Composio",
+      "repo": "ComposioHQ/composio",
+      "kind": "issue",
+      "number": 5598,
+      "title": "[Bug]: json-schema-to-zod rejects every input when an object has `properties` plus a sibling `oneOf` / `anyOf` / `allOf`",
+      "url": "https://github.com/ComposioHQ/composio/issues/5598",
+      "author": "ayannabansal",
+      "at": "2026-11-27T12:37:00Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42123,
-      "title": "core: `convert_to_messages` splits a plain string into one message per character",
-      "url": "https://github.com/langchain-ai/langchain/issues/42123",
-      "author": "LolPanda2004",
-      "at": "2026-11-27T11:08:57Z"
+      "number": 42141,
+      "title": "RunnablePassthrough.assign drops the input keys when streaming a branch that ends in JsonOutputParser (KeyError)",
+      "url": "https://github.com/langchain-ai/langchain/issues/42141",
+      "author": "pierceluu10",
+      "at": "2026-11-27T22:10:29Z"
     },
     {
       "founder": "Harrison Chase",
       "company": "LangChain",
       "repo": "langchain-ai/langchain",
       "kind": "issue",
-      "number": 42122,
-      "title": "ExperimentalMarkdownSyntaxTextSplitter misses tab-separated headings",
-      "url": "https://github.com/langchain-ai/langchain/issues/42122",
-      "author": "aahanaahir22",
-      "at": "2026-11-27T10:23:09Z"
+      "number": 42127,
+      "title": "langchain.mcp: support loading skills from MCP servers (MCP Skills extension, SEP-2640)",
+      "url": "https://github.com/langchain-ai/langchain/issues/42127",
+      "author": "torrresagus",
+      "at": "2026-11-27T12:46:38Z"
+    },
+    {
+      "founder": "Guillermo Rauch",
+      "company": "Vercel",
+      "repo": "vercel/next.js",
+      "kind": "issue",
+      "number": 102516,
+      "title": "cacheComponents: a route handler with uncached IO is prerendered or silently made dynamic depending on how fast the IO finishes",
+      "url": "https://github.com/vercel/next.js/issues/102516",
+      "author": "ceolinwill",
+      "at": "2026-11-27T21:41:27Z"
     },
     {
       "founder": "Guillermo Rauch",
       "company": "Vercel",
       "repo": "vercel/next.js",
       "kind": "pr",
-      "number": 102482,
-      "title": "Turbopack: preserve names in merged source maps",
-      "url": "https://github.com/vercel/next.js/pull/102482",
-      "author": "zhengdaodeguL",
-      "at": "2026-11-27T10:59:24Z"
+      "number": 102515,
+      "title": "[upgrade] Support Vercel AI Gateway keys in next upgrade --ci",
+      "url": "https://github.com/vercel/next.js/pull/102515",
+      "author": "devjiwonchoi",
+      "at": "2026-11-27T20:48:07Z"
     },
     {
       "founder": "Paul Copplestone",
       "company": "Supabase",
       "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 54192,
-      "title": "Improve UI for JIT DB access for non owners + use proper perms check",
-      "url": "https://github.com/supabase/supabase/pull/54192",
-      "author": "joshenlim",
-      "at": "2026-11-27T10:16:35Z"
-    },
-    {
-      "founder": "Paul Copplestone",
-      "company": "Supabase",
-      "repo": "supabase/supabase",
-      "kind": "pr",
-      "number": 54191,
-      "title": "docs(functions): read prompt from query string in Llamafile OpenAI SDK example",
-      "url": "https://github.com/supabase/supabase/pull/54191",
-      "author": "Heman10x-NGU",
-      "at": "2026-11-27T09:58:56Z"
-    },
-    {
-      "founder": "Theo Browne",
-      "company": "T3 Stack / Ping Labs",
-      "repo": "t3-oss/create-t3-app",
-      "kind": "pr",
-      "number": 2260,
-      "title": "docs: replace broken Stripe tutorial link in FAQ",
-      "url": "https://github.com/t3-oss/create-t3-app/pull/2260",
-      "author": "rumeshprasanga66-boop",
-      "at": "2026-11-26T18:27:26Z"
+      "kind": "issue",
+      "number": 54228,
+      "title": "Supabase Auth Migration Issue – Missing expires_at Column",
+      "url": "https://github.com/supabase/supabase/issues/54228",
+      "author": "rahat-hub",
+      "at": "2026-11-27T22:10:56Z"
     }
   ]
 }
